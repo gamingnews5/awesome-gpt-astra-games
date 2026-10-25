@@ -261,8 +261,8 @@ output += `### ${count} curated game units. ${repoCount} qualifying source repos
 output += `[![Games](https://img.shields.io/badge/GAMES-${count}-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) `;
 output += `[![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-${repoCount}-2563eb?style=for-the-badge&logo=github&logoColor=white)](games.json) `;
 output += `[![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-${threeCount}-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)\n\n`;
-output += `[![Stars](https://img.shields.io/github/stars/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/AgentsLoop/awesome-opus-5.5-games/stargazers) `;
-output += `[![Forks](https://img.shields.io/github/forks/AgentsLoop/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/AgentsLoop/awesome-opus-5.5-games/forks)\n\n`;
+output += `[![Stars](https://img.shields.io/github/stars/gamingnews5/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/gamingnews5/awesome-opus-5.5-games/stargazers) `;
+output += `[![Forks](https://img.shields.io/github/forks/gamingnews5/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/gamingnews5/awesome-opus-5.5-games/forks)\n\n`;
 output += `> **Browse source-backed games attributed to GPT-6 Astra, GPT-6.1 Sol, Gemini 4 Argon, Claude Opus, Claude Sonnet, or Claude Fable.**<br />\n`;
 output += `> Every listed unit maps to a qualifying GitHub source repository. The model-evidence grade is visible on every entry.\n\n`;
 output += `<a href="https://github.com/SubmitGame"><img src="https://github.com/SubmitGame/.github/raw/main/assets/submit-your-game.svg" alt="Submit your game" width="320" /></a>\n\n`;
@@ -408,7 +408,7 @@ output += `Follow [the contribution guide](CONTRIBUTING.md). Provide the canonic
 output += `## Sources and limitations\n\n`;
 output += `Primary GitHub repository evidence is preferred. Creator reports and repository trails are useful discovery evidence but are not equivalent to direct model attribution. A source inspection confirms that code exists; it does not claim that a current live demo was playtested unless the record states it. This project follows the practical principle in [Google’s AI-search guidance](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide): publish clear, original, useful, crawlable information instead of special markup or artificial content tricks.\n\n`;
 output += `## Star this collection\n\n`;
-output += `If source-backed AI game history should stay searchable, [**star the repository**](https://github.com/AgentsLoop/awesome-opus-5.5-games).\n`;
+output += `If source-backed AI game history should stay searchable, [**star the repository**](https://github.com/gamingnews5/awesome-opus-5.5-games).\n`;
 
 fs.writeFileSync('README.md', output);
 

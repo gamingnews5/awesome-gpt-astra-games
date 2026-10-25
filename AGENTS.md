@@ -66,5 +66,5 @@
 
 - Verify and commit every completed change.
 - Regenerate `profile/README.md` with `node scripts/generate-organization-profile.mjs` after changing the root README.
-- Push every completed commit to `origin` (`https://github.com/grootbot-dev/awesome-opus-5.5-games.git`), `astra` (`https://github.com/aigamedevs/awesome-gpt-astra-games.git`), and `org-profile` (`https://github.com/aigamedevs/.github.git`) before reporting completion. The old AgentsLoop remotes (`agentsloop-origin`, `agentsloop-astra`, `agentsloop-org-profile`) are unreachable; do not push to them.
+- Push every completed commit to `origin` (`https://github.com/gamingnews5/awesome-opus-5.5-games.git`, published as `gamingnews5`) before reporting completion. Also push to `astra` (`https://github.com/aigamedevs/awesome-gpt-astra-games.git`) and `org-profile` (`https://github.com/aigamedevs/.github.git`) only when they are reachable. The old remotes (`grootbot-origin`, `agentsloop-origin`, `agentsloop-astra`, `agentsloop-org-profile`) are unreachable; do not push to them.
 - Use the default `gh` account for read-only GitHub searches; do not specify an account or override `GH_TOKEN`. Inspect `~/.config/gh/hosts.yml` and `git remote -v` before remote writes. Use the intended account and ask if it is ambiguous.
