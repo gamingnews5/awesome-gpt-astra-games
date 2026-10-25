@@ -8860,6 +8860,186 @@
       "reason": "Use this frame for the game-level score. Low-poly forest title screen with a serif logo and menu; calm and polished, but a title card.",
       "reviewed_on": "2026-10-24",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nightmere33/CSI-GAME-UMMTO",
+      "url": "https://github.com/nightmere33/CSI-GAME-UMMTO/blob/main/docs/screenshots/jungle.jpg",
+      "game": "CSI-GAME-UMMTO",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel forest platformer with hearts HUD, a slash attack and an enemy; cohesive retro art, readable.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jakmartin13101/Beyond-the-Fold",
+      "url": "https://github.com/jakmartin13101/Beyond-the-Fold/blob/claude/laughing-gates-sb8emx/docs/screenshots/intro.jpg",
+      "game": "Beyond the Fold",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Low-poly paper-style sci-fi landscape with planets and crystal structures; striking palette, HUD at bottom.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Dreamweaver-Studios/Super-Mario-Hellbound",
+      "url": "https://github.com/Dreamweaver-Studios/Super-Mario-Hellbound/blob/main/img/hellbound.jpg",
+      "game": "Super Mario Hellbound",
+      "score_10": 5.2,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Painted key art of a demonic Mario scene; polished illustration but not gameplay.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/rahul-reddy/GamePalace",
+      "url": "https://github.com/rahul-reddy/GamePalace/blob/main/the-syndicate/docs/screenshots/02-lobby-host-desktop.png",
+      "game": "GamePalace",
+      "score_10": 4.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark multiplayer lobby UI with a QR code and settings; functional but plain.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Wh1teRabbitHU/fluid-puzzle",
+      "url": "https://github.com/Wh1teRabbitHU/fluid-puzzle/blob/master/.github/screenshot.png",
+      "game": "Fluid Puzzle",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Colour-sort tube puzzle board; clean and readable, minimal styling.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/naufel26/tammy-bird",
+      "url": "https://github.com/naufel26/tammy-bird/blob/main/public/og.jpg",
+      "game": "Tammy Bird",
+      "score_10": 6.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Flappy-style title screen with pipes, logo and leaderboard button; bright and clear.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/tixzeo/pirate-treasures",
+      "url": "https://github.com/tixzeo/pirate-treasures/blob/main/promo/screenshots/2-zadanie.png",
+      "game": "Пиратские сокровища",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Match-three board with pirate icons and a level popup; tidy but muted.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/zlisto/legend-of-valence",
+      "url": "https://github.com/zlisto/legend-of-valence/blob/main/docs/art/cover.png",
+      "game": "The Legend of Valence",
+      "score_10": 5.4,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Painted fantasy concept art of a castle and two characters; attractive but not a game frame.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hurr-son/where-in-the-world-v2",
+      "url": "https://github.com/hurr-son/where-in-the-world-v2/blob/main/docs/screenshot-result.png",
+      "game": "Where in the World",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Map-guess round on a plain world map with markers and a score line; functional.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/isac076/evolving-claude",
+      "url": "https://github.com/isac076/evolving-claude/blob/main/tools/screenshots/3-night.png",
+      "game": "Lumen",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark world with glowing light orbs and a small HUD; atmospheric but sparse.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/phu759042-source/mi-quang-bach-khoa",
+      "url": "https://github.com/phu759042-source/mi-quang-bach-khoa/blob/main/docs/images/laptop-gameplay.png",
+      "game": "Mì Quảng Bách Khoa",
+      "score_10": 5.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Noodle-shop management UI with a bowl illustration and stat cards; clean and friendly.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/alirecaidirekci-cloud/ahepgames",
+      "url": "https://github.com/alirecaidirekci-cloud/ahepgames/blob/main/docs/fb-guesser.png",
+      "game": "AHEP Games",
+      "score_10": 5.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Footballer-guess game UI with player photo grid; functional dark dashboard.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/DariyXYZ/flooded-village",
+      "url": "https://github.com/DariyXYZ/flooded-village/blob/main/docs/preview.png",
+      "game": "浸水村 · Flooded Village",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. One-bit halftone boat scene with drifting logs; distinctive art style, busy but cohesive.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/matthewjack/pika-jump",
+      "url": "https://github.com/matthewjack/pika-jump/blob/main/docs/images/2-win-screen.png",
+      "game": "Pika Jump",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Mario-style level with brick staircase, flag and Pikachu; clear retro look with HUD.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/calebschalesky-ops/ascent",
+      "url": "https://github.com/calebschalesky-ops/ascent/blob/main/docs/flight.jpg",
+      "game": "Ascent Flight",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D spaceship flight scene with rich HUD panels; detailed but cluttered.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kelvinman/the-last-apostate",
+      "url": "https://github.com/kelvinman/the-last-apostate/blob/main/docs/coop.jpg",
+      "game": "The Last Apostate",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark gothic card-table style game board with portraits; moody and polished.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Rare-Friends-Realm/rarefriends-realm",
+      "url": "https://github.com/Rare-Friends-Realm/rarefriends-realm/blob/main/docs/new-light-dusk.png",
+      "game": "RareFriends Realm",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down 3D village with roofs and characters; detailed old-school RPG look.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/risethehague-droid/RisingStrikers",
+      "url": "https://github.com/risethehague-droid/RisingStrikers/blob/main/docs/previews/pr11-arrows.gif",
+      "game": "Rising Strikers: HC2 Football",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 16-bit pixel football match with players, HUD and minimap; readable and lively.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

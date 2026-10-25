@@ -1,0 +1,158 @@
+[
+ {
+  "query": "\"Claude Opus 5.5\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 5,
+  "fetched": 5,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Opus 5.5\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 6,
+  "fetched": 6,
+  "capped": false
+ },
+ {
+  "query": "\"Opus 5.5\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 10,
+  "fetched": 10,
+  "capped": false
+ },
+ {
+  "query": "\"Opus 5.5\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 12,
+  "fetched": 12,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Sonnet 5.5\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 0,
+  "fetched": 0,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Sonnet 5.5\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 0,
+  "fetched": 0,
+  "capped": false
+ },
+ {
+  "query": "\"Sonnet 5.5\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 0,
+  "fetched": 0,
+  "capped": false
+ },
+ {
+  "query": "\"Sonnet 5.5\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 1,
+  "fetched": 1,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6.1 Sol\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 3,
+  "fetched": 3,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6.1 Sol\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 2,
+  "fetched": 2,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6.1\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 3,
+  "fetched": 3,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6.1\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 2,
+  "fetched": 2,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6 Astra\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 1,
+  "fetched": 1,
+  "capped": false
+ },
+ {
+  "query": "\"GPT-6 Astra\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 1,
+  "fetched": 1,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Fable\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 0,
+  "fetched": 0,
+  "capped": false
+ },
+ {
+  "query": "\"Claude Fable\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 3,
+  "fetched": 3,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4 Argon\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 2,
+  "fetched": 2,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4 Argon\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 8,
+  "fetched": 8,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 3,
+  "fetched": 3,
+  "capped": false
+ },
+ {
+  "query": "\"Gemini 4\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 9,
+  "fetched": 9,
+  "capped": false
+ },
+ {
+  "query": "\"Fable 5\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 2,
+  "fetched": 2,
+  "capped": false
+ },
+ {
+  "query": "\"Fable 5\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 5,
+  "fetched": 5,
+  "capped": false
+ },
+ {
+  "query": "\"Opus-5.5\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 10,
+  "fetched": 10,
+  "capped": false
+ },
+ {
+  "query": "\"Opus-5.5\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 12,
+  "fetched": 12,
+  "capped": false
+ },
+ {
+  "query": "\"made with Claude\" created:2026-10-24T01:00:00Z..2026-10-24T12:59:59Z",
+  "hits": 1,
+  "fetched": 1,
+  "capped": false
+ },
+ {
+  "query": "\"made with Claude\" created:2026-10-24T13:00:00Z..2026-10-25T01:00:00Z",
+  "hits": 6,
+  "fetched": 6,
+  "capped": false
+ }
+]

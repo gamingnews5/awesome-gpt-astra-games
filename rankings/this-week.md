@@ -1,6 +1,6 @@
 # Top Games This Week
 
-> Rank source-verified games with a creation signal in the last seven calendar days, **2026-10-18–2026-10-24** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.
+> Rank source-verified games with a creation signal in the last seven calendar days, **2026-10-19–2026-10-25** (Asia/Ho_Chi_Minh). Label repository creation as a proxy when no creator-reported game-creation date exists; exclude older creation dates even when gameplay evidence is recent.
 
 ## Coverage
 
@@ -12,16 +12,16 @@
 
 | Rank | Game | Score | Date basis | Model | Technology | Links |
 | ---: | --- | ---: | --- | --- | --- | --- |
-| 1 | **Cartopia (Roblox)** | ⭐ **8.6** | 2026-10-18 · repository_creation_proxy | Claude Opus 5.5 | Roblox, Luau | [source](https://github.com/KeganBerg/cartopia-roblox/blob/main/src/shared/Models/Catalog.luau) · [evidence](https://github.com/KeganBerg/cartopia-roblox) · [play](https://typescripttolua.github.io/) |
-| 2 | **Pokémon Pocket Brawl** | ⭐ **8.6** | 2026-10-18 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/SilverBits1001/PokeBattler/blob/claude/elegant-thompson-e8zp1r/index.html) · [evidence](https://github.com/SilverBits1001/PokeBattler) · [play](https://silverbits1001.github.io/PokeBattler/) |
-| 3 | **GatorCampus 64** | ⭐ **8.6** | 2026-10-18 · repository_creation_proxy | Claude Opus 5.5 | Python | [source](https://github.com/Raamia/GatorCampus64/blob/main/mods/sgl64/levels/wf/model.inc.c) · [evidence](https://github.com/Raamia/GatorCampus64) |
-| 4 | **Hollowmere (techworldz31-web)** | ⭐ **8.6** | 2026-10-22 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/techworldz31-web/hollowmere-server/blob/main/host/game.js) · [evidence](https://github.com/techworldz31-web/hollowmere-server) |
-| 5 | **오르카 런 (Orca Run)** | ⭐ **8.6** | 2026-10-19 · repository_creation_proxy | Claude Opus 5.5 | Unity, C# | [source](https://github.com/isinjia/LAO_Run/blob/main/js/fx/DoomEater_skill1_Eat_skill1_F.js) · [evidence](https://github.com/isinjia/LAO_Run) |
-| 6 | **Warren** | ⭐ **8.5** | 2026-10-18 · repository_creation_proxy | Claude Opus 5.5 | Godot, GDScript | [source](https://github.com/Sclondon/Warren/blob/main/scripts/character_rig.gd) · [evidence](https://github.com/Sclondon/Warren) · [play](https://sclondon.github.io/Warren/) |
-| 7 | **Ravenswood** | ⭐ **8.5** | 2026-10-20 · repository_creation_proxy | Claude Opus 5.5, Claude Fable 5.1 | TypeScript, Browser | [source](https://github.com/adcam02/Ravenswood/blob/main/docs/assets/index-BPhJyVus.js) · [evidence](https://github.com/adcam02/Ravenswood) |
-| 8 | **Absorb Roguelike** | ⭐ **8.4** | 2026-10-19 · repository_creation_proxy | Claude Opus 5.5 | Unity, C# | [source](https://github.com/Leenamgi20/Absorb-Roguelike/blob/main/Assets/Mirror/Transports/EOSTransport/EOSSDK/Generated/Bindings.cs) · [evidence](https://github.com/Leenamgi20/Absorb-Roguelike) · [play](https://somojeok.itch.io/absorbroguelike) |
-| 9 | **Blue Light** | ⭐ **8.4** | 2026-10-21 · repository_creation_proxy | Claude Opus 5.5 | C# | [source](https://github.com/datadrowner/BlueLight/blob/main/Core.Tests/DMathReference.cs) · [evidence](https://github.com/datadrowner/BlueLight) · [play](https://projectbluelight.eu) |
-| 10 | **Hnahsin Games** | ⭐ **8.4** | 2026-10-23 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/thadomaloma/hnahsin-play/blob/main/app/main.dart.js) · [evidence](https://github.com/thadomaloma/hnahsin-play) · [play](https://thadomaloma.github.io/hnahsin-play/) |
+| 1 | **RareFriends Realm** | ⭐ **8.6** | 2026-10-23 · repository_creation_proxy | Claude Opus 5.5, Claude Fable 5.1 | TypeScript, Browser | [source](https://github.com/Rare-Friends-Realm/rarefriends-realm/blob/main/games/rarefriends-realm/lang/dialogue.ts) · [evidence](https://github.com/Rare-Friends-Realm/rarefriends-realm) · [play](https://rare-friends-realm.github.io/rarefriends-realm/preview/#trailer) |
+| 2 | **Hollowmere (techworldz31-web)** | ⭐ **8.6** | 2026-10-22 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/techworldz31-web/hollowmere-server/blob/main/host/game.js) · [evidence](https://github.com/techworldz31-web/hollowmere-server) |
+| 3 | **오르카 런 (Orca Run)** | ⭐ **8.6** | 2026-10-19 · repository_creation_proxy | Claude Opus 5.5 | Unity, C# | [source](https://github.com/isinjia/LAO_Run/blob/main/js/fx/DoomEater_skill1_Eat_skill1_F.js) · [evidence](https://github.com/isinjia/LAO_Run) |
+| 4 | **Ravenswood** | ⭐ **8.5** | 2026-10-20 · repository_creation_proxy | Claude Opus 5.5, Claude Fable 5.1 | TypeScript, Browser | [source](https://github.com/adcam02/Ravenswood/blob/main/docs/assets/index-BPhJyVus.js) · [evidence](https://github.com/adcam02/Ravenswood) |
+| 5 | **Absorb Roguelike** | ⭐ **8.4** | 2026-10-19 · repository_creation_proxy | Claude Opus 5.5 | Unity, C# | [source](https://github.com/Leenamgi20/Absorb-Roguelike/blob/main/Assets/Mirror/Transports/EOSTransport/EOSSDK/Generated/Bindings.cs) · [evidence](https://github.com/Leenamgi20/Absorb-Roguelike) · [play](https://somojeok.itch.io/absorbroguelike) |
+| 6 | **Blue Light** | ⭐ **8.4** | 2026-10-21 · repository_creation_proxy | Claude Opus 5.5 | C# | [source](https://github.com/datadrowner/BlueLight/blob/main/Core.Tests/DMathReference.cs) · [evidence](https://github.com/datadrowner/BlueLight) · [play](https://projectbluelight.eu) |
+| 7 | **Hnahsin Games** | ⭐ **8.4** | 2026-10-23 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/thadomaloma/hnahsin-play/blob/main/app/main.dart.js) · [evidence](https://github.com/thadomaloma/hnahsin-play) · [play](https://thadomaloma.github.io/hnahsin-play/) |
+| 8 | **Universe 13: Power Royal (classic browser game)** | ⭐ **8.4** | 2026-10-20 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Three.js, Browser | [source](https://github.com/ssjtheoryali/universe13-classic/blob/main/js/legacy/u13.legacy.js) · [evidence](https://github.com/ssjtheoryali/universe13-classic) · [play](https://ssjtheoryali.github.io/universe13-classic/) |
+| 9 | **Hora Cero · Invasión Buenos Aires** | ⭐ **8.3** | 2026-10-21 · repository_creation_proxy | Claude Opus 5.5, Claude Fable 5.1 | Godot, GDScript | [source](https://github.com/alevizio/hora-cero/blob/main/godot/scripts/three_d/operative.gd) · [evidence](https://github.com/alevizio/hora-cero) · [play](https://horacero.app) |
+| 10 | **Kids Maths** | ⭐ **8.3** | 2026-10-19 · repository_creation_proxy | Claude Opus 5.5 | JavaScript, Browser | [source](https://github.com/aldrinor/kids_maths/blob/main/src/topics/shapes_data.js) · [evidence](https://github.com/aldrinor/kids_maths) · [play](https://aldrinor.github.io/kids_maths/) |
 
 
 ## Date policy
@@ -31,5 +31,5 @@
 - Exclude entries outside the seven-day window or without either creation signal.
 - Keep this report generated; do not edit it manually.
 
-Period: **2026-10-18 through 2026-10-24**
-As of: **2026-10-24**
+Period: **2026-10-19 through 2026-10-25**
+As of: **2026-10-25**

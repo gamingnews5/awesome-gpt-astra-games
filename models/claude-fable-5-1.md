@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **263 curated game units** from **195 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **265 curated game units** from **197 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -41,7 +41,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **8 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **11 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **37 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **71 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **73 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **8 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **5 game units**
 
@@ -215,6 +215,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 
 ## Adventure, RPG, and Exploration
 
+- [**RareFriends Realm**](../games/rarefriends-realm/readme.md) — ⭐ **8.6/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/Rare-Friends-Realm/rarefriends-realm/commit/4e08f6c5de6ec031d7384219e064e5b78c9facd9) · [files](https://github.com/Rare-Friends-Realm/rarefriends-realm/blob/main/games/rarefriends-realm/lang/dialogue.ts) · [play](https://rare-friends-realm.github.io/rarefriends-realm/preview/#trailer) · 📸 **6.0/10** · [screenshot](https://github.com/Rare-Friends-Realm/rarefriends-realm/blob/main/docs/new-light-dusk.png)
 - [**SPICE — a card game for couples**](../games/spice-a-card-game-for-couples/readme.md) — ⭐ **8.6/10** · Claude Fable 5.1 · HTML, CSS, JavaScript ES modules, PWA, Browser · [✓ direct model evidence](https://github.com/Hiberius/couples-card-game#how-it-plays) · [files](https://github.com/Hiberius/couples-card-game) · [play](https://couples-card-game.hiberius.workers.dev) · 📸 **6.4/10** · [screenshot](https://github.com/Hiberius/couples-card-game/blob/main/docs/media/phones.png) · +9 more screenshots in data
 - [**Ravenswood**](../games/ravenswood/readme.md) — ⭐ **8.5/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/adcam02/Ravenswood/commit/77e3489a1d3ed96c595e028beb06a161f591a742) · [files](https://github.com/adcam02/Ravenswood/blob/main/docs/assets/index-BPhJyVus.js)
 - [**msimcity**](../games/msimcity/readme.md) — ⭐ **8.4/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Three.js, Browser · [✓ direct model evidence](https://github.com/reneodlt/civitas/commit/8e1ef4e5e689068a86330eabb940d5bd86039159) · [files](https://github.com/reneodlt/civitas/blob/main/packages/shared/src/buildings/recipes.ts) · [play](https://civitas.reneo.app)
@@ -245,6 +246,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Pac Ben**](../games/pac-ben/readme.md) — ⭐ **7.6/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, React, Browser · [✓ direct model evidence](https://github.com/chris8christie-boop/pac-ben/commit/19cce3feb129de7db0ca556c9de36c1504499b7b) · [files](https://github.com/chris8christie-boop/pac-ben/blob/main/lib/game.ts) · [play](https://chris8christie-boop.github.io/pac-ben/)
 - [**DEV QUEST**](../games/dev-quest/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · Phaser, JavaScript, Canvas 2D · [≈ creator-reported model evidence](https://github.com/agutierrezclab/dev-quest) · [play](https://dev-quest-nu.vercel.app/) · 📸 **6.4/10** · [screenshot](https://github.com/agutierrezclab/dev-quest/blob/HEAD/docs/screens/wave4_deploy.png)
 - [**Ink Rogue**](../games/ink-rogue/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · Canvas 2D, HTML, JavaScript · [≈ creator-reported model evidence](https://github.com/evan-thedev/ink-rogue) · [play](https://evan-thedev.github.io/ink-rogue/)
+- [**Macaw Sky · Tel Aviv (תוכי בשמי תל אביב)**](../games/macaw-sky-tel-aviv/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/nirnatan/macaw-sky-tel-aviv/commit/b0183b87086c43d0ab0364696af5bb90d57f393e) · [files](https://github.com/nirnatan/macaw-sky-tel-aviv/blob/main/src/game/landmarks/ambient.ts)
 - [**Mine Clone**](../games/mine-clone/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Fable 5.1 · Rust · [✓ direct model evidence](https://github.com/Githyot/mine-clone/commit/82db5ea09a2c155a4fc77c87c451795116c922f3) · [files](https://github.com/Githyot/mine-clone/blob/main/crates/game/src/main.rs) · 📸 **6.2/10** · [screenshot](https://github.com/Githyot/mine-clone/blob/main/docs/screenshots/demo.png)
 - [**Night Duel Baseball**](../games/night-duel-baseball/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/dioaroinc/nightduelbaseball/commit/01a4719414fba22da798b346b111a04fb5317076) · [files](https://github.com/dioaroinc/nightduelbaseball/blob/main/baseball/index.html)
 - [**Pung**](../games/pung/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/francisphan/pung/commit/f397d58c22921aa8deed210cd11475af2e13bb70) · [files](https://github.com/francisphan/pung/blob/main/src/engine/game.ts) · [play](https://francisphan.github.io/pung/)
