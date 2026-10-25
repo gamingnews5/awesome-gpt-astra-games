@@ -2,12 +2,12 @@
 
 Open the per-game notes. Use the source links to inspect model evidence, gameplay code, and screenshot assets.
 
-- **Counted game units:** 3333
-- **Named game notes:** 3297
+- **Counted game units:** 3414
+- **Named game notes:** 3378
 - **Aggregate notes:** 1 (some repositories document several units without separate names)
-- **Rows with screenshot sources:** 583
-- **Placeholder thumbnails:** 2714
-- **Notes written in this run:** 112
+- **Rows with screenshot sources:** 594
+- **Placeholder thumbnails:** 2784
+- **Notes written in this run:** 81
 
 ## Today
 
@@ -17,10 +17,10 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Ascent Flight](./ascent-flight/readme.md) — 8.2/10
 - [Blue Sky Realm](./blue-sky-realm/readme.md) — 8.2/10
 - [BRAINROT BATTAGLIA · ULTRA CAOS](./brainrot-battaglia-ultra-caos/readme.md) — 8.2/10
+- [Sky Roadster](./sky-roadster/readme.md) — 8.2/10
 - [Wheel of Fortune](./wheel-of-fortune/readme.md) — 8.2/10
 - [午夜來斬妖](./game-fyradio-zen-space/readme.md) — 8.2/10
-- [Fishing Frenzy 2](./fishing-frenzy-2/readme.md) — 8.1/10
-- [Kazan 火山](./kazan/readme.md) — 8.1/10
+- [Firangi Tota · फ़िरंगी तोता](./firangi-tota/readme.md) — 8.1/10
 
 ## This week
 
@@ -196,6 +196,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [apex-26](./apex-26/readme.md) — 8.1/10
 - [APOCARLYPSE: Mobile Vault](./apocarlypse-mobile-vault/readme.md) — 8.0/10
 - [Apollonius](./apollonius/readme.md) — 7.7/10
+- [Approved](./approved/readme.md) — 7.4/10
 - [Aradama Survivors](./aradama-survivors/readme.md) — 9.1/10
 - [ARAM: Mayhem](./aram-mayhem/readme.md) — 7.8/10
 - [Arcade](./arcade-nicb-coder-bot-arcade/readme.md) — 6.9/10
@@ -215,6 +216,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Argon Tennis](./argon-tennis/readme.md) — 8.2/10
 - [Argon Towers](./argon-towers/readme.md) — 8.2/10
 - [Argon Valley](./argon-valley/readme.md) — 8.2/10
+- [Aria](./aria/readme.md) — 7.5/10
 - [Arianna & Sebastian's Party Games](./arianna-sebastian-s-party-games/readme.md) — 7.1/10
 - [Ark 1P Hub](./ark-1p-hub/readme.md) — 7.5/10
 - [Arkanoid Neon](./arkanoid-neon/readme.md) — 7.5/10
@@ -330,6 +332,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Behind You](./behind-you/readme.md) — 7.5/10
 - [Beigebox](./beigebox/readme.md) — 7.2/10
 - [Bellum](./bellum/readme.md) — 7.6/10
+- [Below Zero](./below-zero/readme.md) — 7.5/10
 - [Bengaluru — After the Rain](./bengaluru-after-the-rain/readme.md) — 8.4/10
 - [Benteng Gurun](./benteng-gurun/readme.md) — 7.1/10
 - [Berghittn](./berghittn/readme.md) — 7.5/10
@@ -392,6 +395,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Block puzzle game](./block-puzzle-game/readme.md) — 7.4/10
 - [Block World CN](./block-world-cn/readme.md) — 8.5/10
 - [block-drop-unity](./block-drop-unity/readme.md) — 7.0/10
+- [Blockbust](./blockbust/readme.md) — 7.2/10
 - [Blocko – Block-Puzzle für Android](./blocko-block-puzzle-fur-android/readme.md) — 7.6/10
 - [Blockris](./blockris/readme.md) — 7.2/10
 - [BLOCKS](./blocks/readme.md) — 8.0/10
@@ -424,6 +428,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [BombLine](./bombline/readme.md) — 6.8/10
 - [Bong — 末法残土](./bong/readme.md) — 9.5/10
 - [BOO-TRAYAL](./boo-trayal/readme.md) — 7.5/10
+- [Bool Games](./bool-games/readme.md) — 7.5/10
 - [Booth Camp](./booth-camp/readme.md) — 7.8/10
 - [boredgames](./boredgames/readme.md) — 7.4/10
 - [Botonista](./botonista/readme.md) — 7.8/10
@@ -458,6 +463,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Brick Racers](./brick-racers/readme.md) — 7.4/10
 - [Bridge Lab](./bridge-lab/readme.md) — 6.9/10
 - [Brightside PM Sim](./brightside-pm-sim/readme.md) — 7.5/10
+- [Broken Friends](./broken-friends/readme.md) — 7.6/10
 - [Brothers](./brothers/readme.md) — 9.3/10
 - [Brow Guess](./brow-guess/readme.md) — 7.3/10
 - [Brownian!](./brownian/readme.md) — 7.1/10
@@ -470,6 +476,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Buck Ducks](./buck-ducks/readme.md) — 7.5/10
 - [Buddy · Remember the way](./buddy-remember-the-way/readme.md) — 7.3/10
 - [Bug Garden](./bug-garden/readme.md) — 7.0/10
+- [Bug Garden (RyanHughes-RCD)](./bug-garden-ryanhughes-rcd/readme.md) — 7.2/10
 - [Bug Survivors](./bug-survivors/readme.md) — 7.7/10
 - [Bugspot](./bugspot/readme.md) — 7.4/10
 - [Build My Town: Indian Railway Adventure](./build-my-town-indian-railway-adventure/readme.md) — 7.5/10
@@ -495,6 +502,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Buzzword Dash](./buzzword-dash/readme.md) — 8.3/10
 - [bVille Expedition](./bville-expedition/readme.md) — 7.6/10
 - [BWCA Canoe](./bwca-canoe/readme.md) — 8.1/10
+- [Cabo](./cabo/readme.md) — 7.6/10
 - [Cabo Online](./cabo-online/readme.md) — 7.2/10
 - [Cafetal](./cafetal/readme.md) — 7.9/10
 - [California Drive](./california-drive/readme.md) — 7.8/10
@@ -540,6 +548,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Cat Fisher](./cat-fisher/readme.md) — 6.4/10
 - [Catan](./catan/readme.md) — 8.3/10
 - [Catan CLI](./catan-cli/readme.md) — 7.2/10
+- [Catan Online](./catan-online/readme.md) — 7.0/10
 - [Catan Web (moddable)](./catan-web-moddable/readme.md) — 7.9/10
 - [Catch Angel](./catch-angel/readme.md) — 8.2/10
 - [Catch The Larper](./catch-the-larper/readme.md) — 7.2/10
@@ -703,6 +712,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Contour](./contour/readme.md) — 7.5/10
 - [Contrail.io](./contrail-io/readme.md) — 7.4/10
 - [Contro](./contro/readme.md) — 7.4/10
+- [Controller Game Hub](./controller-game-hub/readme.md) — 7.2/10
 - [Cookie Quiz Show](./cookie-quiz-show/readme.md) — 7.1/10
 - [cool tower defense game.exe](./cool-tower-defense-game-exe/readme.md) — 7.4/10
 - [Coordinator Challenge](./coordinator-challenge/readme.md) — 7.4/10
@@ -719,8 +729,10 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Cozy 2D MMORPG](./cozy-2d-mmorpg/readme.md) — 7.4/10
 - [Cozy Cat Sanctuary](./cozy-cat-sanctuary/readme.md) — 7.8/10
 - [CP Run](./cp-run/readme.md) — 7.2/10
+- [CPDB: Chor Police Dakat Babu](./cpdb-chor-police-dakat-babu/readme.md) — 7.1/10
 - [Crabble](./crabble/readme.md) — 7.6/10
 - [Crabhouse v2](./crabhouse-v2/readme.md) — 7.5/10
+- [Crack the Code](./crack-the-code/readme.md) — 7.1/10
 - [CRACKED](./cracked/readme.md) — 8.1/10
 - [Cram](./cram/readme.md) — 9.6/10
 - [Cranial Combat: Trivia Showdown](./cranial-combat-trivia-showdown/readme.md) — 7.4/10
@@ -768,6 +780,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Daily Poké Catch](./daily-poke-catch/readme.md) — 8.2/10
 - [Daily Puzzles](./daily-puzzles/readme.md) — 7.5/10
 - [Dama](./dama/readme.md) — 7.4/10
+- [Dance With The Devil](./dance-with-the-devil/readme.md) — 7.6/10
 - [Dang: Rainy Cabin](./dang-rainy-cabin/readme.md) — 7.6/10
 - [Danny Abbo’s very own Monikers that makes up for him forgetting it](./danny-abbo-s-very-own-monikers-that-makes-up-for-him-forgetting-it/readme.md) — 7.0/10
 - [Darkfate](./darkfate/readme.md) — 7.2/10
@@ -778,6 +791,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Dawnmark](./dawnmark/readme.md) — 8.1/10
 - [Day Out 🌷](./day-out/readme.md) — 7.5/10
 - [Day2 Game Play](./day2-game-play/readme.md) — 7.4/10
+- [DCity](./dcity/readme.md) — 7.4/10
 - [De Lage Landen](./de-lage-landen/readme.md) — 7.1/10
 - [De Vagabundo a Millonario](./de-vagabundo-a-millonario/readme.md) — 7.6/10
 - [Dead Acre](./dead-acre/readme.md) — 7.5/10
@@ -816,6 +830,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [DeltaNova: Uprising — Play](./deltanova-uprising-play/readme.md) — 7.6/10
 - [Delve](./delve/readme.md) — 7.2/10
 - [Dented Destiny · The Bellwether Abbey](./dented-destiny-the-bellwether-abbey/readme.md) — 8.0/10
+- [Derby Day](./derby-day/readme.md) — 7.6/10
 - [DESCENT](./descent/readme.md) — 7.5/10
 - [Dessert Pop! — 디저트 매치3 H5 게임](./dessert-pop-3-h5/readme.md) — 7.4/10
 - [Destroy the Cube!](./destroy-the-cube/readme.md) — 7.4/10
@@ -833,6 +848,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Dig: Deep Descent](./dig-deep-descent/readme.md) — 8.1/10
 - [Digi Garden](./digi-garden/readme.md) — 8.5/10
 - [Digiplanes](./digiplanes/readme.md) — 7.7/10
+- [Dimensional](./dimensional/readme.md) — 7.7/10
 - [Dimmer Switch](./dimmer-switch/readme.md) — 7.5/10
 - [Dingsty Demo](./dingsty-demo/readme.md) — 7.5/10
 - [Dino Blokwereld](./dino-blokwereld/readme.md) — 7.5/10
@@ -996,6 +1012,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [EUC Lean Too Much](./euc-lean-too-much/readme.md) — 8.4/10
 - [Euclid's Game](./euclid-s-game/readme.md) — 9.6/10
 - [Euler's Expedition](./euler-s-expedition/readme.md) — 7.1/10
+- [Ev Trumps](./ev-trumps/readme.md) — 7.3/10
 - [Everdeep](./everdeep/readme.md) — 7.0/10
 - [evo-game-claude](./evo-game-claude/readme.md) — 7.1/10
 - [Explottens: Survival](./explottens-survival/readme.md) — 9.2/10
@@ -1054,6 +1071,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Finding Mama](./finding-mama/readme.md) — 6.7/10
 - [Finger Ninja — AR Fruit Slicer](./finger-ninja-ar-fruit-slicer/readme.md) — 6.7/10
 - [FinOps Odyssey](./finops-odyssey/readme.md) — 8.6/10
+- [Firangi Tota · फ़िरंगी तोता](./firangi-tota/readme.md) — 8.1/10
 - [Fire Mission](./fire-mission/readme.md) — 7.6/10
 - [Firefly Dash](./firefly-dash/readme.md) — 7.5/10
 - [Firefly Run](./firefly-run/readme.md) — 6.7/10
@@ -1163,10 +1181,12 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Gamacraft](./gamacraft/readme.md) — 7.1/10
 - [Gambling Roguelike](./gambling-roguelike/readme.md) — 7.3/10
 - [Game Arcade](./game-arcade/readme.md) — 7.3/10
+- [Game Arcade (nickmosconi2)](./game-arcade-nickmosconi2/readme.md) — 8.0/10
 - [Game Jeopardy](./game-jeopardy/readme.md) — 7.3/10
 - [Game Night](./game-night-mushinskyy-game-night/readme.md) — 6.9/10
 - [Game Night](./game-night/readme.md) — 8.0/10
 - [Game Night (VarunS121)](./game-night-varuns121/readme.md) — 7.4/10
+- [Game of Squids](./game-of-squids/readme.md) — 6.4/10
 - [Game of War: Strategy Board Game](./game-of-war-strategy-board-game/readme.md) — 7.3/10
 - [Game Preview Arcade](./game-preview-arcade/readme.md) — 8.0/10
 - [Game Room](./game-room/readme.md) — 7.3/10
@@ -1189,12 +1209,14 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [games](./games-lorisgith-games/readme.md) — 6.6/10
 - [Games](./games/readme.md) — 7.6/10
 - [Games (5511-boop)](./games-5511-boop/readme.md) — 7.9/10
+- [Games (abhi-sawant)](./games-abhi-sawant/readme.md) — 7.8/10
 - [Games (andrew1830)](./games-andrew1830/readme.md) — 7.3/10
 - [Games (jadqarmoushah)](./games-jadqarmoushah/readme.md) — 7.1/10
 - [Games (lsliwko)](./games-lsliwko/readme.md) — 7.0/10
 - [Games (rujopereiric)](./games-rujopereiric/readme.md) — 7.6/10
 - [Games (sabomaster)](./games-sabomaster/readme.md) — 6.1/10
 - [Games Unlimited](./games-unlimited/readme.md) — 7.8/10
+- [Gaming](./gaming/readme.md) — 7.1/10
 - [Gaming City · Duelo 1v1](./gaming-city-duelo-1v1/readme.md) — 7.4/10
 - [Gang of Legends](./gang-of-legends/readme.md) — 7.3/10
 - [Garage Stack](./garage-stack/readme.md) — 6.9/10
@@ -1223,6 +1245,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Ghost in the Machine: ASSISTANT.EXE](./ghost-in-the-machine-assistant-exe/readme.md) — 7.5/10
 - [Ghost Snake](./ghost-snake/readme.md) — 6.8/10
 - [Ghost vs Jason](./ghost-vs-jason/readme.md) — 7.6/10
+- [Ghostwolf](./ghostwolf/readme.md) — 7.3/10
 - [Girl Soup, Boy Soup](./girl-soup-boy-soup/readme.md) — 6.7/10
 - [Giveaway Checkers](./giveaway-checkers/readme.md) — 9.6/10
 - [Glacial Strikers (Puckbound)](./glacial-strikers-puckbound/readme.md) — 8.0/10
@@ -1240,8 +1263,10 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Glosor Wordgame](./glosor-wordgame/readme.md) — 7.3/10
 - [glowcell](./glowcell/readme.md) — 6.9/10
 - [GLUP — Nila y el pez gato](./glup-nila-y-el-pez-gato/readme.md) — 8.9/10
+- [Glyph Rumble](./glyph-rumble/readme.md) — 7.7/10
 - [Glyphfall](./glyphfall/readme.md) — 7.4/10
 - [Glyphwood](./glyphwood/readme.md) — 7.7/10
+- [Gnar Run](./gnar-run/readme.md) — 7.9/10
 - [Gnomes vs Goblins](./gnomes-vs-goblins/readme.md) — 7.5/10
 - [Goal Kick](./goal-kick/readme.md) — 9.5/10
 - [GOAT World Cup](./goat-world-cup/readme.md) — 7.2/10
@@ -1255,6 +1280,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Gomoku (AlbertHX86)](./gomoku-alberthx86/readme.md) — 7.0/10
 - [Gomoku Web Game](./gomoku-web-game/readme.md) — 8.7/10
 - [Gone Bananas!!!](./gone-bananas/readme.md) — 7.3/10
+- [Goobr TD](./goobr-td/readme.md) — 6.8/10
 - [Gorillas](./gorillas/readme.md) — 7.0/10
 - [Gotta Match 'Em All 👽💜](./gotta-match-em-all/readme.md) — 7.3/10
 - [GPT-6 Astra Side-Scroller](./gpt-6-astra-side-scroller/readme.md) — 7.2/10
@@ -1267,6 +1293,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Grand Theft Avto: Toshkent](./grand-theft-avto-toshkent/readme.md) — 7.4/10
 - [Grand Theft Freeway-BX](./grand-theft-freeway-bx/readme.md) — 8.0/10
 - [Grand Theft Lagos (GTL)](./grand-theft-lagos-gtl/readme.md) — 7.7/10
+- [granvald](./granvald/readme.md) — 7.0/10
 - [Graphite Games](./graphite-games/readme.md) — 7.0/10
 - [Grave Shift](./grave-shift/readme.md) — 7.6/10
 - [Graveknit](./graveknit/readme.md) — 7.5/10
@@ -1312,6 +1339,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [ha·ggis Hub](./ha-ggis-hub/readme.md) — 8.9/10
 - [Hackathon Sim](./hackathon-sim/readme.md) — 7.8/10
 - [Hackenbush](./hackenbush/readme.md) — 6.8/10
+- [HALL PASS](./hall-pass/readme.md) — 7.3/10
 - [Hand of the Forgotten](./hand-of-the-forgotten/readme.md) — 7.3/10
 - [Hand Wizard: The Arcane Awakening](./hand-wizard-the-arcane-awakening/readme.md) — 7.2/10
 - [Hand-Brain GeoGrid](./hand-brain-geogrid/readme.md) — 6.7/10
@@ -1327,6 +1355,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Hat Ja Bhai! (हट जा भाई!)](./hat-ja-bhai/readme.md) — 7.3/10
 - [Hati Hati](./hati-hati/readme.md) — 6.8/10
 - [Haunted Hallways](./haunted-hallways/readme.md) — 7.6/10
+- [Haunted Lobby](./haunted-lobby/readme.md) — 7.3/10
 - [Haunted Village](./haunted-village/readme.md) — 7.9/10
 - [Haynes Quest](./haynes-quest/readme.md) — 9.4/10
 - [Headbands](./headbands/readme.md) — 7.5/10
@@ -1355,7 +1384,9 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Hex Balance](./hex-balance/readme.md) — 7.4/10
 - [Hex Danmaku](./hex-danmaku/readme.md) — 9.2/10
 - [Hexcat Hollow](./hexcat-hollow/readme.md) — 7.5/10
+- [Hey Auto (ഹേ ഓട്ടോ)](./hey-auto/readme.md) — 7.7/10
 - [Hidden Edges · Takart élek](./hidden-edges-takart-elek/readme.md) — 7.3/10
+- [Hidden Ranks](./hidden-ranks/readme.md) — 7.2/10
 - [HIDE & TROLL — ซ่อนหาแปลงร่าง 3D ออนไลน์](./hide-troll-3d/readme.md) — 7.2/10
 - [High Effort Strategy Game](./high-effort-strategy-game/readme.md) — 7.6/10
 - [Highway 1](./highway-1/readme.md) — 7.3/10
@@ -1451,9 +1482,12 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [IMSAcraft](./imsacraft/readme.md) — 7.7/10
 - [İmza](./imza/readme.md) — 7.3/10
 - [In a Nutshell](./in-a-nutshell/readme.md) — 7.8/10
+- [In the Dark of Space](./in-the-dark-of-space/readme.md) — 7.1/10
 - [In-Between](./in-between/readme.md) — 7.2/10
+- [iNardi](./inardi/readme.md) — 7.4/10
 - [incrementalgame](./incrementalgame/readme.md) — 7.5/10
 - [Inferno Tag](./inferno-tag/readme.md) — 6.9/10
+- [Infinite Monkeys](./infinite-monkeys/readme.md) — 7.2/10
 - [Infinix](./infinix/readme.md) — 7.7/10
 - [Ink Rogue](./ink-rogue/readme.md) — 7.5/10
 - [Ink Skater](./ink-skater/readme.md) — 7.1/10
@@ -1464,6 +1498,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Interdict](./interdict/readme.md) — 7.4/10
 - [International Draughts](./international-draughts/readme.md) — 9.6/10
 - [Interrogation](./interrogation/readme.md) — 9.3/10
+- [Interstellar War](./interstellar-war/readme.md) — 7.2/10
 - [Into the Depths](./into-the-depths/readme.md) — 8.8/10
 - [Invaders](./invaders/readme.md) — 7.8/10
 - [Invariant Frog](./invariant-frog/readme.md) — 7.4/10
@@ -1481,6 +1516,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [IRONLINE](./ironline/readme.md) — 8.4/10
 - [Island Platformer](./island-platformer/readme.md) — 7.4/10
 - [Island War](./island-war/readme.md) — 6.6/10
+- [ispacecraft](./ispacecraft/readme.md) — 7.3/10
 - [Italian Bridge](./italian-bridge/readme.md) — 7.3/10
 - [Italian Draughts](./italian-draughts/readme.md) — 9.6/10
 - [ITGames](./itgames/readme.md) — 7.3/10
@@ -1512,6 +1548,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Joust](./joust/readme.md) — 9.6/10
 - [Joyride](./joyride/readme.md) — 8.0/10
 - [Judgment](./judgment/readme.md) — 7.4/10
+- [Juice Blammers](./juice-blammers/readme.md) — 7.2/10
 - [Juju In The Nature](./juju-in-the-nature/readme.md) — 7.4/10
 - [Jump & Run](./jump-run/readme.md) — 9.5/10
 - [Jump Map](./jump-map/readme.md) — 6.4/10
@@ -1711,8 +1748,10 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Mashup RPG](./mashup-rpg/readme.md) — 8.1/10
 - [MaskGame](./maskgame/readme.md) — 8.8/10
 - [Mastermind](./mastermind/readme.md) — 6.8/10
+- [Mastery Solo](./mastery-solo/readme.md) — 7.6/10
 - [Matcha Cafe Empire](./matcha-cafe-empire/readme.md) — 7.6/10
 - [Matchday](./matchday/readme.md) — 7.9/10
+- [Matetkallemsh!](./matetkallemsh/readme.md) — 7.1/10
 - [Math Defense: The Last Frontier](./math-defense-the-last-frontier/readme.md) — 8.0/10
 - [Math Game](./math-game/readme.md) — 6.8/10
 - [Math Glass Bridge](./math-glass-bridge/readme.md) — 7.4/10
@@ -1736,6 +1775,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Melodia Melusina](./melodia-melusina/readme.md) — 8.5/10
 - [Melon Lab — 瓜体实验室](./melon-lab/readme.md) — 8.4/10
 - [Melon Realms](./melon-realms/readme.md) — 8.0/10
+- [Memerush](./memerush/readme.md) — 7.6/10
 - [Memory](./memory/readme.md) — 7.0/10
 - [Memory Legends: See See](./memory-legends-see-see/readme.md) — 7.2/10
 - [Memory Match](./memory-match/readme.md) — 6.3/10
@@ -1772,6 +1812,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [MineClaude](./mineclaude/readme.md) — 9.0/10
 - [Minecraft 3D Sandbox](./minecraft-3d-sandbox/readme.md) — 8.1/10
 - [Minecraft Clone Fable5](./minecraft-clone-fable5/readme.md) — 7.0/10
+- [Minecraft New 3DS Revival](./minecraft-new-3ds-revival/readme.md) — 7.3/10
 - [Minesweeper](./minesweeper-1cto-minesweeper/readme.md) — 7.0/10
 - [Minesweeper](./minesweeper/readme.md) — 8.2/10
 - [Minesweeper](./minesweeper-spikepy-minesweeper/readme.md) — 7.1/10
@@ -1837,6 +1878,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Mr. Eggy](./mr-eggy/readme.md) — 7.7/10
 - [msimcity](./msimcity/readme.md) — 8.4/10
 - [Mu Tōrere](./mu-torere/readme.md) — 9.6/10
+- [MULTIHERO](./multihero/readme.md) — 7.2/10
 - [Multiplayer Tabletop Games](./multiplayer-tabletop-games/readme.md) — 7.8/10
 - [Multiplication Chain](./multiplication-chain/readme.md) — 9.3/10
 - [Multiplication Farm](./multiplication-farm/readme.md) — 9.3/10
@@ -1860,6 +1902,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [mycardgame](./mycardgame/readme.md) — 7.7/10
 - [MyCraft](./mycraft/readme.md) — 7.4/10
 - [MyGames](./mygames/readme.md) — 7.0/10
+- [Mystery Wordle](./mystery-wordle/readme.md) — 6.3/10
 - [Mystic Onslaught](./mystic-onslaught/readme.md) — 9.2/10
 - [Mythic War](./mythic-war/readme.md) — 8.1/10
 - [Naadan Frenzy](./naadan-frenzy/readme.md) — 7.5/10
@@ -1870,6 +1913,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Namioto](./namioto/readme.md) — 8.8/10
 - [naosugi-ai-games](./naosugi-ai-games/readme.md) — 7.9/10
 - [Naughty or Nice](./naughty-or-nice/readme.md) — 7.3/10
+- [Navos Ninja](./navos-ninja/readme.md) — 7.4/10
 - [NBA Pinpoint](./nba-pinpoint/readme.md) — 7.1/10
 - [NCAA Two-Minute Drill (ncaa2mindrill.com)](./ncaa-two-minute-drill-ncaa2mindrill-com/readme.md) — 7.3/10
 - [Need for Speed: Blackline — Iron Quay Prototype](./need-for-speed-blackline-iron-quay-prototype/readme.md) — 9.2/10
@@ -1888,6 +1932,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Neon Precinct](./neon-precinct/readme.md) — 7.0/10
 - [Neon Protocol: Uprising](./neon-protocol-uprising/readme.md) — 8.1/10
 - [Neon Racer](./neon-racer/readme.md) — 7.3/10
+- [NEON RECKONING](./neon-reckoning/readme.md) — 7.8/10
 - [Neon Siege](./neon-siege/readme.md) — 8.0/10
 - [Neon Sky Runner](./neon-sky-runner/readme.md) — 7.2/10
 - [NEON SNAKE](./neon-snake/readme.md) — 6.6/10
@@ -1909,6 +1954,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Neverending Tunnel V: Time Warp](./neverending-tunnel-v-time-warp/readme.md) — 7.2/10
 - [New Plateau](./new-plateau/readme.md) — 7.4/10
 - [Newspaper Tycoon](./newspaper-tycoon/readme.md) — 7.3/10
+- [NewWorld](./newworld/readme.md) — 7.7/10
 - [NEXUS](./nexus/readme.md) — 7.4/10
 - [Người Đi Trước](./nguoi-i-truoc/readme.md) — 7.4/10
 - [Niagara or Bust!](./niagara-or-bust/readme.md) — 7.4/10
@@ -1944,6 +1990,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Nolate](./nolate/readme.md) — 7.5/10
 - [Nolja](./nolja/readme.md) — 7.5/10
 - [Nông dân lúa nước – prototype](./nong-dan-lua-nuoc-prototype/readme.md) — 7.3/10
+- [not-feudalism](./not-feudalism/readme.md) — 7.1/10
 - [Nova Lancer](./nova-lancer/readme.md) — 8.7/10
 - [Nova Skim](./nova-skim/readme.md) — 7.8/10
 - [Novaki: Still Smoldering](./novaki-still-smoldering/readme.md) — 7.5/10
@@ -2104,6 +2151,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Photo Dojo: Revival](./photo-dojo-revival/readme.md) — 7.9/10
 - [Physick](./physick/readme.md) — 7.4/10
 - [Pick Up Boomers](./pick-up-boomers/readme.md) — 7.2/10
+- [Pickle Pirates](./pickle-pirates/readme.md) — 7.7/10
 - [Pickup Trial](./pickup-trial/readme.md) — 7.9/10
 - [Picle](./picle/readme.md) — 7.0/10
 - [PicPath](./picpath/readme.md) — 7.2/10
@@ -2175,6 +2223,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Pokémon Survivors](./pokemon-survivors/readme.md) — 7.4/10
 - [Pokémon War](./pokemon-war/readme.md) — 7.6/10
 - [Poker: Texas Hold'em learning lab](./poker-texas-hold-em-learning-lab/readme.md) — 7.9/10
+- [Pokerforge](./pokerforge/readme.md) — 7.8/10
 - [pokerussi](./pokerussi/readme.md) — 6.9/10
 - [PokéWalker](./pokewalker/readme.md) — 7.0/10
 - [PokoPoko](./pokopoko/readme.md) — 6.9/10
@@ -2184,6 +2233,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Pong Game](./pong-game/readme.md) — 7.0/10
 - [Ponpoko Kart](./ponpoko-kart/readme.md) — 8.8/10
 - [Pool Checkers](./pool-checkers/readme.md) — 9.6/10
+- [Pooprunner 3D](./pooprunner-3d/readme.md) — 7.5/10
 - [Pop Out](./pop-out/readme.md) — 9.6/10
 - [Pop Rush](./pop-rush/readme.md) — 7.7/10
 - [Pop the Chore Balloons](./pop-the-chore-balloons/readme.md) — 8.2/10
@@ -2208,6 +2258,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Princess Puzzle Game](./princess-puzzle-game/readme.md) — 7.5/10
 - [Prism](./prism/readme.md) — 9.1/10
 - [Prism Rush](./prism-rush/readme.md) — 7.6/10
+- [Privateers 私掠者](./privateers/readme.md) — 7.9/10
 - [Pro Skater: The Warehouse](./pro-skater-the-warehouse/readme.md) — 8.5/10
 - [PROJECT JEZZA: HUNTER VALLEY LEGENDS](./project-jezza-hunter-valley-legends/readme.md) — 7.8/10
 - [Project Rondo hub game](./project-rondo-hub-game/readme.md) — 8.9/10
@@ -2282,6 +2333,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Rally Navigator](./rally-navigator/readme.md) — 9.5/10
 - [ramen-typing-game](./ramen-typing-game/readme.md) — 7.7/10
 - [Rando Dash](./rando-dash/readme.md) — 6.5/10
+- [Ranked: the Countries Game](./ranked-the-countries-game/readme.md) — 7.4/10
 - [RareFriends Realm](./rarefriends-realm/readme.md) — 8.6/10
 - [Rat Race Royale](./rat-race-royale/readme.md) — 7.6/10
 - [RatIdle](./ratidle/readme.md) — 7.3/10
@@ -2320,6 +2372,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Retro Horse Race (video karera)](./retro-horse-race-video-karera/readme.md) — 7.3/10
 - [RETRO SPORTS](./retro-sports/readme.md) — 7.8/10
 - [retro-blocks](./retro-blocks/readme.md) — 6.6/10
+- [Rettet das Ei](./rettet-das-ei/readme.md) — 7.1/10
 - [ReTzar](./retzar/readme.md) — 7.9/10
 - [Reverse Loving — Gnivol](./reverse-loving-gnivol/readme.md) — 8.0/10
 - [Reversi](./reversi/readme.md) — 9.6/10
@@ -2363,6 +2416,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Roadster Rush (Ngold711)](./roadster-rush-ngold711/readme.md) — 7.6/10
 - [Roadster: flying car playground](./roadster-flying-car-playground/readme.md) — 7.9/10
 - [Roar League](./roar-league/readme.md) — 7.4/10
+- [Roast & Toast](./roast-toast/readme.md) — 7.0/10
 - [Roblox100Days](./roblox100days/readme.md) — 6.9/10
 - [Robo Open](./robo-open/readme.md) — 9.3/10
 - [Robo Strike 机器人大作战](./robo-strike/readme.md) — 7.5/10
@@ -2399,6 +2453,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [RPG гра](./rpg/readme.md) — 7.3/10
 - [rts-game](./rts-game/readme.md) — 6.8/10
 - [Ru's Squirrel Arcade](./ru-s-squirrel-arcade/readme.md) — 6.9/10
+- [Ruhaan's Puzzle Box](./ruhaan-s-puzzle-box/readme.md) — 7.3/10
 - [Ruinstead (working title)](./ruinstead-working-title/readme.md) — 7.6/10
 - [Rule Road](./rule-road/readme.md) — 7.1/10
 - [Ruler of the Plane](./ruler-of-the-plane/readme.md) — 7.8/10
@@ -2438,6 +2493,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Saultsteroids](./saultsteroids/readme.md) — 7.2/10
 - [Save Mum!](./save-mum/readme.md) — 6.8/10
 - [Save the Balloons](./save-the-balloons/readme.md) — 8.9/10
+- [Save the Dodo](./save-the-dodo/readme.md) — 7.4/10
 - [Say Less](./say-less/readme.md) — 6.9/10
 - [Scabbage](./scabbage/readme.md) — 7.7/10
 - [SCAMBOY Arcade](./scamboy-arcade/readme.md) — 7.8/10
@@ -2534,6 +2590,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Sky Dodge](./sky-dodge/readme.md) — 7.4/10
 - [Sky Flap](./sky-flap/readme.md) — 9.5/10
 - [Sky Rings](./sky-rings/readme.md) — 8.4/10
+- [Sky Roadster](./sky-roadster/readme.md) — 8.2/10
 - [Sky Stack: YouTube Playables oyunu](./sky-stack-youtube-playables-oyunu/readme.md) — 6.8/10
 - [Skydive](./skydive/readme.md) — 9.1/10
 - [Skylance](./skylance/readme.md) — 7.4/10
@@ -2562,6 +2619,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Snack Attack](./snack-attack/readme.md) — 7.8/10
 - [Snack Hole](./snack-hole/readme.md) — 6.8/10
 - [Snackerpillar 🐛](./snackerpillar/readme.md) — 6.7/10
+- [Snail Game](./snail-game/readme.md) — 6.8/10
 - [Snake](./snake-ishaqalathamneh-claude-snake-game/readme.md) — 7.0/10
 - [Snake](./snake/readme.md) — 7.0/10
 - [Snake (multiplayer)](./snake-multiplayer/readme.md) — 7.0/10
@@ -2585,6 +2643,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Sock Run](./sock-run/readme.md) — 7.4/10
 - [Sofia's games](./sofia-s-games/readme.md) — 6.7/10
 - [Sokoban](./sokoban/readme.md) — 9.1/10
+- [Solar System Scavenger Hunt](./solar-system-scavenger-hunt/readme.md) — 7.3/10
 - [Soldat Remake](./soldat-remake/readme.md) — 7.4/10
 - [Solitaire](./solitaire/readme.md) — 7.8/10
 - [solitaire n' chill](./solitaire-n-chill/readme.md) — 7.3/10
@@ -2601,6 +2660,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Sos Game](./sos-game/readme.md) — 6.7/10
 - [Soul Monster](./soul-monster/readme.md) — 7.6/10
 - [Sound Maze](./sound-maze/readme.md) — 7.2/10
+- [Sound Merge](./sound-merge/readme.md) — 6.9/10
 - [Soundlings](./soundlings/readme.md) — 7.4/10
 - [Space Attack](./space-attack/readme.md) — 7.8/10
 - [Space Invader Rougelike](./space-invader-rougelike/readme.md) — 7.5/10
@@ -2651,6 +2711,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Square Up](./square-up/readme.md) — 9.6/10
 - [Squid Dare](./squid-dare/readme.md) — 7.5/10
 - [Squiggle](./squiggle/readme.md) — 7.9/10
+- [Squirmish](./squirmish/readme.md) — 7.4/10
 - [Squirrel Ranger](./squirrel-ranger/readme.md) — 7.3/10
 - [Stack Builder](./stack-builder/readme.md) — 9.3/10
 - [Stack to Orbit](./stack-to-orbit/readme.md) — 7.4/10
@@ -2761,12 +2822,14 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [TABLETOP](./tabletop/readme.md) — 8.2/10
 - [Tabularis Run](./tabularis-run/readme.md) — 7.5/10
 - [Tag Team Terror](./tag-team-terror/readme.md) — 7.6/10
+- [Tag United Online](./tag-united-online/readme.md) — 7.3/10
 - [TAIL GOAL](./tail-goal/readme.md) — 7.6/10
 - [TAK Engine](./tak-engine/readme.md) — 9.0/10
 - [take5online](./take5online/readme.md) — 7.1/10
 - [Taktik](./taktik/readme.md) — 7.5/10
 - [TalenttreeIncremental](./talenttreeincremental/readme.md) — 7.2/10
 - [Tammy Bird](./tammy-bird/readme.md) — 7.0/10
+- [Tampico · Climb the Rare](./tampico-climb-the-rare/readme.md) — 7.4/10
 - [Tamtech WEM Crossword](./tamtech-wem-crossword/readme.md) — 6.9/10
 - [Tank Battle](./tank-battle-yusu2247-lang-tank-battle/readme.md) — 6.7/10
 - [Tank Battle 🛡️](./tank-battle/readme.md) — 6.7/10
@@ -2821,6 +2884,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [thaw](./thaw/readme.md) — 7.7/10
 - [The 4th Call](./the-4th-call/readme.md) — 7.8/10
 - [The Academy](./the-academy/readme.md) — 8.2/10
+- [The Bananas of the Caribbean](./the-bananas-of-the-caribbean/readme.md) — 7.7/10
 - [The Black Sedan](./the-black-sedan/readme.md) — 8.6/10
 - [The Blacksmith's Boy](./the-blacksmith-s-boy/readme.md) — 7.3/10
 - [The Brain](./the-brain/readme.md) — 6.4/10
@@ -2867,6 +2931,8 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [The Simpsons: Hit & Run — Browser Reconstruction](./the-simpsons-hit-run-browser-reconstruction/readme.md) — 9.5/10
 - [THE SPIRE](./the-spire/readme.md) — 7.6/10
 - [The Sumunbléd Chronicles](./the-sumunbled-chronicles/readme.md) — 7.4/10
+- [The Syntax Club](./the-syntax-club/readme.md) — 7.0/10
+- [The Tale of Suryagarh](./the-tale-of-suryagarh/readme.md) — 7.4/10
 - [The Tally](./the-tally/readme.md) — 7.9/10
 - [The Tiny Taps](./the-tiny-taps/readme.md) — 7.8/10
 - [The Unreliable Narrator](./the-unreliable-narrator/readme.md) — 8.8/10
@@ -2937,6 +3003,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Tiny Baby Snake](./tiny-baby-snake/readme.md) — 8.5/10
 - [Tiny Kingdom](./tiny-kingdom/readme.md) — 7.5/10
 - [Tiny Lives](./tiny-lives/readme.md) — 7.0/10
+- [Tiny Living World](./tiny-living-world/readme.md) — 7.7/10
 - [Tiny Town Builder](./tiny-town-builder/readme.md) — 7.2/10
 - [Tiny Wings v2 — Hat Edition](./tiny-wings-v2-hat-edition/readme.md) — 7.6/10
 - [Toads & Frogs](./toads-frogs/readme.md) — 9.6/10
@@ -2997,6 +3064,8 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Turbo Kart Rally](./turbo-kart-rally-exclusiveabhi-turbo-kart-rally-game/readme.md) — 8.4/10
 - [Turbo Kart Rush](./turbo-kart-rush/readme.md) — 9.0/10
 - [Turbo Kart Rush](./turbo-kart-rush-claudio41cg-max-rio-rush-cross/readme.md) — 9.3/10
+- [Turbo Rush (ATEAMROCKX)](./turbo-rush-ateamrockx/readme.md) — 7.6/10
+- [Turbo Rush (rupeshparikh77-dot)](./turbo-rush-rupeshparikh77-dot/readme.md) — 6.7/10
 - [Turbo Turf Wars](./turbo-turf-wars/readme.md) — 7.0/10
 - [Turbulent Skies ✈](./turbulent-skies/readme.md) — 7.3/10
 - [Turno de Noche](./turno-de-noche/readme.md) — 7.6/10
@@ -3018,6 +3087,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Ultime Player](./ultime-player/readme.md) — 7.4/10
 - [UltraDarkNative](./ultradarknative/readme.md) — 8.4/10
 - [Undead Juice Co.](./undead-juice-co/readme.md) — 7.0/10
+- [Underbrush](./underbrush/readme.md) — 7.5/10
 - [Undercover](./undercover/readme.md) — 7.1/10
 - [Underneath](./underneath/readme.md) — 7.5/10
 - [UNDERSUN](./undersun/readme.md) — 7.6/10
@@ -3028,6 +3098,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Unity Puzzle Game Prototype](./unity-puzzle-game-prototype/readme.md) — 7.8/10
 - [Unity Zombie Shooter](./unity-zombie-shooter/readme.md) — 8.4/10
 - [Universe 13: Power Royal (classic browser game)](./universe-13-power-royal-classic-browser-game/readme.md) — 8.4/10
+- [Uno Night](./uno-night/readme.md) — 7.3/10
 - [UNO Survival](./uno-survival/readme.md) — 7.8/10
 - [unreal-coin-run](./unreal-coin-run/readme.md) — 6.8/10
 - [Unsinkable: A Night Aboard RMS Titanic](./unsinkable-a-night-aboard-rms-titanic/readme.md) — 8.1/10
@@ -3037,6 +3108,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Urban Legends 3D](./urban-legends-3d/readme.md) — 7.3/10
 - [Urbs Sepulta](./urbs-sepulta/readme.md) — 7.3/10
 - [Urndle](./urndle/readme.md) — 7.0/10
+- [Valkenburg Castle: Hobart's Revenge](./valkenburg-castle-hobart-s-revenge/readme.md) — 7.8/10
 - [VALORANT Ascent](./valorant-ascent/readme.md) — 8.0/10
 - [Vanai](./vanai/readme.md) — 8.3/10
 - [Vanguard](./vanguard/readme.md) — 9.6/10
@@ -3046,11 +3118,13 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Vector Arcade](./vector-arcade/readme.md) — 8.3/10
 - [VECTOR RUSH](./vector-rush/readme.md) — 9.0/10
 - [Vector Vacate](./vector-vacate/readme.md) — 8.5/10
+- [Veggie Blammers 1942](./veggie-blammers-1942/readme.md) — 7.6/10
 - [VELOCITY UNKNOWN](./velocity-unknown/readme.md) — 7.5/10
 - [Ventilator Night Out · The Ventilator Games](./ventilator-night-out-the-ventilator-games/readme.md) — 7.0/10
 - [Verdance](./verdance/readme.md) — 7.2/10
 - [Verdium Storm](./verdium-storm/readme.md) — 7.0/10
 - [Veronicat](./veronicat/readme.md) — 7.7/10
+- [Vertical Valet](./vertical-valet/readme.md) — 7.1/10
 - [Verto](./verto/readme.md) — 7.8/10
 - [VESPER: The Hollow Earth](./vesper-the-hollow-earth/readme.md) — 8.5/10
 - [Véspera — O Último Sino](./vespera-o-ultimo-sino/readme.md) — 6.5/10
@@ -3162,6 +3236,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Word Tycoon Ecosystem](./word-tycoon-ecosystem/readme.md) — 8.6/10
 - [Word Warriors](./word-warriors/readme.md) — 7.7/10
 - [Wordle](./wordle/readme.md) — 7.2/10
+- [WordProm](./wordprom/readme.md) — 7.7/10
 - [Worduel](./worduel/readme.md) — 7.3/10
 - [Workmelt](./workmelt/readme.md) — 7.5/10
 - [World 1-1](./world-1-1/readme.md) — 8.0/10
@@ -3247,10 +3322,12 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [הדרך ל־61](./61/readme.md) — 8.1/10
 - [המסלול הבטוח שלי](./game-dovyt-route-game/readme.md) — 6.6/10
 - [חתולת הממתקים · Candy Cat Run](./candy-cat-run/readme.md) — 7.6/10
+- [מדברים ומשחקים (Talk & Play)](./talk-play/readme.md) — 6.9/10
 - [מלך האיזמל](./game-optimisticlucio-untitled-game-jam-game/readme.md) — 8.1/10
 - [סיימון (Simon)](./simon-ninar1968-simon/readme.md) — 6.7/10
 - [ألعاب الشلة 🎲](./game-haditag7-games/readme.md) — 7.9/10
 - [ألعاب لغتي](./game-tooofa77ksa-hue-nadeen-yasin-games/readme.md) — 7.7/10
+- [اكتشف حالك في دقيقة](./game-hanihalsulami-my-game/readme.md) — 7.3/10
 - [حرب القوى العظمى (Modern Travian)](./modern-travian/readme.md) — 7.3/10
 - [دكان فاطمة وسماء · Fatima & Sama's Shop](./fatima-sama-s-shop/readme.md) — 7.1/10
 - [دوبلاج](./game-awsdaman-dub/readme.md) — 7.7/10
@@ -3282,6 +3359,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [막내의 차곡차곡 🥞](./game-hye-rim-chagok-game/readme.md) — 6.6/10
 - [모의 주식투자 게임 (Stock Simulator)](./stock-simulator/readme.md) — 7.2/10
 - [불이야! 탈출 대작전](./game-khw03097-hash-fire-drill-game/readme.md) — 7.2/10
+- [쇼크 히어로: 몬스터 브레이커](./game-ppakku-shock-hero/readme.md) — 7.6/10
 - [스피드 게임](./game-rmjunho-speed-game/readme.md) — 7.7/10
 - [오르카 런 (Orca Run)](./orca-run/readme.md) — 8.6/10
 - [자기장 서바이벌](./game-jhkimm96-zone-survival/readme.md) — 6.9/10
@@ -3316,6 +3394,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [坦克大战](./game-xinranc325-sys-tank-battle/readme.md) — 6.5/10
 - [坦克大战 · Battle City](./battle-city-waizuiya-tank-battle/readme.md) — 6.7/10
 - [坦克大战 · Tank Battle](./tank-battle-crazy129290-tank-battle-game/readme.md) — 7.0/10
+- [坦克大战 · Tank Battle (Nailong556)](./tank-battle-nailong556/readme.md) — 6.7/10
 - [坦克大战 · Tank Battle (rghrdxg-rdgbd)](./tank-battle-rghrdxg-rdgbd/readme.md) — 6.7/10
 - [坦克大战 (Battle City)](./battle-city-jhyb-rog-tank-battle/readme.md) — 6.6/10
 - [坦克大战 2D · Tank Battle](./2d-tank-battle/readme.md) — 7.2/10
@@ -3324,6 +3403,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [安省路考练习场](./game-hugoyin663-road-test-game/readme.md) — 7.4/10
 - [小遊戲樂園 Mini Game Park](./mini-game-park/readme.md) — 7.3/10
 - [小雨云 · Little Rain Cloud](./little-rain-cloud/readme.md) — 7.2/10
+- [小露換裝秀 Dewy's Runway](./dewy-s-runway/readme.md) — 7.3/10
 - [山海问道 · Shan Hai Wen Dao](./shan-hai-wen-dao/readme.md) — 8.0/10
 - [岩瀬酒造 蔵元カードゲーム（仮）](./game-kenchasonakai-iwanoi-card-game/readme.md) — 7.4/10
 - [建国サクセス（プロトタイプ）](./game-joemizumoto2-newgame/readme.md) — 7.1/10
@@ -3346,6 +3426,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [王冠弓兵團 Crown Archers](./crown-archers/readme.md) — 7.6/10
 - [瓜体实验室 (Melon Lab)](./melon-lab-celia827-game-melon-field-lab/readme.md) — 8.1/10
 - [眼動控制遊戲集錦](./game-jinliang0123-eyegame/readme.md) — 7.0/10
+- [綻放 BLOOM：產後 180 天](./bloom-180/readme.md) — 7.4/10
 - [繞著說 (idiom-charades)](./idiom-charades/readme.md) — 7.0/10
 - [英語バトル](./game-gangidenset-english-game-app/readme.md) — 7.3/10
 - [虛擬排球王](./game-yuutatsubasa-virtualvolleyball/readme.md) — 7.6/10

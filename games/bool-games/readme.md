@@ -1,0 +1,42 @@
+# Bool Games
+
+> Verified game note.
+
+![Bool Games screenshot placeholder](bool-games-placeholder.svg)
+
+## At a glance
+
+- **Score:** 7.5/10
+- **Model:** Claude Opus 5.5
+- **Technology:** JavaScript, Browser
+- **Estimated FP32 operations/s at 60 FPS:** 10,000,000 (low confidence; static estimate, not measured).
+- **Rating basis:** Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.
+- **Verified:** 2026-10-25
+- **Repository:** [https://github.com/oneofusisdead69/boolers](https://github.com/oneofusisdead69/boolers)
+- **Evidence:** [direct model evidence](https://github.com/oneofusisdead69/boolers/commit/bee310456a5e913192ccd1939329fb9b678c8601)
+
+## Screenshots
+
+No screenshot source is recorded yet. Keep the placeholder until a repository, awesome list, or creator source provides an image.
+
+## Model attribution
+
+Open the evidence link above. Evidence grade: **direct model evidence**.
+
+## Source description
+
+Phone-only party drinking games. One person creates a room on their phone, and everyone else joins by scanning the QR code, tapping the shared link or typing the 4-letter room code. No app, no TV. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.
+
+### Gameplay source
+
+- [https://github.com/oneofusisdead69/boolers/blob/main/lib/roomStyles.js](https://github.com/oneofusisdead69/boolers/blob/main/lib/roomStyles.js)
+- [https://github.com/oneofusisdead69/boolers/commit/bee310456a5e913192ccd1939329fb9b678c8601](https://github.com/oneofusisdead69/boolers/commit/bee310456a5e913192ccd1939329fb9b678c8601)
+
+## Verification notes
+
+- **Status:** verified_source
+- **Counted units in repository:** 1
+- **Units covered by this note:** 1
+- **Discovery:** GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-25T01:00Z (30-minute Opus 5.5 and wider other-model UTC partitions) joined to repositories created after 2026-10-23T01:00Z; https://github.com/oneofusisdead69/boolers
+
+[Back to the awesome list](../../README.md)

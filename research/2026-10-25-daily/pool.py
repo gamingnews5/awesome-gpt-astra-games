@@ -1,7 +1,9 @@
 import json,subprocess
 known={g['github_url'].casefold().rstrip('/') for g in json.load(open('../../games.json'))}
-prev=set()
-for d in ('2026-10-16-daily','2026-10-17-daily','2026-10-21-daily','2026-10-23-daily'):
+prev=set(x.lower() for x in open('carry-from-1024.txt').read().split())
+import os
+if os.path.exists('inspect.json'): prev|={k.lower() for k in json.load(open('inspect.json'))}
+for d in ('2026-10-16-daily','2026-10-17-daily','2026-10-21-daily','2026-10-23-daily','2026-10-24-daily'):
   p=json.load(open(f'../{d}/candidate-decisions.json'))
   prev|={k.lower() for k in list(p['held'])+list(p['rejected'])+p['accepted']}
 pool={}
@@ -30,7 +32,7 @@ for i in range(0,len(repos),50):
     v=d.get(f'r{j}')
     if v: meta[r]=v
 json.dump(meta,open('commit-pool-meta.json','w'),indent=1)
-fresh={r:v for r,v in meta.items() if v['createdAt']>='2026-10-22T01:00:00Z' and not v['isFork']}
+fresh={r:v for r,v in meta.items() if v['createdAt']>='2026-10-23T01:00:00Z' and not v['isFork']}
 json.dump({r:dict(meta=fresh[r],commits=[dict(sha=c['sha'],msg=c['msg'][:300],q=c['q']) for c in pool[r]]) for r in fresh},open('commit-pool-fresh.json','w'),indent=1)
 open('pool-fresh.txt','w').write('\n'.join(sorted(fresh,key=lambda r:fresh[r]['createdAt'])))
 print('fresh',len(fresh))

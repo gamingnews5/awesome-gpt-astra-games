@@ -9230,6 +9230,116 @@
       "reason": "Use this frame for the game-level score. AR ghost hunt with glowing ghost and lightning beam over night city; fun but simple.",
       "reviewed_on": "2026-10-25",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/edhakob1an/inardi",
+      "url": "https://github.com/edhakob1an/inardi/blob/main/studio/img/shot-menu.webp",
+      "game": "iNardi",
+      "score_10": 6.4,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Phone menu for iNardi with a wooden backgammon board and dice; polished and warm.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nickmosconi2/game-arcade",
+      "url": "https://github.com/nickmosconi2/game-arcade/blob/main/Bonkheads/shot1.png",
+      "game": "Game Arcade",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel platformer stage with brick ledges, enemies and score HUD; busy retro look.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/xwaveglobal/xrush",
+      "url": "https://github.com/xwaveglobal/xrush/blob/main/assets-src/step03-2-vfx-references/XWAVE_Step03_2_VFX_Reference_Kit/03_camera/09_gameplay_balanced_camera.png",
+      "game": "Sky Roadster",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Realistic 3D highway with a sleek car among traffic; striking but captioned capture.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/toro0621-arch/granvald",
+      "url": "https://github.com/toro0621-arch/granvald/blob/main/docs/ref/setting-sheet.png",
+      "game": "granvald",
+      "score_10": 5.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Japanese mech design sheet with character art and stats; detailed concept art, not gameplay.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/sayinel/MemeRush",
+      "url": "https://github.com/sayinel/MemeRush/blob/main/docs/media/banner.png",
+      "game": "Memerush",
+      "score_10": 6.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Bold Meme Rush promo banner with phone mock-ups; clean marketing art.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/SurachatMa/game-2d-web",
+      "url": "https://github.com/SurachatMa/game-2d-web/blob/main/wiki/media/art-full/job-archer.webp",
+      "game": "NewWorld",
+      "score_10": 5.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Painted anime-style character portrait; attractive single illustration.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/morgan-vanv/Valkenburg-Castle",
+      "url": "https://github.com/morgan-vanv/Valkenburg-Castle/blob/main/docs/agents/v32-los-bug.png",
+      "game": "Valkenburg Castle: Hobart's Revenge",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Hex-tile dungeon map with fog, tokens and a side panel; moody and readable.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ppakku/shock-hero",
+      "url": "https://github.com/ppakku/shock-hero/blob/main/docs/astranova_scene.png",
+      "game": "쇼크 히어로: 몬스터 브레이커",
+      "score_10": 6.4,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Painted red dragon over a lava landscape; vivid key art, not gameplay.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AY-gift/wenzibattle",
+      "url": "https://github.com/AY-gift/wenzibattle/blob/main/portal/media/basketball.jpg",
+      "game": "Glyph Rumble",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D glyph characters on a basketball court with big overlay text; colourful but cluttered.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Avijit0104/Chor-Police-Dakat-Babu",
+      "url": "https://github.com/Avijit0104/Chor-Police-Dakat-Babu/blob/main/docs/screenshots/2-lobby.png",
+      "game": "CPDB: Chor Police Dakat Babu",
+      "score_10": 4.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark phone lobby with room code and player list; plain functional UI.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ojasb3/vertical-valet",
+      "url": "https://github.com/ojasb3/vertical-valet/blob/main/media/og.jpg",
+      "game": "Vertical Valet",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Night city skyscrapers with neon edges and a car on a wall; atmospheric 3D scene.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
