@@ -9040,6 +9040,196 @@
       "reason": "Use this frame for the game-level score. 16-bit pixel football match with players, HUD and minimap; readable and lively.",
       "reviewed_on": "2026-10-25",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/amalfrost/Abb-Assesment",
+      "url": "https://github.com/user-attachments/assets/db966b88-cd13-42bc-a95e-878971917dcd",
+      "game": "Tic Tac Toe",
+      "score_10": 5.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Bright tic-tac-toe landing page with a winning board illustration; clean and friendly.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/olshanskiyad/telegram-connect-four",
+      "url": "https://github.com/olshanskiyad/telegram-connect-four/blob/main/screenshots/room.png",
+      "game": "Connect Four (4 в ряд)",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Connect-four board mid-game with coloured discs; clear but plain dark UI.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/yikolim/butterland",
+      "url": "https://github.com/yikolim/butterland/blob/main/docs/characters/generated/aggu.png",
+      "game": "Butterland",
+      "score_10": 5.4,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Pixel-art white cat character sprite; charming but a single asset.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/VarunS121/Neon-Poker",
+      "url": "https://github.com/VarunS121/Neon-Poker/blob/main/docs/screenshot.png",
+      "game": "Game Night",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon poker table with cards, chips and a chat sidebar; polished and readable.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ceogenz/gen-z-quant",
+      "url": "https://github.com/ceogenz/gen-z-quant/blob/main/og.jpg",
+      "game": "GEN Z QUANT: Unfinished Business",
+      "score_10": 6.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Cinematic title art for Gen Z Quant with car and city street; striking poster.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jaineil32624/living-room-vr",
+      "url": "https://github.com/jaking-studios/living-room-vr/blob/main/docs/screens/unity.jpg",
+      "game": "Living Room VR",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D furnished living room viewed in VR with an object list panel; realistic but static.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/naosugi/naosugi-ai-games",
+      "url": "https://github.com/naosugi/naosugi-ai-games/blob/main/games/infinite-shot-3d/thumb.jpg",
+      "game": "naosugi-ai-games",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark neon space shooter frame with small particle effects; sparse.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Le-Jr/brainrot-battle",
+      "url": "https://github.com/Le-Jr/brainrot-battle/blob/main/assets/readme/banner.png",
+      "game": "BRAINROT BATTAGLIA · ULTRA CAOS",
+      "score_10": 6.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Arcade-style title screen with chunky logo and pixel character lineup; lively.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/JustShipItToday/wheel-of-fortune",
+      "url": "https://github.com/JustShipItToday/wheel-of-fortune/blob/main/tools/screens/image20.png",
+      "game": "Wheel of Fortune",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Wheel of Fortune puzzle board with letter tiles and controls; faithful and readable.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mkhwong/moonlit-werewolf",
+      "url": "https://github.com/mkhwong/moonlit-werewolf/blob/main/public/characters/demon-hunter.webp",
+      "game": "月夜狼人殺",
+      "score_10": 6.0,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Detailed pixel-art hooded werewolf hunter character; strong art, single sprite.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/tooofa77ksa-hue/nadeen-yasin-games",
+      "url": "https://github.com/tooofa77ksa-hue/nadeen-yasin-games/blob/main/shared/img/apple.webp",
+      "game": "ألعاب لغتي",
+      "score_10": 5.2,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Glossy cartoon apple mascot illustration; cute educational asset.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/chilledbill/games",
+      "url": "https://github.com/chilledbill/games/blob/main/western-shooter/screenshot-bullet-time.jpg",
+      "game": "incrementalgame",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark mobile shooter with wave banner and touch controls; moody but murky.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/SCharchian/LabyTerm",
+      "url": "https://github.com/SCharchian/LabyTerm/blob/main/docs/images/desktop-robco.jpg",
+      "game": "LabyTerm",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Text-mode dungeon crawler in terminal panes with ASCII first-person view; niche but cohesive.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/MrKrob00/Gambling-Roguelike",
+      "url": "https://github.com/MrKrob00/Gambling-Roguelike/blob/main/docs/itch/cover_630x500.png",
+      "game": "Gambling Roguelike",
+      "score_10": 6.4,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Card-and-chips title art for Borrowed Luck; warm candle-lit composition.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mikecutillo/haunted-village",
+      "url": "https://github.com/mikecutillo/haunted-village/blob/main/img/mansion-hall.webp",
+      "game": "Haunted Village",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Painted haunted ballroom scene with chandelier and staircase; rich illustration.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kenkwan22/drone-drop",
+      "url": "https://github.com/kenkwan22/drone-drop/blob/main/teaser/img/ape.webp",
+      "game": "Drone Drop",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Portrait catch game with drone, city skyline at dusk and controls; tidy mobile art.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/sboulema/Sunspire-Saga",
+      "url": "https://github.com/sboulema/Sunspire-Saga/blob/main/assets/art/box-front.png",
+      "game": "Sunspire Saga",
+      "score_10": 6.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. GBA-style pixel title screen with lighthouse and party of characters; charming.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gabrielconlon/coderogue",
+      "url": "https://github.com/gabrielconlon/coderogue/blob/main/docs/screenshots/wakeup.png",
+      "game": "CodeRogue",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down pixel dungeon room with dialogue box and HUD; cohesive retro RPG look.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/shamoug/Gbuster",
+      "url": "https://github.com/shamoug/Gbuster/blob/main/shots/ar-example-1-street-blast.png",
+      "game": "Ghost Buster GO",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. AR ghost hunt with glowing ghost and lightning beam over night city; fun but simple.",
+      "reviewed_on": "2026-10-25",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
