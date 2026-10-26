@@ -1,0 +1,1057 @@
+{
+ "pmaxhogan/bsaber-mods": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Mxeaez/mxeaez-dps": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "u11028/mu_sky": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://mu-sky-xxxx.onrender.com"
+  ]
+ },
+ "Ontahm/collusion-env": {
+  "images": [
+   "https://github.com/Ontahm/collusion-env/blob/main/paper/fig1_hit_rate.png",
+   "https://github.com/Ontahm/collusion-env/blob/main/paper/fig2_cost_rule.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "Nishikino/yawning": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Nate1506/AFO": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "jane-natucci/eu4tech": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Ptalati015/Stumps_Ahead": {
+  "images": [],
+  "live": [
+   "https://ptalati015.github.io/Stumps_Ahead/"
+  ],
+  "checked": [
+   "https://ptalati015.github.io/Stumps_Ahead/"
+  ]
+ },
+ "BirkleyG/Extraction": {
+  "images": [],
+  "live": [
+   "https://birkleyg.github.io/Extraction/play/",
+   "https://birkleyg.github.io/Extraction/prototype/",
+   "https://birkleyg.github.io/Extraction/play/?mode=online"
+  ],
+  "checked": [
+   "https://birkleyg.github.io/Extraction/play/",
+   "https://birkleyg.github.io/Extraction/prototype/",
+   "https://birkleyg.github.io/Extraction/play/?mode=online"
+  ]
+ },
+ "leavitodeaver/PoE2-Builder": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "refaustria/daisychess": {
+  "images": [],
+  "live": [
+   "https://daisychess.org"
+  ],
+  "checked": [
+   "https://daisychess.org"
+  ]
+ },
+ "crazy0codes/hospital-escape": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "k-chary/kulki": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "tkFX-0/ironfield": {
+  "images": [],
+  "live": [
+   "https://tkfx-0.github.io/ironfield/"
+  ],
+  "checked": [
+   "https://tkfx-0.github.io/ironfield/"
+  ]
+ },
+ "Anchevskiii/GameJam2026-WitchWay-": {
+  "images": [],
+  "live": [
+   "https://limezu.itch.io/moderninteriors"
+  ],
+  "checked": [
+   "https://limezu.itch.io/moderninteriors"
+  ]
+ },
+ "pukseli/dailybotti": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "kiezpower/Flintworks": {
+  "images": [],
+  "live": [
+   "https://kiezpower.github.io/Flintworks/"
+  ],
+  "checked": [
+   "https://kiezpower.github.io/Flintworks/"
+  ]
+ },
+ "Nexziz/jlpt-drill": {
+  "images": [
+   "https://github.com/Nexziz/jlpt-drill/blob/ccr-494e4453-8noek2/docs/screenshot-practice.png",
+   "https://github.com/Nexziz/jlpt-drill/blob/ccr-494e4453-8noek2/docs/screenshot-kanji.png",
+   "https://github.com/Nexziz/jlpt-drill/blob/ccr-494e4453-8noek2/docs/screenshot-kanji-sheet.png",
+   "https://github.com/Nexziz/jlpt-drill/blob/ccr-494e4453-8noek2/docs/screenshot-kana.png",
+   "https://github.com/Nexziz/jlpt-drill/blob/ccr-494e4453-8noek2/docs/screenshot-kana-chart.png",
+   "https://github.com/Nexziz/jlpt-drill/blob/ccr-494e4453-8noek2/docs/screenshot-sentence.png",
+   "https://github.com/Nexziz/jlpt-drill/blob/ccr-494e4453-8noek2/docs/screenshot-games.png",
+   "https://github.com/Nexziz/jlpt-drill/blob/ccr-494e4453-8noek2/docs/screenshot-progress.png"
+  ],
+  "live": [],
+  "checked": [
+   "https://nexziz.github.io/jlpt-drill/"
+  ]
+ },
+ "MostafaFarouk90/GLB-Viewer": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "leftym/OdSelaDoSuperligeMobile": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "beppep/roguelike": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "peter1965p/auto-update-gui": {
+  "images": [
+   "https://github.com/peter1965p/auto-update-gui/blob/main/docs/screenshot-wide.png",
+   "https://github.com/peter1965p/auto-update-gui/blob/main/docs/screenshot-ablauf.png",
+   "https://github.com/peter1965p/auto-update-gui/blob/main/docs/screenshot-running.png",
+   "https://github.com/peter1965p/auto-update-gui/blob/main/docs/screenshot-light.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "datazuul/amade-hover-cab-game": {
+  "images": [
+   "https://github.com/datazuul/amade-hover-cab-game/blob/develop/docs/screenshots/amade-hover-cab-game.png"
+  ],
+  "live": [
+   "https://datazuul.github.io/amade-game-engine/"
+  ],
+  "checked": [
+   "https://datazuul.github.io/amade-game-engine/"
+  ]
+ },
+ "BartJanCoppens/GameStudio": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "dorten9/boomyard": {
+  "images": [],
+  "live": [
+   "https://boomyard.vercel.app"
+  ],
+  "checked": [
+   "https://boomyard.vercel.app"
+  ]
+ },
+ "dicefoxcreations/AnotherWorldbuilder": {
+  "images": [
+   "https://github.com/dicefoxcreations/AnotherWorldbuilder/blob/main/source/docs/screenshots/world.png",
+   "https://github.com/dicefoxcreations/AnotherWorldbuilder/blob/main/source/docs/screenshots/character.png",
+   "https://github.com/dicefoxcreations/AnotherWorldbuilder/blob/main/source/docs/screenshots/statblock.png",
+   "https://github.com/dicefoxcreations/AnotherWorldbuilder/blob/main/source/docs/screenshots/timeline.png",
+   "https://github.com/dicefoxcreations/AnotherWorldbuilder/blob/main/source/docs/screenshots/worlds.png",
+   "https://github.com/dicefoxcreations/AnotherWorldbuilder/blob/main/source/docs/screenshots/move-or-copy.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "el-ente/daiji": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "rmstdope/audio-studio": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "WolfLikesKKS/KKS-Studio-Chara-Filter": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Fomiller/fantasy-rpg": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Anxiety471/Adaptive-Hostiles": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "yaswanthkumarp21/shadow-rep": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "ZioLadro/wf-vendor-overlay": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "SergShtelmakh/piano-tutor": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://sergshtelmakh.github.io/piano-tutor/",
+   "https://piano-tutor.sh-serg1993.workers.dev/",
+   "https://feature-deployment-device-testing-piano-tutor.sh-serg1993.workers.dev/"
+  ]
+ },
+ "ilyalissoboi/goosestation": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "osigwechibuike43-ux/ROADVANTA": {
+  "images": [],
+  "live": [
+   "https://roadvanta.vercel.app"
+  ],
+  "checked": [
+   "https://roadvanta.vercel.app"
+  ]
+ },
+ "vythanhtra/Bip-Bup-Game": {
+  "images": [],
+  "live": [
+   "https://ba-khi.vercel.app",
+   "https://bip-bup.vercel.app",
+   "https://ba-khi.vercel.app#c12-231"
+  ],
+  "checked": [
+   "https://ba-khi.vercel.app",
+   "https://bip-bup.vercel.app",
+   "https://ba-khi.vercel.app#c12-231"
+  ]
+ },
+ "PongsakornNaklang/portfolio-cafe": {
+  "images": [
+   "https://github.com/PongsakornNaklang/portfolio-cafe/blob/main/docs/storefront-day.jpg"
+  ],
+  "live": [
+   "https://pongsakorn-naklang.vercel.app"
+  ],
+  "checked": [
+   "https://pongsakorn-naklang.vercel.app"
+  ]
+ },
+ "Kepin17/olyzano-notch": {
+  "images": [],
+  "live": [
+   "https://kepin17.github.io/olyzano-notch/"
+  ],
+  "checked": [
+   "https://kepin17.github.io/olyzano-notch/"
+  ]
+ },
+ "hoanglt1223/anygba": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "hoanglt1223/anyswf": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "hoanglt1223/rpy2psp": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "hoanglt1223/anypsp": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "skyler-lab/spirit-battle": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "danielriosgarza/system1_doom": {
+  "images": [],
+  "live": [
+   "https://danielriosgarza.github.io/system1_doom/"
+  ],
+  "checked": [
+   "https://danielriosgarza.github.io/system1_doom/"
+  ]
+ },
+ "xXCrusaderXx/DartPilot": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "mjaffry01/ai-word-bank": {
+  "images": [],
+  "live": [
+   "https://mjaffry01.github.io/ai-word-bank/"
+  ],
+  "checked": [
+   "https://mjaffry01.github.io/ai-word-bank/"
+  ]
+ },
+ "Anaraa010907/Voice-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Andersonfrfilho/zombiada": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Yukiko-meh/Trivia-Master-Question-Bank": {
+  "images": [],
+  "live": [
+   "https://trivia-master-question-bank.vercel.app"
+  ],
+  "checked": [
+   "https://trivia-master-question-bank.vercel.app"
+  ]
+ },
+ "radmahardika/Game-Aca": {
+  "images": [],
+  "live": [
+   "https://radmahardika.github.io/Game-Aca/penyelamat/",
+   "https://radmahardika.github.io/Game-Aca/"
+  ],
+  "checked": [
+   "https://radmahardika.github.io/Game-Aca/penyelamat/",
+   "https://radmahardika.github.io/Game-Aca/"
+  ]
+ },
+ "jessicasogge/protistparty": {
+  "images": [],
+  "live": [
+   "https://jessicasogge.github.io/protistparty/"
+  ],
+  "checked": [
+   "https://jessicasogge.github.io/protistparty/"
+  ]
+ },
+ "jk9321/Android-Netrunner-Digital": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "BrightonPhiri/playmona": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "DieselCoder75/uwrroster": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "johnkg/chess_solver": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Xyrsto/JavaRPG": {
+  "images": [],
+  "live": [
+   "https://xyrsto.github.io/JavaRPG/"
+  ],
+  "checked": [
+   "https://xyrsto.github.io/JavaRPG/"
+  ]
+ },
+ "M0nsT3rG/ProjectMordor": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "eugenia9797/Acne_game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "AJBats/daytona-cce95": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Tanay3484/slow-start": {
+  "images": [],
+  "live": [
+   "https://slowstart.onrender.com"
+  ],
+  "checked": [
+   "https://slowstart.onrender.com"
+  ]
+ },
+ "Whysodeep1994/strawhat-simulator": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "kdrgny-dev/kervan": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "rwalwan/fantasybasketball": {
+  "images": [],
+  "live": [
+   "https://rwalwan.github.io/fantasybasketball/"
+  ],
+  "checked": [
+   "https://rwalwan.github.io/fantasybasketball/"
+  ]
+ },
+ "Professor-Jeff/tictactoe-nn": {
+  "images": [],
+  "live": [
+   "https://professor-jeff.github.io/tictactoe-nn/"
+  ],
+  "checked": [
+   "https://professor-jeff.github.io/tictactoe-nn/"
+  ]
+ },
+ "clementmetz92-cmd/bioglowrxlearning": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Nattieon/alpha-scout-app": {
+  "images": [],
+  "live": [
+   "https://nattieon.github.io/alpha-scout-app/"
+  ],
+  "checked": [
+   "https://nattieon.github.io/alpha-scout-app/"
+  ]
+ },
+ "MikaelOhman/caswinstudios.com": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Draxer21/FactoriaCraft": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "GiuseppeValguarnera/Duat": {
+  "images": [],
+  "live": [
+   "https://giuseppevalguarnera.github.io/Duat/"
+  ],
+  "checked": [
+   "https://giuseppevalguarnera.github.io/Duat/"
+  ]
+ },
+ "ntwyman/32blit-chuckie-egg": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "bkhiron-dot/Hironic-games": {
+  "images": [],
+  "live": [
+   "https://bkhiron-dot.github.io/Hironic-games/"
+  ],
+  "checked": [
+   "https://bkhiron-dot.github.io/Hironic-games/",
+   "https://bkhiron-dot.github.io/Hironic-games/preview/pr-"
+  ]
+ },
+ "Jakusukaj/Whistle-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "sorin-c/Harbinger-Recomp": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "frederico-kluser/cyberpunk-2077-mods": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "JakeA-UKSBS/Shardbreaker": {
+  "images": [],
+  "live": [
+   "https://jakea-uksbs.github.io/Shardbreaker/"
+  ],
+  "checked": [
+   "https://jakea-uksbs.github.io/Shardbreaker/"
+  ]
+ },
+ "druidsmickey/falcon": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "coded-dot-design/dom-virus": {
+  "images": [],
+  "live": [
+   "https://coded-dot-design.github.io/dom-virus/"
+  ],
+  "checked": [
+   "https://coded-dot-design.github.io/dom-virus/"
+  ]
+ },
+ "GiladGlo/StarSwarm": {
+  "images": [
+   "https://github.com/GiladGlo/StarSwarm/blob/main/Code/monsters-ingame.gif",
+   "https://github.com/GiladGlo/StarSwarm/blob/main/Code/bosses-preview.png",
+   "https://github.com/GiladGlo/StarSwarm/blob/main/Code/hyperspace-ingame.gif"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "aaaltive/TW4": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "amaeteventurestudios/agent-grand-prix-": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "ShubbeLeontij/heroes": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "RaunakDune/Galatea-web-deploy": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "CosmicLogic0/block-blueprint": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "KeithThurlow/pilgrim-mechanica-2": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "LordHayne/Nightforge": {
+  "images": [
+   "https://github.com/LordHayne/Nightforge/blob/main/docs/images/banner.png",
+   "https://github.com/LordHayne/Nightforge/blob/main/docs/images/home.jpg",
+   "https://github.com/LordHayne/Nightforge/blob/main/docs/images/dmg.jpg",
+   "https://github.com/LordHayne/Nightforge/blob/main/docs/images/library.jpg",
+   "https://github.com/LordHayne/Nightforge/blob/main/docs/images/options.jpg"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "mhardin18/smartCopperGolems": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "EnterDeEther/shogi-israel": {
+  "images": [],
+  "live": [
+   "https://shogi-israel.vercel.app"
+  ],
+  "checked": [
+   "https://shogi-israel.vercel.app",
+   "https://*-enterdeether.vercel.app/account/"
+  ]
+ },
+ "Quest-n-Click/quest-n-click-site": {
+  "images": [],
+  "live": [
+   "https://quest-n-click.cleverapps.io"
+  ],
+  "checked": [
+   "https://quest-n-click.cleverapps.io"
+  ]
+ },
+ "spiiin/DasBattleCalc": {
+  "images": [
+   "https://github.com/spiiin/DasBattleCalc/blob/master/docs/images/field.png",
+   "https://github.com/spiiin/DasBattleCalc/blob/master/docs/images/attack.png",
+   "https://github.com/spiiin/DasBattleCalc/blob/master/docs/images/explore.png",
+   "https://github.com/spiiin/DasBattleCalc/blob/master/docs/images/ffta2.png",
+   "https://github.com/spiiin/DasBattleCalc/blob/master/docs/images/fftwotl.png",
+   "https://github.com/spiiin/DasBattleCalc/blob/master/docs/images/fft.png",
+   "https://github.com/spiiin/DasBattleCalc/blob/master/docs/images/fft_math.png"
+  ],
+  "live": [
+   "https://spiiin.github.io/DasBattleCalc/"
+  ],
+  "checked": [
+   "https://spiiin.github.io/DasBattleCalc/"
+  ]
+ },
+ "tariq-98/aldermoor-rs": {
+  "images": [],
+  "live": [
+   "https://aldermoor-dashboard.vercel.app"
+  ],
+  "checked": [
+   "https://aldermoor-dashboard.vercel.app"
+  ]
+ },
+ "stratanen/stratoshivibes-blocks": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "nrebolloso/homeclear": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "ntgoten/pactblade": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "CrawfishChowder/GDSCHackathon": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "gdaroch/interview-quiz": {
+  "images": [],
+  "live": [
+   "https://interview-quiz.gonzalodaroch.workers.dev/"
+  ],
+  "checked": [
+   "https://interview-quiz.gonzalodaroch.workers.dev/"
+  ]
+ },
+ "irnutsmurt/Street-Alpha-3-Dreamcast-Recomp": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "ZacharyNguyen001/Hackathon-Fall-2026": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://zacharynguyen001.github.io/Hackathon-Fall-2026/"
+  ]
+ },
+ "chudxster/RetroBall": {
+  "images": [],
+  "live": [
+   "https://chudxster.github.io/RetroBall/"
+  ],
+  "checked": [
+   "https://chudxster.github.io/RetroBall/"
+  ]
+ },
+ "Vedat-Ozkan/cadence-finder": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "siyanshvir/TruckHomeEatsBot": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "mlgzipo-sketch/fo4vr-npc-touch": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "kuanhuasu-source/kessen": {
+  "images": [],
+  "live": [
+   "https://kuanhuasu-source.github.io/kessen/"
+  ],
+  "checked": [
+   "https://kuanhuasu-source.github.io/kessen/"
+  ]
+ },
+ "RavenArcher17/Survival-Game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "cindehaa/calhacks-2026": {
+  "images": [],
+  "live": [
+   "https://artifice-game.vercel.app/"
+  ],
+  "checked": [
+   "https://artifice-game.vercel.app/"
+  ]
+ },
+ "dreamdreams77/Echoes-": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "reseed-ops/bubbles-even-g2": {
+  "images": [
+   "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/1-title.png",
+   "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/2-classic-aim.png",
+   "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/3-classic-flight.png",
+   "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/4-pulley.png",
+   "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/5-endless.png",
+   "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/6-puzzle.png",
+   "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/7-specials.png",
+   "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/8-blast.png",
+   "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/9-card.png",
+   "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/10-over.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "aalexander2017/CardGames": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Whipplemedia/Ballknowledge": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "NermalYT/StreamLite": {
+  "images": [
+   "https://github.com/NermalYT/StreamLite/blob/main/docs/img/windows-3d.png"
+  ],
+  "live": [
+   "https://nermalyt.github.io/StreamLite/"
+  ],
+  "checked": [
+   "https://nermalyt.github.io/StreamLite/"
+  ]
+ },
+ "MightyTMZ/magnus_bot": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "dndcraws20/Rogue-cop": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "KingMoule/golferoo": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "samerrahman/CalHacks-13.0": {
+  "images": [
+   "https://github.com/samerrahman/CalHacks-13.0/blob/main/docs/screenshots/opening.jpg",
+   "https://github.com/samerrahman/CalHacks-13.0/blob/main/docs/screenshots/shelter.jpg",
+   "https://github.com/samerrahman/CalHacks-13.0/blob/main/docs/screenshots/coop.jpg",
+   "https://github.com/samerrahman/CalHacks-13.0/blob/main/docs/screenshots/spectator.jpg"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "Blackthornes/Blackthornes_Farmer_Classic": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Blackthornes/Blackthornes_Tradeskills_Classic": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "malinkin-s/naruto-rise-of-a-ninja-nx": {
+  "images": [
+   "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx/blob/main/docs/media/switch_konoha_plaza.jpg",
+   "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx/blob/main/docs/media/switch_konoha.jpg",
+   "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx/blob/main/docs/media/switch_fight_hit.jpg",
+   "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx/blob/main/docs/media/switch_fight_combo.jpg",
+   "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx/blob/main/docs/media/switch_menu.jpg",
+   "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx/blob/main/docs/media/switch_jutsu_select.jpg",
+   "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx/blob/main/docs/media/switch_versus.jpg",
+   "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx/blob/main/docs/media/switch_fight.jpg",
+   "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx/blob/main/docs/media/switch_fight_close.jpg",
+   "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx/blob/main/docs/media/switch_fight_jutsu.jpg",
+   "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx/blob/main/docs/media/switch_rasengan.jpg"
+  ],
+  "live": [
+   "https://malinkin-s.github.io/naruto-nx-installer/"
+  ],
+  "checked": [
+   "https://malinkin-s.github.io/naruto-nx-installer/"
+  ]
+ },
+ "Js23321/Dashduel": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "wlin84602-pixel/wonder-royale": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "alexpicon/pawnzi-scheme-calhacks13": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "trungle42/Storybound": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "NazOnPL/roblox-masterguide": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "keberos/kh1-companion": {
+  "images": [
+   "https://github.com/keberos/kh1-companion/blob/main/docs/banner.png",
+   "https://github.com/keberos/kh1-companion/blob/main/docs/screenshots/here.png",
+   "https://github.com/keberos/kh1-companion/blob/main/docs/screenshots/map.png",
+   "https://github.com/keberos/kh1-companion/blob/main/docs/screenshots/progress.png",
+   "https://github.com/keberos/kh1-companion/blob/main/docs/screenshots/level.png",
+   "https://github.com/keberos/kh1-companion/blob/main/android/app/src/main/assets/guide/exe-list.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "necromancerthedark/Couch": {
+  "images": [
+   "https://github.com/necromancerthedark/Couch/blob/main/docs/screenshots/general.png",
+   "https://github.com/necromancerthedark/Couch/blob/main/docs/screenshots/controller.png",
+   "https://github.com/necromancerthedark/Couch/blob/main/docs/screenshots/tuning.png",
+   "https://github.com/necromancerthedark/Couch/blob/main/docs/screenshots/debug.png",
+   "https://github.com/necromancerthedark/Couch/blob/main/docs/screenshots/apps.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "sunya-afrasiabi/MeNIN": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Burger-Nice/tuner": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "anthskti/claude-tyson": {
+  "images": [],
+  "live": [
+   "https://claude-tyson.vercel.app"
+  ],
+  "checked": [
+   "https://claude-tyson.vercel.app"
+  ]
+ },
+ "realworldbuilder/makgorakombat": {
+  "images": [
+   "https://github.com/realworldbuilder/makgorakombat/blob/main/docs/edition-choose.png",
+   "https://github.com/realworldbuilder/makgorakombat/blob/main/docs/edition-midnight.png",
+   "https://github.com/realworldbuilder/makgorakombat/blob/main/docs/edition-forever.png",
+   "https://github.com/realworldbuilder/makgorakombat/blob/main/docs/tournament-setup.png",
+   "https://github.com/realworldbuilder/makgorakombat/blob/main/docs/tournament-bracket.png"
+  ],
+  "live": [
+   "https://realworldbuilder.github.io/makgorakombat/",
+   "https://realworldbuilder.github.io/makgorakombat/welcome/",
+   "https://realworldbuilder.github.io/makgorakombat/?all"
+  ],
+  "checked": [
+   "https://realworldbuilder.github.io/makgorakombat/",
+   "https://realworldbuilder.github.io/makgorakombat/welcome/",
+   "https://realworldbuilder.github.io/makgorakombat/?all"
+  ]
+ },
+ "MostafaRLotfi/pokedex-tracker": {
+  "images": [
+   "https://github.com/MostafaRLotfi/pokedex-tracker/blob/main/docs/screenshot.png"
+  ],
+  "live": [
+   "https://mostafarlotfi.github.io/pokedex-tracker/",
+   "https://mostafarlotfi.github.io/pokedex-tracker/letsgo/",
+   "https://mostafarlotfi.github.io/pokedex-tracker/za/",
+   "https://mostafarlotfi.github.io/pokedex-tracker/sv/"
+  ],
+  "checked": [
+   "https://mostafarlotfi.github.io/pokedex-tracker/",
+   "https://mostafarlotfi.github.io/pokedex-tracker/letsgo/",
+   "https://mostafarlotfi.github.io/pokedex-tracker/za/",
+   "https://mostafarlotfi.github.io/pokedex-tracker/sv/"
+  ]
+ },
+ "smasimar/loi-tools": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "bpupadhyaya/breezy-site": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "CorbinPlayz/Side-hustle": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "davideverettreed/stex-rifle-squad": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "PrintPitt/frontend": {
+  "images": [
+   "https://github.com/PrintPitt/frontend/blob/main/docs/printpitt.png"
+  ],
+  "live": [
+   "https://printpitt-app.vercel.app/pesan",
+   "https://printpitt-app.vercel.app/layar",
+   "https://printpitt-app.vercel.app/toko",
+   "https://printpitt-landing.vercel.app"
+  ],
+  "checked": [
+   "https://printpitt-app.vercel.app/pesan",
+   "https://printpitt-app.vercel.app/layar",
+   "https://printpitt-app.vercel.app/toko",
+   "https://printpitt-landing.vercel.app"
+  ]
+ },
+ "tmtgreen1008/Lang_Sau_Mua": {
+  "images": [],
+  "live": [
+   "https://jqlang.github.io/jq/"
+  ],
+  "checked": [
+   "https://jqlang.github.io/jq/"
+  ]
+ },
+ "dehanz13/racing-game-orbit-rush": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "VanaheimAI/BagVerse": {
+  "images": [],
+  "live": [
+   "https://bag-verse-ten.vercel.app"
+  ],
+  "checked": [
+   "https://bag-verse-ten.vercel.app"
+  ]
+ },
+ "mungsu609-spec/idol-maker": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "victorabreu13/Wonder-Jar": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "HWG90/hd2-reverse": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "kromossomom-debug/decky-xbox-dashboard": {
+  "images": [
+   "https://github.com/kromossomom-debug/decky-xbox-dashboard/blob/main/docs/screenshots/home.png",
+   "https://github.com/kromossomom-debug/decky-xbox-dashboard/blob/main/docs/screenshots/mygames.png",
+   "https://github.com/kromossomom-debug/decky-xbox-dashboard/blob/main/docs/screenshots/system.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "YosuaSurianto/Worldrift": {
+  "images": [],
+  "live": [
+   "https://worldrift.vercel.app"
+  ],
+  "checked": [
+   "https://worldrift.vercel.app"
+  ]
+ },
+ "amadeusk1/mruhacks": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Orimaster354/hackpsu-fall-2026": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "ducvd89/Bloodborne-android-rebuild-tool": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "alemeno-00/Saltmarrow": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://alemeno-00.github.io/saltmarrow/"
+  ]
+ },
+ "DabDavis/socom2-decomp": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "kachaj96/Project-3D-iso-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ }
+}

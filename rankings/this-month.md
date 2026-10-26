@@ -1,6 +1,6 @@
 # Top Games This Month
 
-> Rank games dated from **2026-10-01** through **2026-10-25**.
+> Rank games dated from **2026-10-01** through **2026-10-26**.
 
 ## Coverage
 
@@ -20,5 +20,5 @@ _No games have a reliable publication or qualifying evidence date in this period
 - Keep repository creation dates in the audit file only.
 - Keep this report generated; do not edit it manually.
 
-Period: **2026-10-01 through 2026-10-25**
-As of: **2026-10-25**
+Period: **2026-10-01 through 2026-10-26**
+As of: **2026-10-26**

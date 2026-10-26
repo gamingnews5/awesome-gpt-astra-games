@@ -169902,5 +169902,3444 @@
     "screenshot_rating_10": 6.2,
     "screenshot_rating_evidence_url": "https://github.com/ojasb3/vertical-valet/blob/main/media/og.jpg",
     "screenshot_rating_on": "2026-10-25"
+  },
+  {
+    "name": "MU Sky",
+    "github_url": "https://github.com/u11028/mu_sky",
+    "repository_id": 1430631809,
+    "repository_created_at": "2026-10-23T05:49:20Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/u11028/mu_sky/commit/1dc69e68efc3f7b26528aeec581ca59df6860557",
+    "game_links": [
+      "https://github.com/u11028/mu_sky/blob/master/server/src/WorldRoom.ts",
+      "https://github.com/u11028/mu_sky/blob/master/client/src/main.ts",
+      "https://github.com/u11028/mu_sky/blob/master/client/src/three/World3D.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "MU Sky"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/u11028/mu_sky"
+    ],
+    "verification_notes": "เกม RPG ออนไลน์ 3 มิติ ตัวละครชิบิน่ารัก เล่นได้ทั้งบนเว็บและมือถือ ผจญภัยใน 6 ภาคของไทย ตีมอนสเตอร์ ล่าบอส สู้กับผู้เล่นอื่น สะสมฉายา และทำภารกิจประจำวัน. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.4,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Say It Again",
+    "github_url": "https://github.com/Nate1506/AFO",
+    "repository_id": 1430662449,
+    "repository_created_at": "2026-10-23T06:25:41Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/Nate1506/AFO/commit/3d92bef64da7fcb5ec4007c33af3d05ce621874b",
+    "game_links": [
+      "https://github.com/Nate1506/AFO/blob/main/Assets/Scripts/Editor/SayItAgainSceneBuilder.cs",
+      "https://github.com/Nate1506/AFO/blob/main/Assets/Scripts/Editor/SayItAgainSceneBuilder.Kao.cs",
+      "https://github.com/Nate1506/AFO/blob/main/Assets/Scripts/AFO/MapBuilder/FloodMapBuilder.cs"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Unity",
+      "C#"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Say It Again"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/Nate1506/AFO"
+    ],
+    "verification_notes": "A 3-player online co-op radio game about passing a rescue order through a storm. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.4,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/Nate1506/AFO/blob/main/design/screenshots/baseline_1920x1080.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 5.6,
+    "screenshot_rating_evidence_url": "https://github.com/Nate1506/AFO/blob/main/design/screenshots/baseline_1920x1080.png",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Stumps Ahead",
+    "github_url": "https://github.com/Ptalati015/Stumps_Ahead",
+    "repository_id": 1430666159,
+    "repository_created_at": "2026-10-23T06:30:06Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/Ptalati015/Stumps_Ahead/commit/e26c8e12fce4e461e2d4b52129498ed00ef68feb",
+    "game_links": [
+      "https://github.com/Ptalati015/Stumps_Ahead/blob/main/js/ui/scene/scene.js",
+      "https://github.com/Ptalati015/Stumps_Ahead/blob/main/js/engine/outcomes.js",
+      "https://github.com/Ptalati015/Stumps_Ahead/blob/main/js/ui/screens/play.js"
+    ],
+    "live_demo_url": "https://ptalati015.github.io/Stumps_Ahead/",
+    "live_demo_urls": [
+      "https://ptalati015.github.io/Stumps_Ahead/"
+    ],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Fable 5.1"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Stumps Ahead"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/Ptalati015/Stumps_Ahead"
+    ],
+    "verification_notes": "A short-format cricket game for mobile browsers, inspired by EA Sports Cricket and Real Cricket 20 but much simpler. You play one T20-style match against the computer. Commit carries an exact Claude Opus 5.5 / Claude Fable 5.1 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "Extraction Tycoon",
+    "github_url": "https://github.com/BirkleyG/Extraction",
+    "repository_id": 1430669114,
+    "repository_created_at": "2026-10-23T06:33:35Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/BirkleyG/Extraction/commit/fb846d6b75462ead3998c70612979ed096bf3b9c",
+    "game_links": [
+      "https://github.com/BirkleyG/Extraction/blob/main/js/game.js",
+      "https://github.com/BirkleyG/Extraction/blob/main/play/app.js",
+      "https://github.com/BirkleyG/Extraction/blob/main/play/scene.js"
+    ],
+    "live_demo_url": "https://birkleyg.github.io/Extraction/play/",
+    "live_demo_urls": [
+      "https://birkleyg.github.io/Extraction/play/",
+      "https://birkleyg.github.io/Extraction/prototype/",
+      "https://birkleyg.github.io/Extraction/play/?mode=online"
+    ],
+    "technology": [
+      "JavaScript",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Extraction Tycoon"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/BirkleyG/Extraction"
+    ],
+    "verification_notes": "A miner tycoon game that can be played by a bunch of friends! Commit carries an exact Claude Sonnet 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "St. Aldric: Night Shift Never Ended",
+    "github_url": "https://github.com/crazy0codes/hospital-escape",
+    "repository_id": 1430694089,
+    "repository_created_at": "2026-10-23T07:00:09Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/crazy0codes/hospital-escape/commit/9c0a714ecf8c09b59bbf0e5b45e97c5eb4d4f4f8",
+    "game_links": [
+      "https://github.com/crazy0codes/hospital-escape/blob/main/src/game.js",
+      "https://github.com/crazy0codes/hospital-escape/blob/main/src/level.js",
+      "https://github.com/crazy0codes/hospital-escape/blob/main/src/enemy.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "St. Aldric: Night Shift Never Ended"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/crazy0codes/hospital-escape"
+    ],
+    "verification_notes": "First-person 3D horror in the browser. You wake in a closed hospital at night. One stalker hunts you. Find 3 keys, unlock the exit, get out. About 10 to 15 minutes. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.0,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Kulki",
+    "github_url": "https://github.com/k-chary/kulki",
+    "repository_id": 1430711325,
+    "repository_created_at": "2026-10-23T07:18:13Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/k-chary/kulki/commit/2088c1615fd88b2ed10fab995247dbda11820987",
+    "game_links": [
+      "https://github.com/k-chary/kulki/blob/main/src-tauri/src/storage.rs",
+      "https://github.com/k-chary/kulki/blob/main/src/screen/GameScreen.tsx",
+      "https://github.com/k-chary/kulki/blob/main/src/game/controller.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Kulki"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/k-chary/kulki"
+    ],
+    "verification_notes": "A Lines-style ball puzzle for the desktop, in Polish. Tauri + React + TypeScript, SQLite for highscores and the saved game. Commit carries an exact Claude Opus 5.5 / Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.2,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Ironfield (tkFX-0)",
+    "github_url": "https://github.com/tkFX-0/ironfield",
+    "repository_id": 1430722609,
+    "repository_created_at": "2026-10-23T07:29:57Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/tkFX-0/ironfield/commit/3ea778c2004db19452ac135033b5a45a8bb89e05",
+    "game_links": [
+      "https://github.com/tkFX-0/ironfield/blob/main/src/render/sprites.js",
+      "https://github.com/tkFX-0/ironfield/blob/main/src/ui/ui.js",
+      "https://github.com/tkFX-0/ironfield/blob/main/src/net/session.js"
+    ],
+    "live_demo_url": "https://tkfx-0.github.io/ironfield/",
+    "live_demo_urls": [
+      "https://tkfx-0.github.io/ironfield/"
+    ],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Ironfield (tkFX-0)"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/tkFX-0/ironfield"
+    ],
+    "verification_notes": "Cooperative factory-automation game for iPhone and desktop browsers. Commit carries an exact Claude Opus 5.5 / Claude Sonnet 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "Witch Way?",
+    "github_url": "https://github.com/Anchevskiii/GameJam2026-WitchWay-",
+    "repository_id": 1430756965,
+    "repository_created_at": "2026-10-23T08:05:55Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/Anchevskiii/GameJam2026-WitchWay-/commit/44ff1e1e40b4435e2529cb52383ba9b9858766ae",
+    "game_links": [
+      "https://github.com/Anchevskiii/GameJam2026-WitchWay-/blob/main/scripts/generators/house_generator.gd",
+      "https://github.com/Anchevskiii/GameJam2026-WitchWay-/blob/main/scripts/actors/npc.gd",
+      "https://github.com/Anchevskiii/GameJam2026-WitchWay-/blob/main/scripts/levels/room.gd"
+    ],
+    "live_demo_url": "https://limezu.itch.io/moderninteriors",
+    "live_demo_urls": [
+      "https://limezu.itch.io/moderninteriors"
+    ],
+    "technology": [
+      "Godot",
+      "GDScript"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Witch Way?"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/Anchevskiii/GameJam2026-WitchWay-"
+    ],
+    "verification_notes": "Neskončen (endless replayability) proceduralno generiran \"dungeon crawler\". Igralec prevzame vlogo protagonista, ki obišče hišo strahov in ugotovi, da iz nje ni izhoda. Prostori (sobe, nadstropja, kleti, podstrešja) se generirajo sproti. Namesto klasičnega… Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "Flintworks",
+    "github_url": "https://github.com/kiezpower/Flintworks",
+    "repository_id": 1430781233,
+    "repository_created_at": "2026-10-23T08:30:49Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/kiezpower/Flintworks/commit/262a613731c560ced13fd1b11da3b6fedc8f8cc5",
+    "game_links": [
+      "https://github.com/kiezpower/Flintworks/blob/main/src/i18n.js",
+      "https://github.com/kiezpower/Flintworks/blob/main/src/clonk.js",
+      "https://github.com/kiezpower/Flintworks/blob/main/src/render.js"
+    ],
+    "live_demo_url": "https://kiezpower.github.io/Flintworks/",
+    "live_demo_urls": [
+      "https://kiezpower.github.io/Flintworks/"
+    ],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Flintworks"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/kiezpower/Flintworks"
+    ],
+    "verification_notes": "Ein Aufbau- und Grabespiel mit Pixel-Physik im Stil der Klassiker, inspiriert von den Clonk-Spielen: Führe deine Crew, grabe nach Gold, fälle Bäume, baue eine Produktionskette und verkaufe alles an der Heimatbasis. Commit carries an exact Claude Opus 5.5 / Claude Sonnet 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/kiezpower/Flintworks/blob/main/docs/itch/screenshot-1-de.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only.",
+    "screenshot_rating_10": 7.4,
+    "screenshot_rating_evidence_url": "https://github.com/kiezpower/Flintworks/blob/main/docs/itch/screenshot-1-de.png",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Od Sela do Superlige",
+    "github_url": "https://github.com/leftym/OdSelaDoSuperligeMobile",
+    "repository_id": 1430873656,
+    "repository_created_at": "2026-10-23T10:02:19Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/leftym/OdSelaDoSuperligeMobile/commit/3248f3a0c015cf8d0def70991ac5be26e90f5f4d",
+    "game_links": [
+      "https://github.com/leftym/OdSelaDoSuperligeMobile/blob/main/game/src/js/17-real-clubs.js",
+      "https://github.com/leftym/OdSelaDoSuperligeMobile/blob/main/game/src/js/15-events.js",
+      "https://github.com/leftym/OdSelaDoSuperligeMobile/blob/main/game/src/js/66-stadium.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Od Sela do Superlige"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/leftym/OdSelaDoSuperligeMobile"
+    ],
+    "verification_notes": "Mobile RPG game where you play as an owner of a football club. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/leftym/OdSelaDoSuperligeMobile/blob/main/game/src/img/award-kafana.webp"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 6.6,
+    "screenshot_rating_evidence_url": "https://github.com/leftym/OdSelaDoSuperligeMobile/blob/main/game/src/img/award-kafana.webp",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Roguelike",
+    "github_url": "https://github.com/beppep/roguelike",
+    "repository_id": 1430877824,
+    "repository_created_at": "2026-10-23T10:06:29Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/beppep/roguelike/commit/d1f0720d3b07e69274e0f4979f2fbf3bac25b772",
+    "game_links": [
+      "https://github.com/beppep/roguelike/blob/main/js/game.js",
+      "https://github.com/beppep/roguelike/blob/main/js/content-lore.js",
+      "https://github.com/beppep/roguelike/blob/main/js/data.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Roguelike"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/beppep/roguelike"
+    ],
+    "verification_notes": "Roguelike: stealth card-tactics prototype in a dark corporate tower. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.2,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "amade-hover-cab-game",
+    "github_url": "https://github.com/datazuul/amade-hover-cab-game",
+    "repository_id": 1430925417,
+    "repository_created_at": "2026-10-23T10:55:07Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/datazuul/amade-hover-cab-game/commit/27159097c56b53fa5619b05b223789f4c3ae7b25",
+    "game_links": [
+      "https://github.com/datazuul/amade-hover-cab-game/blob/develop/src/main/java/eu/amadeos/games/hovercab/ui/game/Scenery.java",
+      "https://github.com/datazuul/amade-hover-cab-game/blob/develop/src/main/java/eu/amadeos/games/hovercab/domain/Game.java",
+      "https://github.com/datazuul/amade-hover-cab-game/blob/develop/src/main/java/eu/amadeos/games/hovercab/domain/Autopilot.java"
+    ],
+    "live_demo_url": "https://datazuul.github.io/amade-game-engine/",
+    "live_demo_urls": [
+      "https://datazuul.github.io/amade-game-engine/"
+    ],
+    "technology": [
+      "Java"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "amade-hover-cab-game"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/datazuul/amade-hover-cab-game"
+    ],
+    "verification_notes": "The keys can be changed in ~/.config/amadeos/hovercab/hovercab.properties, with the names Java gives them, several separated by spaces. Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/datazuul/amade-hover-cab-game/blob/develop/docs/screenshots/amade-hover-cab-game.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only.",
+    "screenshot_rating_10": 6.3,
+    "screenshot_rating_evidence_url": "https://github.com/datazuul/amade-hover-cab-game/blob/develop/docs/screenshots/amade-hover-cab-game.png",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "BoomYard",
+    "github_url": "https://github.com/dorten9/boomyard",
+    "repository_id": 1430942787,
+    "repository_created_at": "2026-10-23T11:12:53Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/dorten9/boomyard/commit/89cb120ce0b3f50f2ae1abbf181a53e1026c6bdf",
+    "game_links": [
+      "https://github.com/dorten9/boomyard/blob/main/Assets/BoomYard/Scripts/Game/Sfx.cs",
+      "https://github.com/dorten9/boomyard/blob/main/Assets/BoomYard/Scripts/UI/GameUI.Menus.cs",
+      "https://github.com/dorten9/boomyard/blob/main/Assets/BoomYard/Scripts/Game/PropsStreet.cs"
+    ],
+    "live_demo_url": "https://boomyard.vercel.app",
+    "live_demo_urls": [
+      "https://boomyard.vercel.app"
+    ],
+    "technology": [
+      "Unity",
+      "C#"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "BoomYard"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/dorten9/boomyard"
+    ],
+    "verification_notes": "A first-person demolition game for phones (iOS and Android, landscape). Each level is a street at sunset full of things to blow up: place a charge, light it, run, and destroy every target before the clock runs out. Unity 6 (URP), built entirely from code,… Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "fantasy-rpg",
+    "github_url": "https://github.com/Fomiller/fantasy-rpg",
+    "repository_id": 1430968785,
+    "repository_created_at": "2026-10-23T11:39:26Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/Fomiller/fantasy-rpg/commit/21c2b462d6cfb15b23f453329fcef47c78b9cd8a",
+    "game_links": [
+      "https://github.com/Fomiller/fantasy-rpg/blob/main/client/godot/gen/game_v1.gd",
+      "https://github.com/Fomiller/fantasy-rpg/blob/main/gen/go/game/v1/game.pb.go",
+      "https://github.com/Fomiller/fantasy-rpg/blob/main/client/godot/addons/godobuf/parser.gd"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Godot",
+      "GDScript"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "fantasy-rpg"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/Fomiller/fantasy-rpg"
+    ],
+    "verification_notes": "Multiplayer 2D fantasy cave-crawl loot extractor. Godot client, Go servers, homelab Kubernetes. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "ROADVANTA",
+    "github_url": "https://github.com/osigwechibuike43-ux/ROADVANTA",
+    "repository_id": 1431088593,
+    "repository_created_at": "2026-10-23T13:33:01Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/osigwechibuike43-ux/ROADVANTA/commit/879e9c649645438a3ec509c9d14bfd136d1f7554",
+    "game_links": [
+      "https://github.com/osigwechibuike43-ux/ROADVANTA/blob/main/src/world/city.ts",
+      "https://github.com/osigwechibuike43-ux/ROADVANTA/blob/main/src/game/session.ts",
+      "https://github.com/osigwechibuike43-ux/ROADVANTA/blob/main/src/game/GameScene.tsx"
+    ],
+    "live_demo_url": "https://roadvanta.vercel.app",
+    "live_demo_urls": [
+      "https://roadvanta.vercel.app"
+    ],
+    "technology": [
+      "TypeScript",
+      "Three.js",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "ROADVANTA"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/osigwechibuike43-ux/ROADVANTA"
+    ],
+    "verification_notes": "A 3D open-world driving game that runs entirely in the browser. React + TypeScript + Three.js (React Three Fiber) + Vite. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "Bá Khí: Battle Aura (Bíp Bụp Game)",
+    "github_url": "https://github.com/vythanhtra/Bip-Bup-Game",
+    "repository_id": 1431092586,
+    "repository_created_at": "2026-10-23T13:36:41Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/vythanhtra/Bip-Bup-Game/commit/f1c72d4754eb6debfe430c8ea66f343bd192fe8a",
+    "game_links": [
+      "https://github.com/vythanhtra/Bip-Bup-Game/blob/main/src/game.html",
+      "https://github.com/vythanhtra/Bip-Bup-Game/blob/main/public-portal/game.js",
+      "https://github.com/vythanhtra/Bip-Bup-Game/blob/main/public/game.js"
+    ],
+    "live_demo_url": "https://ba-khi.vercel.app",
+    "live_demo_urls": [
+      "https://ba-khi.vercel.app",
+      "https://bip-bup.vercel.app"
+    ],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Fable 5.1"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Bá Khí: Battle Aura (Bíp Bụp Game)"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/vythanhtra/Bip-Bup-Game"
+    ],
+    "verification_notes": "Game phản xạ nhiều cửa. Gà gáy BÍP thì BỤP. Chưa gáy mà bụp là ăn đòn. Commit carries an exact Claude Fable 5.1 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/vythanhtra/Bip-Bup-Game/blob/main/.10x/reviews/shots/03-tutorial-arrow.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only.",
+    "screenshot_rating_10": 5.2,
+    "screenshot_rating_evidence_url": "https://github.com/vythanhtra/Bip-Bup-Game/blob/main/.10x/reviews/shots/03-tutorial-arrow.png",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Spirit Battle (Roblox)",
+    "github_url": "https://github.com/skyler-lab/spirit-battle",
+    "repository_id": 1431137044,
+    "repository_created_at": "2026-10-23T14:15:20Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/skyler-lab/spirit-battle/commit/62121d3a8dd6faa8440580005c1e4308140777f5",
+    "game_links": [
+      "https://github.com/skyler-lab/spirit-battle/blob/main/src/ReplicatedStorage/BattleFXPack/FX.luau",
+      "https://github.com/skyler-lab/spirit-battle/blob/main/src/ReplicatedStorage/StormController.luau",
+      "https://github.com/skyler-lab/spirit-battle/blob/main/src/ReplicatedStorage/BattleFXPack/BattleMenu.luau"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Roblox",
+      "Luau"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Fable 5.1"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Spirit Battle (Roblox)"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/skyler-lab/spirit-battle"
+    ],
+    "verification_notes": "Prodigy-style spirit battle game. The place file is Place1.rbxl, which lives in. Commit carries an exact Claude Opus 5.5 / Claude Fable 5.1 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.2,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/skyler-lab/spirit-battle/blob/main/docs/img/base-island-top.jpg"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 5.0,
+    "screenshot_rating_evidence_url": "https://github.com/skyler-lab/spirit-battle/blob/main/docs/img/base-island-top.jpg",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Voice-game",
+    "github_url": "https://github.com/Anaraa010907/Voice-game",
+    "repository_id": 1431158173,
+    "repository_created_at": "2026-10-23T14:33:38Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/Anaraa010907/Voice-game/commit/327c110372b7a70684e06d6856b4e5ff16888bb7",
+    "game_links": [
+      "https://github.com/Anaraa010907/Voice-game/blob/main/src/screens/Home.tsx",
+      "https://github.com/Anaraa010907/Voice-game/blob/main/src/games/kingscup/cards.ts",
+      "https://github.com/Anaraa010907/Voice-game/blob/main/src/games/mafia/MafiaGame.tsx"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Voice-game"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/Anaraa010907/Voice-game"
+    ],
+    "verification_notes": "Найзуудтайгаа дуугаар тоглох парти тоглоомууд: Мафи, Who's the Imposter?, Хэн вэ? (онлайн өрөө + voice) болон нэг утсаар тоглох Kings Cup. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.0,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Aksa si Pemadam Cilik",
+    "github_url": "https://github.com/radmahardika/Game-Aca",
+    "repository_id": 1431211178,
+    "repository_created_at": "2026-10-23T15:19:53Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/radmahardika/Game-Aca/commit/773236bfac3ac62d53703dfc233fee146740055e",
+    "game_links": [
+      "https://github.com/radmahardika/Game-Aca/blob/main/angkasa-mart/js/main.js",
+      "https://github.com/radmahardika/Game-Aca/blob/main/penyelamat/js/main.js",
+      "https://github.com/radmahardika/Game-Aca/blob/main/angkasa-mart/js/art.js"
+    ],
+    "live_demo_url": "https://radmahardika.github.io/Game-Aca/penyelamat/",
+    "live_demo_urls": [
+      "https://radmahardika.github.io/Game-Aca/penyelamat/",
+      "https://radmahardika.github.io/Game-Aca/"
+    ],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Aksa si Pemadam Cilik"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/radmahardika/Game-Aca"
+    ],
+    "verification_notes": "Game petualangan pixel art untuk belajar berhitung (usia ±6 tahun). Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "ProtistParty",
+    "github_url": "https://github.com/jessicasogge/protistparty",
+    "repository_id": 1431220150,
+    "repository_created_at": "2026-10-23T15:27:44Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/jessicasogge/protistparty/commit/658f49549241ed785dc20f4817cf0024cf28c65a",
+    "game_links": [
+      "https://github.com/jessicasogge/protistparty/blob/main/public/game/protists.js",
+      "https://github.com/jessicasogge/protistparty/blob/main/public/game/touch.js",
+      "https://github.com/jessicasogge/protistparty/blob/main/public/game/prey.js"
+    ],
+    "live_demo_url": "https://jessicasogge.github.io/protistparty/",
+    "live_demo_urls": [
+      "https://jessicasogge.github.io/protistparty/"
+    ],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "ProtistParty"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/jessicasogge/protistparty"
+    ],
+    "verification_notes": "A cute protistology game for the browser, and the sister game to PetriPals, FunGals and CellMates. Protists are the single cells (and a few bigger ones) that aren't bacteria, fungi, plants or animals: amoebas, ciliates, flagellates, algae, slime molds and… Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.2,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "擠痘木頭人",
+    "github_url": "https://github.com/eugenia9797/Acne_game",
+    "repository_id": 1431354176,
+    "repository_created_at": "2026-10-23T17:32:21Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/eugenia9797/Acne_game/commit/9445b30d5be0d1c4b3266ee4e7f727cb15a1b3ed",
+    "game_links": [
+      "https://github.com/eugenia9797/Acne_game/blob/main/index.html"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "擠痘木頭人"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/eugenia9797/Acne_game"
+    ],
+    "verification_notes": "一二三木頭人玩法的擠痘痘網頁小遊戲。你是滿臉痘痘的病人，趁皮膚科醫師背對你打病歷時偷偷擠痘痘。醫師跟著音樂唸「被我抓到你在擠痘痘你就完蛋了」，音樂一唱完她就回頭，手還在臉上就出局。. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.0,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Strawhat Simulator",
+    "github_url": "https://github.com/Whysodeep1994/strawhat-simulator",
+    "repository_id": 1431357900,
+    "repository_created_at": "2026-10-23T17:36:04Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/Whysodeep1994/strawhat-simulator/commit/f45099f501f549ae0c1cc6ff7adcee79a252ea93",
+    "game_links": [
+      "https://github.com/Whysodeep1994/strawhat-simulator/blob/main/packages/engine/src/run.ts",
+      "https://github.com/Whysodeep1994/strawhat-simulator/blob/main/packages/engine/src/effects.ts",
+      "https://github.com/Whysodeep1994/strawhat-simulator/blob/main/packages/web/src/describe.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Strawhat Simulator"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/Whysodeep1994/strawhat-simulator"
+    ],
+    "verification_notes": "An unofficial, open-source simulator for the One Piece Card Game. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.4,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Kervan",
+    "github_url": "https://github.com/kdrgny-dev/kervan",
+    "repository_id": 1431403734,
+    "repository_created_at": "2026-10-23T18:21:51Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/kdrgny-dev/kervan/commit/b38b5c2b7e4cd0b46cb859fe7713f4c6e2b54727",
+    "game_links": [
+      "https://github.com/kdrgny-dev/kervan/blob/main/src/scenes/GameScene.ts",
+      "https://github.com/kdrgny-dev/kervan/blob/main/src/ui/kit.ts",
+      "https://github.com/kdrgny-dev/kervan/blob/main/src/scenes/ShopScene.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "Phaser",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Kervan"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/kdrgny-dev/kervan"
+    ],
+    "verification_notes": "Nimble Quest tarzı snake + otomatik savaş roguelite (Phaser + Tauri). Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.3,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/kdrgny-dev/kervan/blob/main/docs/design/stage4/mockups/hero_select.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 6.5,
+    "screenshot_rating_evidence_url": "https://github.com/kdrgny-dev/kervan/blob/main/docs/design/stage4/mockups/hero_select.png",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Tic-Tac-Toe (Professor-Jeff)",
+    "github_url": "https://github.com/Professor-Jeff/tictactoe-nn",
+    "repository_id": 1431420411,
+    "repository_created_at": "2026-10-23T18:39:07Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/Professor-Jeff/tictactoe-nn/commit/c26afb79b75a3e49d09bd18aed32297fce6a9fe4",
+    "game_links": [
+      "https://github.com/Professor-Jeff/tictactoe-nn/blob/main/index.html",
+      "https://github.com/Professor-Jeff/tictactoe-nn/blob/main/tictactoe_nn.py"
+    ],
+    "live_demo_url": "https://professor-jeff.github.io/tictactoe-nn/",
+    "live_demo_urls": [
+      "https://professor-jeff.github.io/tictactoe-nn/"
+    ],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Fable 5.1"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Tic-Tac-Toe (Professor-Jeff)"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/Professor-Jeff/tictactoe-nn"
+    ],
+    "verification_notes": "Tic-Tac-Toe: minimax vs. a neural net trained two ways (COMP 138). Commit carries an exact Claude Fable 5.1 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.2,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "Duat",
+    "github_url": "https://github.com/GiuseppeValguarnera/Duat",
+    "repository_id": 1431477416,
+    "repository_created_at": "2026-10-23T19:41:53Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/GiuseppeValguarnera/Duat/commit/19323fec280a08c6ae52e0086b0753dcac44a4ab",
+    "game_links": [
+      "https://github.com/GiuseppeValguarnera/Duat/blob/main/scripts/game.gd",
+      "https://github.com/GiuseppeValguarnera/Duat/blob/main/scripts/hub.gd",
+      "https://github.com/GiuseppeValguarnera/Duat/blob/main/scripts/player.gd"
+    ],
+    "live_demo_url": "https://giuseppevalguarnera.github.io/Duat/",
+    "live_demo_urls": [
+      "https://giuseppevalguarnera.github.io/Duat/"
+    ],
+    "technology": [
+      "Godot",
+      "GDScript"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Duat"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/GiuseppeValguarnera/Duat"
+    ],
+    "verification_notes": "Roguelike action nell'oltretomba egizio, fatto con Godot 4.7. Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "Hardline MTB",
+    "github_url": "https://github.com/bkhiron-dot/Hironic-games",
+    "repository_id": 1431506690,
+    "repository_created_at": "2026-10-23T20:15:28Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/bkhiron-dot/Hironic-games/commit/a57d64b3c19fe96b3ba68ad896d269339a06ed09",
+    "game_links": [
+      "https://github.com/bkhiron-dot/Hironic-games/blob/main/public/v1.html",
+      "https://github.com/bkhiron-dot/Hironic-games/blob/main/src/physics.js",
+      "https://github.com/bkhiron-dot/Hironic-games/blob/main/src/trail.js"
+    ],
+    "live_demo_url": "https://bkhiron-dot.github.io/Hironic-games/",
+    "live_demo_urls": [
+      "https://bkhiron-dot.github.io/Hironic-games/"
+    ],
+    "technology": [
+      "JavaScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Hardline MTB"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/bkhiron-dot/Hironic-games"
+    ],
+    "verification_notes": "A downhill mountain bike game for the browser, built with Three.js. Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "Whistle",
+    "github_url": "https://github.com/Jakusukaj/Whistle-game",
+    "repository_id": 1431512194,
+    "repository_created_at": "2026-10-23T20:21:36Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/Jakusukaj/Whistle-game/commit/4ce0bce246c70026909da5e8ff36968ca2699ec2",
+    "game_links": [
+      "https://github.com/Jakusukaj/Whistle-game/blob/main/songs.js",
+      "https://github.com/Jakusukaj/Whistle-game/blob/main/public/app.js",
+      "https://github.com/Jakusukaj/Whistle-game/blob/main/game.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Whistle"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/Jakusukaj/Whistle-game"
+    ],
+    "verification_notes": "A living-room party game. Everyone uses their own phone. Take turns whistling a classic song shown only on your phone; the others guess out loud or by typing. Your time is your score, lowest total wins. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Shardbreaker (roguelike)",
+    "github_url": "https://github.com/JakeA-UKSBS/Shardbreaker",
+    "repository_id": 1431525848,
+    "repository_created_at": "2026-10-23T20:37:23Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/JakeA-UKSBS/Shardbreaker/commit/9424cfe395a04ea75fea8522a361130376c90fb1",
+    "game_links": [
+      "https://github.com/JakeA-UKSBS/Shardbreaker/blob/main/js/03-pixel-art.js",
+      "https://github.com/JakeA-UKSBS/Shardbreaker/blob/main/js/20-events.js",
+      "https://github.com/JakeA-UKSBS/Shardbreaker/blob/main/js/09b-battle-rig.js"
+    ],
+    "live_demo_url": "https://jakea-uksbs.github.io/Shardbreaker/",
+    "live_demo_urls": [
+      "https://jakea-uksbs.github.io/Shardbreaker/"
+    ],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Shardbreaker (roguelike)"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/JakeA-UKSBS/Shardbreaker"
+    ],
+    "verification_notes": "A run-based tactics roguelike in the style of GBA Fire Emblem. Built for PC first (map left, command panel right), and still playable on phones. Forked from Nightbound's engine. Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "DOM VIRUS · coded.design",
+    "github_url": "https://github.com/coded-dot-design/dom-virus",
+    "repository_id": 1431545023,
+    "repository_created_at": "2026-10-23T21:00:25Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/coded-dot-design/dom-virus/commit/7c8869796480b5a3118e1518e7672236f80ca8e5",
+    "game_links": [
+      "https://github.com/coded-dot-design/dom-virus/blob/main/site-kit/client.ts",
+      "https://github.com/coded-dot-design/dom-virus/blob/main/src/runtime.ts",
+      "https://github.com/coded-dot-design/dom-virus/blob/main/site-kit/lab.ts"
+    ],
+    "live_demo_url": "https://coded-dot-design.github.io/dom-virus/",
+    "live_demo_urls": [
+      "https://coded-dot-design.github.io/dom-virus/"
+    ],
+    "technology": [
+      "JavaScript",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "DOM VIRUS · coded.design"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/coded-dot-design/dom-virus"
+    ],
+    "verification_notes": "Product page: https://coded-dot-design.github.io/dom-virus/ (available after Pages is enabled and the deployment succeeds). Created by Chris Cooley / coded.design. Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "Star Swarm",
+    "github_url": "https://github.com/GiladGlo/StarSwarm",
+    "repository_id": 1431560655,
+    "repository_created_at": "2026-10-23T21:21:04Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/GiladGlo/StarSwarm/commit/6ada2d8f0b36ddf4f5f0d235aca8499bd6b5cfe3",
+    "game_links": [
+      "https://github.com/GiladGlo/StarSwarm/blob/main/Code/main.cpp",
+      "https://github.com/GiladGlo/StarSwarm/blob/main/Code/sprites.h",
+      "https://github.com/GiladGlo/StarSwarm/blob/main/Code/monsters.h"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "C++",
+      "React"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Star Swarm"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/GiladGlo/StarSwarm"
+    ],
+    "verification_notes": "Star Swarm is a fast arcade shooter inspired by the classic formation shooters of the '80s. Every ship, monster, asteroid and explosion is generated by the game itself at startup, with no art files. Lighting, shadows and glow effects give each one a detailed,… Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.4,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/GiladGlo/StarSwarm/blob/main/Code/monsters-ingame.gif"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 6.9,
+    "screenshot_rating_evidence_url": "https://github.com/GiladGlo/StarSwarm/blob/main/Code/monsters-ingame.gif",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Tw4",
+    "github_url": "https://github.com/aaaltive/TW4",
+    "repository_id": 1431570768,
+    "repository_created_at": "2026-10-23T21:34:32Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/aaaltive/TW4/commit/f325d4b227c4c9e1378fbfba3ae09da9b42e2620",
+    "game_links": [
+      "https://github.com/aaaltive/TW4/blob/main/TI4.html",
+      "https://github.com/aaaltive/TW4/blob/main/server/server.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Tw4"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/aaaltive/TW4"
+    ],
+    "verification_notes": "a playable one for me and warner, and can use AI. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Agent Grand Prix",
+    "github_url": "https://github.com/amaeteventurestudios/agent-grand-prix-",
+    "repository_id": 1431571845,
+    "repository_created_at": "2026-10-23T21:36:05Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/amaeteventurestudios/agent-grand-prix-/commit/6edc1046603e63bf57bba6fe1e4d208525cd6c00",
+    "game_links": [
+      "https://github.com/amaeteventurestudios/agent-grand-prix-/blob/main/assets/voice/gilles.js",
+      "https://github.com/amaeteventurestudios/agent-grand-prix-/blob/main/assets/voice/ronnie.js",
+      "https://github.com/amaeteventurestudios/agent-grand-prix-/blob/main/assets/voice/fable.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Agent Grand Prix"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/amaeteventurestudios/agent-grand-prix-"
+    ],
+    "verification_notes": "A free browser racing game. Your two AI drivers race; you are the team principal and make the calls. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 8.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Герои",
+    "github_url": "https://github.com/ShubbeLeontij/heroes",
+    "repository_id": 1431584182,
+    "repository_created_at": "2026-10-23T21:52:51Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/ShubbeLeontij/heroes/commit/42aed7c3182612bda4564bfd515a8067ab8596f3",
+    "game_links": [
+      "https://github.com/ShubbeLeontij/heroes/blob/master/heroes/web/static/js/panels.js",
+      "https://github.com/ShubbeLeontij/heroes/blob/master/heroes/engine/combat.py",
+      "https://github.com/ShubbeLeontij/heroes/blob/master/heroes/web/static/js/map.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Python",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Герои"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/ShubbeLeontij/heroes"
+    ],
+    "verification_notes": "Компьютерная версия настольной игры «Герои» (Hobby World) с ИИ-игроками. Commit carries an exact Claude Opus 5.5 / Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/ShubbeLeontij/heroes/blob/master/docs/boards/elementals.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 5.4,
+    "screenshot_rating_evidence_url": "https://github.com/ShubbeLeontij/heroes/blob/master/docs/boards/elementals.png",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Pilgrim Mechanica 2",
+    "github_url": "https://github.com/KeithThurlow/pilgrim-mechanica-2",
+    "repository_id": 1431593367,
+    "repository_created_at": "2026-10-23T22:06:14Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/KeithThurlow/pilgrim-mechanica-2/commit/f67d537c71c8fee0643b93a3b56bed9fadf86a1b",
+    "game_links": [
+      "https://github.com/KeithThurlow/pilgrim-mechanica-2/blob/main/tools/blender/mechs/studies/rampart/rampart_v4.py",
+      "https://github.com/KeithThurlow/pilgrim-mechanica-2/blob/main/src/combat/robots.ts",
+      "https://github.com/KeithThurlow/pilgrim-mechanica-2/blob/main/tools/blender/mechs/hskit.py"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Pilgrim Mechanica 2"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/KeithThurlow/pilgrim-mechanica-2"
+    ],
+    "verification_notes": "A mech salvage game in the browser: a convoy village rolling across endless dunes, salvage runs against its range,. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/KeithThurlow/pilgrim-mechanica-2/blob/main/docs/asset-shots/W1/game12_34front.jpg"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 6.6,
+    "screenshot_rating_evidence_url": "https://github.com/KeithThurlow/pilgrim-mechanica-2/blob/main/docs/asset-shots/W1/game12_34front.jpg",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "StratoshiVibes Blockspace",
+    "github_url": "https://github.com/stratanen/stratoshivibes-blocks",
+    "repository_id": 1431624204,
+    "repository_created_at": "2026-10-23T22:54:10Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/stratanen/stratoshivibes-blocks/commit/f6670aaa0dc850eb5a94976deb32ee8457c10c76",
+    "game_links": [
+      "https://github.com/stratanen/stratoshivibes-blocks/blob/main/pay.bundle.js",
+      "https://github.com/stratanen/stratoshivibes-blocks/blob/main/wallet.bundle.js",
+      "https://github.com/stratanen/stratoshivibes-blocks/blob/main/index.html"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "StratoshiVibes Blockspace"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/stratanen/stratoshivibes-blocks"
+    ],
+    "verification_notes": "Neon block puzzle for the Solana Seeker. Drag pieces onto an 8×8 board, clear rows and columns, and every clear reveals part of a picture. Free to play, no ads. Connecting a wallet is optional (it unlocks Vol.1 Degens holder pictures), and an optional Shop… Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Red Alert",
+    "github_url": "https://github.com/CrawfishChowder/GDSCHackathon",
+    "repository_id": 1431635760,
+    "repository_created_at": "2026-10-23T23:14:12Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/CrawfishChowder/GDSCHackathon/commit/54af4946ac68c012479abad19d7b575cf655d90b",
+    "game_links": [
+      "https://github.com/CrawfishChowder/GDSCHackathon/blob/main/red-alert/scripts/stage1/industrial_room_shell.gd",
+      "https://github.com/CrawfishChowder/GDSCHackathon/blob/main/red-alert/scripts/player/first_person_controller.gd",
+      "https://github.com/CrawfishChowder/GDSCHackathon/blob/main/red-alert/scripts/stage1/normal_operations.gd"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Godot",
+      "GDScript"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Red Alert"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/CrawfishChowder/GDSCHackathon"
+    ],
+    "verification_notes": "A first-person survival game in a habitat module. Over one five-minute shift, life-critical systems fail and you fix them by hand. One mistake kills you instantly, and the mission log tells you which real spaceflight disaster your mistake mirrors. Players… Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.3,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Storm Shelter (GeauxHack 2026, \"Life in Space\")",
+    "github_url": "https://github.com/ZacharyNguyen001/Hackathon-Fall-2026",
+    "repository_id": 1431656335,
+    "repository_created_at": "2026-10-23T23:50:29Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/ZacharyNguyen001/Hackathon-Fall-2026/commit/a8bcd9645a9af78c04aca1a5ee17b79634567739",
+    "game_links": [
+      "https://github.com/ZacharyNguyen001/Hackathon-Fall-2026/blob/main/src/game/Game.ts",
+      "https://github.com/ZacharyNguyen001/Hackathon-Fall-2026/blob/main/src/Play.tsx",
+      "https://github.com/ZacharyNguyen001/Hackathon-Fall-2026/blob/main/src/game/world/mapgen.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Storm Shelter (GeauxHack 2026, \"Life in Space\")"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/ZacharyNguyen001/Hackathon-Fall-2026"
+    ],
+    "verification_notes": "This is gonna be a github for the team! Commit carries an exact Claude Opus 5.5 / Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 6.9,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "bad_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "RetroBall",
+    "github_url": "https://github.com/chudxster/RetroBall",
+    "repository_id": 1431663935,
+    "repository_created_at": "2026-10-24T00:04:36Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/chudxster/RetroBall/commit/0d396e9517d7954fd24ba5128ef4fbc817c3e894",
+    "game_links": [
+      "https://github.com/chudxster/RetroBall/blob/main/src/menu.js",
+      "https://github.com/chudxster/RetroBall/blob/main/src/locker.js",
+      "https://github.com/chudxster/RetroBall/blob/main/src/player.js"
+    ],
+    "live_demo_url": "https://chudxster.github.io/RetroBall/",
+    "live_demo_urls": [
+      "https://chudxster.github.io/RetroBall/"
+    ],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "RetroBall"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/chudxster/RetroBall"
+    ],
+    "verification_notes": "Retro Bowl-style 2.5D pixel-art basketball game (HTML5 canvas, no build step). Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 100000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.7,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "決戰（Kessen）— MVP",
+    "github_url": "https://github.com/kuanhuasu-source/kessen",
+    "repository_id": 1431686668,
+    "repository_created_at": "2026-10-24T00:47:05Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/kuanhuasu-source/kessen/commit/c9e1172db2005b968e268b03961a577f769c4506",
+    "game_links": [
+      "https://github.com/kuanhuasu-source/kessen/blob/main/src/game/main.ts",
+      "https://github.com/kuanhuasu-source/kessen/blob/main/src/sim/sim.ts",
+      "https://github.com/kuanhuasu-source/kessen/blob/main/src/sim/ai.ts"
+    ],
+    "live_demo_url": "https://kuanhuasu-source.github.io/kessen/",
+    "live_demo_urls": [
+      "https://kuanhuasu-source.github.io/kessen/"
+    ],
+    "technology": [
+      "TypeScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Fable 5.1"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "決戰（Kessen）— MVP"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/kuanhuasu-source/kessen"
+    ],
+    "verification_notes": "網頁即時戰略遊戲。技術：TypeScript + Vite + Three.js。戰鬥核心（src/sim）沿用士氣模擬器，規則為設計文件 v2 士氣調整＋ v3 忍者調整（src/sim/game-rules.ts）。. Commit carries an exact Claude Fable 5.1 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.7,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "Wildreach (working title)",
+    "github_url": "https://github.com/RavenArcher17/Survival-Game",
+    "repository_id": 1431692108,
+    "repository_created_at": "2026-10-24T00:56:52Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/RavenArcher17/Survival-Game/commit/c5d790af07c30661e6aa6a39b7fecac413e8e904",
+    "game_links": [
+      "https://github.com/RavenArcher17/Survival-Game/blob/master/Source/Wildreach/WRCreature.cpp",
+      "https://github.com/RavenArcher17/Survival-Game/blob/master/Source/Wildreach/WRBoss.cpp",
+      "https://github.com/RavenArcher17/Survival-Game/blob/master/Source/Wildreach/WRWorldDressing.cpp"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Unreal Engine",
+      "C++"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Wildreach (working title)"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/RavenArcher17/Survival-Game"
+    ],
+    "verification_notes": "Multiplayer open-world survival, first + third person, UE 5.8, C++. The first playable (fire + frost, Volcanic +. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Artifice",
+    "github_url": "https://github.com/cindehaa/calhacks-2026",
+    "repository_id": 1431694028,
+    "repository_created_at": "2026-10-24T01:00:17Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/cindehaa/calhacks-2026/commit/6cfb59495b6e0abc97c79621983311efd01ee07b",
+    "game_links": [
+      "https://github.com/cindehaa/calhacks-2026/blob/main/client/src/pov.ts",
+      "https://github.com/cindehaa/calhacks-2026/blob/main/client/src/input/controller.ts",
+      "https://github.com/cindehaa/calhacks-2026/blob/main/client/src/main.ts"
+    ],
+    "live_demo_url": "https://artifice-game.vercel.app/",
+    "live_demo_urls": [
+      "https://artifice-game.vercel.app/"
+    ],
+    "technology": [
+      "TypeScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Artifice"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/cindehaa/calhacks-2026"
+    ],
+    "verification_notes": "A Clash Royale-style arena battler, limited only by your imagination. Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "Echoes of the Forgotten Kingdom",
+    "github_url": "https://github.com/dreamdreams77/Echoes-",
+    "repository_id": 1431697347,
+    "repository_created_at": "2026-10-24T01:06:36Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/dreamdreams77/Echoes-/commit/e649f2816c04fc7a7a4a625e5946754c82385ccf",
+    "game_links": [
+      "https://github.com/dreamdreams77/Echoes-/blob/ccr-b5ba411c-x1ofxc/index.html",
+      "https://github.com/dreamdreams77/Echoes-/blob/ccr-b5ba411c-x1ofxc/lib/UnrealBloomPass.js",
+      "https://github.com/dreamdreams77/Echoes-/blob/ccr-b5ba411c-x1ofxc/lib/EffectComposer.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Echoes of the Forgotten Kingdom"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/dreamdreams77/Echoes-"
+    ],
+    "verification_notes": "A browser-based 3D stealth/action adventure built with three.js. No build step: open index.html, or serve the repo root (for example with GitHub Pages) and play. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.2,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Bubbles",
+    "github_url": "https://github.com/reseed-ops/bubbles-even-g2",
+    "repository_id": 1431698852,
+    "repository_created_at": "2026-10-24T01:09:23Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/reseed-ops/bubbles-even-g2/commit/dd24f8224d3207b39b4823e85b10c1ece40b76be",
+    "game_links": [
+      "https://github.com/reseed-ops/bubbles-even-g2/blob/master/src/game.ts",
+      "https://github.com/reseed-ops/bubbles-even-g2/blob/master/src/app.ts",
+      "https://github.com/reseed-ops/bubbles-even-g2/blob/master/src/levels.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Fable 5.1"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Bubbles"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/reseed-ops/bubbles-even-g2"
+    ],
+    "verification_notes": "Sideways Frozen Bubble / Bust-A-Move style game for Even Realities G2 smart glasses. Commit carries an exact Claude Fable 5.1 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.0,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/1-title.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 4.6,
+    "screenshot_rating_evidence_url": "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/1-title.png",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Phredd's Card Table, Puzzle Table, Mahjong, Word Search and Marble Challenge",
+    "github_url": "https://github.com/aalexander2017/CardGames",
+    "repository_id": 1431700531,
+    "repository_created_at": "2026-10-24T01:12:30Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/aalexander2017/CardGames/commit/f49cfca4cb986f0f3cf8082e54e8fc96470004c6",
+    "game_links": [
+      "https://github.com/aalexander2017/CardGames/blob/main/marbles-app/src/main/java/com/avismarbles/ui/screens/GameScreens.kt",
+      "https://github.com/aalexander2017/CardGames/blob/main/marbles-app/src/main/java/com/avismarbles/ui/board/Boards.kt",
+      "https://github.com/aalexander2017/CardGames/blob/main/marbles-app/src/main/java/com/avismarbles/ui/screens/ViewModels.kt"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Kotlin"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Phredd's Card Table, Puzzle Table, Mahjong, Word Search and Marble Challenge"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/aalexander2017/CardGames"
+    ],
+    "verification_notes": "Relaxing game apps for Android phones and Amazon Fire tablets, designed for comfortable play: big, clear pieces, large buttons, unlimited undo, and no ads, accounts or timers unless you want them. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.5,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/aalexander2017/CardGames/blob/main/app/src/test/snapshots/images/com.aviscardtable.ui_CardArtSnapshotTest_classicFaces.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 5.0,
+    "screenshot_rating_evidence_url": "https://github.com/aalexander2017/CardGames/blob/main/app/src/test/snapshots/images/com.aviscardtable.ui_CardArtSnapshotTest_classicFaces.png",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Ball Knowledge",
+    "github_url": "https://github.com/Whipplemedia/Ballknowledge",
+    "repository_id": 1431710048,
+    "repository_created_at": "2026-10-24T01:30:12Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/Whipplemedia/Ballknowledge/commit/d172707e561b1302b2829146901dee5fa6148d87",
+    "game_links": [
+      "https://github.com/Whipplemedia/Ballknowledge/blob/main/server.js",
+      "https://github.com/Whipplemedia/Ballknowledge/blob/main/public/client.js",
+      "https://github.com/Whipplemedia/Ballknowledge/blob/main/public/people.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Three.js",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Ball Knowledge"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/Whipplemedia/Ballknowledge"
+    ],
+    "verification_notes": "Ball Knowledge Sports betting game. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.4,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Hot Entry",
+    "github_url": "https://github.com/dndcraws20/Rogue-cop",
+    "repository_id": 1431713632,
+    "repository_created_at": "2026-10-24T01:36:55Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/dndcraws20/Rogue-cop/commit/3b2a052b60750dd2517f6cc9216a26d4c041319e",
+    "game_links": [
+      "https://github.com/dndcraws20/Rogue-cop/blob/main/index.html"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Hot Entry"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/dndcraws20/Rogue-cop"
+    ],
+    "verification_notes": "A 3D top-down tactical hostage-rescue game. Open index.html in a browser (needs internet for three.js). Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.1,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Golferoo",
+    "github_url": "https://github.com/KingMoule/golferoo",
+    "repository_id": 1431723018,
+    "repository_created_at": "2026-10-24T01:54:54Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/KingMoule/golferoo/commit/bdfdb3d249f760fe2c97b6e15ffcec347480f003",
+    "game_links": [
+      "https://github.com/KingMoule/golferoo/blob/main/game/src/Rendering/TreeLayer.cs",
+      "https://github.com/KingMoule/golferoo/blob/main/src/Golferoo.Sim/World.cs",
+      "https://github.com/KingMoule/golferoo/blob/main/tools/blender/oak_bare_01_lowpoly.py"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Python"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Golferoo"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/KingMoule/golferoo"
+    ],
+    "verification_notes": "Simulateur de golf moderne. Commit carries an exact Claude Opus 5.5 / Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "HUSH",
+    "github_url": "https://github.com/samerrahman/CalHacks-13.0",
+    "repository_id": 1431723199,
+    "repository_created_at": "2026-10-24T01:55:15Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/samerrahman/CalHacks-13.0/commit/930c281dbb9ba5b68271c22626139d9d0917f2c1",
+    "game_links": [
+      "https://github.com/samerrahman/CalHacks-13.0/blob/main/src/ui/App.tsx",
+      "https://github.com/samerrahman/CalHacks-13.0/blob/main/src/cutscene/scene.ts",
+      "https://github.com/samerrahman/CalHacks-13.0/blob/main/src/cutscene/endingScene.ts"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "Three.js",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "HUSH"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/samerrahman/CalHacks-13.0"
+    ],
+    "verification_notes": "Built at CalHacks 13.0 with React, Three.js, Electron, Gemini, ElevenLabs, Presage and SpacetimeDB. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.7,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/samerrahman/CalHacks-13.0/blob/main/docs/screenshots/shelter.jpg"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 6.7,
+    "screenshot_rating_evidence_url": "https://github.com/samerrahman/CalHacks-13.0/blob/main/docs/screenshots/shelter.jpg",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "DASHDUEL",
+    "github_url": "https://github.com/Js23321/Dashduel",
+    "repository_id": 1431732158,
+    "repository_created_at": "2026-10-24T02:11:55Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/Js23321/Dashduel/commit/c804625693ba855b7ff4d6e56ce620e74d9e20ac",
+    "game_links": [
+      "https://github.com/Js23321/Dashduel/blob/main/js/mesh-station.js",
+      "https://github.com/Js23321/Dashduel/blob/main/js/mesh-docks.js",
+      "https://github.com/Js23321/Dashduel/blob/main/js/mesh-lobby.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Roblox",
+      "Luau"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "DASHDUEL"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/Js23321/Dashduel"
+    ],
+    "verification_notes": "Fast first-person duels in colourful low-poly block arenas (Three.js / WebGL). Inspired by the quick, competitive. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 8.0,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Wonder Royale: online",
+    "github_url": "https://github.com/wlin84602-pixel/wonder-royale",
+    "repository_id": 1431734220,
+    "repository_created_at": "2026-10-24T02:15:31Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/wlin84602-pixel/wonder-royale/commit/28dc83e71a9845e143ccdb8d032736fd86c55be7",
+    "game_links": [
+      "https://github.com/wlin84602-pixel/wonder-royale/blob/main/client/game.js",
+      "https://github.com/wlin84602-pixel/wonder-royale/blob/main/src/azure.js",
+      "https://github.com/wlin84602-pixel/wonder-royale/blob/main/server/game/sim-core.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Wonder Royale: online"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/wlin84602-pixel/wonder-royale"
+    ],
+    "verification_notes": "Top-down battle royale for 2–6 players per room. Node + Express + Socket.IO server runs the real game rules;. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.8,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/wlin84602-pixel/wonder-royale/blob/main/server/test/shot-match.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 6.0,
+    "screenshot_rating_evidence_url": "https://github.com/wlin84602-pixel/wonder-royale/blob/main/server/test/shot-match.png",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Storybound",
+    "github_url": "https://github.com/trungle42/Storybound",
+    "repository_id": 1431738428,
+    "repository_created_at": "2026-10-24T02:23:18Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/trungle42/Storybound/commit/0965884192a521fa10d5e2668b9896c07a6299dc",
+    "game_links": [
+      "https://github.com/trungle42/Storybound/blob/main/frontend/src/adventure/Adventure.ts",
+      "https://github.com/trungle42/Storybound/blob/main/frontend/public/basis/basis_transcoder.js",
+      "https://github.com/trungle42/Storybound/blob/main/docs/yellow-tracker.html"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Storybound"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/trungle42/Storybound"
+    ],
+    "verification_notes": "Storybound is a third-person 3D fairy-tale adventure in the browser, built for HackTX 2026 (theme: Fairy Tale). A Gemini-powered storyteller writes the tale from what you do, and your real world plays along: your phone is the controller, a stick with a… Commit carries an exact Claude Opus 5.5 / Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/trungle42/Storybound/blob/main/docs/images/avatars-before-after.jpg"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 6.2,
+    "screenshot_rating_evidence_url": "https://github.com/trungle42/Storybound/blob/main/docs/images/avatars-before-after.jpg",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Claude Tyson",
+    "github_url": "https://github.com/anthskti/claude-tyson",
+    "repository_id": 1431775189,
+    "repository_created_at": "2026-10-24T03:27:49Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/anthskti/claude-tyson/commit/9680d2bbb7bd940057c84b6316726f67315a28e7",
+    "game_links": [
+      "https://github.com/anthskti/claude-tyson/blob/main/spacetimedb/src/index.ts",
+      "https://github.com/anthskti/claude-tyson/blob/main/src/game/main.ts",
+      "https://github.com/anthskti/claude-tyson/blob/main/src/game/hud.ts"
+    ],
+    "live_demo_url": "https://claude-tyson.vercel.app",
+    "live_demo_urls": [
+      "https://claude-tyson.vercel.app"
+    ],
+    "technology": [
+      "TypeScript",
+      "Three.js",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Claude Tyson"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/anthskti/claude-tyson"
+    ],
+    "verification_notes": "A browser boxing game you play with your body. Your webcam tracks your head and hands, so. Commit carries an exact Claude Opus 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "MAK'GORA KOMBAT",
+    "github_url": "https://github.com/realworldbuilder/makgorakombat",
+    "repository_id": 1431780743,
+    "repository_created_at": "2026-10-24T03:37:37Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/realworldbuilder/makgorakombat/commit/4be46f1856989a822a7ddc11941ea7fae53ef82f",
+    "game_links": [
+      "https://github.com/realworldbuilder/makgorakombat/blob/main/src/engine/engine.ts",
+      "https://github.com/realworldbuilder/makgorakombat/blob/main/src/game/Select.tsx",
+      "https://github.com/realworldbuilder/makgorakombat/blob/main/src/game/fx2d.ts"
+    ],
+    "live_demo_url": "https://realworldbuilder.github.io/makgorakombat/",
+    "live_demo_urls": [
+      "https://realworldbuilder.github.io/makgorakombat/",
+      "https://realworldbuilder.github.io/makgorakombat/welcome/",
+      "https://realworldbuilder.github.io/makgorakombat/?all"
+    ],
+    "technology": [
+      "TypeScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Fable 5.1"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "MAK'GORA KOMBAT"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/realworldbuilder/makgorakombat"
+    ],
+    "verification_notes": "MAK'GORA KOMBAT: a fighting game played with your own World of Warcraft characters, in your browser. Commit carries an exact Claude Opus 5.5 / Claude Fable 5.1 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/realworldbuilder/makgorakombat/blob/main/docs/edition-midnight.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only.",
+    "screenshot_rating_10": 7.2,
+    "screenshot_rating_evidence_url": "https://github.com/realworldbuilder/makgorakombat/blob/main/docs/edition-midnight.png",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Side Hustle (formerly Duel Arena)",
+    "github_url": "https://github.com/CorbinPlayz/Side-hustle",
+    "repository_id": 1431783747,
+    "repository_created_at": "2026-10-24T03:42:50Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/CorbinPlayz/Side-hustle/commit/97f6c77090007eb566963299aa9dc124b221f09e",
+    "game_links": [
+      "https://github.com/CorbinPlayz/Side-hustle/blob/main/public/js/render.js",
+      "https://github.com/CorbinPlayz/Side-hustle/blob/main/public/js/game.js",
+      "https://github.com/CorbinPlayz/Side-hustle/blob/main/public/js/sim.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Side Hustle (formerly Duel Arena)"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/CorbinPlayz/Side-hustle"
+    ],
+    "verification_notes": "A first-person 3D loot shooter for two players. Everything runs on one Cloudflare Worker, with no other services. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.3,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "STEX: Rifle Squad",
+    "github_url": "https://github.com/davideverettreed/stex-rifle-squad",
+    "repository_id": 1431800288,
+    "repository_created_at": "2026-10-24T04:10:25Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/davideverettreed/stex-rifle-squad/commit/bdf574abec3f526f014b3b85124c9234b5c36f95",
+    "game_links": [
+      "https://github.com/davideverettreed/stex-rifle-squad/blob/main/docs/index.html",
+      "https://github.com/davideverettreed/stex-rifle-squad/blob/main/src/render.js",
+      "https://github.com/davideverettreed/stex-rifle-squad/blob/main/src/plan.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "STEX: Rifle Squad"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/davideverettreed/stex-rifle-squad"
+    ],
+    "verification_notes": "(squad leader and three four-man fire teams) against an enemy squad, using fire. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Orbit Rush",
+    "github_url": "https://github.com/dehanz13/racing-game-orbit-rush",
+    "repository_id": 1431807465,
+    "repository_created_at": "2026-10-24T04:22:07Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/dehanz13/racing-game-orbit-rush/commit/84c7b3b59782f17bc2a558539ba1ab677ec719d3",
+    "game_links": [
+      "https://github.com/dehanz13/racing-game-orbit-rush/blob/main/src/game/engine.ts",
+      "https://github.com/dehanz13/racing-game-orbit-rush/blob/main/src/config/game.ts",
+      "https://github.com/dehanz13/racing-game-orbit-rush/blob/main/src/game/render/CarModel.tsx"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "TypeScript",
+      "Three.js",
+      "React",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Fable 5.1"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Orbit Rush"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/dehanz13/racing-game-orbit-rush"
+    ],
+    "verification_notes": "An arcade drive-and-collect game that runs entirely in the browser. Built with React, React Three Fiber, Three.js, postprocessing (bloom, vignette), Zustand and Vite. No 3D asset files, no audio files, no backend: every model is procedural geometry, every… Commit carries an exact Claude Fable 5.1 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.1,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Idol Maker",
+    "github_url": "https://github.com/mungsu609-spec/idol-maker",
+    "repository_id": 1431814388,
+    "repository_created_at": "2026-10-24T04:33:35Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/mungsu609-spec/idol-maker/commit/02fd41c8a1fdfcb19a1a6901871a8719cdfa3be2",
+    "game_links": [
+      "https://github.com/mungsu609-spec/idol-maker/blob/main/index.html",
+      "https://github.com/mungsu609-spec/idol-maker/blob/main/idol3d.js",
+      "https://github.com/mungsu609-spec/idol-maker/blob/main/cat2d.js"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Idol Maker"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/mungsu609-spec/idol-maker"
+    ],
+    "verification_notes": "Idol Maker - group idol raising game. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.4,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Wonder Jar",
+    "github_url": "https://github.com/victorabreu13/Wonder-Jar",
+    "repository_id": 1431815145,
+    "repository_created_at": "2026-10-24T04:34:45Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/victorabreu13/Wonder-Jar/commit/760f0e26257e36ac02741e19ca3bcc2009d030b0",
+    "game_links": [
+      "https://github.com/victorabreu13/Wonder-Jar/blob/main/index.html"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Wonder Jar"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/victorabreu13/Wonder-Jar"
+    ],
+    "verification_notes": "Family Game. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 6.7,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "bad_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "WorldRift",
+    "github_url": "https://github.com/YosuaSurianto/Worldrift",
+    "repository_id": 1431825699,
+    "repository_created_at": "2026-10-24T04:52:28Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/YosuaSurianto/Worldrift/commit/10df9416352f9868fe4634ef3982eaf4e3a1b6cb",
+    "game_links": [
+      "https://github.com/YosuaSurianto/Worldrift/blob/main/web/assets-src/environment/envlib.py",
+      "https://github.com/YosuaSurianto/Worldrift/blob/main/web/assets-src/character/build_model.py",
+      "https://github.com/YosuaSurianto/Worldrift/blob/main/web/assets-src/character/build_anims.py"
+    ],
+    "live_demo_url": "https://worldrift.vercel.app",
+    "live_demo_urls": [
+      "https://worldrift.vercel.app"
+    ],
+    "technology": [
+      "Python"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "WorldRift"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/YosuaSurianto/Worldrift"
+    ],
+    "verification_notes": "WorldRift is a browser-based 3D endless runner set in a burning Borneo rainforest. A ranger escapes along a winding forest trail while an orangutan follows. Monad Testnet powers paid runs, revives and transferable premium cosmetic skins. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Live demo returned HTTP 200 (availability only, not a playtest). Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; live demo HTTP 200 only."
+  },
+  {
+    "name": "Pengloo Party",
+    "github_url": "https://github.com/amadeusk1/mruhacks",
+    "repository_id": 1431829561,
+    "repository_created_at": "2026-10-24T04:58:54Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/amadeusk1/mruhacks/commit/6b0dba63bf822388de40612021fbd386129c2ebf",
+    "game_links": [
+      "https://github.com/amadeusk1/mruhacks/blob/main/art/blender/kits/homes.py",
+      "https://github.com/amadeusk1/mruhacks/blob/main/art/blender/common.py",
+      "https://github.com/amadeusk1/mruhacks/blob/main/art/blender/kits/room_kit.py"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Godot",
+      "GDScript"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Pengloo Party"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/amadeusk1/mruhacks"
+    ],
+    "verification_notes": "Working title for a cozy multiplayer penguin town built in Godot. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.9,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/amadeusk1/mruhacks/blob/main/Renders/Game/arcade_room_screens.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 5.6,
+    "screenshot_rating_evidence_url": "https://github.com/amadeusk1/mruhacks/blob/main/Renders/Game/arcade_room_screens.png",
+    "screenshot_rating_on": "2026-10-26"
+  },
+  {
+    "name": "Blindspot (HackPSU Fall 2026)",
+    "github_url": "https://github.com/Orimaster354/hackpsu-fall-2026",
+    "repository_id": 1431842301,
+    "repository_created_at": "2026-10-24T05:20:18Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/Orimaster354/hackpsu-fall-2026/commit/d768fe26d864a4fd8001b4208272024def388995",
+    "game_links": [
+      "https://github.com/Orimaster354/hackpsu-fall-2026/blob/main/Tests/ARScanChecks/main.swift",
+      "https://github.com/Orimaster354/hackpsu-fall-2026/blob/main/MyApp/AR/RoomScanFlow.swift",
+      "https://github.com/Orimaster354/hackpsu-fall-2026/blob/main/server/tools/yoloe_worker.py"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Swift"
+    ],
+    "model_family": [
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Blindspot (HackPSU Fall 2026)"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/Orimaster354/hackpsu-fall-2026"
+    ],
+    "verification_notes": "Blindspot is a social-deduction game, inspired by Among Us, played in a real room on four iPhones. Players walk to real task stations, do motion-based tasks, and try to find the impostor. Commit carries an exact Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Saltmarrow Deep",
+    "github_url": "https://github.com/alemeno-00/Saltmarrow",
+    "repository_id": 1431851355,
+    "repository_created_at": "2026-10-24T05:35:13Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/alemeno-00/Saltmarrow/commit/04637f3a09adff076743eae1060ae93f9d59ac44",
+    "game_links": [
+      "https://github.com/alemeno-00/Saltmarrow/blob/main/index.html",
+      "https://github.com/alemeno-00/Saltmarrow/blob/main/sw.js",
+      "https://github.com/alemeno-00/Saltmarrow/blob/main/android-app/MainActivity.java"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "JavaScript",
+      "Browser"
+    ],
+    "model_family": [
+      "Claude Opus 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Saltmarrow Deep"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/alemeno-00/Saltmarrow"
+    ],
+    "verification_notes": "A gothic roguelike that runs in the browser and installs as an offline app. Commit carries an exact Claude Opus 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 10000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest."
+  },
+  {
+    "name": "Project 3D Iso Game (working title)",
+    "github_url": "https://github.com/kachaj96/Project-3D-iso-game",
+    "repository_id": 1431856555,
+    "repository_created_at": "2026-10-24T05:43:32Z",
+    "added_to_repo_on": "2026-10-26",
+    "evidence_url": "https://github.com/kachaj96/Project-3D-iso-game/commit/4aed7de748045237b9396ff889fcf4f4381f4d62",
+    "game_links": [
+      "https://github.com/kachaj96/Project-3D-iso-game/blob/main/addons/gdUnit4/src/ui/parts/GdUnitInspectorTreeMainPanel.gd",
+      "https://github.com/kachaj96/Project-3D-iso-game/blob/main/addons/gdUnit4/src/GdUnitTestSuite.gd",
+      "https://github.com/kachaj96/Project-3D-iso-game/blob/main/addons/gdUnit4/src/asserts/GdAssertMessages.gd"
+    ],
+    "live_demo_url": null,
+    "live_demo_urls": [],
+    "technology": [
+      "Godot",
+      "GDScript"
+    ],
+    "model_family": [
+      "Claude Opus 5.5",
+      "Claude Sonnet 5.5"
+    ],
+    "method_evidence": "confirmed",
+    "model_evidence": "confirmed",
+    "game_count": 1,
+    "contained_games": [
+      "Project 3D Iso Game (working title)"
+    ],
+    "counted_game_units": 1,
+    "is_independent_game": true,
+    "verification_status": "verified_source",
+    "verified_on": "2026-10-26",
+    "discovery_sources": [
+      "GitHub commit pool: model+game commits 2026-10-24T01:00Z..2026-10-26T01:00Z (30-minute Opus 5.5 partitions from 2026-10-24T20:00Z and wider other-model UTC partitions; covers windows left unsearched on 2026-10-25) joined to repositories created after 2026-10-23T01:00Z",
+      "https://github.com/kachaj96/Project-3D-iso-game"
+    ],
+    "verification_notes": "An isometric tactical adventure RPG for Android, inspired by the feel of Dofus with a darker atmosphere. 2D illustrated art despite the repo name. Built in Godot 4.7 with Claude Code. Commit carries an exact Claude Opus 5.5 / Claude Sonnet 5.5 co-author trailer. Source inspected from README, file tree and commit history only; no playtest.",
+    "gauntlet_loop": false,
+    "flops_estimate_raw": 1000000000,
+    "flops_estimate_unit": "estimated FP32 operations per second at 60 FPS",
+    "flops_estimate_confidence": "low",
+    "flops_estimate_basis": "Static order-of-magnitude estimate from the renderer and simulation type; not measured.",
+    "quality_estimate_10": 7.6,
+    "quality_estimate_basis": "Heuristic from source size, README and commit history (5.8 + 0.6*log10(code KB+1), +0.3 with a reachable demo); no runtime playtest.",
+    "screenshot_urls": [
+      "https://github.com/kachaj96/Project-3D-iso-game/blob/main/docs/img/m1_camera_corner.png"
+    ],
+    "youtube_urls": [],
+    "publication_date_status": "repository_created_only",
+    "prompt": "The complete prompt was not published in the verified source.",
+    "prompt_origin": "unknown",
+    "prompt_evidence_url": null,
+    "quality_category": "curated_games",
+    "runtime_test_status": "Source inspected; no live demo checked or runtime playtest.",
+    "screenshot_rating_10": 5.3,
+    "screenshot_rating_evidence_url": "https://github.com/kachaj96/Project-3D-iso-game/blob/main/docs/img/m1_camera_corner.png",
+    "screenshot_rating_on": "2026-10-26"
   }
 ]

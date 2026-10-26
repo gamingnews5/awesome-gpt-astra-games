@@ -9340,6 +9340,186 @@
       "reason": "Use this frame for the game-level score. Night city skyscrapers with neon edges and a car on a wall; atmospheric 3D scene.",
       "reviewed_on": "2026-10-25",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Nate1506/AFO",
+      "url": "https://github.com/Nate1506/AFO/blob/main/design/screenshots/baseline_1920x1080.png",
+      "game": "Say It Again",
+      "score_10": 5.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Bold blue title menu reading Against the Current with Play, Settings and Quit; clean but text-only.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kiezpower/Flintworks",
+      "url": "https://github.com/kiezpower/Flintworks/blob/main/docs/itch/screenshot-1-de.png",
+      "game": "Flintworks",
+      "score_10": 7.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel-physics side view of a dug-out village with windmill, crew and tunnels; rich, cohesive retro art.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/leftym/OdSelaDoSuperligeMobile",
+      "url": "https://github.com/leftym/OdSelaDoSuperligeMobile/blob/main/game/src/img/award-kafana.webp",
+      "game": "Od Sela do Superlige",
+      "score_10": 6.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Painted tavern scene of football fans celebrating; attractive illustration, not live gameplay.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/datazuul/amade-hover-cab-game",
+      "url": "https://github.com/datazuul/amade-hover-cab-game/blob/develop/docs/screenshots/amade-hover-cab-game.png",
+      "game": "amade-hover-cab-game",
+      "score_10": 6.3,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Night city stage with neon buildings, a hover cab and HUD bar; tidy pixel layout.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/vythanhtra/Bip-Bup-Game",
+      "url": "https://github.com/vythanhtra/Bip-Bup-Game/blob/main/.10x/reviews/shots/03-tutorial-arrow.png",
+      "game": "Bá Khí: Battle Aura (Bíp Bụp Game)",
+      "score_10": 5.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Mobile pixel scene of two chickens in a green field with a hearts HUD; simple but readable.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/skyler-lab/spirit-battle",
+      "url": "https://github.com/skyler-lab/spirit-battle/blob/main/docs/img/base-island-top.jpg",
+      "game": "Spirit Battle (Roblox)",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down arena of green dice-like tiles around a center ring; flat and sparse.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kdrgny-dev/kervan",
+      "url": "https://github.com/kdrgny-dev/kervan/blob/main/docs/design/stage4/mockups/hero_select.png",
+      "game": "Kervan",
+      "score_10": 6.5,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Hero-select screen with four illustrated character cards and stats; polished mobile UI.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/GiladGlo/StarSwarm",
+      "url": "https://github.com/GiladGlo/StarSwarm/blob/main/Code/monsters-ingame.gif",
+      "game": "Star Swarm",
+      "score_10": 6.9,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Space shooter with a colourful alien formation and glowing shots on a starfield; vivid and readable.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ShubbeLeontij/heroes",
+      "url": "https://github.com/ShubbeLeontij/heroes/blob/master/docs/boards/elementals.png",
+      "game": "Герои",
+      "score_10": 5.4,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Board-game map and card layout on parchment; detailed but small and hard to read.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/KeithThurlow/pilgrim-mechanica-2",
+      "url": "https://github.com/KeithThurlow/pilgrim-mechanica-2/blob/main/docs/asset-shots/W1/game12_34front.jpg",
+      "game": "Pilgrim Mechanica 2",
+      "score_10": 6.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Clean render of a walking mech with rocket pods on sand; nice model, not gameplay.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/reseed-ops/bubbles-even-g2",
+      "url": "https://github.com/reseed-ops/bubbles-even-g2/blob/master/screenshots/1-title.png",
+      "game": "Bubbles",
+      "score_10": 4.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Monochrome green text screen with controls for a bubble shooter on smart glasses; minimal.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/aalexander2017/CardGames",
+      "url": "https://github.com/aalexander2017/CardGames/blob/main/app/src/test/snapshots/images/com.aviscardtable.ui_CardArtSnapshotTest_classicFaces.png",
+      "game": "Phredd's Card Table, Puzzle Table, Mahjong, Word Search and Marble Challenge",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Solitaire card layout on green felt in a phone frame; plain but clear.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/samerrahman/CalHacks-13.0",
+      "url": "https://github.com/samerrahman/CalHacks-13.0/blob/main/docs/screenshots/shelter.jpg",
+      "game": "HUSH",
+      "score_10": 6.7,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark first-person lab with glowing monitors and machinery; moody horror lighting.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/wlin84602-pixel/wonder-royale",
+      "url": "https://github.com/wlin84602-pixel/wonder-royale/blob/main/server/test/shot-match.png",
+      "game": "Wonder Royale: online",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down battle royale map with buildings, trees and HUD panels; busy but legible.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/trungle42/Storybound",
+      "url": "https://github.com/trungle42/Storybound/blob/main/docs/images/avatars-before-after.jpg",
+      "game": "Storybound",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Third-person forest scene with characters and three dialogue portraits; decent 3D, cluttered layout.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/realworldbuilder/makgorakombat",
+      "url": "https://github.com/realworldbuilder/makgorakombat/blob/main/docs/edition-midnight.png",
+      "game": "MAK'GORA KOMBAT",
+      "score_10": 7.2,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Champion-select screen with WoW-style portraits and logo; striking, polished art.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/amadeusk1/mruhacks",
+      "url": "https://github.com/amadeusk1/mruhacks/blob/main/Renders/Game/arcade_room_screens.png",
+      "game": "Pengloo Party",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Low-poly arcade room with a row of cabinets; warm but empty.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kachaj96/Project-3D-iso-game",
+      "url": "https://github.com/kachaj96/Project-3D-iso-game/blob/main/docs/img/m1_camera_corner.png",
+      "game": "Project 3D Iso Game (working title)",
+      "score_10": 5.3,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric green grid with stone blocks and a small character; clean prototype look.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
