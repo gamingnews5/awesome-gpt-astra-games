@@ -1,6 +1,6 @@
 # GPT-6.1 Sol games
 
-Browse **13 curated game units** from **13 source repositories** attributed to GPT-6.1 Sol. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **14 curated game units** from **14 source repositories** attributed to GPT-6.1 Sol. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -13,11 +13,11 @@ Browse **13 curated game units** from **13 source repositories** attributed to G
 | [Voxel Spacegame](../games/voxel-spacegame/readme.md) | ⭐ 8.3 | [✓ direct model evidence](https://github.com/frankev6/voxel-spacegame/commit/885cd2020209912fd5b406ee953302e347d1cb70) |
 | [Night Voyage (星筹夜航)](../games/night-voyage/readme.md) | ⭐ 8.0 | [? inferred model evidence](https://github.com/Linwei-Chen/gpt-game-night-voyage/blob/main/README.md) |
 | [VLAK](../games/vlak/readme.md) | ⭐ 7.9 | [≈ creator-reported model evidence](https://github.com/rostaklein/vlak/commit/b938899d1c370f058a0f83ff4b484b4c83c94c8f) |
+| [Meld](../games/meld/readme.md) | ⭐ 7.8 | [✓ direct model evidence](https://github.com/andreasmwenzel/meld-with-friends/commit/5531f3177209857346a2d21e5b0b5e08fd1fd3d8) |
 | [Space Attack](../games/space-attack/readme.md) | ⭐ 7.8 | [≈ creator-reported model evidence](https://github.com/vannorman/space_attack/blob/main/README.md) |
 | [Fish Running](../games/fish-running/readme.md) | ⭐ 7.7 | [✓ direct model evidence](https://github.com/EDMOK/fishrunning/commit/c25aaa2cef12aa32b1c1cbb7d22ed29dc40bb52e) |
 | [ORBITAL — 星環機関](../games/orbital/readme.md) | ⭐ 7.7 | [≈ creator-reported model evidence](https://github.com/SunnyWell81-ai-generated/orbital-game/blob/main/README.md) |
 | [Starwing](../games/starwing/readme.md) | ⭐ 7.7 | [? inferred model evidence](https://github.com/RedRoosterMobile/BevyStarwing/blob/master/README.md) |
-| [CHANNEL // SURF](../games/channel-surf/readme.md) | ⭐ 7.6 | [≈ creator-reported model evidence](https://github.com/steling1/Channel-Surfer/blob/main/README.md) |
 
 ## Game library
 
@@ -26,7 +26,7 @@ Browse **13 curated game units** from **13 source repositories** attributed to G
 - 🎮 [Other Browser Games](#other-browser-games) — **2 game units**
 - 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **4 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **1 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **1 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **2 game units**
 
 ## Racing and Vehicles
 
@@ -67,6 +67,7 @@ Browse **13 curated game units** from **13 source repositories** attributed to G
 
 ## Adventure, RPG, and Exploration
 
+- [**Meld**](../games/meld/readme.md) — ⭐ **7.8/10** · Claude Opus 5.5, Claude Fable 5.1, GPT-6.1 Sol · TypeScript, Browser · [✓ direct model evidence](https://github.com/andreasmwenzel/meld-with-friends/commit/5531f3177209857346a2d21e5b0b5e08fd1fd3d8) · [files](https://github.com/andreasmwenzel/meld-with-friends/blob/main/src/components/table/Game.tsx) · [play](https://meld.insulatorgap.com) · 📸 **4.8/10** · [screenshot](https://github.com/andreasmwenzel/meld-with-friends/blob/main/docs/screens/trick-1280.png)
 - [**Afterhours Chess**](../games/afterhours-chess/readme.md) — ⭐ **7.5/10** · GPT-6.1 Sol · JavaScript, Browser · [✓ direct model evidence](https://github.com/AndyYan999/chess/commit/83b8ff602ec282ffa5fc074be9ed3aa3e781a056) · [files](https://github.com/AndyYan999/chess/blob/main/index.html) · [play](https://andyyan999.github.io/chess/)
 
 [Back to game library](#game-library)

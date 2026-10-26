@@ -10580,6 +10580,156 @@
       "reason": "Use this frame for the game-level score. Football play diagram with routes; functional, plain.",
       "reviewed_on": "2026-10-26",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/vmttri-glitch/midnightpaws",
+      "url": "https://github.com/vmttri-glitch/midnightpaws/blob/main/docs/intro-cutscene/references/boss_athlete_cat.png",
+      "game": "Midnight Paws",
+      "score_10": 5.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Cute yellow cat with headband 3D render on grey; charming character.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Pappydapimp69/Doorbuster",
+      "url": "https://github.com/Pappydapimp69/Doorbuster/blob/ccr-1c80d350-gl0ii0/store/screenshots/02_toys_150s.png",
+      "game": "Doorbuster",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down store floor crowded with shoppers and promo banner; busy survivors-like.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mykkro/mouse-quest",
+      "url": "https://github.com/mykkro/mouse-quest/blob/main/docs/images/game.png",
+      "game": "Mouse Quest: rat parkour prototype",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark 3D beams with a small rat and debug text; prototype look.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kdt26aie40004-crypto/my-game",
+      "url": "https://github.com/kdt26aie40004-crypto/my-game/blob/main/images/title.png",
+      "game": "RUIN ASCENT",
+      "score_10": 6.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Sunset pixel ruins title for Ruin Ascent; warm palette.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/andreasmwenzel/meld-with-friends",
+      "url": "https://github.com/andreasmwenzel/meld-with-friends/blob/main/docs/screens/trick-1280.png",
+      "game": "Meld",
+      "score_10": 4.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pinochle table on maroon felt with cards; clean but plain.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/TanvirHafiz/kalo-taka",
+      "url": "https://github.com/TanvirHafiz/kalo-taka/blob/main/itch/screenshots/01-city_day_hud.png",
+      "game": "Kalo Taka",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel Dhaka skyline street with traffic and UI; charming side view.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/realRoc/dfy-pet-game",
+      "url": "https://github.com/realRoc/dfy-pet-game/blob/main/docs/expressions.png",
+      "game": "大肥鱼",
+      "score_10": 5.0,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Grid of chibi whale-girl pet sprites; cute asset sheet.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AceDZN/frost-and-flame",
+      "url": "https://github.com/AceDZN/frost-and-flame/blob/main/docs/captures/01-first-30s-actual.png",
+      "game": "Frost & Flame",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D snowy blocks with steampunk buildings and HUD; colourful science game.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/manishehehe/streamlit.app",
+      "url": "https://github.com/manishehehe/streamlit.app/blob/main/screenshots/01_home.png",
+      "game": "AI Quest",
+      "score_10": 3.8,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. White Streamlit quiz page with red bars; plain UI.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/VitoKOK-lab/gemstudio",
+      "url": "https://github.com/VitoKOK-lab/gemstudio/blob/main/dist/images/cuts/advanced-asscher.webp",
+      "game": "泰熙爾札娜 珠寶切磨工坊",
+      "score_10": 5.4,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Faceted blue gem render on black; nice but single object.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/GBM-Gulai/satzschmiede",
+      "url": "https://github.com/GBM-Gulai/satzschmiede/blob/main/docs/assets/bg/a1-2-wide.jpg",
+      "game": "Satzschmiede",
+      "score_10": 6.4,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Painted European market street with produce stalls; rich illustration.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/TamanegiNinja25/JJK-Mobile-Game",
+      "url": "https://github.com/TamanegiNinja25/JJK-Mobile-Game/blob/main/docs/screenshots/title.jpg",
+      "game": "Cursed Chronicles",
+      "score_10": 5.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Cursed Chronicles title over a 3D temple courtyard; decent.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/cn-eveer/shadow-qi",
+      "url": "https://github.com/cn-eveer/shadow-qi/blob/main/assets/shot-super.jpg",
+      "game": "Shadow Qi",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Super move with Shadow Army text and combo counter; dynamic.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jaking-studios/shiftscape",
+      "url": "https://github.com/jaking-studios/shiftscape/blob/main/docs/media/shiftscape-preview.gif",
+      "game": "Shiftscape",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Low-poly checkpoint platform with hero and HUD; simple 3D.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/selfer08/life-game",
+      "url": "https://github.com/selfer08/life-game/blob/main/docs/screenshots/3-game.png",
+      "game": "인생게임 웹",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Colourful life board path with spinner and side panels; busy but clear.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

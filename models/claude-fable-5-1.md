@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **321 curated game units** from **253 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **323 curated game units** from **255 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -36,12 +36,12 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 
 ## Game library
 
-- 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **79 game units**
+- 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **80 game units**
 - 💥 [Action and Shooters](#action-and-shooters) — **59 game units**
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **8 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **12 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **40 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **110 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **111 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **8 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **5 game units**
 
@@ -86,6 +86,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**My World in a Box**](../games/my-world-in-a-box/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Fable 5.1 · Godot, GDScript, Android · [✓ direct model evidence](https://github.com/happihack/MyWorld/commit/517db20c277408ed231c74e8576ca9e909bd85ae) · [files](https://github.com/happihack/MyWorld/blob/main/scripts/audio/sound_synth.gd)
 - [**Party Chaos**](../games/party-chaos/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · Roblox, Luau · [≈ creator-reported model evidence](https://github.com/lawrenceandrewlargo/roblox-extreme-minigames) · **37 documented units:** 37 original Roblox party minigames
 - [**PortalShift**](../games/portalshift/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · C#, Unity, Desktop · [✓ direct model evidence](https://github.com/chvolk/PortalShifter/commit/f9151e0586296eb2ddde411f037a49c93ea20900) · [files](https://github.com/chvolk/PortalShifter/blob/main/unity/PortalShift/Assets/PortalShift/Editor/TrackGen.cs)
+- [**Shiftscape**](../games/shiftscape/readme.md) — ⭐ **7.5/10** · Claude Sonnet 5.5, Claude Fable 5.1 · Unity, C# · [✓ direct model evidence](https://github.com/jaking-studios/shiftscape/commit/271a9bbf596af2fa68435417d7b5f68c1128b1b0) · [files](https://github.com/jaking-studios/shiftscape/blob/main/Assets/Shiftscape/Scripts/World/LevelBuilder.cs) · [play](https://jaking-studios.github.io/shiftscape/play/) · 📸 **5.4/10** · [screenshot](https://github.com/jaking-studios/shiftscape/blob/main/docs/media/shiftscape-preview.gif)
 - [**Heroi (ГЕРОЇ)**](../games/heroi/readme.md) — ⭐ **7.4/10** · Claude Fable 5.1 · Godot, GDScript · [✓ direct model evidence](https://github.com/aleszorc/heroi/commit/909e381b98cd6a5bea1126a27318fde0ffbde779) · [files](https://github.com/aleszorc/heroi/blob/main/scripts/art/mesh_factory.gd) · 📸 **6.2/10** · [screenshot](https://github.com/aleszorc/heroi/blob/main/docs/screenshots/battle.png)
 - [**Printshop Tycoon**](../games/printshop-tycoon/readme.md) — ⭐ **7.4/10** · Claude Opus 5.5, Claude Fable 5.1 · Unity, C# · [✓ direct model evidence](https://github.com/Reberholt/printshop-tycoon/commit/bd3d1a46de2f69f5305cfca4007617c3471f668f) · [files](https://github.com/Reberholt/printshop-tycoon/blob/main/Assets/PrintshopTycoon/Scripts/Runtime/UI/UIManager.Panels.cs)
 - [**Spirit Battle (Roblox)**](../games/spirit-battle-roblox/readme.md) — ⭐ **7.2/10** · Claude Opus 5.5, Claude Fable 5.1 · Roblox, Luau · [✓ direct model evidence](https://github.com/skyler-lab/spirit-battle/commit/62121d3a8dd6faa8440580005c1e4308140777f5) · [files](https://github.com/skyler-lab/spirit-battle/blob/main/src/ReplicatedStorage/BattleFXPack/FX.luau) · 📸 **5.0/10** · [screenshot](https://github.com/skyler-lab/spirit-battle/blob/main/docs/img/base-island-top.jpg)
@@ -255,6 +256,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**tesla-games**](../games/tesla-games/readme.md) — ⭐ **7.9/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/700799/tesla-games/commit/028aff15e1ecb648d15717111be54bbb58bd7701) · [files](https://github.com/700799/tesla-games/blob/main/physics-park/index.html)
 - [**The Proxima Trail**](../games/the-proxima-trail/readme.md) — ⭐ **7.9/10** · Claude Opus 5.5, Claude Sonnet 5.5, Claude Fable 5.1 · TypeScript, Phaser, Browser · [✓ direct model evidence](https://github.com/zachruss1987-apple/space-oregon-trail/commit/6a57be8a0b4ce54072faabc733539432b61a1757) · [files](https://github.com/zachruss1987-apple/space-oregon-trail/blob/main/src/gfx/sprites/stations.ts) · [play](https://zachruss1987-apple.github.io/space-oregon-trail/) · 📸 **5.0/10** · [screenshot](https://github.com/zachruss1987-apple/space-oregon-trail/blob/main/tests/e2e/__screenshots__/win32/visual.spec.ts/Arrival.png)
 - [**The Whole You**](../games/the-whole-you/readme.md) — ⭐ **7.9/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Three.js, Browser · [✓ direct model evidence](https://github.com/ZeroOrigine/zo-thewholeyou/commit/4e802f8ec090333153216d81c84aaf1db7340132) · [files](https://github.com/ZeroOrigine/zo-thewholeyou/blob/main/docs/index.html) · [play](https://thewholeyou.zeroorigine.com)
+- [**Meld**](../games/meld/readme.md) — ⭐ **7.8/10** · Claude Opus 5.5, Claude Fable 5.1, GPT-6.1 Sol · TypeScript, Browser · [✓ direct model evidence](https://github.com/andreasmwenzel/meld-with-friends/commit/5531f3177209857346a2d21e5b0b5e08fd1fd3d8) · [files](https://github.com/andreasmwenzel/meld-with-friends/blob/main/src/components/table/Game.tsx) · [play](https://meld.insulatorgap.com) · 📸 **4.8/10** · [screenshot](https://github.com/andreasmwenzel/meld-with-friends/blob/main/docs/screens/trick-1280.png)
 - [**MoeGo 毛孩子全明星创意方案**](../games/moego/readme.md) — ⭐ **7.8/10** · Claude Opus 5.5, Claude Sonnet 5.5, Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/sakiila/moego-pet-match/commit/79608d4742962849aabaf55219ac4d3f9ced4b8d) · [files](https://github.com/sakiila/moego-pet-match/blob/main/assets/icons/library-original-png-v2/preview.html) · 📸 **4.8/10** · [screenshot](https://github.com/sakiila/moego-pet-match/blob/main/acceptance/stage1/05-combo-preview.jpg)
 - [**Pats Reign**](../games/pats-reign/readme.md) — ⭐ **7.8/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Three.js, Browser · [✓ direct model evidence](https://github.com/Devon-cadaver/pats-reign/commit/a72a259481f67aebe45bb98925bdcc1c7fe5e2da) · [files](https://github.com/Devon-cadaver/pats-reign/blob/main/release/valhallas-tide-bestiary.html)
 - [**PROJECT JEZZA: HUNTER VALLEY LEGENDS**](../games/project-jezza-hunter-valley-legends/readme.md) — ⭐ **7.8/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Three.js, React, Browser · [✓ direct model evidence](https://github.com/travex-pixel/Jezza-Secret-Mission/commit/7354f621a78a45fa9edc7bd1c94d5a8270148de5) · [files](https://github.com/travex-pixel/Jezza-Secret-Mission/blob/ccr-660c5996-dtq1zc/shared/engine.ts) · [play](https://travex-pixel.github.io/Jezza-Secret-Mission/) · 📸 **5.0/10** · [screenshot](https://github.com/travex-pixel/Jezza-Secret-Mission/blob/ccr-660c5996-dtq1zc/docs/social-card.jpg)
