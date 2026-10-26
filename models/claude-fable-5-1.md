@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **320 curated game units** from **252 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **321 curated game units** from **253 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -41,7 +41,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **8 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **12 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **40 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **109 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **110 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **8 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **5 game units**
 
@@ -304,6 +304,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Ghost Buster GO**](../games/ghost-buster-go/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/shamoug/Gbuster/commit/5840e4186162317bb82487269ddf1900d4182e7b) · [files](https://github.com/shamoug/Gbuster/blob/main/play/index.html) · [play](https://shamoug.github.io/Gbuster/) · 📸 **5.8/10** · [screenshot](https://github.com/shamoug/Gbuster/blob/main/shots/ar-example-1-street-blast.png)
 - [**Lander**](../games/lander/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/briandgoldberg/Lander/commit/98fa3bc6753f6167f6a60a162538ad9136612f3d) · [files](https://github.com/briandgoldberg/Lander/blob/main/index.html) · [play](https://lander-topaz.vercel.app)
 - [**NCAA Two-Minute Drill (ncaa2mindrill.com)**](../games/ncaa-two-minute-drill-ncaa2mindrill-com/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · Python, Browser · [✓ direct model evidence](https://github.com/RickMcIntyre/ncaa2mindrill/commit/39d29b7e40de2d918acb3caef7f69bcb4f6eb18f) · [files](https://github.com/RickMcIntyre/ncaa2mindrill/blob/main/docs/app.js)
+- [**Party Games**](../games/party-games/readme.md) — ⭐ **7.3/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/alphacorrections/party-games/commit/76e1a8d09b84ad1395107239ddc1a1d85e5b10d1) · [files](https://github.com/alphacorrections/party-games/blob/main/src/games/board.js)
 - [**Pitch Perfect**](../games/pitch-perfect/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/iagllc/pitch-perfect/commit/40ccc57ceb69dc92ad30695aec8869a79da35b88) · [files](https://github.com/iagllc/pitch-perfect/blob/main/js/main.js)
 - [**Raid — a co-op AR RPG where Gemma 4 is the dungeon master**](../games/raid-a-co-op-ar-rpg-where-gemma-4-is-the-dungeon-master/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · Kotlin · [✓ direct model evidence](https://github.com/hocmemini/gemma-raid/commit/04ac5d240c847ca5105780f3f102e43242a217dc) · [files](https://github.com/hocmemini/gemma-raid/blob/main/android/app/src/main/kotlin/com/hocmemini/raid/GameSession.kt) · 📸 **3.8/10** · [screenshot](https://github.com/hocmemini/gemma-raid/blob/main/docs/screenshots/lobby.png)
 - [**Riichi Table**](../games/riichi-table/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/Chewyslaw/riichi-table/commit/cbcbe023c788ff9d7ec067fb10721ee6210e81bb) · [files](https://github.com/Chewyslaw/riichi-table/blob/main/public/app.js)

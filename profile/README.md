@@ -4,9 +4,9 @@
 
 <a href="https://games.omgithub.com/"><img src="../assets/awesome-ai-games.svg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" /></a>
 
-### 3484 curated game units. 3177 qualifying source repositories.
+### 3530 curated game units. 3223 qualifying source repositories.
 
-[![Games](https://img.shields.io/badge/GAMES-3484-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-3177-2563eb?style=for-the-badge&logo=github&logoColor=white)](../games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-723-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
+[![Games](https://img.shields.io/badge/GAMES-3530-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-3223-2563eb?style=for-the-badge&logo=github&logoColor=white)](../games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-731-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
 
 [![Stars](https://img.shields.io/github/stars/gamingnews5/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/gamingnews5/awesome-opus-5.5-games/stargazers) [![Forks](https://img.shields.io/github/forks/gamingnews5/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/gamingnews5/awesome-opus-5.5-games/forks)
 
@@ -82,9 +82,9 @@ Select a model to browse its ranked games and screenshots. Count each multi-mode
 
 | Model | Game units | Source repositories |
 | --- | ---: | ---: |
-| [Claude Opus 5.5](../models/claude-opus-5-5.md) | **2290** | 2257 |
-| [Claude Sonnet 5.5](../models/claude-sonnet-5-5.md) | **520** | 494 |
-| [Claude Fable 5.1](../models/claude-fable-5-1.md) | **320** | 252 |
+| [Claude Opus 5.5](../models/claude-opus-5-5.md) | **2336** | 2303 |
+| [Claude Sonnet 5.5](../models/claude-sonnet-5-5.md) | **521** | 495 |
+| [Claude Fable 5.1](../models/claude-fable-5-1.md) | **321** | 253 |
 | [Claude Fable 5](../models/claude-fable-5.md) | **205** | 97 |
 | [Claude Opus 5](../models/claude-opus-5.md) | **126** | 111 |
 | [GPT-6 Astra](../models/gpt-6-astra.md) | **115** | 86 |
@@ -117,8 +117,8 @@ Select a model to browse its ranked games and screenshots. Count each multi-mode
 | 6 | [**NBA History Simulator**](../games/nba-history-simulator/readme.md) | ⭐ **8.3** | Claude Opus 5.5 | 2026-10-26 |
 | 7 | [**Play More Learn More**](../games/play-more-learn-more/readme.md) | ⭐ **8.3** | Claude Opus 5.5 | 2026-10-26 |
 | 8 | [**Rekor Arcade**](../games/rekor-arcade/readme.md) | ⭐ **8.3** | Claude Opus 5.5 | 2026-10-26 |
-| 9 | [**Lamp: Bible Word Puzzle**](../games/lamp-bible-word-puzzle/readme.md) | ⭐ **8.2** | Claude Opus 5.5 | 2026-10-26 |
-| 10 | [**Mammble**](../games/mammble/readme.md) | ⭐ **8.2** | Claude Opus 5.5 | 2026-10-26 |
+| 9 | [**AmmaraGames**](../games/ammaragames/readme.md) | ⭐ **8.2** | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-26 |
+| 10 | [**Lamp: Bible Word Puzzle**](../games/lamp-bible-word-puzzle/readme.md) | ⭐ **8.2** | Claude Opus 5.5 | 2026-10-26 |
 
 ## New source repositories yesterday and today
 
@@ -126,14 +126,38 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 
 | Repository | Game units | Model | Created (UTC) |
 | --- | ---: | --- | --- |
+| [Frost Peak Climber](../games/frost-peak-climber/readme.md) ([source](https://github.com/kdt26aie40008-ux/-)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [The Increaser](../games/the-increaser/readme.md) ([source](https://github.com/Increaser-live/Increaser)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Velvet Thorn](../games/velvet-thorn/readme.md) ([source](https://github.com/meero105-cloud/velvet-thorn)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Table for One · Phase 4](../games/table-for-one-phase-4/readme.md) ([source](https://github.com/caseylinfei-create/Table-for-One)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Warehouse Run · KitFlow](../games/warehouse-run-kitflow/readme.md) ([source](https://github.com/kyushira/warehouse-run)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [A-Maze](../games/a-maze/readme.md) ([source](https://github.com/evenstephen85/A-Maze_App)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Cruising USA VR](../games/cruising-usa-vr/readme.md) ([source](https://github.com/Mrimagemakers/CrusingUSA)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Hop Hop Runner](../games/hop-hop-runner/readme.md) ([source](https://github.com/johnnyhawk02/hop-hop-runner)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Loop Rebirth](../games/loop-rebirth/readme.md) ([source](https://github.com/johnnysins24/looprebirth)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Forkline](../games/forkline/readme.md) ([source](https://github.com/bartbasi/forkline)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Dream Game](../games/dream-game/readme.md) ([source](https://github.com/brophya310/dream-game)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Barrel Royale](../games/barrel-royale/readme.md) ([source](https://github.com/Rydhlnst/barrel-royale)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Lattice](../games/lattice-akuforge-lattice/readme.md) ([source](https://github.com/akuforge/lattice)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Hohmann's Reach](../games/hohmann-s-reach/readme.md) ([source](https://github.com/JonasMerrell/space-rts)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Tidewall](../games/tidewall/readme.md) ([source](https://github.com/CheeseyDanish/TideFall)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [The Hollow Between](../games/the-hollow-between/readme.md) ([source](https://github.com/jaineil32624/the-hollow-between)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Kurang Berapa Rakaatku?](../games/kurang-berapa-rakaatku/readme.md) ([source](https://github.com/Puntadewaitb/sholatku)) | 1 | Claude Opus 5.5 | 2026-10-26 |
 | [화학 섬 이야기](../games/game-bldoijoa01-lab-chem-island/readme.md) ([source](https://github.com/bldoijoa01-lab/chem-island)) | 1 | Claude Sonnet 5.5 | 2026-10-26 |
+| [Doodle's Playhouse](../games/doodle-s-playhouse/readme.md) ([source](https://github.com/alceledon/doodles-playhouse)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Ashen Crown (jjcw1337-rgb)](../games/ashen-crown-jjcw1337-rgb/readme.md) ([source](https://github.com/jjcw1337-rgb/ashen-crown)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Lifeline](../games/lifeline/readme.md) ([source](https://github.com/treyspoonamore1/mobile-game)) | 1 | Claude Opus 5.5 | 2026-10-26 |
 | [Charbaman](../games/charbaman/readme.md) ([source](https://github.com/Yassinelaadraoui/charbaman)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Football Dice](../games/football-dice/readme.md) ([source](https://github.com/evanstom273/Claude-test-III)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Muros de Jerusalém](../games/muros-de-jerusalem/readme.md) ([source](https://github.com/DaniSacra/muros-de-jerusalem)) | 1 | Claude Opus 5.5 | 2026-10-26 |
 | [StackClimb](../games/stackclimb/readme.md) ([source](https://github.com/GaaamJ/StackClimb)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-26 |
 | [Candy Wall](../games/candy-wall/readme.md) ([source](https://github.com/etwilliams/candy-wall)) | 1 | Claude Sonnet 5.5 | 2026-10-26 |
 | [Pen Flick](../games/pen-flick/readme.md) ([source](https://github.com/shahriarahi/pen-flick)) | 1 | Claude Opus 5.5 | 2026-10-26 |
 | [Sun Devil Sip-Off](../games/sun-devil-sip-off/readme.md) ([source](https://github.com/paulanthony-alt/beer)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Queens](../games/queens/readme.md) ([source](https://github.com/berwickgeek/queens)) | 1 | Claude Opus 5.5 | 2026-10-26 |
 | [Ipad Mama](../games/ipad-mama/readme.md) ([source](https://github.com/milodinasour/ipad-mama)) | 1 | Claude Opus 5.5 | 2026-10-26 |
 | [Taterpeeler](../games/taterpeeler/readme.md) ([source](https://github.com/potatoguy79/taterpeeler)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Castle Defense (Slotsforsvar)](../games/castle-defense-slotsforsvar/readme.md) ([source](https://github.com/Lykhan28/slotsforsvar)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [TOP BUNK](../games/top-bunk/readme.md) ([source](https://github.com/cbgregg/top-bunk)) | 1 | Claude Sonnet 5.5 | 2026-10-25 |
 | [HOW Much!?](../games/how-much/readme.md) ([source](https://github.com/MattRahmeier/how-much)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Platform Zero](../games/platform-zero/readme.md) ([source](https://github.com/apratim3490/p-zero)) | 1 | Claude Opus 5.5 | 2026-10-25 |
@@ -145,12 +169,15 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [0.001% Drop Chance](../games/0-001-drop-chance/readme.md) ([source](https://github.com/gdjustin/drop-chance)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Bruno's Elephant Safari](../games/bruno-s-elephant-safari/readme.md) ([source](https://github.com/mariotristan/elephants)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Zarch in Chrome](../games/zarch-in-chrome/readme.md) ([source](https://github.com/brew-your-own/zarch-in-chrome)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Kurukshetra: A Life](../games/kurukshetra-a-life/readme.md) ([source](https://github.com/Apurv706/Mahabharata-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Crosstown](../games/crosstown/readme.md) ([source](https://github.com/jmzidek9/GTA-taxi-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Irish Poker](../games/irish-poker/readme.md) ([source](https://github.com/Paramonos37/irish-poker)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Venkovní hra (outdoor game)](../games/venkovni-hra-outdoor-game/readme.md) ([source](https://github.com/jirik22/outdoor-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Prime Split](../games/prime-split/readme.md) ([source](https://github.com/smallnumbersstudio-art/prime-split)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Skerry Light](../games/skerry-light/readme.md) ([source](https://github.com/OotBoot/skerry-light)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Cash Quest](../games/cash-quest/readme.md) ([source](https://github.com/forrestgump2000/cash-quest)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [NULL SIGNAL](../games/null-signal/readme.md) ([source](https://github.com/hassanaldajah/null-signal)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [SNAP IQ](../games/snap-iq/readme.md) ([source](https://github.com/gevagit/snap-iq)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Gene Ranch](../games/gene-ranch/readme.md) ([source](https://github.com/AceDZN/gene-ranch)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Family Game Night](../games/family-game-night/readme.md) ([source](https://github.com/anthony-codispoti/family-game-night)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Pawsphemy](../games/pawsphemy/readme.md) ([source](https://github.com/henriquerochars/pawsphemy)) | 1 | Claude Fable 5.1 | 2026-10-25 |
@@ -159,12 +186,15 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [Launch Week](../games/launch-week/readme.md) ([source](https://github.com/kamaribedwarddev/launch-week)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Game Hangar](../games/game-hangar/readme.md) ([source](https://github.com/delnoa98/Games)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Super Pip Bros. (TheAmoungMcer)](../games/super-pip-bros-theamoungmcer/readme.md) ([source](https://github.com/TheAmoungMcer/super-pip-bros-play)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Lodestone](../games/lodestone/readme.md) ([source](https://github.com/BrandonSigil/lodestone)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Station Blackout](../games/station-blackout/readme.md) ([source](https://github.com/hardwaremack-prog/station-blackout)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [ABC Race](../games/abc-race/readme.md) ([source](https://github.com/kali-luke/ABC-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [행성 지키기 (Planet Saving Game)](../games/planet-saving-game/readme.md) ([source](https://github.com/JMH-Chem/Planet-Saving-Game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Brain Snacks · חטיפים למוח](../games/brain-snacks/readme.md) ([source](https://github.com/rennenc/brain-snacks)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Le Cube](../games/le-cube/readme.md) ([source](https://github.com/nbbou81000/le-cube-server)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Food Truck Turf War](../games/food-truck-turf-war/readme.md) ([source](https://github.com/celestialdubsss/food-truck-turf-war)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Tap Athletics](../games/tap-athletics/readme.md) ([source](https://github.com/skoorbydna-lab/Javelin-toss)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Cyber City Tactics](../games/cyber-city-tactics/readme.md) ([source](https://github.com/CptNope/Cyber-City-Tactics)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [The District](../games/the-district/readme.md) ([source](https://github.com/formcreative/TheDistrict)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Game night](../games/game-night-kevindeslauriers-hangman/readme.md) ([source](https://github.com/kevindeslauriers/hangman)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Adventure Chess](../games/adventure-chess/readme.md) ([source](https://github.com/hdunkel/adventure-chess)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-25 |
@@ -175,6 +205,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [Paige's Snake](../games/paige-s-snake/readme.md) ([source](https://github.com/mpacula/paigesnake)) | 1 | Claude Fable 5.1 | 2026-10-25 |
 | [Tesla Tricks](../games/tesla-tricks/readme.md) ([source](https://github.com/amsultan2010/tesla-tricks)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Mammble](../games/mammble/readme.md) ([source](https://github.com/ShetlandJ/mammble)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Ace Plays!](../games/ace-plays/readme.md) ([source](https://github.com/d3bug21/ace-plays)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Food Run (web)](../games/food-run-web/readme.md) ([source](https://github.com/yeledpele/food-run)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Dead Ground](../games/dead-ground/readme.md) ([source](https://github.com/GreenMachine414/dead-ground)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Beyblade Arena](../games/beyblade-arena/readme.md) ([source](https://github.com/luizfelipe-pacifico/beyblade)) | 1 | Claude Opus 5.5 | 2026-10-25 |
@@ -211,6 +242,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [Game Hội Bạn](../games/game-hoi-ban/readme.md) ([source](https://github.com/buuhaucantho-ship-it/game-hoi-ban)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [KodRobot](../games/kodrobot/readme.md) ([source](https://github.com/isinanyavuz-cmd/codegame)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [TAG](../games/tag/readme.md) ([source](https://github.com/ayenbang0/tag)) | 1 | Claude Sonnet 5.5 | 2026-10-25 |
+| [Neon Rush](../games/neon-rush/readme.md) ([source](https://github.com/vedshubham58-crypto/Chalk-Rush)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [港味手藝挑戰](../games/game-gordontam616-comm3400-mini-game/readme.md) ([source](https://github.com/gordontam616/COMM3400-mini-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [OrthoQuest](../games/orthoquest/readme.md) ([source](https://github.com/salilibrahimckl-ops/orthoquest)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [On-Call Quest](../games/on-call-quest/readme.md) ([source](https://github.com/arunak451/devopsgame)) | 1 | Claude Opus 5.5 | 2026-10-25 |
@@ -234,6 +266,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [Walker & Birkley's Games](../games/walker-birkley-s-games/readme.md) ([source](https://github.com/Chase-Allen-max/walkergame)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Puzzles](../games/puzzles/readme.md) ([source](https://github.com/joclegg/puzzles-android)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [FLAG GAME](../games/flag-game-bbonng-flaggame/readme.md) ([source](https://github.com/bbonng/flaggame)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Brim](../games/brim/readme.md) ([source](https://github.com/pravegm/brim)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [AB Game](../games/ab-game/readme.md) ([source](https://github.com/benjaminroy-ai/ab-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Gcs Drone Arena](../games/gcs-drone-arena/readme.md) ([source](https://github.com/huyhoa308/gcs-drone-arena)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Kilter Games](../games/kilter-games/readme.md) ([source](https://github.com/emre9690/kilter_board_game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
@@ -260,6 +293,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [Thoroughbred: racing stable game](../games/thoroughbred-racing-stable-game/readme.md) ([source](https://github.com/stephenclawdbot-png/ranch-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Creature Count](../games/creature-count/readme.md) ([source](https://github.com/mattadamcohen/study-time)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Schwarzerpeter](../games/schwarzerpeter/readme.md) ([source](https://github.com/GrowingRui/SchwarzerPeter)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Monkey King: Mountain-Sea Temple](../games/monkey-king-mountain-sea-temple/readme.md) ([source](https://github.com/shonejj/BMW-TEST-GAME)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Wiener Snake](../games/wiener-snake/readme.md) ([source](https://github.com/waoile45/wiener-snake)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Poor Camp: Paradise Lost](../games/poor-camp-paradise-lost/readme.md) ([source](https://github.com/justinward108/paradise-lost)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [SMOKESTACK](../games/smokestack/readme.md) ([source](https://github.com/pf1991/smokestack)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-25 |
@@ -309,6 +343,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [Shadow Ninjas](../games/shadow-ninjas/readme.md) ([source](https://github.com/ppeach/shadow-ninjas)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Heliosling](../games/heliosling/readme.md) ([source](https://github.com/simbonk/heliosling)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Campus Crusher](../games/campus-crusher/readme.md) ([source](https://github.com/Tanmay182003/campus-crusher)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Pomerium Quest](../games/pomerium-quest/readme.md) ([source](https://github.com/nickytonline/pomerium-quest)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [ARcher: Siege AR](../games/archer-siege-ar/readme.md) ([source](https://github.com/Mohammad-R-Rashid/ARcher)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Dice Den](../games/dice-den/readme.md) ([source](https://github.com/ANEONAGO/dice-den)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [廢棄醫院 · 殭屍生存 (FPS)](../games/fps/readme.md) ([source](https://github.com/Ming874/zombies)) | 1 | Claude Sonnet 5.5 | 2026-10-25 |
@@ -323,6 +358,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [장기 (Janggi)](../games/janggi/readme.md) ([source](https://github.com/orinalgga/janggigame)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Fish Game](../games/fish-game/readme.md) ([source](https://github.com/KyleleeSea/fish-hunt)) | 1 | Claude Fable 5.1 | 2026-10-25 |
 | [虛擬音鬥樂 Virtual Beat Battle](../games/virtual-beat-battle/readme.md) ([source](https://github.com/YuutaTsubasa/VirtualBeatBattle)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Burns Card Game](../games/burns-card-game/readme.md) ([source](https://github.com/OdaneW/burns-card-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Manhunt](../games/manhunt/readme.md) ([source](https://github.com/dbig-d/manhunt)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [冒險公證人 · The Loss Adjuster](../games/the-loss-adjuster/readme.md) ([source](https://github.com/gamnia2002-maker/Adjuster-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Search Party](../games/search-party/readme.md) ([source](https://github.com/applebloom3413-creator/kidnapper)) | 1 | Claude Opus 5.5 | 2026-10-25 |
@@ -337,6 +373,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [Dead Waves](../games/dead-waves/readme.md) ([source](https://github.com/Megadeath11/dead-waves)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [BLACKTAIL](../games/blacktail/readme.md) ([source](https://github.com/teja-bot5/blacktail-alley-run)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Blackpine Woods](../games/blackpine-woods/readme.md) ([source](https://github.com/SpecDre/blackpine-woods)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Party Games](../games/party-games/readme.md) ([source](https://github.com/alphacorrections/party-games)) | 1 | Claude Opus 5.5, Claude Fable 5.1 | 2026-10-25 |
 | [The Unbound](../games/the-unbound/readme.md) ([source](https://github.com/RipStever/the-unbound)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Jumping Courses](../games/jumping-courses/readme.md) ([source](https://github.com/gitGavin/jumping-courses)) | 1 | Claude Sonnet 5.5 | 2026-10-25 |
 | [VIXE](../games/vixe/readme.md) ([source](https://github.com/thdtr/vixe)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-25 |
@@ -369,6 +406,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [Chacklate Chess](../games/chacklate-chess/readme.md) ([source](https://github.com/luvkesh/Chess)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Noodle Bots](../games/noodle-bots/readme.md) ([source](https://github.com/TtGamer15/noodle-bots)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Alien Defence](../games/alien-defence/readme.md) ([source](https://github.com/Shangxin-07/Alien-Defence-Game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Akıl Oyunları](../games/ak-l-oyunlar/readme.md) ([source](https://github.com/hasanbuyukadam/AkilOyunlari-)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [The Fantastical Logic Grid: browser and desktop app](../games/the-fantastical-logic-grid-browser-and-desktop-app/readme.md) ([source](https://github.com/bltaylorjr/fantastical-logic-grid)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [The Locked World](../games/the-locked-world/readme.md) ([source](https://github.com/SolidGeeks/lockedworld)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Wartide](../games/wartide/readme.md) ([source](https://github.com/chaumurky-dev/ww2-game)) | 1 | Claude Sonnet 5.5, Claude Fable 5.1 | 2026-10-25 |
@@ -395,6 +433,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [Wreckline](../games/wreckline/readme.md) ([source](https://github.com/underscoreloG/wreckline)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [Cabin Night](../games/cabin-night/readme.md) ([source](https://github.com/bpmcginley/cabin-night)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [paper.irl](../games/paper-irl/readme.md) ([source](https://github.com/edocsprojects/paper.irl)) | 1 | Claude Opus 5.5 | 2026-10-24 |
+| [Line Battle](../games/line-battle/readme.md) ([source](https://github.com/hoangnguyen92/line-battle)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [Marble Madness](../games/marble-madness/readme.md) ([source](https://github.com/code21acoma/marble-madness)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [Edison Format Simulator](../games/edison-format-simulator/readme.md) ([source](https://github.com/akelius-Mm/Edison-Format)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [The Missing Clue](../games/the-missing-clue/readme.md) ([source](https://github.com/joeljosephb2008-cell/the-missing-clue)) | 1 | Claude Opus 5.5 | 2026-10-24 |
@@ -411,6 +450,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [Hotel](../games/hotel/readme.md) ([source](https://github.com/josephsammorris-dotcom/hotel-game)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [closr.](../games/closr/readme.md) ([source](https://github.com/AdvayMandalia422/closr)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [Solitaire](../games/solitaire-thomasvanriel-solitaire/readme.md) ([source](https://github.com/ThomasVanRiel/solitaire)) | 1 | Claude Opus 5.5 | 2026-10-24 |
+| [NBA Trivia Games](../games/nba-trivia-games/readme.md) ([source](https://github.com/akhil-aswin/nba-trivia-games)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [Mini Golf 2](../games/mini-golf-2/readme.md) ([source](https://github.com/heidenreich/mini-golf-2)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [F1 but it's Minecraft](../games/f1-but-it-s-minecraft/readme.md) ([source](https://github.com/amsultan2010/f1-but-its-minecraft)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [Squid Game: Phone Edition](../games/squid-game-phone-edition/readme.md) ([source](https://github.com/Harshagarwal06/hackpsu)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-24 |
@@ -426,6 +466,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [Economy](../games/economy/readme.md) ([source](https://github.com/thamuzlegend10-star/Economy-)) | 1 | Claude Sonnet 5.5 | 2026-10-24 |
 | [Come By](../games/come-by/readme.md) ([source](https://github.com/Gboneck/come-by)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [the network is growing](../games/the-network-is-growing/readme.md) ([source](https://github.com/itsTylerIRL/network-clicker)) | 1 | Claude Opus 5.5 | 2026-10-24 |
+| [Royal Exceptions](../games/royal-exceptions/readme.md) ([source](https://github.com/Hurdamert/Royal-Dating-Sim)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [Game room](../games/game-room-innocentchikukwa-sketch-zimgames/readme.md) ([source](https://github.com/InnocentChikukwa-sketch/zimgames)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-24 |
 | [chrome-dinosaur-game](../games/chrome-dinosaur-game/readme.md) ([source](https://github.com/abinavrameshs/chrome-dinosaur-game)) | 1 | Claude Sonnet 5.5 | 2026-10-24 |
 | [OutpaceF1](../games/outpacef1/readme.md) ([source](https://github.com/Vedant0667/hacktx26)) | 1 | Claude Opus 5.5 | 2026-10-24 |
@@ -453,6 +494,7 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 | [wizaaahhh!](../games/wizaaahhh/readme.md) ([source](https://github.com/tarpat/hacktx-2026)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [Mack-a-bee Dreidel](../games/mack-a-bee-dreidel/readme.md) ([source](https://github.com/Y2JCPA/Dreidel)) | 1 | Claude Opus 5.5 | 2026-10-24 |
 | [Jacob Bros](../games/jacob-bros/readme.md) ([source](https://github.com/Y2JCPA/JacobBros)) | 1 | Claude Opus 5.5 | 2026-10-24 |
+| [AmmaraGames](../games/ammaragames/readme.md) ([source](https://github.com/Fildxza/AmmaraLearningGames)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-24 |
 
 ## Top games this week
 
@@ -532,33 +574,33 @@ The dataset stores source-derived reconstruction prompts without presenting them
 
 | Signal | Result |
 | --- | ---: |
-| Counted game units | **3484** |
-| Qualifying source repositories | **3177** |
-| Dataset records, including related or excluded records | **3671** |
-| Low-quality game units moved to bad-games.md | **442** (442 repositories) |
+| Counted game units | **3530** |
+| Qualifying source repositories | **3223** |
+| Dataset records, including related or excluded records | **3720** |
+| Low-quality game units moved to bad-games.md | **445** (445 repositories) |
 | Other non-game records moved to other.md | **52** |
-| WebGL-family game units, across all categories | **723** |
-| Non-browser engine game units | **565** |
-| Game units with screenshot links | **670** |
+| WebGL-family game units, across all categories | **731** |
+| Non-browser engine game units | **571** |
+| Game units with screenshot links | **683** |
 | Game units with direct prompt links | **17** |
-| Game units with source-derived prompt fields | **3484** |
+| Game units with source-derived prompt fields | **3530** |
 | Game units with exact publication dates | **287** (152 repositories) |
-| Game units with repository creation dates | **3484** (3177 repositories) |
+| Game units with repository creation dates | **3530** (3223 repositories) |
 
 ## Verification snapshot
 
-The list contains **3484** game units from **3177** qualifying repositories. The dataset also retains **494** related or excluded records for audit history. Each row uses one of these model-evidence grades.
+The list contains **3530** game units from **3223** qualifying repositories. The dataset also retains **497** related or excluded records for audit history. Each row uses one of these model-evidence grades.
 
 | Grade | Meaning | Game units |
 | --- | --- | ---: |
-| ✓ Direct | A public primary source directly attributes the listed model. | **3141** |
+| ✓ Direct | A public primary source directly attributes the listed model. | **3187** |
 | ≈ Creator report | The creator attributes the listed model. | **293** |
 | △ Repository trail | A repository, directory, or topic trail supports the model claim. | **43** |
 | ? Inferred | The model attribution is inferred and should be independently checked. | **7** |
 
 ## More records
 
-- ⚠️ [Bad games](../bad-games.md) — **442** low-quality game units excluded from the curated library
+- ⚠️ [Bad games](../bad-games.md) — **445** low-quality game units excluded from the curated library
 - 📦 [Other](../other.md) — **52** related, derivative, forked, or non-game records
 
 ## How to use this guide

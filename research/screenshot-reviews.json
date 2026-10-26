@@ -10450,6 +10450,136 @@
       "reason": "Use this frame for the game-level score. Moroccan street runner with minaret and HUD; colourful 3D runner.",
       "reviewed_on": "2026-10-26",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jaineil32624/the-hollow-between",
+      "url": "https://github.com/jaineil32624/the-hollow-between/blob/main/docs/screenshots/01_title.png",
+      "game": "The Hollow Between",
+      "score_10": 5.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Starry title menu for The Hollow Between; clean but plain.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/JonasMerrell/space-rts",
+      "url": "https://github.com/JonasMerrell/space-rts/blob/master/assets/preview/bodies.png",
+      "game": "Hohmann's Reach",
+      "score_10": 5.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Grid of rendered planets on navy; attractive asset sheet.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/CptNope/Cyber-City-Tactics",
+      "url": "https://github.com/CptNope/Cyber-City-Tactics/blob/main/docs/design/panels/shots/fight.png",
+      "game": "Cyber City Tactics",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon cyberpunk street brawl with two-player HUD; lively.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/bartbasi/forkline",
+      "url": "https://github.com/bartbasi/forkline/blob/main/docs/art/cover_actual_size.png",
+      "game": "Forkline",
+      "score_10": 5.4,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Pixel creature and tower sprite sheet on cream; tidy asset art.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/johnnyhawk02/hop-hop-runner",
+      "url": "https://github.com/johnnyhawk02/hop-hop-runner/blob/main/img/hop-runner.jpg",
+      "game": "Hop Hop Runner",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Bright 3D runner on a rail track with houses and kids; cheerful.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hassanaldajah/null-signal",
+      "url": "https://github.com/hassanaldajah/null-signal/blob/main/blender/previews/all_characters.png",
+      "game": "NULL SIGNAL",
+      "score_10": 5.4,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Grid of 3D investigator character poses on teal; polished renders.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/d3bug21/ace-plays",
+      "url": "https://github.com/d3bug21/ace-plays/blob/main/docs/screenshots/title.png",
+      "game": "Ace Plays!",
+      "score_10": 6.2,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Soft 3D title with a kid by a tree and Play button; charming.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Hurdamert/Royal-Dating-Sim",
+      "url": "https://github.com/Hurdamert/Royal-Dating-Sim/blob/main/docs/screenshots/desktop-1280x850-hub-home.webp",
+      "game": "Royal Exceptions",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Illustrated palace bedroom with menu panels; nice art, UI-heavy.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/johnnysins24/looprebirth",
+      "url": "https://github.com/johnnysins24/looprebirth/blob/main/docs/art/mockup_grass.png",
+      "game": "Loop Rebirth",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel loop path on green island with cards and stats; dense but coherent.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Fildxza/AmmaraLearningGames",
+      "url": "https://github.com/Fildxza/AmmaraLearningGames/blob/main/docs/screenshots/gameplay-hall.png",
+      "game": "AmmaraGames",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Bright 3D pastel playroom with child character and stars; polished kid style.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/TimePeace49/movie-royale-releases",
+      "url": "https://github.com/TimePeace49/movie-royale-releases/blob/main/docs/screenshots/fight.jpg",
+      "game": "Movie Royal",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Hex board of glowing movie orbs under a purple sky; stylish.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kdt26aie40008-ux/-",
+      "url": "https://github.com/kdt26aie40008-ux/-/blob/main/images/play.png",
+      "game": "Frost Peak Climber",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 8-bit ice climbing level with brick floors; clear retro.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gevagit/snap-iq",
+      "url": "https://github.com/gevagit/snap-iq/blob/main/shots/mesh-c2-a.png",
+      "game": "SNAP IQ",
+      "score_10": 4.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Football play diagram with routes; functional, plain.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Claude Sonnet 5.5 games
 
-Browse **520 curated game units** from **494 source repositories** attributed to Claude Sonnet 5.5. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **521 curated game units** from **495 source repositories** attributed to Claude Sonnet 5.5. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -22,7 +22,7 @@ Browse **520 curated game units** from **494 source repositories** attributed to
 ## Game library
 
 - 🎮 [Other Browser Games](#other-browser-games) — **19 game units**
-- 💥 [Action and Shooters](#action-and-shooters) — **68 game units**
+- 💥 [Action and Shooters](#action-and-shooters) — **69 game units**
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **27 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **22 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **63 game units**
@@ -62,6 +62,7 @@ Browse **520 curated game units** from **494 source repositories** attributed to
 - [**Last Frontier**](../games/last-frontier/readme.md) — ⭐ **8.3/10** · Claude Sonnet 5.5 · JavaScript, Three.js, React, Browser · [✓ direct model evidence](https://github.com/pesuuu/Last-Frontier-V1/commit/cbd5bad0a5a0160b748cd9252492bba8a29dd75c) · [files](https://github.com/pesuuu/Last-Frontier-V1/blob/main/LAST FRONTIER.html)
 - [**Warlock**](../games/warlock/readme.md) — ⭐ **8.3/10** · Claude Opus 5.5, Claude Sonnet 5.5, Claude Fable 5.1 · Rust, Browser · [✓ direct model evidence](https://github.com/jannef/warlock/commit/de5ef62cf83ad65cfb31142989fa69bc06b085b0) · [files](https://github.com/jannef/warlock/blob/main/THIRD_PARTY_LICENSES.html) · [play](https://jannef.github.io/warlock/) · 📸 **4.0/10** · [screenshot](https://github.com/jannef/warlock/blob/main/docs/screenshots/m3-light-hall.png)
 - [**Yet Another VoxelCraft**](../games/yet-another-voxelcraft/readme.md) — ⭐ **8.3/10** · Claude Sonnet 5.5 · Three.js, JavaScript, Web Audio · [✓ direct model evidence](https://github.com/GoldwinXS/YetAnotherVoxelCraft/commit/ba792582287ba96a12b0a135df284c569fe5aa7b) · [files](https://github.com/GoldwinXS/YetAnotherVoxelCraft/blob/ba792582287ba96a12b0a135df284c569fe5aa7b/index.html) · [play](https://goldwinxs.github.io/YetAnotherVoxelCraft/)
+- [**AmmaraGames**](../games/ammaragames/readme.md) — ⭐ **8.2/10** · Claude Opus 5.5, Claude Sonnet 5.5 · JavaScript, Browser · [✓ direct model evidence](https://github.com/Fildxza/AmmaraLearningGames/commit/4333a7288417455952136b1a4123200ca9117a55) · [files](https://github.com/Fildxza/AmmaraLearningGames/blob/main/AmmaraGames.html) · [play](https://fildxza.github.io/AmmaraLearningGames/) · 📸 **6.4/10** · [screenshot](https://github.com/Fildxza/AmmaraLearningGames/blob/main/docs/screenshots/gameplay-hall.png)
 - [**VibeWars**](../games/vibewars/readme.md) — ⭐ **8.2/10** · Claude Opus 5.5, Claude Sonnet 5.5 · TypeScript, Browser · [✓ direct model evidence](https://github.com/Enteee/VibeWars/commit/9699f3a29a24bb40d9fd62ae9f7b239198bac01d) · [files](https://github.com/Enteee/VibeWars/blob/main/scripts/bots/hubd.mjs) · [play](https://enteee.github.io/VibeWars/next/) · 📸 **4.2/10** · [screenshot](https://github.com/Enteee/VibeWars/blob/main/docs/media/readme-arena.png)
 - [**Auto Zork**](../games/auto-zork/readme.md) — ⭐ **8.1/10** · Claude Sonnet 5.5 · Python, Flask, HTML, JavaScript, MCP, +1 more · [✓ direct model evidence](https://github.com/petershk/auto-zork/commit/9fcff8f705b9c98589766e9bbac9532c037309a4) · [files](https://github.com/petershk/auto-zork/blob/9fcff8f705b9c98589766e9bbac9532c037309a4/README.md)
 - [**Mythic War**](../games/mythic-war/readme.md) — ⭐ **8.1/10** · Claude Opus 5.5, Claude Sonnet 5.5 · JavaScript, Browser · [✓ direct model evidence](https://github.com/austinbryanprice-droid/Gods-and-titans/commit/63a74042fd6b049f8827ce7202c2f8f09e0c8c21) · [files](https://github.com/austinbryanprice-droid/Gods-and-titans/blob/main/src/render/models/building-models.js) · [play](https://austinbryanprice-droid.github.io/Gods-and-titans/)
