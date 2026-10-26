@@ -10260,6 +10260,146 @@
       "reason": "Use this frame for the game-level score. Low-poly 3D coast with ship and red enemy machines plus HUD; busy but readable.",
       "reviewed_on": "2026-10-26",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/LegoFighter/heart-of-the-light",
+      "url": "https://github.com/LegoFighter/heart-of-the-light/blob/main/docs/glade-day.png",
+      "game": "Heart of the Light",
+      "score_10": 7.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Lush pixel-art glade with waterfall, paths and dense foliage; beautiful.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kalpeshmahajan21/chess-realms",
+      "url": "https://github.com/kalpeshmahajan21/chess-realms/blob/main/docs/realistic_arenas.jpg",
+      "game": "Chess Realms",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D chessboards in several arenas; polished renders.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/bigdevwhale/seventh",
+      "url": "https://github.com/bigdevwhale/seventh/blob/main/docs/screenshots/en/1-home.jpg",
+      "game": "Seventh Generation",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Folk-tale dynasty card with illustrated landscape and stats; stylish parchment UI.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/luizfelipe-pacifico/beyblade",
+      "url": "https://github.com/luizfelipe-pacifico/beyblade/blob/main/site/public/images/bladebreakers-1280.webp",
+      "game": "Beyblade Arena",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Anime-style bladers standing in a lineup; character art, little gameplay.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/bortpro/WaymoWorld",
+      "url": "https://github.com/bortpro/WaymoWorld/blob/main/out/baseline_v0/shot_3.png",
+      "game": "WaymoWorld",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Night 3D city street with a Waymo car and HUD radar; moody and readable.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nbbou81000/le-cube-server",
+      "url": "https://github.com/nbbou81000/le-cube-server/blob/main/docs/mobile.png",
+      "game": "Le Cube",
+      "score_10": 4.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Plain grey cube on a dark phone screen with a stats log; minimal.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hardwaremack-prog/station-blackout",
+      "url": "https://github.com/hardwaremack-prog/station-blackout/blob/main/screenshots/1-tsunami.png",
+      "game": "Station Blackout",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Low-poly plant grounds with tree and dosimeter HUD; basic 3D.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kamaribedwarddev/launch-week",
+      "url": "https://github.com/kamaribedwarddev/launch-week/blob/main/preview.png",
+      "game": "Launch Week",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel office with a code-choice dialog and meters; charming but cluttered.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/bederson/learn-to-code",
+      "url": "https://github.com/bederson/learn-to-code/blob/main/docs/screenshot.png",
+      "game": "One-Ball Billiards",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Plain green billiards table with one ball and aim line; minimal.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/henriquerochars/pawsphemy",
+      "url": "https://github.com/henriquerochars/pawsphemy/blob/main/docs/gifs/01-hub-dogs.gif",
+      "game": "Pawsphemy",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down chibi dog in a warm-lit chapel room with HUD; cute.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/MHelton1/Trash-Tycoon",
+      "url": "https://github.com/MHelton1/Trash-Tycoon/blob/main/store/screenshots/1-route.png",
+      "game": "Trash Tycoon",
+      "score_10": 4.2,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Trash Tycoon phone dashboard with goals; plain UI.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/anthony-codispoti/family-game-night",
+      "url": "https://github.com/anthony-codispoti/family-game-night/blob/main/shots/00-home-Dad.png",
+      "game": "Family Game Night",
+      "score_10": 4.8,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Family Game Night neon title with join and host buttons; bright but simple.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AceDZN/gene-ranch",
+      "url": "https://github.com/AceDZN/gene-ranch/blob/main/docs/screenshots/01-first-30s.jpg",
+      "game": "Gene Ranch",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Bright 3D creature ranch with pink creatures and barn; colourful and polished.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/eleventake/asderg-game",
+      "url": "https://github.com/eleventake/asderg-game/blob/main/images/castle.jpg",
+      "game": "Asderg",
+      "score_10": 7.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Stylized 3D castle town with warrior and fire; high-quality lighting.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
