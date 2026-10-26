@@ -10905,5 +10905,6685 @@
   "any": {
    "Claude Sonnet 5.5": "d4dbe4743c08d70ee04cda47f798ef8a10c83e81"
   }
+ },
+ "scarf005/bn-client-egui": {
+  "co": {},
+  "any": {}
+ },
+ "sheastolp/guildscribe-discord": {
+  "co": {
+   "Claude Opus 5.5": "1d6661c3bab855c590c8851d5201081d8763e4be"
+  },
+  "any": {
+   "Claude Opus 5.5": "1d6661c3bab855c590c8851d5201081d8763e4be"
+  }
+ },
+ "ArndRosemeier/MasterWorld": {
+  "co": {
+   "Claude Opus 5.5": "9a3b4730738121b59fbc4873ebfb51a413ed0eae"
+  },
+  "any": {
+   "Claude Opus 5.5": "9a3b4730738121b59fbc4873ebfb51a413ed0eae"
+  }
+ },
+ "Pallypots/ProjectOogie": {
+  "co": {
+   "Claude Opus 5.5": "d71e3a4e7242ba4ed6ee7068359e8f10a3b6563c"
+  },
+  "any": {
+   "Claude Opus 5.5": "d71e3a4e7242ba4ed6ee7068359e8f10a3b6563c"
+  }
+ },
+ "mgagnon57/Squelch": {
+  "co": {},
+  "any": {}
+ },
+ "MaddhattrRocks/Offline-Companions-Reborn": {
+  "co": {},
+  "any": {}
+ },
+ "Seeders/GUTS": {
+  "co": {},
+  "any": {}
+ },
+ "jiwresearch/trophycase": {
+  "co": {},
+  "any": {}
+ },
+ "dzepdzep/Voltcap": {
+  "co": {},
+  "any": {}
+ },
+ "haruurr1/uj-play": {
+  "co": {
+   "Claude Opus 5.5": "2a8b543fd24532500e7bc156618da33b96f5a8fd"
+  },
+  "any": {
+   "Claude Opus 5.5": "2a8b543fd24532500e7bc156618da33b96f5a8fd"
+  }
+ },
+ "MidoMiddle/Red-Alert-2-godot-muiltiplayer-not-original": {
+  "co": {},
+  "any": {}
+ },
+ "Techneb/sql-mystery-game": {
+  "co": {},
+  "any": {}
+ },
+ "gtanczyk/genaicode": {
+  "co": {},
+  "any": {}
+ },
+ "nickytonline/pomerium-quest": {
+  "co": {
+   "Claude Opus 5.5": "24df5a1ad9623dd876e10fd8bafb56b46ef4c1b7"
+  },
+  "any": {
+   "Claude Opus 5.5": "24df5a1ad9623dd876e10fd8bafb56b46ef4c1b7"
+  }
+ },
+ "alpingold/launchpad-project": {
+  "co": {},
+  "any": {}
+ },
+ "jr-jesse123/dsa-coach": {
+  "co": {},
+  "any": {}
+ },
+ "erabhay02/gt-practice": {
+  "co": {},
+  "any": {}
+ },
+ "20-3-3/ogon-i-voda": {
+  "co": {},
+  "any": {}
+ },
+ "hooni9807/spp": {
+  "co": {},
+  "any": {}
+ },
+ "peiqinzhao/soccer_game_signup_miniprogram": {
+  "co": {},
+  "any": {}
+ },
+ "brian-gates/sts2-damage-charts": {
+  "co": {},
+  "any": {}
+ },
+ "otavix010/gow-ascension-pc": {
+  "co": {
+   "Claude Opus 5.5": "d1089b227b4d9594098d1dd1633bf2b09fcbfd0c"
+  },
+  "any": {
+   "Claude Opus 5.5": "d1089b227b4d9594098d1dd1633bf2b09fcbfd0c"
+  }
+ },
+ "tbirdlabs/lemnos": {
+  "co": {
+   "Claude Opus 5.5": "4bec3f02c530635846baf0f65a142fe7fa73b164"
+  },
+  "any": {
+   "Claude Opus 5.5": "4bec3f02c530635846baf0f65a142fe7fa73b164"
+  }
+ },
+ "Frafire/milano-transit-live": {
+  "co": {
+   "Claude Opus 5.5": "2caeda9c4d961bc71233c7b031c3cc1afc24e842"
+  },
+  "any": {
+   "Claude Opus 5.5": "2caeda9c4d961bc71233c7b031c3cc1afc24e842"
+  }
+ },
+ "princeendo/msh_vs_sf_saturn_en_translation": {
+  "co": {},
+  "any": {}
+ },
+ "DemolishedDino7/elevation-change": {
+  "co": {},
+  "any": {}
+ },
+ "alfaaereo/05-arcade-vault": {
+  "co": {},
+  "any": {}
+ },
+ "nerf-herder-29/WalkThor": {
+  "co": {},
+  "any": {}
+ },
+ "ambientetravel/albaloostudio": {
+  "co": {},
+  "any": {}
+ },
+ "Stephen-Petronis/monster-pizza": {
+  "co": {},
+  "any": {}
+ },
+ "Retsam/hanabi": {
+  "co": {},
+  "any": {}
+ },
+ "matiasmoranc/truco": {
+  "co": {},
+  "any": {}
+ },
+ "GMcDowellJr/satisfactory_progression_planner": {
+  "co": {},
+  "any": {}
+ },
+ "dannym1010/Depth-Chart-2026-2": {
+  "co": {},
+  "any": {}
+ },
+ "aGinjaNinja/aginjaninja.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "dusdhfid0429/gangho-access": {
+  "co": {
+   "Claude Opus 5.5": "3b313537b8deed5df55ee4019bb663c295726b73"
+  },
+  "any": {
+   "Claude Opus 5.5": "3b313537b8deed5df55ee4019bb663c295726b73"
+  }
+ },
+ "Puntadewaitb/sholatku": {
+  "co": {
+   "Claude Opus 5.5": "0d15eefd51d351b1f47e39f2476235e54550ccec"
+  },
+  "any": {
+   "Claude Opus 5.5": "0d15eefd51d351b1f47e39f2476235e54550ccec"
+  }
+ },
+ "axefrog/xf-studio": {
+  "co": {},
+  "any": {}
+ },
+ "patodois/unity-bundle": {
+  "co": {
+   "Claude Opus 5.5": "c4d3395a1c79d4e3d67f627be2f4e8460b89f6ac"
+  },
+  "any": {
+   "Claude Opus 5.5": "c4d3395a1c79d4e3d67f627be2f4e8460b89f6ac"
+  }
+ },
+ "Nox-QIE/nox-backend": {
+  "co": {
+   "Claude Opus 5.5": "4784aa25f3726ec67cf0e364519a791cb836a867"
+  },
+  "any": {
+   "Claude Opus 5.5": "4784aa25f3726ec67cf0e364519a791cb836a867"
+  }
+ },
+ "SpiceOwlf/Dota2_DarkCarnival_MiniGames": {
+  "co": {},
+  "any": {}
+ },
+ "CheeseyDanish/TideFall": {
+  "co": {
+   "Claude Opus 5.5": "453b2725ae29f91e5eb814b33a407fbdc3afc8f5"
+  },
+  "any": {
+   "Claude Opus 5.5": "453b2725ae29f91e5eb814b33a407fbdc3afc8f5"
+  }
+ },
+ "zeusgraphic333-droid/press-start": {
+  "co": {
+   "Claude Opus 5.5": "9e329ca928cf06dc39cbe577308e7e3fb38e7751"
+  },
+  "any": {
+   "Claude Opus 5.5": "9e329ca928cf06dc39cbe577308e7e3fb38e7751"
+  }
+ },
+ "cosminpaulet41-beep/Hunys-with-Claude-AI": {
+  "co": {
+   "Claude Opus 5.5": "82ec309a198a93fbe9be42d292fe76962a221543"
+  },
+  "any": {
+   "Claude Opus 5.5": "82ec309a198a93fbe9be42d292fe76962a221543"
+  }
+ },
+ "ndelangen/dunezone": {
+  "co": {},
+  "any": {}
+ },
+ "Timothy-itayi/pet": {
+  "co": {},
+  "any": {}
+ },
+ "seanpconners-source/ShambConkins": {
+  "co": {},
+  "any": {}
+ },
+ "alessandrorodi/ocellus-sim": {
+  "co": {
+   "Claude Opus 5.5": "b7dd56db94f71d957f9d8504fcf423f9be46cea6"
+  },
+  "any": {
+   "Claude Opus 5.5": "b7dd56db94f71d957f9d8504fcf423f9be46cea6"
+  }
+ },
+ "markjf99702/backwards-k": {
+  "co": {
+   "Claude Opus 5.5": "32aa2260f5824ddd2f6a24abb3c1ce2dac714d74"
+  },
+  "any": {
+   "Claude Opus 5.5": "32aa2260f5824ddd2f6a24abb3c1ce2dac714d74"
+  }
+ },
+ "FireForge7/whosepic": {
+  "co": {
+   "Claude Opus 5.5": "dfe9517f0c3de79c3c6978f8667f1972c44e0e6d"
+  },
+  "any": {
+   "Claude Opus 5.5": "dfe9517f0c3de79c3c6978f8667f1972c44e0e6d"
+  }
+ },
+ "MidZayAI/league-analytics": {
+  "co": {
+   "Claude Opus 5.5": "bcc7cc59227f9cc8f1ae5660d51a412f6b35bdb7"
+  },
+  "any": {
+   "Claude Opus 5.5": "bcc7cc59227f9cc8f1ae5660d51a412f6b35bdb7"
+  }
+ },
+ "SamKimish/benchmark": {
+  "co": {},
+  "any": {}
+ },
+ "tyler45455/Arc-Raiders-hub": {
+  "co": {},
+  "any": {}
+ },
+ "yoheinakajima/simgrammar": {
+  "co": {
+   "Claude Opus 5.5": "8ce0a3ad3ea67f474b2667303d6254d4fa072f32",
+   "Claude Sonnet 5.5": "cf25b8cc68c9845afcf6f8008b476387f90b52b2"
+  },
+  "any": {
+   "Claude Opus 5.5": "8ce0a3ad3ea67f474b2667303d6254d4fa072f32",
+   "Claude Sonnet 5.5": "cf25b8cc68c9845afcf6f8008b476387f90b52b2"
+  }
+ },
+ "wn6w782r6c-sudo/sansukumi-royale": {
+  "co": {
+   "Claude Opus 5.5": "c373024d9da0a1ffb6b35d8719ba216af19abbd7"
+  },
+  "any": {
+   "Claude Opus 5.5": "c373024d9da0a1ffb6b35d8719ba216af19abbd7"
+  }
+ },
+ "Tavionn/Charity-Water-": {
+  "co": {},
+  "any": {}
+ },
+ "coded-dot-design/null-invaders": {
+  "co": {},
+  "any": {}
+ },
+ "kzkrent/badminton": {
+  "co": {},
+  "any": {}
+ },
+ "Rydhlnst/barrel-royale": {
+  "co": {
+   "Claude Opus 5.5": "e1eb67c3ab0385f9565942fbfa43db79d7e0486b"
+  },
+  "any": {
+   "Claude Opus 5.5": "e1eb67c3ab0385f9565942fbfa43db79d7e0486b"
+  }
+ },
+ "Lawa0921/super_galen_site": {
+  "co": {},
+  "any": {}
+ },
+ "andyeswong/brotato-oficina": {
+  "co": {},
+  "any": {}
+ },
+ "coded-dot-design/sherman-bytes": {
+  "co": {
+   "Claude Opus 5.5": "5921a3587cbab47a8bc656665e35a562b5c47412"
+  },
+  "any": {
+   "Claude Opus 5.5": "5921a3587cbab47a8bc656665e35a562b5c47412"
+  }
+ },
+ "andresribeiro1996/scripta": {
+  "co": {},
+  "any": {}
+ },
+ "steverice/visr": {
+  "co": {},
+  "any": {}
+ },
+ "aking-beep/climb-up": {
+  "co": {},
+  "any": {}
+ },
+ "evanstom273/Claude-test-III": {
+  "co": {
+   "Claude Opus 5.5": "2401fae6dafce9e585ba14a8f38f6dca84ebf6c8"
+  },
+  "any": {
+   "Claude Opus 5.5": "2401fae6dafce9e585ba14a8f38f6dca84ebf6c8"
+  }
+ },
+ "MrHafid/ChessBoardOverlay": {
+  "co": {},
+  "any": {}
+ },
+ "BigboiAriel/NFSU2_REUI": {
+  "co": {
+   "Claude Opus 5.5": "c51ca6a31b80363f5bc22cf5d0842ac852849f10"
+  },
+  "any": {
+   "Claude Opus 5.5": "c51ca6a31b80363f5bc22cf5d0842ac852849f10"
+  }
+ },
+ "rachelmavros/atlas95": {
+  "co": {},
+  "any": {}
+ },
+ "urmoom8989-oss/Vangaurd": {
+  "co": {},
+  "any": {}
+ },
+ "yisding/scvalfh": {
+  "co": {},
+  "any": {}
+ },
+ "klinki/tetris-llm-benchmark": {
+  "co": {},
+  "any": {}
+ },
+ "liamwarfield/cairn-route-maker": {
+  "co": {},
+  "any": {}
+ },
+ "Fiztba/offline-keep": {
+  "co": {},
+  "any": {}
+ },
+ "cnbville/AFM": {
+  "co": {},
+  "any": {}
+ },
+ "paolosarn/bohemia": {
+  "co": {},
+  "any": {}
+ },
+ "mattgwagner/game-night-showdown": {
+  "co": {},
+  "any": {}
+ },
+ "coded-dot-design/byte-runner": {
+  "co": {},
+  "any": {}
+ },
+ "bddap-bot/nestcombe": {
+  "co": {},
+  "any": {}
+ },
+ "johnpolacek/playholos": {
+  "co": {},
+  "any": {}
+ },
+ "WebcodingAU/steam-sync": {
+  "co": {},
+  "any": {}
+ },
+ "zcxr-gif/database": {
+  "co": {},
+  "any": {}
+ },
+ "PascalPixel/alchemy": {
+  "co": {},
+  "any": {}
+ },
+ "jacqueline-saint-urbain/aelumara": {
+  "co": {
+   "Claude Opus 5.5": "b3eb15b68edc4b9c8b8f54f073fd6b1ee14af731",
+   "Claude Sonnet 5.5": "c4c47da10c5518a3849c02b1418f0bb5dddc9ae8"
+  },
+  "any": {
+   "Claude Opus 5.5": "b3eb15b68edc4b9c8b8f54f073fd6b1ee14af731",
+   "Claude Sonnet 5.5": "c4c47da10c5518a3849c02b1418f0bb5dddc9ae8"
+  }
+ },
+ "dusdhfid0429/swordgame": {
+  "co": {},
+  "any": {}
+ },
+ "coded-dot-design/swarm-protocol": {
+  "co": {},
+  "any": {}
+ },
+ "jaineil32624/the-hollow-between": {
+  "co": {
+   "Claude Opus 5.5": "2b847d09a24e6b78d9bb608456de3a08708c9bfc"
+  },
+  "any": {
+   "Claude Opus 5.5": "2b847d09a24e6b78d9bb608456de3a08708c9bfc"
+  }
+ },
+ "dsrackler17/EdgeDeskSports": {
+  "co": {},
+  "any": {}
+ },
+ "ircluzar/BrokenNes": {
+  "co": {},
+  "any": {}
+ },
+ "ivilinkoto/TransVerse": {
+  "co": {},
+  "any": {}
+ },
+ "munteancd/haihui": {
+  "co": {},
+  "any": {}
+ },
+ "joker17j-dotcom/Adventure-Land": {
+  "co": {},
+  "any": {}
+ },
+ "VincentFeng123/echo": {
+  "co": {},
+  "any": {}
+ },
+ "alceledon/doodles-playhouse": {
+  "co": {
+   "Claude Opus 5.5": "f455117580479df2173b593d2c153dcf34a5e441"
+  },
+  "any": {
+   "Claude Opus 5.5": "f455117580479df2173b593d2c153dcf34a5e441"
+  }
+ },
+ "LucentLL/psx-racing": {
+  "co": {},
+  "any": {}
+ },
+ "withyeon/quiz-dog": {
+  "co": {},
+  "any": {}
+ },
+ "Sablednah/Diorama": {
+  "co": {
+   "Claude Opus 5.5": "7671988c015c3f9520458f802bb10a8ddbcc4d63"
+  },
+  "any": {
+   "Claude Opus 5.5": "7671988c015c3f9520458f802bb10a8ddbcc4d63"
+  }
+ },
+ "dongwookim-ml/Phonics": {
+  "co": {},
+  "any": {}
+ },
+ "NathanAB/nba-elo": {
+  "co": {
+   "Claude Opus 5.5": "3c65cd99d3449ceeb2f70c24470b68fd1adaf48e"
+  },
+  "any": {
+   "Claude Opus 5.5": "3c65cd99d3449ceeb2f70c24470b68fd1adaf48e"
+  }
+ },
+ "spitzdano/AidynReChronicled": {
+  "co": {},
+  "any": {}
+ },
+ "danbrown1337/LeagueAssistant": {
+  "co": {},
+  "any": {}
+ },
+ "TDSCFed/CS2InventoryPriceTracker": {
+  "co": {
+   "Claude Opus 5.5": "dd2581756780656b181357acd8a9b44ea39bd33e"
+  },
+  "any": {
+   "Claude Opus 5.5": "dd2581756780656b181357acd8a9b44ea39bd33e"
+  }
+ },
+ "thechibuzornwachukwu/fignda": {
+  "co": {},
+  "any": {}
+ },
+ "lyricat/inua": {
+  "co": {},
+  "any": {}
+ },
+ "lasmith1689-sys/goldenpad": {
+  "co": {},
+  "any": {}
+ },
+ "HenryIV-Pixel/Jordan-Game": {
+  "co": {
+   "Claude Opus 5.5": "9e7bfb5605195a30e18dedb15dfcf9c94b1b21af"
+  },
+  "any": {
+   "Claude Opus 5.5": "9e7bfb5605195a30e18dedb15dfcf9c94b1b21af"
+  }
+ },
+ "seasonstheday/labs": {
+  "co": {},
+  "any": {}
+ },
+ "ludovic111/horizon": {
+  "co": {},
+  "any": {}
+ },
+ "Thiesi/NetBBS": {
+  "co": {},
+  "any": {}
+ },
+ "ndlong78/bonghome": {
+  "co": {},
+  "any": {}
+ },
+ "karthiks3000/ai-tutor": {
+  "co": {
+   "Claude Opus 5.5": "25156f9b6fbf11a9196ee7768c4741824966b75b"
+  },
+  "any": {
+   "Claude Opus 5.5": "25156f9b6fbf11a9196ee7768c4741824966b75b"
+  }
+ },
+ "Sleal11/SpriteW": {
+  "co": {
+   "Claude Opus 5.5": "73d9baec7bad2362d02f90ae2de479afd1cd32ef"
+  },
+  "any": {
+   "Claude Opus 5.5": "73d9baec7bad2362d02f90ae2de479afd1cd32ef"
+  }
+ },
+ "hbirchtree/coffeecutie": {
+  "co": {},
+  "any": {}
+ },
+ "DullG-hgu/DullGenius_Rental_Platform": {
+  "co": {},
+  "any": {}
+ },
+ "CSTestCS/FriendLife": {
+  "co": {},
+  "any": {}
+ },
+ "jeff-thinklightn-ing/psykinetic": {
+  "co": {},
+  "any": {}
+ },
+ "hi-204/openrange": {
+  "co": {
+   "Claude Opus 5.5": "63b064a6b3115c43a712a3a1aff1920557193506"
+  },
+  "any": {
+   "Claude Opus 5.5": "63b064a6b3115c43a712a3a1aff1920557193506"
+  }
+ },
+ "zconnor100-debug/bunny-beat-down": {
+  "co": {},
+  "any": {}
+ },
+ "jivinstev/mc-mod-version-upgrade": {
+  "co": {},
+  "any": {}
+ },
+ "justinmorg/justinmorg.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "itkayd/diesel-house": {
+  "co": {},
+  "any": {}
+ },
+ "siacavazzi/amogus": {
+  "co": {},
+  "any": {}
+ },
+ "Putrefacto669/Cry-Of-Fear-Port-Web": {
+  "co": {
+   "Claude Opus 5.5": "336b9faae0909d9bab6d317640eb5197abbe3955"
+  },
+  "any": {
+   "Claude Opus 5.5": "336b9faae0909d9bab6d317640eb5197abbe3955"
+  }
+ },
+ "PeerInfinity/Archipelago-CC": {
+  "co": {},
+  "any": {}
+ },
+ "Megan8821/idontwannareadpaper": {
+  "co": {},
+  "any": {}
+ },
+ "DrexelTriangle/Scalene": {
+  "co": {},
+  "any": {}
+ },
+ "stnkypnky/ultimate_noita_companion": {
+  "co": {
+   "Claude Opus 5.5": "f29e005e58f7c193a060ad788b9b7369acc6f9a8"
+  },
+  "any": {
+   "Claude Opus 5.5": "f29e005e58f7c193a060ad788b9b7369acc6f9a8"
+  }
+ },
+ "elevow/table": {
+  "co": {},
+  "any": {}
+ },
+ "felixy-111/english-word-quest": {
+  "co": {},
+  "any": {}
+ },
+ "CalvinRodo/yuan-ti": {
+  "co": {},
+  "any": {}
+ },
+ "bassisthip63-ui/IVSDKScriptCompiler": {
+  "co": {
+   "Claude Opus 5.5": "c94a1bb7592ad586facf959e31baae8da8df621b"
+  },
+  "any": {
+   "Claude Opus 5.5": "c94a1bb7592ad586facf959e31baae8da8df621b"
+  }
+ },
+ "arxdsilva/rimworld-go": {
+  "co": {},
+  "any": {}
+ },
+ "Canaroo/lord": {
+  "co": {},
+  "any": {}
+ },
+ "LootJunkieAzza/NVForever": {
+  "co": {},
+  "any": {}
+ },
+ "FoundryMedia/fsdk-unreal": {
+  "co": {},
+  "any": {}
+ },
+ "boyscount/cozy-fishing-unity": {
+  "co": {},
+  "any": {}
+ },
+ "krkren/kagex": {
+  "co": {},
+  "any": {}
+ },
+ "lamontaes/Political-Game-Git": {
+  "co": {},
+  "any": {}
+ },
+ "bswainbank-oceanid/global-cataclysm": {
+  "co": {},
+  "any": {}
+ },
+ "yuta-yoshinaga/go_trumpcards": {
+  "co": {},
+  "any": {}
+ },
+ "halexdias31-pixel/family": {
+  "co": {},
+  "any": {}
+ },
+ "radurbin/iooi-reference": {
+  "co": {},
+  "any": {}
+ },
+ "corycowgill/robotAttack": {
+  "co": {},
+  "any": {}
+ },
+ "ael-dev3/Nullmere": {
+  "co": {},
+  "any": {}
+ },
+ "lknicks9-a11y/lttv": {
+  "co": {},
+  "any": {}
+ },
+ "akuforge/lattice": {
+  "co": {
+   "Claude Opus 5.5": "2434fa84ebd2cf7bd2e0cc47057ffa08f95b4b78"
+  },
+  "any": {
+   "Claude Opus 5.5": "2434fa84ebd2cf7bd2e0cc47057ffa08f95b4b78"
+  }
+ },
+ "Tullz/SW26EscapeRoom": {
+  "co": {},
+  "any": {}
+ },
+ "yuzhe-chen/saxon-arcade": {
+  "co": {},
+  "any": {}
+ },
+ "UncleAnthonys/quizinho": {
+  "co": {},
+  "any": {}
+ },
+ "thurdev/ddtank-reborn": {
+  "co": {},
+  "any": {}
+ },
+ "abirpogo421-spec/Python-Mini-Projects": {
+  "co": {},
+  "any": {}
+ },
+ "arj873/settlers_of_windamare": {
+  "co": {
+   "Claude Opus 5.5": "f07a7f13466f0f25a36cc7e185f028c601f1f7b5",
+   "Claude Sonnet 5.5": "b28c5a8cfebfd9c62445432db33a87e609bec0f6"
+  },
+  "any": {
+   "Claude Opus 5.5": "f07a7f13466f0f25a36cc7e185f028c601f1f7b5",
+   "Claude Sonnet 5.5": "b28c5a8cfebfd9c62445432db33a87e609bec0f6"
+  }
+ },
+ "fenerax/chunk-picker-rs3": {
+  "co": {},
+  "any": {}
+ },
+ "JonasMerrell/space-rts": {
+  "co": {
+   "Claude Opus 5.5": "1232159ab37fe32307bb630d0e84dde9e11a349a"
+  },
+  "any": {
+   "Claude Opus 5.5": "1232159ab37fe32307bb630d0e84dde9e11a349a"
+  }
+ },
+ "idio-sync/k7-vr": {
+  "co": {
+   "Claude Opus 5.5": "0a0565bb453fdc3898709aa79c01738bae911621"
+  },
+  "any": {
+   "Claude Opus 5.5": "0a0565bb453fdc3898709aa79c01738bae911621"
+  }
+ },
+ "plexofdeath95/llm-werewolf": {
+  "co": {
+   "Claude Opus 5.5": "de69f43d63993aeb88199163a4a99a708dab11c1"
+  },
+  "any": {
+   "Claude Opus 5.5": "de69f43d63993aeb88199163a4a99a708dab11c1"
+  }
+ },
+ "NoahJ456-007/DeckOpt": {
+  "co": {
+   "Claude Opus 5.5": "4080b0f6ad6430c70cd5679fe999a697a83738d4"
+  },
+  "any": {
+   "Claude Opus 5.5": "4080b0f6ad6430c70cd5679fe999a697a83738d4"
+  }
+ },
+ "andyeswong/voxpix": {
+  "co": {
+   "Claude Opus 5.5": "cbeedbce85d340f8b294824896bb7e2f9d9f28c1"
+  },
+  "any": {
+   "Claude Opus 5.5": "cbeedbce85d340f8b294824896bb7e2f9d9f28c1"
+  }
+ },
+ "ellokojavi/juegos-de-salon": {
+  "co": {},
+  "any": {}
+ },
+ "GillSLOW/HotBottomSmoker": {
+  "co": {},
+  "any": {}
+ },
+ "trcpoet/FUN": {
+  "co": {},
+  "any": {}
+ },
+ "Giantlyra/dawn-patrol": {
+  "co": {},
+  "any": {}
+ },
+ "sennnen/scratchpad": {
+  "co": {
+   "Claude Opus 5.5": "681df0278d1bdec05e64ffe3640b352d037e6706"
+  },
+  "any": {
+   "Claude Opus 5.5": "681df0278d1bdec05e64ffe3640b352d037e6706"
+  }
+ },
+ "rizkyekoputra/rok-3514": {
+  "co": {},
+  "any": {}
+ },
+ "denver8989/EGPU-Buddy": {
+  "co": {},
+  "any": {}
+ },
+ "ErikKim/sonmat-games": {
+  "co": {},
+  "any": {}
+ },
+ "michaelpeterman89-coder/namretep-site": {
+  "co": {},
+  "any": {}
+ },
+ "MatterFlow-admin/matterflow-site": {
+  "co": {},
+  "any": {}
+ },
+ "KW-Wargame/xgeo": {
+  "co": {},
+  "any": {}
+ },
+ "seastwood/Nokcandu": {
+  "co": {
+   "Claude Opus 5.5": "0f3ad736a33a59150c69b3bd9a0690f32253b885"
+  },
+  "any": {
+   "Claude Opus 5.5": "0f3ad736a33a59150c69b3bd9a0690f32253b885"
+  }
+ },
+ "Dahnounferras/the-offseason": {
+  "co": {},
+  "any": {}
+ },
+ "hyveout/bleood": {
+  "co": {},
+  "any": {}
+ },
+ "max92105/jrpg": {
+  "co": {},
+  "any": {}
+ },
+ "SamuelDavis/hex-rl": {
+  "co": {
+   "Claude Opus 5.5": "219cc9cefc96b11d2746b2004d83a7487be1b9dd"
+  },
+  "any": {
+   "Claude Opus 5.5": "219cc9cefc96b11d2746b2004d83a7487be1b9dd"
+  }
+ },
+ "t3chnicallyinclined/ai-visualized": {
+  "co": {
+   "Claude Opus 5.5": "70e211356750acc633e09a529724b4c7a642ff15",
+   "Claude Fable 5.1": "2fd9d07a9a6df8630d5ec1c007ac0b9dab61435d"
+  },
+  "any": {
+   "Claude Opus 5.5": "70e211356750acc633e09a529724b4c7a642ff15",
+   "Claude Fable 5.1": "2fd9d07a9a6df8630d5ec1c007ac0b9dab61435d"
+  }
+ },
+ "cbm7575-maker/Roblox": {
+  "co": {},
+  "any": {}
+ },
+ "okayline/tf2-freezetag": {
+  "co": {
+   "Claude Sonnet 5.5": "9df59337b342ff6f6f39edc68d5986cc360c5387",
+   "Claude Opus 5.5": "621c8b9e026b0a3f9400ca1c53d6689d76db41a3"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "9df59337b342ff6f6f39edc68d5986cc360c5387",
+   "Claude Opus 5.5": "621c8b9e026b0a3f9400ca1c53d6689d76db41a3"
+  }
+ },
+ "yanchhuong/hrs-sys-mg-frontend": {
+  "co": {},
+  "any": {}
+ },
+ "Godo-Bear/Fps-game": {
+  "co": {},
+  "any": {}
+ },
+ "LvlcLmigi/morphin-archive": {
+  "co": {},
+  "any": {}
+ },
+ "danemoll-jpg/Racer": {
+  "co": {},
+  "any": {}
+ },
+ "henrikamnas/chess-analyzer": {
+  "co": {},
+  "any": {}
+ },
+ "andynumber2/onlybans-glider": {
+  "co": {},
+  "any": {}
+ },
+ "AlfredoGonzalez/DinoFossil": {
+  "co": {},
+  "any": {}
+ },
+ "Senalbertrod/WatchTamer": {
+  "co": {},
+  "any": {}
+ },
+ "justty32/modding_skyrim": {
+  "co": {},
+  "any": {}
+ },
+ "jnthnaiken/theticketroom": {
+  "co": {},
+  "any": {}
+ },
+ "treyspoonamore1/mobile-game": {
+  "co": {
+   "Claude Opus 5.5": "0ec83c3460ffaebdbe3bc4bb4d16457f69406c39"
+  },
+  "any": {
+   "Claude Opus 5.5": "0ec83c3460ffaebdbe3bc4bb4d16457f69406c39"
+  }
+ },
+ "pystashell/topology-go": {
+  "co": {},
+  "any": {}
+ },
+ "3wasfnjd/Aboden-Assets": {
+  "co": {},
+  "any": {}
+ },
+ "RCJLabs/Live-Your-Life": {
+  "co": {},
+  "any": {}
+ },
+ "carver/apart-research-collusion-sprint-2026": {
+  "co": {},
+  "any": {}
+ },
+ "DrewHoo/cfb-streak-king": {
+  "co": {},
+  "any": {}
+ },
+ "wiseman/aegis-sim": {
+  "co": {},
+  "any": {}
+ },
+ "dou-project/stardou": {
+  "co": {
+   "Claude Opus 5.5": "2c2a7fa11b65fa3bfb39067f49f7d0a5e56a0574"
+  },
+  "any": {
+   "Claude Opus 5.5": "2c2a7fa11b65fa3bfb39067f49f7d0a5e56a0574"
+  }
+ },
+ "mingxintan-coder/haidou-helper": {
+  "co": {},
+  "any": {}
+ },
+ "mesecraft/MeseCraft": {
+  "co": {},
+  "any": {}
+ },
+ "jasonex64/plor": {
+  "co": {},
+  "any": {}
+ },
+ "dfrittsjr/john_company_electron": {
+  "co": {},
+  "any": {}
+ },
+ "Lykhan28/slotsforsvar": {
+  "co": {
+   "Claude Opus 5.5": "49658af1e75c1eec2d557f45b23324f9fa2d6288"
+  },
+  "any": {
+   "Claude Opus 5.5": "49658af1e75c1eec2d557f45b23324f9fa2d6288"
+  }
+ },
+ "gx5gyqe2-art/opcg-sim-backend": {
+  "co": {},
+  "any": {}
+ },
+ "tnpt003/Pet-Computer": {
+  "co": {},
+  "any": {}
+ },
+ "squirrelcade/squirrelcade": {
+  "co": {},
+  "any": {}
+ },
+ "mur1ll0/vindictus-server": {
+  "co": {},
+  "any": {}
+ },
+ "allizon/sudoku-app": {
+  "co": {
+   "Claude Opus 5.5": "0dbb761d95fbff57df61ebf12383c55e6bcfc6fe",
+   "Claude Sonnet 5.5": "fa3f8e21f41a753b8edbaef2910220d071926a91"
+  },
+  "any": {
+   "Claude Opus 5.5": "0dbb761d95fbff57df61ebf12383c55e6bcfc6fe",
+   "Claude Sonnet 5.5": "fa3f8e21f41a753b8edbaef2910220d071926a91"
+  }
+ },
+ "MostBrutalPreanut/DiceIt": {
+  "co": {},
+  "any": {}
+ },
+ "lippdev/tako-launcher": {
+  "co": {},
+  "any": {}
+ },
+ "thomaspryor/scorekeeper": {
+  "co": {},
+  "any": {}
+ },
+ "Mohammad-Umar7/Mohammad-Umar7": {
+  "co": {},
+  "any": {}
+ },
+ "Lilium-Legacy-Games/bloodfallen-releases": {
+  "co": {},
+  "any": {}
+ },
+ "Touqai/ZipSaber": {
+  "co": {},
+  "any": {}
+ },
+ "MeherBenSalem/the-fisherman-house": {
+  "co": {},
+  "any": {}
+ },
+ "Solidussss/soundlens-landing": {
+  "co": {},
+  "any": {}
+ },
+ "oblinger/dvc-dat": {
+  "co": {},
+  "any": {}
+ },
+ "daedra000/thug-ps3": {
+  "co": {
+   "Claude Opus 5.5": "9f696ae4dd596440d131e07665b40683bfb33e69"
+  },
+  "any": {
+   "Claude Opus 5.5": "9f696ae4dd596440d131e07665b40683bfb33e69"
+  }
+ },
+ "Oracle-of-the-Void/ootv-client": {
+  "co": {},
+  "any": {}
+ },
+ "Quanheim/QuanPieces": {
+  "co": {
+   "Claude Opus 5.5": "4a32ea6b1730cce2b932c7f4b6308e4e867e53a7"
+  },
+  "any": {
+   "Claude Opus 5.5": "4a32ea6b1730cce2b932c7f4b6308e4e867e53a7"
+  }
+ },
+ "HUNK2/rotf-robots-sdk": {
+  "co": {
+   "Claude Opus 5.5": "17d2682056db989ed9726d75c5501402aa6519e2"
+  },
+  "any": {
+   "Claude Opus 5.5": "17d2682056db989ed9726d75c5501402aa6519e2"
+  }
+ },
+ "guiooak/bat-hunter": {
+  "co": {},
+  "any": {}
+ },
+ "BrandonSigil/lodestone": {
+  "co": {
+   "Claude Opus 5.5": "bb28868601417b15497a89311d135ede4381bf78"
+  },
+  "any": {
+   "Claude Opus 5.5": "bb28868601417b15497a89311d135ede4381bf78"
+  }
+ },
+ "LucasElRojo/SmoggCTARevision": {
+  "co": {},
+  "any": {}
+ },
+ "Spraxs/top-down-shooter": {
+  "co": {},
+  "any": {}
+ },
+ "jmzidek9/Mage-Arena": {
+  "co": {
+   "Claude Opus 5.5": "4dc2cf6ff01fc52af8146041c90055aa395ff508"
+  },
+  "any": {
+   "Claude Opus 5.5": "4dc2cf6ff01fc52af8146041c90055aa395ff508"
+  }
+ },
+ "JeffromAltis/Amethyst-iOS-modpack-import": {
+  "co": {
+   "Claude Sonnet 5.5": "4cd05f3de4be29912aabc8242eecd1eea1d7b219",
+   "Claude Opus 5.5": "9bcb4f1f0defc6c601bb3f0f1ff1398b376edd67"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "4cd05f3de4be29912aabc8242eecd1eea1d7b219",
+   "Claude Opus 5.5": "9bcb4f1f0defc6c601bb3f0f1ff1398b376edd67"
+  }
+ },
+ "Jordanburch101/road-to-sixty": {
+  "co": {},
+  "any": {}
+ },
+ "Phylliida/self-hosted-creature-collect": {
+  "co": {},
+  "any": {}
+ },
+ "Forlarin/deck-doctor": {
+  "co": {
+   "Claude Opus 5.5": "7e0f11d45dd627bd5385575f2bf791a515dc96ac"
+  },
+  "any": {
+   "Claude Opus 5.5": "7e0f11d45dd627bd5385575f2bf791a515dc96ac"
+  }
+ },
+ "colemic2006/texasplayoffs": {
+  "co": {},
+  "any": {}
+ },
+ "rlemke/fwh_nfl": {
+  "co": {
+   "Claude Opus 5.5": "69c82ebeb569b22dcf2e11df046e8a267c50e395"
+  },
+  "any": {
+   "Claude Opus 5.5": "69c82ebeb569b22dcf2e11df046e8a267c50e395"
+  }
+ },
+ "alecg8r/lockski": {
+  "co": {},
+  "any": {}
+ },
+ "CptNope/Cyber-City-Tactics": {
+  "co": {
+   "Claude Opus 5.5": "e2010223c7f31ff3a2377afe2e3de5b3cc8c3800"
+  },
+  "any": {
+   "Claude Opus 5.5": "e2010223c7f31ff3a2377afe2e3de5b3cc8c3800"
+  }
+ },
+ "brophya310/dream-game": {
+  "co": {
+   "Claude Opus 5.5": "84c46e8e5e126f768779cc7e608f94ca734d332f"
+  },
+  "any": {
+   "Claude Opus 5.5": "84c46e8e5e126f768779cc7e608f94ca734d332f"
+  }
+ },
+ "BrightLineAI-Bot/infinite-corridor": {
+  "co": {},
+  "any": {}
+ },
+ "Eldricos/Reluva": {
+  "co": {},
+  "any": {}
+ },
+ "wormzjl/Industrial-Chemical-Engineering": {
+  "co": {},
+  "any": {}
+ },
+ "frolicchris/bubblefacts": {
+  "co": {},
+  "any": {}
+ },
+ "overconfidence7/conquerra": {
+  "co": {},
+  "any": {}
+ },
+ "adriantulabut5747/parcore.com": {
+  "co": {},
+  "any": {}
+ },
+ "yosaotniell03/python-for-ros-crash-course": {
+  "co": {},
+  "any": {}
+ },
+ "F-TestR/TrendBot": {
+  "co": {},
+  "any": {}
+ },
+ "Marcsarno/babysitter": {
+  "co": {},
+  "any": {}
+ },
+ "DocFoxHound/AngryHerds": {
+  "co": {},
+  "any": {}
+ },
+ "Erikplacido/portfolio": {
+  "co": {},
+  "any": {}
+ },
+ "a-k983/magic-war": {
+  "co": {
+   "Claude Opus 5.5": "8c231507c005048f6beccf86371f9c177a029f62"
+  },
+  "any": {
+   "Claude Opus 5.5": "8c231507c005048f6beccf86371f9c177a029f62"
+  }
+ },
+ "jrmitch120/dcss-copilot": {
+  "co": {},
+  "any": {}
+ },
+ "devz0r/Streamers": {
+  "co": {},
+  "any": {}
+ },
+ "rennenc/brain-snacks": {
+  "co": {
+   "Claude Opus 5.5": "c267a65b52ad3cfba62ae17633adadb66e0e8543"
+  },
+  "any": {
+   "Claude Opus 5.5": "c267a65b52ad3cfba62ae17633adadb66e0e8543"
+  }
+ },
+ "takimunk/lyudmilovsk": {
+  "co": {},
+  "any": {}
+ },
+ "robert-s-hogan/nx-monorepo": {
+  "co": {},
+  "any": {}
+ },
+ "Tanner253/browserdayz": {
+  "co": {},
+  "any": {}
+ },
+ "JazyelAe/Gravedad-Cero": {
+  "co": {
+   "Claude Opus 5.5": "203fbf8af1316717c4499def70f00903d78173a2"
+  },
+  "any": {
+   "Claude Opus 5.5": "203fbf8af1316717c4499def70f00903d78173a2"
+  }
+ },
+ "geracao-ai/duelo-de-contas": {
+  "co": {},
+  "any": {}
+ },
+ "Mac-O-War/mac-o-war.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "ChenghengLi/CollusionBench": {
+  "co": {
+   "Claude Opus 5.5": "5a82ef2e48f831332d7577f97a3727394aa0773c"
+  },
+  "any": {
+   "Claude Opus 5.5": "5a82ef2e48f831332d7577f97a3727394aa0773c"
+  }
+ },
+ "gatohecker67/donttellalie": {
+  "co": {
+   "Claude Opus 5.5": "7135b96637da105dfde860865dc9fb5d227f4d59"
+  },
+  "any": {
+   "Claude Opus 5.5": "7135b96637da105dfde860865dc9fb5d227f4d59"
+  }
+ },
+ "peans99/QuantumWake": {
+  "co": {},
+  "any": {}
+ },
+ "billywall732/fantasy-feetpics": {
+  "co": {
+   "Claude Opus 5.5": "5f4140830ed3e1145205e27f4967138fdbb7e652"
+  },
+  "any": {
+   "Claude Opus 5.5": "5f4140830ed3e1145205e27f4967138fdbb7e652"
+  }
+ },
+ "Stef-01/Med-OS": {
+  "co": {},
+  "any": {}
+ },
+ "zhempen/cfbsundays": {
+  "co": {
+   "Claude Fable 5.1": "62d01a499bccde64b6455c3fe5915ac5a5884c3c",
+   "Claude Opus 5.5": "1bb0bb1b1de7be789da89470eac812f93edb8872"
+  },
+  "any": {
+   "Claude Fable 5.1": "62d01a499bccde64b6455c3fe5915ac5a5884c3c",
+   "Claude Opus 5.5": "1bb0bb1b1de7be789da89470eac812f93edb8872"
+  }
+ },
+ "WSattazahn/caveat-lang": {
+  "co": {},
+  "any": {}
+ },
+ "Squall009/thirdlight": {
+  "co": {},
+  "any": {}
+ },
+ "skuza-oss/downhill-revived": {
+  "co": {},
+  "any": {}
+ },
+ "wang-chonghuan/skatgo": {
+  "co": {},
+  "any": {}
+ },
+ "MontySteele/GItS": {
+  "co": {},
+  "any": {}
+ },
+ "bearstonem/d2r-pcvr": {
+  "co": {},
+  "any": {}
+ },
+ "ChefControl/floe-market": {
+  "co": {},
+  "any": {}
+ },
+ "Zafnok/visions-of-shuyi": {
+  "co": {},
+  "any": {}
+ },
+ "Valar-Systems/valar-scopes": {
+  "co": {},
+  "any": {}
+ },
+ "chammnet/PilotBridge": {
+  "co": {
+   "Claude Opus 5.5": "24a10849350ef6c94de948b34ffeb2d21ebd372d"
+  },
+  "any": {
+   "Claude Opus 5.5": "24a10849350ef6c94de948b34ffeb2d21ebd372d"
+  }
+ },
+ "BoDUD/TFM2-League-Heroes": {
+  "co": {},
+  "any": {}
+ },
+ "Dxtrenn/fracture-client": {
+  "co": {
+   "Claude Opus 5.5": "f28edc568db3b0e0a727f4e61eb07bd13a4e955c"
+  },
+  "any": {
+   "Claude Opus 5.5": "f28edc568db3b0e0a727f4e61eb07bd13a4e955c"
+  }
+ },
+ "gabrielcolis/gabriel-colis-portfolio": {
+  "co": {},
+  "any": {}
+ },
+ "Open-Champions/champions-return-to-arms-re": {
+  "co": {},
+  "any": {}
+ },
+ "boneyland/chess-replay": {
+  "co": {},
+  "any": {}
+ },
+ "CodingIsCoolFr/Singularity": {
+  "co": {},
+  "any": {}
+ },
+ "ramaraihan12/ramaraihan12.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "saqibdesk-a11y/Anime-tier-night": {
+  "co": {
+   "Claude Opus 5.5": "d954e13fe77921a60e33de4c3e8d6ec0256e9339"
+  },
+  "any": {
+   "Claude Opus 5.5": "d954e13fe77921a60e33de4c3e8d6ec0256e9339"
+  }
+ },
+ "hoangnguyen92/line-battle": {
+  "co": {
+   "Claude Opus 5.5": "0acfa5a931e6b62ad6cd77ff40f15c3c49b817bf"
+  },
+  "any": {
+   "Claude Opus 5.5": "0acfa5a931e6b62ad6cd77ff40f15c3c49b817bf"
+  }
+ },
+ "larattalabs/architect-mc": {
+  "co": {},
+  "any": {}
+ },
+ "GallatinDev/rivalry-ledger": {
+  "co": {
+   "Claude Opus 5.5": "88ba5bf98c23cfbbc04a61b688c2a6c841009c09"
+  },
+  "any": {
+   "Claude Opus 5.5": "88ba5bf98c23cfbbc04a61b688c2a6c841009c09"
+  }
+ },
+ "TheOldMan21/north-huddle": {
+  "co": {
+   "Claude Opus 5.5": "089197e53b23ebf8cf8ba0d08302feee8847095a"
+  },
+  "any": {
+   "Claude Opus 5.5": "089197e53b23ebf8cf8ba0d08302feee8847095a"
+  }
+ },
+ "edsaperia/witch": {
+  "co": {},
+  "any": {}
+ },
+ "eclancy/DrawFight": {
+  "co": {},
+  "any": {}
+ },
+ "erickmobltda/erickmob-home": {
+  "co": {
+   "Claude Opus 5.5": "8e02f7e0d0d89d3c89d61a5523f68572107ecd5f"
+  },
+  "any": {
+   "Claude Opus 5.5": "8e02f7e0d0d89d3c89d61a5523f68572107ecd5f"
+  }
+ },
+ "daaki85/darksun-obsidian-edition": {
+  "co": {},
+  "any": {}
+ },
+ "modamobs/modamobs.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "rempemat-eng/appify": {
+  "co": {},
+  "any": {}
+ },
+ "DataVallis/pet-prep": {
+  "co": {},
+  "any": {}
+ },
+ "yoshida-std/website": {
+  "co": {},
+  "any": {}
+ },
+ "neb636/Kaylee-Gamepack": {
+  "co": {},
+  "any": {}
+ },
+ "davelalande/dispersed3d-progress": {
+  "co": {},
+  "any": {}
+ },
+ "MixWangp/Flappy": {
+  "co": {},
+  "any": {}
+ },
+ "zzunlsj/rorr-web": {
+  "co": {},
+  "any": {}
+ },
+ "a91453/railway-game-ios": {
+  "co": {},
+  "any": {}
+ },
+ "peichihuang/peichi": {
+  "co": {},
+  "any": {}
+ },
+ "Lmandrake/RimMandrake": {
+  "co": {},
+  "any": {}
+ },
+ "evanloria4/Tail-Me": {
+  "co": {},
+  "any": {}
+ },
+ "NIKO-999/niko-999.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "mutableaxion-blip/Read-Rolla": {
+  "co": {},
+  "any": {}
+ },
+ "Lorsieab2/Virtual-Families-1-Fun-Patcher": {
+  "co": {},
+  "any": {}
+ },
+ "kamikaze-skynet/MoreEvents": {
+  "co": {
+   "Claude Opus 5.5": "95d1ea8d32c8556724b96de9e30c6ea67904c839"
+  },
+  "any": {
+   "Claude Opus 5.5": "95d1ea8d32c8556724b96de9e30c6ea67904c839"
+  }
+ },
+ "Slurms602/Rush-2049": {
+  "co": {
+   "Claude Opus 5.5": "587c293b501467d3a4449729ce2c4abcc3203106"
+  },
+  "any": {
+   "Claude Opus 5.5": "587c293b501467d3a4449729ce2c4abcc3203106"
+  }
+ },
+ "hedytan/plotline_interative-media": {
+  "co": {},
+  "any": {}
+ },
+ "mistysue-hub/recess-games": {
+  "co": {},
+  "any": {}
+ },
+ "jimjamscott22/Web-Game-Portal": {
+  "co": {},
+  "any": {}
+ },
+ "GhassanMazen00/something-new": {
+  "co": {
+   "Claude Opus 5.5": "19a9dcb634b366a628160f78f288633d96e8db43"
+  },
+  "any": {
+   "Claude Opus 5.5": "19a9dcb634b366a628160f78f288633d96e8db43"
+  }
+ },
+ "RSample12/category-game": {
+  "co": {},
+  "any": {}
+ },
+ "tcoulterlcg/card-checklists": {
+  "co": {},
+  "any": {}
+ },
+ "jun0e/2048-fusion-pet": {
+  "co": {},
+  "any": {}
+ },
+ "CornDogSmugglerIND/F.O.B": {
+  "co": {},
+  "any": {}
+ },
+ "DespairArdor/Ghost-Master-DLSS": {
+  "co": {
+   "Claude Opus 5.5": "df9cc0f962a1d18c5aa4ce2218f7970450ac9f15"
+  },
+  "any": {
+   "Claude Opus 5.5": "df9cc0f962a1d18c5aa4ce2218f7970450ac9f15"
+  }
+ },
+ "rosswillden/wayward-crafting": {
+  "co": {
+   "Claude Opus 5.5": "ab4c37391eb6ddc51c3d2dcfc7fd288362f56400"
+  },
+  "any": {
+   "Claude Opus 5.5": "ab4c37391eb6ddc51c3d2dcfc7fd288362f56400"
+  }
+ },
+ "r6snmkwsgg-web/sim": {
+  "co": {},
+  "any": {}
+ },
+ "IanKaneshiro/Kan-NFL-2.0": {
+  "co": {},
+  "any": {}
+ },
+ "jedbfriedman/Letter-Land": {
+  "co": {},
+  "any": {}
+ },
+ "xiaoxue508/SavageWindRecomp": {
+  "co": {
+   "Claude Opus 5.5": "0efcef956295a53a42b34aa7ec9185b25d7e2fa8"
+  },
+  "any": {
+   "Claude Opus 5.5": "0efcef956295a53a42b34aa7ec9185b25d7e2fa8"
+  }
+ },
+ "griffinlaszlo/griffinlaszlo.com": {
+  "co": {
+   "Claude Opus 5.5": "24b2bddbebf04e8dea585104b0b3c01ced94b038"
+  },
+  "any": {
+   "Claude Opus 5.5": "24b2bddbebf04e8dea585104b0b3c01ced94b038"
+  }
+ },
+ "shukorrahim/EMT30205": {
+  "co": {},
+  "any": {}
+ },
+ "inspace9018/inspace9018.github.io": {
+  "co": {
+   "Claude Opus 5.5": "41d5185c59cd8f3a2ad4c99ba7692f81e0720c7e"
+  },
+  "any": {
+   "Claude Opus 5.5": "41d5185c59cd8f3a2ad4c99ba7692f81e0720c7e"
+  }
+ },
+ "punkouter27/PoSlapUnreal": {
+  "co": {},
+  "any": {}
+ },
+ "LeonidLR/Snowmare_01": {
+  "co": {},
+  "any": {}
+ },
+ "NUTELLA-DAD/Pocket-Party-Football": {
+  "co": {
+   "Claude Opus 5.5": "ecfe05a34a43b6cb1b8db05c379d5cb37e56216f"
+  },
+  "any": {
+   "Claude Opus 5.5": "ecfe05a34a43b6cb1b8db05c379d5cb37e56216f"
+  }
+ },
+ "m03dev/loki": {
+  "co": {},
+  "any": {}
+ },
+ "dixonbalsagna/orb-combat-ex": {
+  "co": {},
+  "any": {}
+ },
+ "Rhyslos/solis": {
+  "co": {},
+  "any": {}
+ },
+ "johnhkchen/enterprise": {
+  "co": {},
+  "any": {}
+ },
+ "seanrugg/diamondagentiq": {
+  "co": {},
+  "any": {}
+ },
+ "Matty-DB/satisfactory-helpers": {
+  "co": {
+   "Claude Opus 5.5": "a7365e4ca9e1995ab10cce35f85972257659212e"
+  },
+  "any": {
+   "Claude Opus 5.5": "a7365e4ca9e1995ab10cce35f85972257659212e"
+  }
+ },
+ "CheeseyDanish/Website": {
+  "co": {},
+  "any": {}
+ },
+ "NiklaskoDev/ArchipelagoManagerDocker": {
+  "co": {},
+  "any": {}
+ },
+ "FuchsiaLlamaMama/gw2-toolkit": {
+  "co": {
+   "Claude Opus 5.5": "17cf4b12379b8e72a5c31c2807a12cf7f6a3fb0c"
+  },
+  "any": {
+   "Claude Opus 5.5": "17cf4b12379b8e72a5c31c2807a12cf7f6a3fb0c"
+  }
+ },
+ "Arrow4art/badezimmer": {
+  "co": {},
+  "any": {}
+ },
+ "ossonida/score": {
+  "co": {},
+  "any": {}
+ },
+ "GloriousEggroll/squarehole360": {
+  "co": {},
+  "any": {}
+ },
+ "dota2scrimcircuittracker/dota2scrimcircuittracker.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "griffinlaszlo/mocial": {
+  "co": {},
+  "any": {}
+ },
+ "DaniSacra/muros-de-jerusalem": {
+  "co": {
+   "Claude Opus 5.5": "6c120a7dfd129cda4319ad3b421eb779fc84cdff"
+  },
+  "any": {
+   "Claude Opus 5.5": "6c120a7dfd129cda4319ad3b421eb779fc84cdff"
+  }
+ },
+ "luckui/dsh-livestream": {
+  "co": {},
+  "any": {}
+ },
+ "hasanbuyukadam/AkilOyunlari-": {
+  "co": {
+   "Claude Opus 5.5": "120a349a28efa06277d15bd8762f6c4d1bcec9c8"
+  },
+  "any": {
+   "Claude Opus 5.5": "120a349a28efa06277d15bd8762f6c4d1bcec9c8"
+  }
+ },
+ "jatreat/the-war-game": {
+  "co": {},
+  "any": {}
+ },
+ "pmegow/traffic-and-dragons": {
+  "co": {},
+  "any": {}
+ },
+ "tomtombombadil/CYD-Classic-Arcade": {
+  "co": {},
+  "any": {}
+ },
+ "margieIah/Instant-Insanity": {
+  "co": {
+   "Claude Opus 5.5": "aeade3af61a0886d80d8d26add87aa10303ccacf"
+  },
+  "any": {
+   "Claude Opus 5.5": "aeade3af61a0886d80d8d26add87aa10303ccacf"
+  }
+ },
+ "kevinkwshin/classeum": {
+  "co": {
+   "Claude Opus 5.5": "a9756050e6afb86583bffb0905dcb7ed9628a60b"
+  },
+  "any": {
+   "Claude Opus 5.5": "a9756050e6afb86583bffb0905dcb7ed9628a60b"
+  }
+ },
+ "jjcw1337-rgb/ashen-crown": {
+  "co": {
+   "Claude Opus 5.5": "44e1d916f46b46d369869ce07298031929d68b3a"
+  },
+  "any": {
+   "Claude Opus 5.5": "44e1d916f46b46d369869ce07298031929d68b3a"
+  }
+ },
+ "Torbjorn-Zhang/STS2-bot": {
+  "co": {},
+  "any": {}
+ },
+ "NathanDeMaria/ten-minute-version": {
+  "co": {},
+  "any": {}
+ },
+ "givemedeath/SRN_HAKS": {
+  "co": {},
+  "any": {}
+ },
+ "waqar130/bodevs-cricket": {
+  "co": {},
+  "any": {}
+ },
+ "bartbasi/forkline": {
+  "co": {
+   "Claude Opus 5.5": "e0099d7d78a9dcdcd51bf6b608e7609365dec0fe"
+  },
+  "any": {
+   "Claude Opus 5.5": "e0099d7d78a9dcdcd51bf6b608e7609365dec0fe"
+  }
+ },
+ "ggdrn/METEOR-VII-VITA": {
+  "co": {},
+  "any": {}
+ },
+ "Coronitaa/ReFix": {
+  "co": {},
+  "any": {}
+ },
+ "stdarg/OpenGoldBox": {
+  "co": {},
+  "any": {}
+ },
+ "basmith7/cna-engine": {
+  "co": {},
+  "any": {}
+ },
+ "Omah-Azir/AtlasStewartPortfolio.github.io": {
+  "co": {
+   "Claude Opus 5.5": "1ca494d0eef66bdea5133a93487852fccdac330f"
+  },
+  "any": {
+   "Claude Opus 5.5": "1ca494d0eef66bdea5133a93487852fccdac330f"
+  }
+ },
+ "raymondWRW/yxp-card-stats": {
+  "co": {},
+  "any": {}
+ },
+ "gregorymllr1/cfb-tracker": {
+  "co": {
+   "Claude Opus 5.5": "7d8d1cfe8321f1decf8bf78c1c3e8b9244cedd0a"
+  },
+  "any": {
+   "Claude Opus 5.5": "7d8d1cfe8321f1decf8bf78c1c3e8b9244cedd0a"
+  }
+ },
+ "topaxi/OpenAntiGrav": {
+  "co": {},
+  "any": {}
+ },
+ "Feeengyuuu/EpaperSystem": {
+  "co": {},
+  "any": {}
+ },
+ "AniiLogs/aniilogs.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "keeganbmckenna/tangy-football": {
+  "co": {},
+  "any": {}
+ },
+ "wndi1130-dot/APP": {
+  "co": {},
+  "any": {}
+ },
+ "axelprz/lumen": {
+  "co": {
+   "Claude Opus 5.5": "71131469141f60f8661ba13611f65ce32804d352"
+  },
+  "any": {
+   "Claude Opus 5.5": "71131469141f60f8661ba13611f65ce32804d352"
+  }
+ },
+ "MikeRileytech/fantasy-league-history": {
+  "co": {},
+  "any": {}
+ },
+ "sineveritas1/standby.flights": {
+  "co": {
+   "Claude Opus 5.5": "45494194f84b88e70ad7d8026c6e64d857a4fb1b"
+  },
+  "any": {
+   "Claude Opus 5.5": "45494194f84b88e70ad7d8026c6e64d857a4fb1b"
+  }
+ },
+ "dlworhs11-rgb/owcs-kr": {
+  "co": {},
+  "any": {}
+ },
+ "Apurv706/Mahabharata-game": {
+  "co": {
+   "Claude Opus 5.5": "919a28123d0e27273566804439813a9d9f1e8e47"
+  },
+  "any": {
+   "Claude Opus 5.5": "919a28123d0e27273566804439813a9d9f1e8e47"
+  }
+ },
+ "HOMEPAD2026/HOMEPAD": {
+  "co": {},
+  "any": {}
+ },
+ "efezzers/metin2-singleplayer-serverfiles-linux": {
+  "co": {
+   "Claude Opus 5.5": "676f1277d5653488294a3d196f9e1d040a7b285c"
+  },
+  "any": {
+   "Claude Opus 5.5": "676f1277d5653488294a3d196f9e1d040a7b285c"
+  }
+ },
+ "SoloCandy/susp-os": {
+  "co": {},
+  "any": {}
+ },
+ "kalopsia-space/FTHRust": {
+  "co": {},
+  "any": {}
+ },
+ "abyme-studio/bevy-ts": {
+  "co": {},
+  "any": {}
+ },
+ "basmith7/cna": {
+  "co": {},
+  "any": {}
+ },
+ "drspalumbo/WordTacToe": {
+  "co": {},
+  "any": {}
+ },
+ "sigmafes/mcausape": {
+  "co": {},
+  "any": {}
+ },
+ "databerryau/basketball-training": {
+  "co": {
+   "Claude Opus 5.5": "afba6ebdeb9f87277f84b97181a04b453af61b3f"
+  },
+  "any": {
+   "Claude Opus 5.5": "afba6ebdeb9f87277f84b97181a04b453af61b3f"
+  }
+ },
+ "skylerressi-eng/Doungen": {
+  "co": {
+   "Claude Opus 5.5": "c654afe33a6145858f469642b258d48a14beba59"
+  },
+  "any": {
+   "Claude Opus 5.5": "c654afe33a6145858f469642b258d48a14beba59"
+  }
+ },
+ "Avatar-Coco-Love/gloamdeep": {
+  "co": {},
+  "any": {}
+ },
+ "trey-specblox/Roblox-Powerlifting": {
+  "co": {},
+  "any": {}
+ },
+ "VibeLearner/NeonTerrarium": {
+  "co": {},
+  "any": {}
+ },
+ "magnus7898/astrologia": {
+  "co": {},
+  "any": {}
+ },
+ "paloblanco/demo_blocky_3d": {
+  "co": {
+   "Claude Opus 5.5": "88e168c813f9015b6fd862409dd83aa04abe77dc"
+  },
+  "any": {
+   "Claude Opus 5.5": "88e168c813f9015b6fd862409dd83aa04abe77dc"
+  }
+ },
+ "zerojunz/SlashEngine": {
+  "co": {},
+  "any": {}
+ },
+ "Louigepogoy/GameVault2": {
+  "co": {},
+  "any": {}
+ },
+ "rlemke/facetwork": {
+  "co": {},
+  "any": {}
+ },
+ "malikpervez/pkmn-asset-editor": {
+  "co": {},
+  "any": {}
+ },
+ "dongkimyeon/VRG_TermProj": {
+  "co": {},
+  "any": {}
+ },
+ "crf04/statsplus-backend": {
+  "co": {},
+  "any": {}
+ },
+ "commonvtake/9divine": {
+  "co": {
+   "Claude Opus 5.5": "7dc4af4505bb9f46343c8fb3f2d7c34c8deeb10b"
+  },
+  "any": {
+   "Claude Opus 5.5": "7dc4af4505bb9f46343c8fb3f2d7c34c8deeb10b"
+  }
+ },
+ "Mrimagemakers/CrusingUSA": {
+  "co": {
+   "Claude Opus 5.5": "a0233bfbebd7e420d239d889a149b65451caf60f"
+  },
+  "any": {
+   "Claude Opus 5.5": "a0233bfbebd7e420d239d889a149b65451caf60f"
+  }
+ },
+ "rs3801/primo": {
+  "co": {},
+  "any": {}
+ },
+ "scott1028/spec_03_PLAYBOOK_v2": {
+  "co": {
+   "Claude Opus 5.5": "2ca829e026abac3a09b0c8e1eb0fb2bc46e5cba1"
+  },
+  "any": {
+   "Claude Opus 5.5": "2ca829e026abac3a09b0c8e1eb0fb2bc46e5cba1"
+  }
+ },
+ "redeclipse/base": {
+  "co": {},
+  "any": {}
+ },
+ "joashchee/coupler": {
+  "co": {},
+  "any": {}
+ },
+ "skufmid/Dodge-Ball": {
+  "co": {
+   "Claude Opus 5.5": "27f481de1a959e99e31d7a0e17e4b17e68d2b74c"
+  },
+  "any": {
+   "Claude Opus 5.5": "27f481de1a959e99e31d7a0e17e4b17e68d2b74c"
+  }
+ },
+ "fedor606-20/trainz12-x64": {
+  "co": {},
+  "any": {}
+ },
+ "AbdulazizFrost/presentation-mamun-2026": {
+  "co": {},
+  "any": {}
+ },
+ "jgillis3047/github-portfolio": {
+  "co": {},
+  "any": {}
+ },
+ "Voicedrew11/verdite1": {
+  "co": {},
+  "any": {}
+ },
+ "AlekHolt/random-html-games": {
+  "co": {},
+  "any": {}
+ },
+ "Peakmeter/PeakMeter": {
+  "co": {
+   "Claude Opus 5.5": "87c43c8fcdd191733edccf0190e2f1b3dcb4fba5"
+  },
+  "any": {
+   "Claude Opus 5.5": "87c43c8fcdd191733edccf0190e2f1b3dcb4fba5"
+  }
+ },
+ "erikkame/Softcream": {
+  "co": {
+   "Claude Opus 5.5": "348d1a98c4d03169956b511d4345d5440489b9ed"
+  },
+  "any": {
+   "Claude Opus 5.5": "348d1a98c4d03169956b511d4345d5440489b9ed"
+  }
+ },
+ "Lorsieab2/Virtual-Families-2-Restoration-Addition-Patcher": {
+  "co": {},
+  "any": {}
+ },
+ "iosifchaptani-tech/Jarvis": {
+  "co": {},
+  "any": {}
+ },
+ "saschamoescheit-cpu/golfos-round-prototype": {
+  "co": {},
+  "any": {}
+ },
+ "johnnyhawk02/hop-hop-runner": {
+  "co": {
+   "Claude Opus 5.5": "ee02fbec9556fe68b45990ce730cadcf8f96bf20"
+  },
+  "any": {
+   "Claude Opus 5.5": "ee02fbec9556fe68b45990ce730cadcf8f96bf20"
+  }
+ },
+ "wigginse-ship-it/First": {
+  "co": {},
+  "any": {}
+ },
+ "berwickgeek/queens": {
+  "co": {
+   "Claude Opus 5.5": "fea004ebd44a9d564f226c9a923962779f581564"
+  },
+  "any": {
+   "Claude Opus 5.5": "fea004ebd44a9d564f226c9a923962779f581564"
+  }
+ },
+ "Shufflewick/BoardSmith": {
+  "co": {},
+  "any": {}
+ },
+ "FIZL0/opentennis": {
+  "co": {},
+  "any": {}
+ },
+ "userneon/legacyxxx-plugins": {
+  "co": {},
+  "any": {}
+ },
+ "alphacorrections/party-games": {
+  "co": {
+   "Claude Fable 5.1": "b41a0d5d7cb24dbfa09526751e9c183e876833df",
+   "Claude Opus 5.5": "76e1a8d09b84ad1395107239ddc1a1d85e5b10d1"
+  },
+  "any": {
+   "Claude Fable 5.1": "b41a0d5d7cb24dbfa09526751e9c183e876833df",
+   "Claude Opus 5.5": "76e1a8d09b84ad1395107239ddc1a1d85e5b10d1"
+  }
+ },
+ "justright21-ACE/sports-ticker": {
+  "co": {},
+  "any": {}
+ },
+ "mfillbrunn/UnknownMediocreTutorial": {
+  "co": {},
+  "any": {}
+ },
+ "adequate-alan/lol-drafting": {
+  "co": {},
+  "any": {}
+ },
+ "hvtanh07/gdd-block-sort": {
+  "co": {
+   "Claude Opus 5.5": "dc0f319364537b12eae87a6345e1c5f66714c52e"
+  },
+  "any": {
+   "Claude Opus 5.5": "dc0f319364537b12eae87a6345e1c5f66714c52e"
+  }
+ },
+ "rossmc05/yycgrade3": {
+  "co": {
+   "Claude Opus 5.5": "09831ce0aecffb58da6bf981bbfc7b8bd43e1195"
+  },
+  "any": {
+   "Claude Opus 5.5": "09831ce0aecffb58da6bf981bbfc7b8bd43e1195"
+  }
+ },
+ "ljs294/ski-area-design-challenge": {
+  "co": {},
+  "any": {}
+ },
+ "dozeyy/originclient": {
+  "co": {},
+  "any": {}
+ },
+ "ishanyaanthapur/gtia-game-theory-in-action": {
+  "co": {},
+  "any": {}
+ },
+ "glcoder/TartarusSolver": {
+  "co": {
+   "Claude Opus 5.5": "dd59aedb81b56d63ecedf7c1d19c28756a131f46"
+  },
+  "any": {
+   "Claude Opus 5.5": "dd59aedb81b56d63ecedf7c1d19c28756a131f46"
+  }
+ },
+ "DianteClark/Block-Bound-Dungeon": {
+  "co": {},
+  "any": {}
+ },
+ "daniel2231/gamecollabs-frontend": {
+  "co": {},
+  "any": {}
+ },
+ "kortie/open_quoridor": {
+  "co": {
+   "Claude Opus 5.5": "fe5f018288efece32e3e1b1c9c625e2a9b28a400"
+  },
+  "any": {
+   "Claude Opus 5.5": "fe5f018288efece32e3e1b1c9c625e2a9b28a400"
+  }
+ },
+ "omarjaradat2006-sudo/agent-hq": {
+  "co": {
+   "Claude Opus 5.5": "27188dbd1f6ee5b70edbb2cb073dd34e7ca0faf7"
+  },
+  "any": {
+   "Claude Opus 5.5": "27188dbd1f6ee5b70edbb2cb073dd34e7ca0faf7"
+  }
+ },
+ "michaelroudnitski/piano-game": {
+  "co": {},
+  "any": {}
+ },
+ "Eldricos/Reluva3D": {
+  "co": {},
+  "any": {}
+ },
+ "wolfhound0376/v0-ashes-of-prometheus": {
+  "co": {},
+  "any": {}
+ },
+ "bawcejawn/Knode": {
+  "co": {},
+  "any": {}
+ },
+ "mjoslyn/GizzRacer": {
+  "co": {},
+  "any": {}
+ },
+ "woo12341234/code-garden": {
+  "co": {},
+  "any": {}
+ },
+ "mykinteraktif/landingpage": {
+  "co": {
+   "Claude Opus 5.5": "f9111663c7dbe02585b164ef52ddbc03558c6cb8"
+  },
+  "any": {
+   "Claude Opus 5.5": "f9111663c7dbe02585b164ef52ddbc03558c6cb8"
+  }
+ },
+ "cehinds/AshenSpire": {
+  "co": {},
+  "any": {}
+ },
+ "JayPengX/Longshot": {
+  "co": {},
+  "any": {}
+ },
+ "sphinxtah/commander-duels": {
+  "co": {},
+  "any": {}
+ },
+ "NathanNam/pick-me-up": {
+  "co": {
+   "Claude Opus 5.5": "3fb7b2a0d3d3e61c86d71aade6fb429ba8b45ed8"
+  },
+  "any": {
+   "Claude Opus 5.5": "3fb7b2a0d3d3e61c86d71aade6fb429ba8b45ed8"
+  }
+ },
+ "malynsx/wynnia": {
+  "co": {
+   "Claude Sonnet 5.5": "3084fd3637ad527a50e9c8533659136e2db275eb",
+   "Claude Opus 5.5": "c39620b4bd7e9268064f4f953088497989824e01"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "3084fd3637ad527a50e9c8533659136e2db275eb",
+   "Claude Opus 5.5": "c39620b4bd7e9268064f4f953088497989824e01"
+  }
+ },
+ "D0jii/PipPin": {
+  "co": {
+   "Claude Opus 5.5": "e712acecafb779474a7bed82e66efc1cb3740198"
+  },
+  "any": {
+   "Claude Opus 5.5": "e712acecafb779474a7bed82e66efc1cb3740198"
+  }
+ },
+ "MathiasKowoll/MacGameFix": {
+  "co": {},
+  "any": {}
+ },
+ "hoangthuy972k-dot/web-tiengtrungquoctebinhminh": {
+  "co": {},
+  "any": {}
+ },
+ "Unskilled-Skill/clipforge": {
+  "co": {},
+  "any": {}
+ },
+ "tonykastaneda/43Project": {
+  "co": {},
+  "any": {}
+ },
+ "hassanaldajah/null-signal": {
+  "co": {
+   "Claude Opus 5.5": "bf956cf87ebf06818ad856966f9495d7cf35e718"
+  },
+  "any": {
+   "Claude Opus 5.5": "bf956cf87ebf06818ad856966f9495d7cf35e718"
+  }
+ },
+ "ChanseyIsTheBest/bejeweled3-nx-installer": {
+  "co": {},
+  "any": {}
+ },
+ "happy-dwarf-team/etch-website": {
+  "co": {
+   "Claude Opus 5.5": "0cab97f9d808f6f75dc3947407d0e3ef412dddf8"
+  },
+  "any": {
+   "Claude Opus 5.5": "0cab97f9d808f6f75dc3947407d0e3ef412dddf8"
+  }
+ },
+ "jeremydbean/toc2026": {
+  "co": {},
+  "any": {}
+ },
+ "ijabir28/sequence-board-game-frontend": {
+  "co": {},
+  "any": {}
+ },
+ "wei917/modelxd-website": {
+  "co": {},
+  "any": {}
+ },
+ "Lillypad-14/rotk-recompiled": {
+  "co": {
+   "Claude Opus 5.5": "86ef248bbb1046d7770f345a74f4c7ca689aa58e"
+  },
+  "any": {
+   "Claude Opus 5.5": "86ef248bbb1046d7770f345a74f4c7ca689aa58e"
+  }
+ },
+ "carlosa512/AFLS": {
+  "co": {},
+  "any": {}
+ },
+ "adagioburner/AdventureGame": {
+  "co": {},
+  "any": {}
+ },
+ "trunghieulam/paperskyline-website": {
+  "co": {},
+  "any": {}
+ },
+ "FIZL0/opentennis-mods": {
+  "co": {},
+  "any": {}
+ },
+ "elzerma/farm-run-autopilot": {
+  "co": {},
+  "any": {}
+ },
+ "mekelburgj20/ArcAid": {
+  "co": {},
+  "any": {}
+ },
+ "justinkwaugh/tabletop": {
+  "co": {},
+  "any": {}
+ },
+ "f3bandit/phosphor_os": {
+  "co": {},
+  "any": {}
+ },
+ "ch2dcnbk7n/Reverse-Eng": {
+  "co": {},
+  "any": {}
+ },
+ "fmrxr/FMRXR-WEBSITE": {
+  "co": {},
+  "any": {}
+ },
+ "goodJoeun/bench-to-ring": {
+  "co": {},
+  "any": {}
+ },
+ "andredarcie/zero-hero": {
+  "co": {},
+  "any": {}
+ },
+ "Noesoes/fantasyfooty": {
+  "co": {},
+  "any": {}
+ },
+ "ghostyshell/nx2apk": {
+  "co": {
+   "Claude Opus 5.5": "63043fe99c4740eb2499c4fa875378c534eda101"
+  },
+  "any": {
+   "Claude Opus 5.5": "63043fe99c4740eb2499c4fa875378c534eda101"
+  }
+ },
+ "SHRENIKYD/DSA-LEARNINGS": {
+  "co": {},
+  "any": {}
+ },
+ "CharvikM45/chemoasis": {
+  "co": {},
+  "any": {}
+ },
+ "maxgen1-alt/Mytv": {
+  "co": {
+   "Claude Opus 5.5": "8076ae7b0689b03c01829b52c9aa3b90d4e6e5ed"
+  },
+  "any": {
+   "Claude Opus 5.5": "8076ae7b0689b03c01829b52c9aa3b90d4e6e5ed"
+  }
+ },
+ "justxanderscode/SteamAchievementManager-WinUI3": {
+  "co": {
+   "Claude Opus 5.5": "72055f424e8e37e417eaad9b933475633935b631"
+  },
+  "any": {
+   "Claude Opus 5.5": "72055f424e8e37e417eaad9b933475633935b631"
+  }
+ },
+ "Grrreymane/FishyTails": {
+  "co": {},
+  "any": {}
+ },
+ "unxsist/dungeon-dungeon": {
+  "co": {},
+  "any": {}
+ },
+ "Edgemodders/EDGEfab": {
+  "co": {},
+  "any": {}
+ },
+ "jnfisher/wayfarer": {
+  "co": {},
+  "any": {}
+ },
+ "rithymeth/game-ngine": {
+  "co": {},
+  "any": {}
+ },
+ "vkuttyp/Nova": {
+  "co": {},
+  "any": {}
+ },
+ "kyra0077/pokemon-black-br-pc": {
+  "co": {
+   "Claude Opus 5.5": "d01ab06db128bfad80daf09e3a247562372c617e"
+  },
+  "any": {
+   "Claude Opus 5.5": "d01ab06db128bfad80daf09e3a247562372c617e"
+  }
+ },
+ "123sdgv/Game-over": {
+  "co": {},
+  "any": {}
+ },
+ "d3bug21/ace-plays": {
+  "co": {
+   "Claude Opus 5.5": "287327b2e02824561e8c349d575968d5fb107cf3"
+  },
+  "any": {
+   "Claude Opus 5.5": "287327b2e02824561e8c349d575968d5fb107cf3"
+  }
+ },
+ "DabDavis/eqoa-server": {
+  "co": {},
+  "any": {}
+ },
+ "SideQuest86/StellarisTales": {
+  "co": {},
+  "any": {}
+ },
+ "quankn-pixel/INF-151-Group-34": {
+  "co": {},
+  "any": {}
+ },
+ "tourad009/a-path-of-least-resistance": {
+  "co": {
+   "Claude Opus 5.5": "4bde9761196e3b53b5aa93dae04aca021e4dfc79"
+  },
+  "any": {
+   "Claude Opus 5.5": "4bde9761196e3b53b5aa93dae04aca021e4dfc79"
+  }
+ },
+ "kurushimee/claude-memory-plugin": {
+  "co": {},
+  "any": {}
+ },
+ "applesandbeer/Octopus": {
+  "co": {},
+  "any": {}
+ },
+ "NathanDeMaria/cassandra": {
+  "co": {},
+  "any": {}
+ },
+ "MrBendel/RogueGB": {
+  "co": {},
+  "any": {}
+ },
+ "Qupkene/Estonian-Police-Dispatch": {
+  "co": {},
+  "any": {}
+ },
+ "lejiyo09/among1-2": {
+  "co": {
+   "Claude Opus 5.5": "a2bea932a2e1eaa445e8e9e4e6f91e72d58fc859"
+  },
+  "any": {
+   "Claude Opus 5.5": "a2bea932a2e1eaa445e8e9e4e6f91e72d58fc859"
+  }
+ },
+ "faufan/fantasy-overlay-tv": {
+  "co": {},
+  "any": {}
+ },
+ "MrMrMrRep/TheLostCats--gamedev-v1.1": {
+  "co": {
+   "Claude Opus 5.5": "ca9f685a84e99882bd33592c08b2d8d407e9a6b9"
+  },
+  "any": {
+   "Claude Opus 5.5": "ca9f685a84e99882bd33592c08b2d8d407e9a6b9"
+  }
+ },
+ "dcsturman/callisto": {
+  "co": {},
+  "any": {}
+ },
+ "mckouenkendall-design/Cold-Bore": {
+  "co": {},
+  "any": {}
+ },
+ "Davidaw126/WerewolfOneRound": {
+  "co": {},
+  "any": {}
+ },
+ "AndrewGoulding/PokemonGame": {
+  "co": {},
+  "any": {}
+ },
+ "discokimy/temple-warden": {
+  "co": {
+   "Claude Opus 5.5": "a30e494b46155af30040133833f719e661841cfe"
+  },
+  "any": {
+   "Claude Opus 5.5": "a30e494b46155af30040133833f719e661841cfe"
+  }
+ },
+ "tanawat40889/bkk11-boardgames": {
+  "co": {},
+  "any": {}
+ },
+ "shift-devs/donation-timer": {
+  "co": {},
+  "any": {}
+ },
+ "micavity/ratecalculator": {
+  "co": {
+   "Claude Opus 5.5": "dbcc4b702a602afaddf63d0f97aedfe0a848cc48"
+  },
+  "any": {
+   "Claude Opus 5.5": "dbcc4b702a602afaddf63d0f97aedfe0a848cc48"
+  }
+ },
+ "jaeheeoh8130c-create/locked-study": {
+  "co": {
+   "Claude Opus 5.5": "4d036e1d7d1cab9634f87f2f53e3db53e2f69299"
+  },
+  "any": {
+   "Claude Opus 5.5": "4d036e1d7d1cab9634f87f2f53e3db53e2f69299"
+  }
+ },
+ "joshlitwin/lantern-glades-play": {
+  "co": {},
+  "any": {}
+ },
+ "areyesromo/Ark-2P-Hub": {
+  "co": {},
+  "any": {}
+ },
+ "OdaneW/burns-card-game": {
+  "co": {
+   "Claude Opus 5.5": "0a15b28c8d58137fbe1686cfbedb50ed10967f6c"
+  },
+  "any": {
+   "Claude Opus 5.5": "0a15b28c8d58137fbe1686cfbedb50ed10967f6c"
+  }
+ },
+ "mattiasgalliano/the-lost-crown": {
+  "co": {
+   "Claude Opus 5.5": "019991375999244de31b50afe35d9a408d79cab8"
+  },
+  "any": {
+   "Claude Opus 5.5": "019991375999244de31b50afe35d9a408d79cab8"
+  }
+ },
+ "hpshtpedu/StockInfo": {
+  "co": {},
+  "any": {}
+ },
+ "mamba4eva824/basketball-analytics": {
+  "co": {},
+  "any": {}
+ },
+ "arjuns238/hackathon-police-enforcement": {
+  "co": {},
+  "any": {}
+ },
+ "hafizmz/beam-on": {
+  "co": {},
+  "any": {}
+ },
+ "Emilymeichanje/upgrade-radar": {
+  "co": {},
+  "any": {}
+ },
+ "cooltinpot/BLOCKBURG": {
+  "co": {},
+  "any": {}
+ },
+ "mayurski-art/mayurski-art.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "YuutaTsubasa/Free-Riders-Recompiled": {
+  "co": {},
+  "any": {}
+ },
+ "victorfu/ollie-reader": {
+  "co": {},
+  "any": {}
+ },
+ "baechubaechu/stairstack": {
+  "co": {},
+  "any": {}
+ },
+ "s2-david/s2-winter-wonderland": {
+  "co": {},
+  "any": {}
+ },
+ "TecnaGamer/BeamNG.Earth": {
+  "co": {},
+  "any": {}
+ },
+ "omnichips/CodeHub": {
+  "co": {},
+  "any": {}
+ },
+ "ch-moh/Othello": {
+  "co": {},
+  "any": {}
+ },
+ "kondzio444/Noreclienr": {
+  "co": {},
+  "any": {}
+ },
+ "binyaminh4-cloud/golan-casino": {
+  "co": {
+   "Claude Opus 5.5": "b18ac1d6919e91d3426fb573c37b8ad584ffd776"
+  },
+  "any": {
+   "Claude Opus 5.5": "b18ac1d6919e91d3426fb573c37b8ad584ffd776"
+  }
+ },
+ "yabdelsa2862-lab/RIG": {
+  "co": {
+   "Claude Opus 5.5": "ffea82516f793148140333ead75173bb330af3ac"
+  },
+  "any": {
+   "Claude Opus 5.5": "ffea82516f793148140333ead75173bb330af3ac"
+  }
+ },
+ "Solakung/lantern-night": {
+  "co": {},
+  "any": {}
+ },
+ "emretahincioglu-ai/hoopsdesk": {
+  "co": {},
+  "any": {}
+ },
+ "vets1017/StockDataFetcher": {
+  "co": {},
+  "any": {}
+ },
+ "Bennethon/benne": {
+  "co": {},
+  "any": {}
+ },
+ "WolfhopeCom/allscore": {
+  "co": {},
+  "any": {}
+ },
+ "SansNope/MarathonRecomp-Android": {
+  "co": {
+   "Claude Opus 5.5": "523f59833fa7c8c7ebe21c4ce9e99c7176cc5ef1"
+  },
+  "any": {
+   "Claude Opus 5.5": "523f59833fa7c8c7ebe21c4ce9e99c7176cc5ef1"
+  }
+ },
+ "wongcpa/wongcpa.github.io": {
+  "co": {
+   "Claude Opus 5.5": "910067b895b4fae2bd829bd18e4c2b7ad0b43066"
+  },
+  "any": {
+   "Claude Opus 5.5": "910067b895b4fae2bd829bd18e4c2b7ad0b43066"
+  }
+ },
+ "joaoedualves/RadminBell": {
+  "co": {
+   "Claude Opus 5.5": "b7e53a06a6d30bbccff1b8ddff1a98b5ae00a87a"
+  },
+  "any": {
+   "Claude Opus 5.5": "b7e53a06a6d30bbccff1b8ddff1a98b5ae00a87a"
+  }
+ },
+ "Polynezeas/steam-coop-play": {
+  "co": {},
+  "any": {}
+ },
+ "Velocemercato/velocemercato.fr": {
+  "co": {},
+  "any": {}
+ },
+ "pengin0503/RimWorld-for-mod-test": {
+  "co": {
+   "Claude Opus 5.5": "1c04c866b89776408c73ea83d981c1e424730542"
+  },
+  "any": {
+   "Claude Opus 5.5": "1c04c866b89776408c73ea83d981c1e424730542"
+  }
+ },
+ "nature-tycoon/second-growth": {
+  "co": {},
+  "any": {}
+ },
+ "DilzOSRS/fellowship-plugin": {
+  "co": {
+   "Claude Opus 5.5": "eabbf2add1361d0b53b266f149b8958db4a046a2"
+  },
+  "any": {
+   "Claude Opus 5.5": "eabbf2add1361d0b53b266f149b8958db4a046a2"
+  }
+ },
+ "adm-steel-fish/adm-steel-fish.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "NorthProt-Inc/protchess": {
+  "co": {},
+  "any": {}
+ },
+ "Retr0MrWave/gtfo-pause-mod": {
+  "co": {
+   "Claude Opus 5.5": "6e25efc648cc1d9b0b5ad11924c7c3c5d4afbcf7"
+  },
+  "any": {
+   "Claude Opus 5.5": "6e25efc648cc1d9b0b5ad11924c7c3c5d4afbcf7"
+  }
+ },
+ "jvargas2/seance-collusion-detection": {
+  "co": {
+   "Claude Opus 5.5": "4f52f1c20d8c5ab5c2ed3f50dd584911ef0d929c"
+  },
+  "any": {
+   "Claude Opus 5.5": "4f52f1c20d8c5ab5c2ed3f50dd584911ef0d929c",
+   "Claude Sonnet 5.5": "3828f1070b58bcc83361d08d4ca78ccd36031c96"
+  }
+ },
+ "Tydog99/kids-game": {
+  "co": {},
+  "any": {}
+ },
+ "Haoxian515/futbol": {
+  "co": {},
+  "any": {}
+ },
+ "Olivia-cyx98/woven-monopoly": {
+  "co": {
+   "Claude Opus 5.5": "0f6bb920fa884b6f30fc4eba9f8871d6b1c68816"
+  },
+  "any": {
+   "Claude Opus 5.5": "0f6bb920fa884b6f30fc4eba9f8871d6b1c68816"
+  }
+ },
+ "bdgroves/plate-hunter": {
+  "co": {},
+  "any": {}
+ },
+ "godver3/mediastorm-tvos": {
+  "co": {},
+  "any": {}
+ },
+ "phillbennett021423/CoDev_cloud": {
+  "co": {},
+  "any": {}
+ },
+ "Jeromy325/Simcompanies-Manager-": {
+  "co": {},
+  "any": {}
+ },
+ "carbiecarbie/MMModern": {
+  "co": {},
+  "any": {}
+ },
+ "noir44/Delirium-NovaPoshta": {
+  "co": {
+   "Claude Opus 5.5": "04b32f64b60536e383e6d5010b86d42f3a4b59a1"
+  },
+  "any": {
+   "Claude Opus 5.5": "04b32f64b60536e383e6d5010b86d42f3a4b59a1"
+  }
+ },
+ "oracleparty/oracleparty.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "rosscarlson/DaisysApp": {
+  "co": {},
+  "any": {}
+ },
+ "DistilleryPi/Super-L.E.O.-Maker-3": {
+  "co": {
+   "Claude Opus 5.5": "f91ea64ff1121d0f1bb396c89db04a719650eec2"
+  },
+  "any": {
+   "Claude Opus 5.5": "f91ea64ff1121d0f1bb396c89db04a719650eec2"
+  }
+ },
+ "Spacegoose02/BingeBandit": {
+  "co": {},
+  "any": {}
+ },
+ "kraigstrong/BrightBench": {
+  "co": {},
+  "any": {}
+ },
+ "librematch/genie": {
+  "co": {},
+  "any": {}
+ },
+ "CodeMonkeyATL/vic20-2up11": {
+  "co": {},
+  "any": {}
+ },
+ "lupyx/osrs-bankauditor": {
+  "co": {},
+  "any": {}
+ },
+ "branislav94/uptime-kuma": {
+  "co": {
+   "Claude Opus 5.5": "9b5131f95986b6224ee50ee90744381ca6b4eb9e"
+  },
+  "any": {
+   "Claude Opus 5.5": "9b5131f95986b6224ee50ee90744381ca6b4eb9e"
+  }
+ },
+ "jmwilliams4430-ctrl/Betting-App": {
+  "co": {},
+  "any": {}
+ },
+ "Dibz15/swarm-game": {
+  "co": {},
+  "any": {}
+ },
+ "ilovefree1s/dungeon-world": {
+  "co": {},
+  "any": {}
+ },
+ "Jcegger/rift": {
+  "co": {},
+  "any": {}
+ },
+ "Henry147147/oni_gas_mod": {
+  "co": {},
+  "any": {}
+ },
+ "h1ddenpr0cess20/madness": {
+  "co": {},
+  "any": {}
+ },
+ "RitoGamingPLZ/sao-dashboard": {
+  "co": {
+   "Claude Opus 5.5": "d1f8b40ac6b28ac98cf92dd1e6d7ef328f001bd3"
+  },
+  "any": {
+   "Claude Opus 5.5": "d1f8b40ac6b28ac98cf92dd1e6d7ef328f001bd3"
+  }
+ },
+ "HarshVanetiya/cod-montage-generator": {
+  "co": {
+   "Claude Opus 5.5": "6eae85289ef46a14e17a948d23892b85fc94792b"
+  },
+  "any": {
+   "Claude Opus 5.5": "6eae85289ef46a14e17a948d23892b85fc94792b"
+  }
+ },
+ "Reskilling/GoblinDropLogic": {
+  "co": {},
+  "any": {}
+ },
+ "javier9302/Speak-Plus-Games": {
+  "co": {},
+  "any": {}
+ },
+ "theferrer/nix-palette": {
+  "co": {},
+  "any": {}
+ },
+ "victoralvesf/azimuth-motorsport": {
+  "co": {},
+  "any": {}
+ },
+ "jweissman/kyrie": {
+  "co": {},
+  "any": {}
+ },
+ "sherry-666/hoopdex": {
+  "co": {
+   "Claude Opus 5.5": "05ad1ee85523d9f202bd358974d0b019cdac2ab6"
+  },
+  "any": {
+   "Claude Opus 5.5": "05ad1ee85523d9f202bd358974d0b019cdac2ab6"
+  }
+ },
+ "murilobreve/brevesotserv-client": {
+  "co": {},
+  "any": {}
+ },
+ "h1ddenpr0cess20/pinball-madness": {
+  "co": {
+   "Claude Opus 5.5": "c7e62aabfeb69fd6b1b39e1fb151cc91bfd36baa"
+  },
+  "any": {
+   "Claude Opus 5.5": "c7e62aabfeb69fd6b1b39e1fb151cc91bfd36baa"
+  }
+ },
+ "Hurdamert/Royal-Dating-Sim": {
+  "co": {
+   "Claude Opus 5.5": "e257118c55ad7d1a569c0387bb7967e73a90f691"
+  },
+  "any": {
+   "Claude Opus 5.5": "e257118c55ad7d1a569c0387bb7967e73a90f691"
+  }
+ },
+ "northern-information/bull-valley": {
+  "co": {},
+  "any": {}
+ },
+ "kochinchen/ARPG_GAME": {
+  "co": {},
+  "any": {}
+ },
+ "Eth91/tennis-odds-collector": {
+  "co": {},
+  "any": {}
+ },
+ "unmango/scm": {
+  "co": {},
+  "any": {}
+ },
+ "gelov/Mini-Games": {
+  "co": {
+   "Claude Opus 5.5": "33864cfcbf156489888ca0e7242db171c6237e78"
+  },
+  "any": {
+   "Claude Opus 5.5": "33864cfcbf156489888ca0e7242db171c6237e78"
+  }
+ },
+ "capitalsinar-oss/esv-game": {
+  "co": {},
+  "any": {}
+ },
+ "joakimandrew-cloud/lea-faka-tonga": {
+  "co": {},
+  "any": {}
+ },
+ "p1lloww/PokeSal": {
+  "co": {},
+  "any": {}
+ },
+ "arkits/road-rash": {
+  "co": {},
+  "any": {}
+ },
+ "hassanaldajah/hassan-aldajah-portfolio": {
+  "co": {},
+  "any": {}
+ },
+ "gronkreeks/unblockedarcade": {
+  "co": {},
+  "any": {}
+ },
+ "kyushira/warehouse-run": {
+  "co": {
+   "Claude Opus 5.5": "d0c7048b70aeb20a6b3b6767ad945ba00e73168a"
+  },
+  "any": {
+   "Claude Opus 5.5": "d0c7048b70aeb20a6b3b6767ad945ba00e73168a"
+  }
+ },
+ "yz12074-ui/Personal-Website": {
+  "co": {},
+  "any": {}
+ },
+ "TheCanadIndian/nfl-sim-sheet": {
+  "co": {},
+  "any": {}
+ },
+ "xiiixiultra-maker/thinkingofyou": {
+  "co": {},
+  "any": {}
+ },
+ "archwayzero/test-robot": {
+  "co": {},
+  "any": {}
+ },
+ "saxlan/saxlan.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "hurrymeow/lurahsimulator": {
+  "co": {
+   "Claude Opus 5.5": "38ffa7029378181d36f79e510d6079a67c02a034",
+   "Claude Sonnet 5.5": "7f9c7a6f6af42ce90987abb9e6d2f1ffee8853f4"
+  },
+  "any": {
+   "Claude Opus 5.5": "38ffa7029378181d36f79e510d6079a67c02a034",
+   "Claude Sonnet 5.5": "7f9c7a6f6af42ce90987abb9e6d2f1ffee8853f4"
+  }
+ },
+ "tfull/tfull.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "ygusev87/VPS": {
+  "co": {},
+  "any": {}
+ },
+ "Pixler132/RCPS3-steamdeck": {
+  "co": {
+   "Claude Opus 5.5": "cbfcf1f6b5de6aed8db54b9a59a5e99b9277e2b3"
+  },
+  "any": {
+   "Claude Opus 5.5": "cbfcf1f6b5de6aed8db54b9a59a5e99b9277e2b3"
+  }
+ },
+ "meero105-cloud/velvet-thorn": {
+  "co": {
+   "Claude Opus 5.5": "ac082ebfcbf2d2e2ce3ec5768777069809d1cb98"
+  },
+  "any": {
+   "Claude Opus 5.5": "ac082ebfcbf2d2e2ce3ec5768777069809d1cb98"
+  }
+ },
+ "MoneyBusiness-LLC/crankreports": {
+  "co": {},
+  "any": {}
+ },
+ "dk2208338-pixel/3v3": {
+  "co": {
+   "Claude Opus 5.5": "463cd8d9c571a2466af594da8d2fc7071abcc584"
+  },
+  "any": {
+   "Claude Opus 5.5": "463cd8d9c571a2466af594da8d2fc7071abcc584"
+  }
+ },
+ "gregvinyard/lonely-tank": {
+  "co": {},
+  "any": {}
+ },
+ "JawshTheDark/ourtube": {
+  "co": {
+   "Claude Fable 5.1": "0e51e622a2a5e87c9f618e9563f2d2aae1f122a3",
+   "Claude Opus 5.5": "dedf8bd2947810dad2f53a73137c29ac525ccedc"
+  },
+  "any": {
+   "Claude Fable 5.1": "0e51e622a2a5e87c9f618e9563f2d2aae1f122a3",
+   "Claude Opus 5.5": "dedf8bd2947810dad2f53a73137c29ac525ccedc"
+  }
+ },
+ "naki0227/hibimachi": {
+  "co": {
+   "Claude Opus 5.5": "e1c70ea1b629d334889cee81efcd51352ef46306"
+  },
+  "any": {
+   "Claude Opus 5.5": "e1c70ea1b629d334889cee81efcd51352ef46306"
+  }
+ },
+ "Andysaputra1/GamesSilentTerror": {
+  "co": {},
+  "any": {}
+ },
+ "JayPengX/Shared-Proxy": {
+  "co": {},
+  "any": {}
+ },
+ "caseylinfei-create/Table-for-One": {
+  "co": {
+   "Claude Opus 5.5": "095c584b5ca465344c237cfbb1c8248c7af27167"
+  },
+  "any": {
+   "Claude Opus 5.5": "095c584b5ca465344c237cfbb1c8248c7af27167"
+  }
+ },
+ "Rmgriff83/hoop-shoot-league_new": {
+  "co": {},
+  "any": {}
+ },
+ "Kozarusa/libkh2": {
+  "co": {
+   "Claude Opus 5.5": "4a338288a6c1ea909174839908aee6da55746c0b"
+  },
+  "any": {
+   "Claude Opus 5.5": "4a338288a6c1ea909174839908aee6da55746c0b"
+  }
+ },
+ "RealCavsFans/cavsdatabase": {
+  "co": {},
+  "any": {}
+ },
+ "ashersheets-jpg/elden-force-source": {
+  "co": {
+   "Claude Opus 5.5": "51b79eb75b21a36b63d3b3bbaec7d64307a88145"
+  },
+  "any": {
+   "Claude Opus 5.5": "51b79eb75b21a36b63d3b3bbaec7d64307a88145"
+  }
+ },
+ "ChaHyeongChang/decoy-web": {
+  "co": {},
+  "any": {}
+ },
+ "Zaphiruz/wow-addons": {
+  "co": {
+   "Claude Opus 5.5": "daeeccf70640af7f70cb13867aee1dfca2f00f7d"
+  },
+  "any": {
+   "Claude Opus 5.5": "daeeccf70640af7f70cb13867aee1dfca2f00f7d"
+  }
+ },
+ "Joeishelping/Minecraft-War-Mod": {
+  "co": {},
+  "any": {}
+ },
+ "dev-lav/portal-desa-digital": {
+  "co": {},
+  "any": {}
+ },
+ "Spacegoose02/lootden": {
+  "co": {},
+  "any": {}
+ },
+ "pizzacatz/font-compare": {
+  "co": {},
+  "any": {}
+ },
+ "ackermatty-arch/noel-tier-1-hub": {
+  "co": {},
+  "any": {}
+ },
+ "MatyMeatBoy/ReKHCoM": {
+  "co": {},
+  "any": {}
+ },
+ "sanjay1234ms/offlimits": {
+  "co": {},
+  "any": {}
+ },
+ "Petru101/ferret": {
+  "co": {},
+  "any": {}
+ },
+ "NoobNovasIT/MapleClassicHelper": {
+  "co": {
+   "Claude Opus 5.5": "84592ea1583091c7c0e828966f41635120198f95"
+  },
+  "any": {
+   "Claude Opus 5.5": "84592ea1583091c7c0e828966f41635120198f95"
+  }
+ },
+ "fromal09/nba-elo": {
+  "co": {},
+  "any": {}
+ },
+ "bengreff/sunscatter": {
+  "co": {},
+  "any": {}
+ },
+ "cmakler/kgjs": {
+  "co": {},
+  "any": {}
+ },
+ "iTemik/dota.Bet.Analyzer": {
+  "co": {},
+  "any": {}
+ },
+ "Athnir/Fire-Emblem-Armory": {
+  "co": {},
+  "any": {}
+ },
+ "petertanksley/path-tracer": {
+  "co": {
+   "Claude Opus 5.5": "c1fe8e9c0dc4f6aeea0f00346343ea7028f625a2"
+  },
+  "any": {
+   "Claude Opus 5.5": "c1fe8e9c0dc4f6aeea0f00346343ea7028f625a2"
+  }
+ },
+ "Dan1M199/power-hour": {
+  "co": {},
+  "any": {}
+ },
+ "Baahray/cardsoflegend": {
+  "co": {},
+  "any": {}
+ },
+ "alexisiba/ilnamiki": {
+  "co": {},
+  "any": {}
+ },
+ "Aiteswar123/wizards-deal": {
+  "co": {},
+  "any": {}
+ },
+ "larsdominic/pooprunner": {
+  "co": {},
+  "any": {}
+ },
+ "crutches3/d2-compendium": {
+  "co": {},
+  "any": {}
+ },
+ "johnnysins24/looprebirth": {
+  "co": {
+   "Claude Opus 5.5": "4ccbfac083dda102e18448e393e6bb08b5d1b072"
+  },
+  "any": {
+   "Claude Opus 5.5": "4ccbfac083dda102e18448e393e6bb08b5d1b072"
+  }
+ },
+ "Zaffer/near-peer": {
+  "co": {},
+  "any": {}
+ },
+ "Jayqtpie/alliance-tracker": {
+  "co": {},
+  "any": {}
+ },
+ "StormAtronach/nirender-plugin": {
+  "co": {},
+  "any": {}
+ },
+ "ANUBIS-cp/grand-theft-chog": {
+  "co": {},
+  "any": {}
+ },
+ "Fildxza/AmmaraLearningGames": {
+  "co": {
+   "Claude Opus 5.5": "4333a7288417455952136b1a4123200ca9117a55",
+   "Claude Sonnet 5.5": "d3606f27a9ec79e4363338c9fa943cae8b8b34e7"
+  },
+  "any": {
+   "Claude Opus 5.5": "4333a7288417455952136b1a4123200ca9117a55",
+   "Claude Sonnet 5.5": "d3606f27a9ec79e4363338c9fa943cae8b8b34e7"
+  }
+ },
+ "Sour-Dev-Home/satisfactory-dash-mod": {
+  "co": {},
+  "any": {}
+ },
+ "DaniaRepublic/antimimetics": {
+  "co": {
+   "Claude Opus 5.5": "b5706266474c60d228d67e0e1247ca4ae24a069f"
+  },
+  "any": {
+   "Claude Opus 5.5": "b5706266474c60d228d67e0e1247ca4ae24a069f"
+  }
+ },
+ "game-de-it/playload-handheld": {
+  "co": {
+   "Claude Opus 5.5": "2fd654187a17ebf243fe146a41359b8c4e6eaf1f"
+  },
+  "any": {
+   "Claude Opus 5.5": "2fd654187a17ebf243fe146a41359b8c4e6eaf1f"
+  }
+ },
+ "Dsoto1/splitters": {
+  "co": {},
+  "any": {}
+ },
+ "tannergolden/tannergolden": {
+  "co": {},
+  "any": {}
+ },
+ "Kasonkong/macau-game": {
+  "co": {},
+  "any": {}
+ },
+ "FreezaMotoqueiro/Dauntless-Reforged-Revival": {
+  "co": {},
+  "any": {}
+ },
+ "HyeokjinKang/URLATE": {
+  "co": {},
+  "any": {}
+ },
+ "ChaseHendrick/Scrolls": {
+  "co": {},
+  "any": {}
+ },
+ "sms9356/testgame": {
+  "co": {},
+  "any": {}
+ },
+ "AlexPerrin/osrs-harness": {
+  "co": {},
+  "any": {}
+ },
+ "happy-dwarf-team/bellows": {
+  "co": {},
+  "any": {}
+ },
+ "MegiddoFlame1987/Flow": {
+  "co": {},
+  "any": {}
+ },
+ "cmbeid/Projects": {
+  "co": {},
+  "any": {}
+ },
+ "robertoqimin/battride-war-recomp": {
+  "co": {},
+  "any": {}
+ },
+ "sevencooper/LagScope": {
+  "co": {},
+  "any": {}
+ },
+ "tk33r1/st": {
+  "co": {},
+  "any": {}
+ },
+ "pcy200409/K-OMSI": {
+  "co": {},
+  "any": {}
+ },
+ "TimePeace49/movie-royale-releases": {
+  "co": {
+   "Claude Opus 5.5": "7357d61d7f58fd9017e8edb7edbdc76e4f12e3f6"
+  },
+  "any": {
+   "Claude Opus 5.5": "7357d61d7f58fd9017e8edb7edbdc76e4f12e3f6"
+  }
+ },
+ "spencerdavis226/side-quest": {
+  "co": {},
+  "any": {}
+ },
+ "vedshubham58-crypto/Chalk-Rush": {
+  "co": {
+   "Claude Opus 5.5": "9632125af5ad02a2d856b9d17e23f4b2d1f9d0eb"
+  },
+  "any": {
+   "Claude Opus 5.5": "9632125af5ad02a2d856b9d17e23f4b2d1f9d0eb"
+  }
+ },
+ "Nedlitex/EndHud": {
+  "co": {},
+  "any": {}
+ },
+ "sandervanderdoes-arch/theimpossibleshuffle": {
+  "co": {},
+  "any": {}
+ },
+ "mcdggnet/dgg-chat-mod": {
+  "co": {},
+  "any": {}
+ },
+ "evenstephen85/A-Maze_App": {
+  "co": {
+   "Claude Opus 5.5": "527daa8dabeafec12e19ec50e5eec148b1346671"
+  },
+  "any": {
+   "Claude Opus 5.5": "527daa8dabeafec12e19ec50e5eec148b1346671"
+  }
+ },
+ "GabeSud0/pokeplatinum-3ds": {
+  "co": {},
+  "any": {}
+ },
+ "ShanChen6/Reed-Banner": {
+  "co": {},
+  "any": {}
+ },
+ "Mikale4/crystalauto": {
+  "co": {
+   "Claude Opus 5.5": "3d74c909161960b3820681bca9b137ce5946c950"
+  },
+  "any": {
+   "Claude Opus 5.5": "3d74c909161960b3820681bca9b137ce5946c950"
+  }
+ },
+ "ken-fs/animebreaker": {
+  "co": {},
+  "any": {}
+ },
+ "kevinlee2198/playground-web-client": {
+  "co": {},
+  "any": {}
+ },
+ "gettakaro/connectors": {
+  "co": {},
+  "any": {}
+ },
+ "kanwaruday/LMCSManagement": {
+  "co": {},
+  "any": {}
+ },
+ "wtfchuckomg/fb-stats": {
+  "co": {},
+  "any": {}
+ },
+ "tmcleroy/cps2recomp": {
+  "co": {},
+  "any": {}
+ },
+ "meneerkrabs/ronja-web": {
+  "co": {
+   "Claude Opus 5.5": "ed2644eb5347992fe91414afc279ea7e8b80b498"
+  },
+  "any": {
+   "Claude Opus 5.5": "ed2644eb5347992fe91414afc279ea7e8b80b498"
+  }
+ },
+ "wtfchuckomg/avctl-stats": {
+  "co": {},
+  "any": {}
+ },
+ "Edgemodders/EDGEmat": {
+  "co": {},
+  "any": {}
+ },
+ "Jojorabbit21/NBA-GM-SIM": {
+  "co": {},
+  "any": {}
+ },
+ "Logan3731/ball-dodge-game": {
+  "co": {
+   "Claude Opus 5.5": "48f94f87f0c97dffc1db664d01b4721400ce8d4b"
+  },
+  "any": {
+   "Claude Opus 5.5": "48f94f87f0c97dffc1db664d01b4721400ce8d4b"
+  }
+ },
+ "officialgewtified/RepoBoard": {
+  "co": {},
+  "any": {}
+ },
+ "pravegm/brim": {
+  "co": {
+   "Claude Opus 5.5": "356c59ad3d758afeff535459e76831f431f41cc6"
+  },
+  "any": {
+   "Claude Opus 5.5": "356c59ad3d758afeff535459e76831f431f41cc6"
+  }
+ },
+ "chaz-rikki-freedo/king-cut-throat-card-game": {
+  "co": {},
+  "any": {}
+ },
+ "AP9000Moneywinner420/vpe-engine": {
+  "co": {},
+  "any": {}
+ },
+ "tmcleroy/recomp-common": {
+  "co": {},
+  "any": {}
+ },
+ "akhil-aswin/nba-trivia-games": {
+  "co": {
+   "Claude Opus 5.5": "f57454be9e4e82573f3420f9f8ae197b01783d42"
+  },
+  "any": {
+   "Claude Opus 5.5": "f57454be9e4e82573f3420f9f8ae197b01783d42"
+  }
+ },
+ "Tachy/Super-Heavy-Rocket-Simulator-VR": {
+  "co": {},
+  "any": {}
+ },
+ "UNGJINYOO-creator/Wordbook": {
+  "co": {},
+  "any": {}
+ },
+ "matindra/bagh-chal-android": {
+  "co": {},
+  "any": {}
+ },
+ "JetNebula-cntr/chess-tracker": {
+  "co": {},
+  "any": {}
+ },
+ "recondavin/kurzgesagt-exam-questions-design": {
+  "co": {},
+  "any": {}
+ },
+ "mpowell95/game-hub": {
+  "co": {},
+  "any": {}
+ },
+ "crf04/statsplus-frontend": {
+  "co": {},
+  "any": {}
+ },
+ "paoloty/wknd-portal": {
+  "co": {},
+  "any": {}
+ },
+ "wn-mitch/one-sixty-two": {
+  "co": {},
+  "any": {}
+ },
+ "justintuckett-15412/final-tally": {
+  "co": {
+   "Claude Opus 5.5": "8f0482f67a54293b2cdde0666c1e223287f8a042"
+  },
+  "any": {
+   "Claude Opus 5.5": "8f0482f67a54293b2cdde0666c1e223287f8a042"
+  }
+ },
+ "Fc3p0/Glep_Card_Studio": {
+  "co": {},
+  "any": {}
+ },
+ "hoffspot/conquest": {
+  "co": {},
+  "any": {}
+ },
+ "hkjang/ox-arena": {
+  "co": {},
+  "any": {}
+ },
+ "Longthp-02/keobong": {
+  "co": {},
+  "any": {}
+ },
+ "SergiiChr/chop_chop_meow": {
+  "co": {},
+  "any": {}
+ },
+ "royaltec-international/game-event": {
+  "co": {},
+  "any": {}
+ },
+ "YoungmanKwon/geo-rpg": {
+  "co": {},
+  "any": {}
+ },
+ "christianthyatt-sketch/before-and-after": {
+  "co": {},
+  "any": {}
+ },
+ "kkonnerharris/konner-harris": {
+  "co": {
+   "Claude Opus 5.5": "42a2830299f6ff8fdc397992a617111abd96940a"
+  },
+  "any": {
+   "Claude Opus 5.5": "42a2830299f6ff8fdc397992a617111abd96940a"
+  }
+ },
+ "cadeambrose/knox-link": {
+  "co": {
+   "Claude Opus 5.5": "acb3ab26f019e350af360bea7895f5c20905499c"
+  },
+  "any": {
+   "Claude Opus 5.5": "acb3ab26f019e350af360bea7895f5c20905499c"
+  }
+ },
+ "LevonFrench/AladdinsCastle": {
+  "co": {},
+  "any": {}
+ },
+ "anestiiz/elf-workshop": {
+  "co": {},
+  "any": {}
+ },
+ "sadelcarpio/steam-recsys-e2e": {
+  "co": {},
+  "any": {}
+ },
+ "FIZL0/openmx": {
+  "co": {},
+  "any": {}
+ },
+ "AJBats/saturn-tr-remix": {
+  "co": {
+   "Claude Opus 5.5": "fb1b6b8c9e4a270662222e40c48ec3ce288f2804"
+  },
+  "any": {
+   "Claude Opus 5.5": "fb1b6b8c9e4a270662222e40c48ec3ce288f2804"
+  }
+ },
+ "gavenda/plana": {
+  "co": {},
+  "any": {}
+ },
+ "knownquantityllc/knownquantityllc.github.io": {
+  "co": {
+   "Claude Opus 5.5": "a0c6a1289d6484a7341980d810484d570bf5a916"
+  },
+  "any": {
+   "Claude Opus 5.5": "a0c6a1289d6484a7341980d810484d570bf5a916"
+  }
+ },
+ "Kirkb94/horde-brawl": {
+  "co": {},
+  "any": {}
+ },
+ "fly7632785/basketball-highlight-editor": {
+  "co": {},
+  "any": {}
+ },
+ "Howflet/SharkTale-MacOS-Recomp": {
+  "co": {
+   "Claude Opus 5.5": "2079ecb8bc22c57d39402902c95f486873e3554e"
+  },
+  "any": {
+   "Claude Opus 5.5": "2079ecb8bc22c57d39402902c95f486873e3554e"
+  }
+ },
+ "DenisML51/S.U.P": {
+  "co": {},
+  "any": {}
+ },
+ "InterestingSoup/warzone-gun-search-bot": {
+  "co": {},
+  "any": {}
+ },
+ "rei1237/yeoni-atelier": {
+  "co": {
+   "Claude Opus 5.5": "d5ae1b12e2c86a14f56645bc5372209cd5c35147"
+  },
+  "any": {
+   "Claude Opus 5.5": "d5ae1b12e2c86a14f56645bc5372209cd5c35147"
+  }
+ },
+ "Open-BFME/Open-BFME-2": {
+  "co": {},
+  "any": {}
+ },
+ "20261220-commits/MArk": {
+  "co": {},
+  "any": {}
+ },
+ "krnithishkumar/chess-aasaan": {
+  "co": {
+   "Claude Opus 5.5": "af2d3dc9f8c2e99c8bb9578329fa35292189841c"
+  },
+  "any": {
+   "Claude Opus 5.5": "af2d3dc9f8c2e99c8bb9578329fa35292189841c"
+  }
+ },
+ "ruhanu155/palladarium": {
+  "co": {
+   "Claude Opus 5.5": "f880a5dec95f5c002b383c9724e18952d9284135"
+  },
+  "any": {
+   "Claude Opus 5.5": "f880a5dec95f5c002b383c9724e18952d9284135"
+  }
+ },
+ "itshyokin/hd2dengine": {
+  "co": {},
+  "any": {}
+ },
+ "lbxa/apart-collusion-sprint": {
+  "co": {
+   "Claude Opus 5.5": "4551c1f065fd9203c8753e0d587d23121d253757"
+  },
+  "any": {
+   "Claude Opus 5.5": "4551c1f065fd9203c8753e0d587d23121d253757"
+  }
+ },
+ "Qureshi-Inc/crcmz-app": {
+  "co": {},
+  "any": {}
+ },
+ "foredayner/MCSinarioBuilder": {
+  "co": {
+   "Claude Opus 5.5": "b240aea5d746fc9791756f354ce6b3f4fa399622"
+  },
+  "any": {
+   "Claude Opus 5.5": "b240aea5d746fc9791756f354ce6b3f4fa399622"
+  }
+ },
+ "DarcioAlberico/pdfcraft-xadrez": {
+  "co": {},
+  "any": {}
+ },
+ "sunnyxu216/nba-prop-scraper": {
+  "co": {},
+  "any": {}
+ },
+ "hngovan/simulator-build-keyboard": {
+  "co": {},
+  "any": {}
+ },
+ "saselandia/Better-Window-Manager": {
+  "co": {},
+  "any": {}
+ },
+ "arukari0961730/iwasaki-gamedev-fes-2026": {
+  "co": {
+   "Claude Opus 5.5": "22a8a62197295fa24e15b92c438024c9e12c7945"
+  },
+  "any": {
+   "Claude Opus 5.5": "22a8a62197295fa24e15b92c438024c9e12c7945"
+  }
+ },
+ "shonejj/BMW-TEST-GAME": {
+  "co": {
+   "Claude Opus 5.5": "19627666755132afa79e582f4a75d9c72fde61d0"
+  },
+  "any": {
+   "Claude Opus 5.5": "19627666755132afa79e582f4a75d9c72fde61d0"
+  }
+ },
+ "Increaser-live/Increaser": {
+  "co": {
+   "Claude Opus 5.5": "ad9c2a838525125842c3491cf1478c27dca1d333"
+  },
+  "any": {
+   "Claude Opus 5.5": "ad9c2a838525125842c3491cf1478c27dca1d333"
+  }
+ },
+ "Syue-Liu/schedule": {
+  "co": {},
+  "any": {}
+ },
+ "rhymes-with-tree/catdoku": {
+  "co": {},
+  "any": {}
+ },
+ "dfunedude/Scooper": {
+  "co": {},
+  "any": {}
+ },
+ "vanphenguyen/frog-pond-english": {
+  "co": {
+   "Claude Opus 5.5": "bfd804ae1831b15a8ce0d151f9076f6ceba96f3c"
+  },
+  "any": {
+   "Claude Opus 5.5": "bfd804ae1831b15a8ce0d151f9076f6ceba96f3c"
+  }
+ },
+ "growingleave/1vs1-arena-2": {
+  "co": {},
+  "any": {}
+ },
+ "thanvanthat/portfolio": {
+  "co": {},
+  "any": {}
+ },
+ "kdt26aie40008-ux/-": {
+  "co": {
+   "Claude Opus 5.5": "714f8e34e6576774c1bb922b762ce5993076680c"
+  },
+  "any": {
+   "Claude Opus 5.5": "714f8e34e6576774c1bb922b762ce5993076680c"
+  }
+ },
+ "ycnpy6/QuizApp": {
+  "co": {
+   "Claude Opus 5.5": "27ffd4ab26e7d6003134e9de542e50823a49647c"
+  },
+  "any": {
+   "Claude Opus 5.5": "27ffd4ab26e7d6003134e9de542e50823a49647c"
+  }
+ },
+ "amatouhake/Lamium": {
+  "co": {},
+  "any": {}
+ },
+ "Wendy-Hamlet/pyanodons-tutorial": {
+  "co": {},
+  "any": {}
+ },
+ "NewDara-Star/gidi": {
+  "co": {},
+  "any": {}
+ },
+ "xsantcastx/xsantcastx": {
+  "co": {},
+  "any": {}
+ },
+ "Petru101/gamefix": {
+  "co": {},
+  "any": {}
+ },
+ "peenjeee/chess-analyzer": {
+  "co": {},
+  "any": {}
+ },
+ "password-2/nfl-replay-rater": {
+  "co": {},
+  "any": {}
+ },
+ "xXDankeyKongXx/psnap-3ds": {
+  "co": {
+   "Claude Opus 5.5": "1bb2f58e94a2460e09ac8b0f2d4fd48c804b435e"
+  },
+  "any": {
+   "Claude Opus 5.5": "1bb2f58e94a2460e09ac8b0f2d4fd48c804b435e"
+  }
+ },
+ "gevagit/snap-iq": {
+  "co": {
+   "Claude Opus 5.5": "d700229773d9ebe29f670ddd1d61e3d6b6e398b7"
+  },
+  "any": {
+   "Claude Opus 5.5": "d700229773d9ebe29f670ddd1d61e3d6b6e398b7"
+  }
+ },
+ "sinhvienaiti/typing-defense": {
+  "co": {
+   "Claude Opus 5.5": "eccc578680d4b77283461457e13580ee13c94756"
+  },
+  "any": {
+   "Claude Opus 5.5": "eccc578680d4b77283461457e13580ee13c94756"
+  }
+ },
+ "JayPengX/Orbit-Sports": {
+  "co": {},
+  "any": {}
+ },
+ "adrik0622/QuestSim": {
+  "co": {
+   "Claude Opus 5.5": "dfeda281e2aa376b1938c5cf9cf082faa2d80c10"
+  },
+  "any": {
+   "Claude Opus 5.5": "dfeda281e2aa376b1938c5cf9cf082faa2d80c10"
+  }
+ },
+ "Just-Stabb/Smash4ModdingTests": {
+  "co": {},
+  "any": {}
+ },
+ "swagman1337qq/basketball": {
+  "co": {},
+  "any": {}
+ },
+ "Phryxia/math-map": {
+  "co": {},
+  "any": {}
+ },
+ "Dastanq44/Dastan": {
+  "co": {
+   "Claude Opus 5.5": "8ac7035d9d74da9c050b51b367fc11bdc4f3c3d8"
+  },
+  "any": {
+   "Claude Opus 5.5": "8ac7035d9d74da9c050b51b367fc11bdc4f3c3d8"
+  }
+ },
+ "MarkJRogers92/kss-deuce": {
+  "co": {
+   "Claude Opus 5.5": "91843b6f45d100b4a65923d8e6671eab72d61690"
+  },
+  "any": {
+   "Claude Opus 5.5": "91843b6f45d100b4a65923d8e6671eab72d61690"
+  }
+ },
+ "SullyB5/ELYRA-THE-HOLLOW": {
+  "co": {},
+  "any": {}
+ },
+ "Rodantmat/Alphadog": {
+  "co": {},
+  "any": {}
+ },
+ "noru358/watch": {
+  "co": {
+   "Claude Opus 5.5": "840245dc8c3c40cf3052250d7dd0373954c94260"
+  },
+  "any": {
+   "Claude Opus 5.5": "840245dc8c3c40cf3052250d7dd0373954c94260"
+  }
+ },
+ "sinhvienaiti/typing-survival": {
+  "co": {
+   "Claude Opus 5.5": "a0700413e2eb8febef1b363a79a77cc032540837"
+  },
+  "any": {
+   "Claude Opus 5.5": "a0700413e2eb8febef1b363a79a77cc032540837"
+  }
+ },
+ "MarkJRogers92/kss-mod": {
+  "co": {
+   "Claude Opus 5.5": "498cad595ef0c77eaba2b14b176ec9d7b60c7dad"
+  },
+  "any": {
+   "Claude Opus 5.5": "498cad595ef0c77eaba2b14b176ec9d7b60c7dad"
+  }
+ },
+ "herougan/bramblewood-arena-game": {
+  "co": {},
+  "any": {}
+ },
+ "trdaniels90/Sleeper-Aid": {
+  "co": {
+   "Claude Opus 5.5": "a94e2779ebe69ae00e69eb88f3e02cbd86956f22"
+  },
+  "any": {
+   "Claude Opus 5.5": "a94e2779ebe69ae00e69eb88f3e02cbd86956f22"
+  }
+ },
+ "vmttri-glitch/midnightpaws": {
+  "co": {
+   "Claude Opus 5.5": "af50264e9a3e9306bd5d09fcaa08f391a4f1df55"
+  },
+  "any": {
+   "Claude Opus 5.5": "af50264e9a3e9306bd5d09fcaa08f391a4f1df55"
+  }
+ },
+ "kellenmalonehr-dev/SeekersCompass": {
+  "co": {
+   "Claude Opus 5.5": "1ea070a3a5aa1147a4d033405341dfebebd62de0"
+  },
+  "any": {
+   "Claude Opus 5.5": "1ea070a3a5aa1147a4d033405341dfebebd62de0"
+  }
+ },
+ "ItsChrisHickman/runstop64": {
+  "co": {},
+  "any": {}
+ },
+ "consensusgurus/source-of-truths": {
+  "co": {},
+  "any": {}
+ },
+ "peenjeee/chess-userscript": {
+  "co": {},
+  "any": {}
+ },
+ "SHKChan/shkchan": {
+  "co": {
+   "Claude Opus 5.5": "8562352a0bc86fe95072281ecfcd714e9cedfb0c"
+  },
+  "any": {
+   "Claude Opus 5.5": "8562352a0bc86fe95072281ecfcd714e9cedfb0c"
+  }
+ },
+ "donthebuilder/moonshot-mlb": {
+  "co": {},
+  "any": {}
+ },
+ "kaelynhe/oct26godotplatformer": {
+  "co": {},
+  "any": {}
+ },
+ "jaeden-debug/stillawake-media": {
+  "co": {},
+  "any": {}
+ },
+ "stfrutledge/nfl-picks": {
+  "co": {},
+  "any": {}
+ },
+ "virapandy/pocket-game-night": {
+  "co": {},
+  "any": {}
+ },
+ "jtange62/Musical-Chairs": {
+  "co": {
+   "Claude Opus 5.5": "ea506312a830198c6771bdba7861cdf4e18f56f3"
+  },
+  "any": {
+   "Claude Opus 5.5": "ea506312a830198c6771bdba7861cdf4e18f56f3"
+  }
+ },
+ "hetarho/haeram-soccer": {
+  "co": {},
+  "any": {}
+ },
+ "owzo/CC-Tweaked-Draconic-Manager": {
+  "co": {},
+  "any": {}
+ },
+ "Oolnokk/HobunjiHollowUnity": {
+  "co": {},
+  "any": {}
+ },
+ "Ajinkyaa2004/Hudl": {
+  "co": {},
+  "any": {}
+ },
+ "sugarcypher/lucidluxgames": {
+  "co": {},
+  "any": {}
+ },
+ "naari3/mkgp2-decomp": {
+  "co": {},
+  "any": {}
+ },
+ "nothinsphere/jalur-cahaya": {
+  "co": {
+   "Claude Opus 5.5": "f1b03b8df0d4e34900b0618b1059c7ed642573b4"
+  },
+  "any": {
+   "Claude Opus 5.5": "f1b03b8df0d4e34900b0618b1059c7ed642573b4"
+  }
+ },
+ "radubools/dex": {
+  "co": {},
+  "any": {}
+ },
+ "Zasteria/EU5-everything-in-one-place": {
+  "co": {},
+  "any": {}
+ },
+ "cherryroots/vivy": {
+  "co": {},
+  "any": {}
+ },
+ "tohidulislam52/Game-Project": {
+  "co": {},
+  "any": {}
+ },
+ "Pappydapimp69/Doorbuster": {
+  "co": {
+   "Claude Opus 5.5": "6875e34d428e02e3733c44ad5dcbe875c02cb1d1"
+  },
+  "any": {
+   "Claude Opus 5.5": "6875e34d428e02e3733c44ad5dcbe875c02cb1d1"
+  }
+ },
+ "Le-Incal/the-brain-game": {
+  "co": {},
+  "any": {}
+ },
+ "CptPakundo/FLvibed": {
+  "co": {
+   "Claude Opus 5.5": "835c84c04663b01a6597493a5a0ef08c90bac42f"
+  },
+  "any": {
+   "Claude Opus 5.5": "835c84c04663b01a6597493a5a0ef08c90bac42f"
+  }
+ },
+ "kissgroup166-lab/math-connect-web": {
+  "co": {
+   "Claude Opus 5.5": "22b49486f32e5b77b231fea335f5b7477985f4af"
+  },
+  "any": {
+   "Claude Opus 5.5": "22b49486f32e5b77b231fea335f5b7477985f4af"
+  }
+ },
+ "paul800901/AwakeningCrystalConverter": {
+  "co": {},
+  "any": {}
+ },
+ "Lorsieab2/Virtual-Villagers-Fun-Patcher": {
+  "co": {},
+  "any": {}
+ },
+ "brycejmurrin/f1-game": {
+  "co": {},
+  "any": {}
+ },
+ "JaxHill21/MSDS-457-Final-Project-Package": {
+  "co": {},
+  "any": {}
+ },
+ "EvilRen/Grasp": {
+  "co": {},
+  "any": {}
+ },
+ "pazpop/cs-war3-ai": {
+  "co": {
+   "Claude Opus 5.5": "58fead7274947c57994521de163af279947b0a5b"
+  },
+  "any": {
+   "Claude Opus 5.5": "58fead7274947c57994521de163af279947b0a5b"
+  }
+ },
+ "Manishearth/dynasty": {
+  "co": {
+   "Claude Opus 5.5": "648b086fc8b8bd0453666133296e37f572249e56"
+  },
+  "any": {
+   "Claude Opus 5.5": "648b086fc8b8bd0453666133296e37f572249e56"
+  }
+ },
+ "coded-dot-design/dom-battlefield": {
+  "co": {
+   "Claude Opus 5.5": "1f13826e15215497d84266692a275712825905ae"
+  },
+  "any": {
+   "Claude Opus 5.5": "1f13826e15215497d84266692a275712825905ae"
+  }
+ },
+ "Smarter-Poker/Smarter-Poker-Club-Arena": {
+  "co": {},
+  "any": {}
+ },
+ "antonnisthomas13-sudo/ClutchCrosshair": {
+  "co": {},
+  "any": {}
+ },
+ "Nico87LBS/hopla-ha": {
+  "co": {},
+  "any": {}
+ },
+ "PieAIStudio/ClaudeSync": {
+  "co": {},
+  "any": {}
+ },
+ "Detair/kaiku": {
+  "co": {},
+  "any": {}
+ },
+ "Nikque/juraic-field": {
+  "co": {},
+  "any": {}
+ },
+ "Egorsky14/Y-": {
+  "co": {},
+  "any": {}
+ },
+ "nathanjmetz/city": {
+  "co": {},
+  "any": {}
+ },
+ "EarlAbides/retro-games-tools": {
+  "co": {},
+  "any": {}
+ },
+ "DrummingBird1/gow-psp-recomp": {
+  "co": {},
+  "any": {}
+ },
+ "AbracadabraApp/fuori": {
+  "co": {},
+  "any": {}
+ },
+ "adamkozel/Dishonored-2-coop": {
+  "co": {},
+  "any": {}
+ },
+ "bada17/budget-mbti-survey": {
+  "co": {},
+  "any": {}
+ },
+ "dungeonfluxgame/dungeonfluxGame": {
+  "co": {},
+  "any": {}
+ },
+ "PrototypeVersions/RSI2": {
+  "co": {
+   "Claude Opus 5.5": "4277c04a87b60043e445b8ab5c02a1c282c5e202"
+  },
+  "any": {
+   "Claude Opus 5.5": "4277c04a87b60043e445b8ab5c02a1c282c5e202"
+  }
+ },
+ "droogie/bbhost": {
+  "co": {},
+  "any": {}
+ },
+ "eLGatoRDV/youtuber-ladronMOD": {
+  "co": {
+   "Claude Opus 5.5": "15b9126811ec91622c2dbbf0018cc04bd6664984"
+  },
+  "any": {
+   "Claude Opus 5.5": "15b9126811ec91622c2dbbf0018cc04bd6664984"
+  }
+ },
+ "MoonlightByte/NeverEndingQuest": {
+  "co": {},
+  "any": {}
+ },
+ "michaeldale/velocity9x": {
+  "co": {},
+  "any": {}
+ },
+ "hideyukiMORI/nene-igo": {
+  "co": {
+   "Claude Opus 5.5": "dad2c2c4973333050759b5392e8f64ef47ef88c7"
+  },
+  "any": {
+   "Claude Opus 5.5": "dad2c2c4973333050759b5392e8f64ef47ef88c7"
+  }
+ },
+ "WONKYU0607/BODY-RUN": {
+  "co": {
+   "Claude Opus 5.5": "aaf1f9569dbccc15ded5d1b08f130c0b4adf9d01"
+  },
+  "any": {
+   "Claude Opus 5.5": "aaf1f9569dbccc15ded5d1b08f130c0b4adf9d01"
+  }
+ },
+ "oaustegard/oaustegard.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "nami0817kk-arch/workspace": {
+  "co": {},
+  "any": {}
+ },
+ "nulljosh/joshuatree": {
+  "co": {},
+  "any": {}
+ },
+ "fanhaipeng/dota2coach": {
+  "co": {
+   "Claude Opus 5.5": "e48bbf20b967005d575e07a61180c5aba247daf0"
+  },
+  "any": {
+   "Claude Opus 5.5": "e48bbf20b967005d575e07a61180c5aba247daf0"
+  }
+ },
+ "LDobac/Uranium": {
+  "co": {},
+  "any": {}
+ },
+ "Codewiz2898/sports-follow": {
+  "co": {},
+  "any": {}
+ },
+ "Xercluyn/bunkasai": {
+  "co": {
+   "Claude Opus 5.5": "6aef4d2d10ee558351d4c2247e2ecb48d27f79ef"
+  },
+  "any": {
+   "Claude Opus 5.5": "6aef4d2d10ee558351d4c2247e2ecb48d27f79ef"
+  }
+ },
+ "Matthewjmiller07/matthew-miller-personal-site": {
+  "co": {},
+  "any": {}
+ },
+ "12kodakara/vgame": {
+  "co": {},
+  "any": {}
+ },
+ "giabaotran1710/duan01": {
+  "co": {},
+  "any": {}
+ },
+ "ysknowledgebase01/wildbound": {
+  "co": {
+   "Claude Opus 5.5": "11cc85669f531c9c81d9e27196947da3c77685b5"
+  },
+  "any": {
+   "Claude Opus 5.5": "11cc85669f531c9c81d9e27196947da3c77685b5"
+  }
+ },
+ "mykkro/mouse-quest": {
+  "co": {
+   "Claude Opus 5.5": "b1d61de242d15d9c29a0f64e5344430e62b79450"
+  },
+  "any": {
+   "Claude Opus 5.5": "b1d61de242d15d9c29a0f64e5344430e62b79450"
+  }
+ },
+ "marwannassef/lamma-app": {
+  "co": {},
+  "any": {}
+ },
+ "caliversityofficial-commits/caliversity-media": {
+  "co": {},
+  "any": {}
+ },
+ "anshrockz91/rudras-farm": {
+  "co": {
+   "Claude Opus 5.5": "0078100ff80755b407aeff6cec4c3ff539f78004"
+  },
+  "any": {
+   "Claude Opus 5.5": "0078100ff80755b407aeff6cec4c3ff539f78004"
+  }
+ },
+ "jheil65/demystify-ai": {
+  "co": {},
+  "any": {}
+ },
+ "Dobrelya22/zangetsu-mod": {
+  "co": {
+   "Claude Opus 5.5": "af0d9572a5e864a3ace2dda0337dde1e1a73ef87"
+  },
+  "any": {
+   "Claude Opus 5.5": "af0d9572a5e864a3ace2dda0337dde1e1a73ef87"
+  }
+ },
+ "Seed808/kalshi-bot": {
+  "co": {
+   "Claude Opus 5.5": "7a0a9239ce97ece55564f08c41ecc1130a23bc80"
+  },
+  "any": {
+   "Claude Opus 5.5": "7a0a9239ce97ece55564f08c41ecc1130a23bc80"
+  }
+ },
+ "imai-lgtm/dhcqhfq6qbwr": {
+  "co": {
+   "Claude Opus 5.5": "aea06a907793f56047615d45f3a46ec5e6a3b60e"
+  },
+  "any": {
+   "Claude Opus 5.5": "aea06a907793f56047615d45f3a46ec5e6a3b60e"
+  }
+ },
+ "imcenix/cenix-gamestation": {
+  "co": {},
+  "any": {}
+ },
+ "a2namphuong-glitch/dai-chien-ap-suat": {
+  "co": {
+   "Claude Opus 5.5": "aa7deb0698bb5898895403d888ce03267a590c97"
+  },
+  "any": {
+   "Claude Opus 5.5": "aa7deb0698bb5898895403d888ce03267a590c97"
+  }
+ },
+ "radurosu/romanian-whist": {
+  "co": {},
+  "any": {}
+ },
+ "WitthayaPae/whatever": {
+  "co": {},
+  "any": {}
+ },
+ "islandmed/real-or-ai": {
+  "co": {},
+  "any": {}
+ },
+ "tawan475/teyvat.me-capture": {
+  "co": {
+   "Claude Opus 5.5": "2a8fe2dde48f7e41392ddb094bafc985110da037"
+  },
+  "any": {
+   "Claude Opus 5.5": "2a8fe2dde48f7e41392ddb094bafc985110da037"
+  }
+ },
+ "arkulinskis/doremiroad": {
+  "co": {
+   "Claude Opus 5.5": "cdc2b8fe6e13aef16a5dc146ad37ee0e5746d0aa"
+  },
+  "any": {
+   "Claude Opus 5.5": "cdc2b8fe6e13aef16a5dc146ad37ee0e5746d0aa"
+  }
+ },
+ "naokijodan/portfolio": {
+  "co": {},
+  "any": {}
+ },
+ "TmTvrn/square-off": {
+  "co": {},
+  "any": {}
+ },
+ "kelleyblackmore/scrap-droid": {
+  "co": {
+   "Claude Opus 5.5": "3f788bc5ea0ce597539fcc172ce1bd4e2c76b4b2"
+  },
+  "any": {
+   "Claude Opus 5.5": "3f788bc5ea0ce597539fcc172ce1bd4e2c76b4b2"
+  }
+ },
+ "Shlok-Bhakta/group53-games": {
+  "co": {
+   "Claude Opus 5.5": "4b8fa365afe5efdced05003e84c53d8b663da564"
+  },
+  "any": {
+   "Claude Opus 5.5": "4b8fa365afe5efdced05003e84c53d8b663da564"
+  }
+ },
+ "davehess/QuarmBossTracker": {
+  "co": {},
+  "any": {}
+ },
+ "pedrooliboni/pedrooliboni.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "jnakagawa/vibes": {
+  "co": {},
+  "any": {}
+ },
+ "sunholo-data/stapledons-godot": {
+  "co": {},
+  "any": {}
+ },
+ "mwridgway/sports-team-trumps": {
+  "co": {
+   "Claude Opus 5.5": "6a6dcc7438484d905b4ed99c28e4da2ca6c7d492"
+  },
+  "any": {
+   "Claude Opus 5.5": "6a6dcc7438484d905b4ed99c28e4da2ca6c7d492"
+  }
+ },
+ "NoahGrove3/bo3-zombies-skyrim": {
+  "co": {},
+  "any": {}
+ },
+ "sonyjeong/sony-portfolio": {
+  "co": {
+   "Claude Opus 5.5": "5f68a73c66fbd5ceb21cafb23c022169d89204aa"
+  },
+  "any": {
+   "Claude Opus 5.5": "5f68a73c66fbd5ceb21cafb23c022169d89204aa"
+  }
+ },
+ "Specifxx/88risers": {
+  "co": {},
+  "any": {}
+ },
+ "clockwise-botc/clockwise-botc.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "timobarrs-a11y/VelvetAlpha": {
+  "co": {},
+  "any": {}
+ },
+ "Miklec83400/aion2-miklec": {
+  "co": {},
+  "any": {}
+ },
+ "bradjrenshaw/darkvision-wotr": {
+  "co": {},
+  "any": {}
+ },
+ "Baylandblue/baylandblue.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "jordanlee124/something-cool": {
+  "co": {
+   "Claude Opus 5.5": "f9ae22484bab2daa63a9ce518123e6f3c3696e89"
+  },
+  "any": {
+   "Claude Opus 5.5": "f9ae22484bab2daa63a9ce518123e6f3c3696e89"
+  }
+ },
+ "HLJDanni/AU-Scrims": {
+  "co": {
+   "Claude Opus 5.5": "151c43b6f9b7f3d240c754a98905af24cc3dedab"
+  },
+  "any": {
+   "Claude Opus 5.5": "151c43b6f9b7f3d240c754a98905af24cc3dedab"
+  }
+ },
+ "daneshgarjacob/ColorWay-Sports": {
+  "co": {},
+  "any": {}
+ },
+ "PhilipSatterthwaite/worlds-tracker": {
+  "co": {
+   "Claude Opus 5.5": "5067226bfd6fa9bc7d1b1565c537a837b3319caf"
+  },
+  "any": {
+   "Claude Opus 5.5": "5067226bfd6fa9bc7d1b1565c537a837b3319caf"
+  }
+ },
+ "MatthewLacerda2/rusty": {
+  "co": {},
+  "any": {}
+ },
+ "salexanderj/Itera": {
+  "co": {},
+  "any": {}
+ },
+ "moozilla/boktai3-decomp": {
+  "co": {},
+  "any": {}
+ },
+ "Larspolo/aoe2mc": {
+  "co": {
+   "Claude Opus 5.5": "75b1a91786c95e2845fde4396d9125601945e440"
+  },
+  "any": {
+   "Claude Opus 5.5": "75b1a91786c95e2845fde4396d9125601945e440"
+  }
+ },
+ "Provenance-Emu/SkinKit": {
+  "co": {},
+  "any": {}
+ },
+ "kdt26aie40004-crypto/my-game": {
+  "co": {
+   "Claude Opus 5.5": "97717d7de90803a176c62d0ffd9319032c58b702"
+  },
+  "any": {
+   "Claude Opus 5.5": "97717d7de90803a176c62d0ffd9319032c58b702"
+  }
+ },
+ "Jabadudi/Choatic-Fishing": {
+  "co": {},
+  "any": {}
+ },
+ "RJEdTech/Raider-PhysLab": {
+  "co": {},
+  "any": {}
+ },
+ "RJEdTech/Raider-ForensicsLab": {
+  "co": {
+   "Claude Opus 5.5": "67473a27e8b0a134f52419f6449bffb14e90d990"
+  },
+  "any": {
+   "Claude Opus 5.5": "67473a27e8b0a134f52419f6449bffb14e90d990"
+  }
+ },
+ "RJEdTech/Raider-ChemLab": {
+  "co": {
+   "Claude Opus 5.5": "01eb53a67bce125d2938b72dab1a250b3e2a670c"
+  },
+  "any": {
+   "Claude Opus 5.5": "01eb53a67bce125d2938b72dab1a250b3e2a670c"
+  }
+ },
+ "hxddh/titpea.com": {
+  "co": {},
+  "any": {}
+ },
+ "GameCult/CultLib": {
+  "co": {},
+  "any": {}
+ },
+ "m1k3hub/chesswiz": {
+  "co": {},
+  "any": {}
+ },
+ "wlstj86231-cloud/occultworldcup": {
+  "co": {},
+  "any": {}
+ },
+ "arjunbattula17/kethra-adventure": {
+  "co": {},
+  "any": {}
+ },
+ "Jazz0006/CampBoardGameHost": {
+  "co": {},
+  "any": {}
+ },
+ "kylepitcock/Legacy-Connector": {
+  "co": {},
+  "any": {}
+ },
+ "AdmEve/game1": {
+  "co": {
+   "Claude Opus 5.5": "677c91eb80bae58a1c76675a156152f5970e85ad"
+  },
+  "any": {
+   "Claude Opus 5.5": "677c91eb80bae58a1c76675a156152f5970e85ad"
+  }
+ },
+ "mcui1997/shiny-hunting": {
+  "co": {},
+  "any": {}
+ },
+ "peren717/IsoRim-1.7": {
+  "co": {},
+  "any": {}
+ },
+ "temidasoftcrm-ai/stroitelna-imperia": {
+  "co": {},
+  "any": {}
+ },
+ "galaxygas/Eyefinder": {
+  "co": {},
+  "any": {}
+ },
+ "dcramer/terra": {
+  "co": {},
+  "any": {}
+ },
+ "a1izo/dumb-roblox-game": {
+  "co": {},
+  "any": {}
+ },
+ "Toxicccxz/eastern-stories-godot": {
+  "co": {},
+  "any": {}
+ },
+ "SernikNaZimno/Polish-Forests-Mod": {
+  "co": {},
+  "any": {}
+ },
+ "umid-podo/hahaha-shoot-001": {
+  "co": {},
+  "any": {}
+ },
+ "a58045555/ikontaiwan": {
+  "co": {},
+  "any": {}
+ },
+ "playstationhub00-dot/playstation-hub": {
+  "co": {},
+  "any": {}
+ },
+ "andreasmwenzel/meld-with-friends": {
+  "co": {
+   "Claude Opus 5.5": "5531f3177209857346a2d21e5b0b5e08fd1fd3d8",
+   "GPT-6.1 Sol": "c2a0a24541886ef9283358a3b77fed96794feacd",
+   "Claude Fable 5.1": "97ba25f51d6562716bd71a284870c24281534d7f"
+  },
+  "any": {
+   "Claude Opus 5.5": "5531f3177209857346a2d21e5b0b5e08fd1fd3d8",
+   "GPT-6.1 Sol": "c2a0a24541886ef9283358a3b77fed96794feacd",
+   "Claude Fable 5.1": "97ba25f51d6562716bd71a284870c24281534d7f"
+  }
+ },
+ "CoffeeCC/finesse": {
+  "co": {},
+  "any": {}
+ },
+ "nxporting/nxport": {
+  "co": {},
+  "any": {}
+ },
+ "yangwy30/majiang-ppc": {
+  "co": {
+   "Claude Opus 5.5": "321cd3338a5d88f6019c89de8cbca8a132f82b6e"
+  },
+  "any": {
+   "Claude Opus 5.5": "321cd3338a5d88f6019c89de8cbca8a132f82b6e"
+  }
+ },
+ "kcopelandmgmt/Random-dungeon-generator": {
+  "co": {},
+  "any": {}
+ },
+ "bris19777/bsd-site": {
+  "co": {},
+  "any": {}
+ },
+ "boaz-bit17/the_boaz_games": {
+  "co": {},
+  "any": {}
+ },
+ "taekun06/Ilyos": {
+  "co": {},
+  "any": {}
+ },
+ "gtgopinath6-create/wellplayed-cafe": {
+  "co": {
+   "Claude Opus 5.5": "112f4d3cb10114d6daa404961e0085dd659626b7"
+  },
+  "any": {
+   "Claude Opus 5.5": "112f4d3cb10114d6daa404961e0085dd659626b7"
+  }
+ },
+ "CodebyL/jovilap": {
+  "co": {
+   "Claude Opus 5.5": "9e79c1bb3619fc8ba889684be2732afed5192588"
+  },
+  "any": {
+   "Claude Opus 5.5": "9e79c1bb3619fc8ba889684be2732afed5192588"
+  }
+ },
+ "TanvirHafiz/kalo-taka": {
+  "co": {
+   "Claude Opus 5.5": "0f635b8fe4e40ed6bce6e094086044e287ba39b8"
+  },
+  "any": {
+   "Claude Opus 5.5": "0f635b8fe4e40ed6bce6e094086044e287ba39b8"
+  }
+ },
+ "chlorophilly/anubiscardsandcraft": {
+  "co": {},
+  "any": {}
+ },
+ "DhruvJoshi007/Blue-Lock": {
+  "co": {
+   "Claude Opus 5.5": "544dd704ef87db0a08a640a516403991f3cf20b6"
+  },
+  "any": {
+   "Claude Opus 5.5": "544dd704ef87db0a08a640a516403991f3cf20b6"
+  }
+ },
+ "elitefei1-gif/Property-Tycoon": {
+  "co": {
+   "Claude Opus 5.5": "c70ebbb8192023ad3e45fbd6d81972622c0c6459"
+  },
+  "any": {
+   "Claude Opus 5.5": "c70ebbb8192023ad3e45fbd6d81972622c0c6459"
+  }
+ },
+ "polarswif/ai-game-coach": {
+  "co": {},
+  "any": {}
+ },
+ "open-chat-labs/open-chat": {
+  "co": {},
+  "any": {}
+ },
+ "roreyshen/roblox-nba-team": {
+  "co": {
+   "Claude Opus 5.5": "70f2422fafb67212205651984d5aaf1dd8e963f7"
+  },
+  "any": {
+   "Claude Opus 5.5": "70f2422fafb67212205651984d5aaf1dd8e963f7"
+  }
+ },
+ "tester7823/DD-Preset-Tools": {
+  "co": {
+   "Claude Opus 5.5": "02da6c785df232bfbedca29c3f428d3910fc7771"
+  },
+  "any": {
+   "Claude Opus 5.5": "02da6c785df232bfbedca29c3f428d3910fc7771"
+  }
+ },
+ "stormmac/my247tutor": {
+  "co": {},
+  "any": {}
+ },
+ "nexgen-hw-dev/HWHArchdemonExt": {
+  "co": {},
+  "any": {}
+ },
+ "tani1794/my-game": {
+  "co": {
+   "Claude Opus 5.5": "8be7eef47cf1d98ed3a239d2eb8960a7821c8c3a"
+  },
+  "any": {
+   "Claude Opus 5.5": "8be7eef47cf1d98ed3a239d2eb8960a7821c8c3a"
+  }
+ },
+ "HipsterBwP/tv-home": {
+  "co": {
+   "Claude Opus 5.5": "b6c6b6f117c4c92619aa5ecce0f542c3341993b2"
+  },
+  "any": {
+   "Claude Opus 5.5": "b6c6b6f117c4c92619aa5ecce0f542c3341993b2"
+  }
+ },
+ "pranshuparmar/neon-mayhem": {
+  "co": {},
+  "any": {}
+ },
+ "mckoss/casual-mobile-games": {
+  "co": {},
+  "any": {}
+ },
+ "RedNoot/wordshake": {
+  "co": {},
+  "any": {}
+ },
+ "etiennecrevier-bit/Magnat": {
+  "co": {},
+  "any": {}
+ },
+ "Angelsaber-bot/Parhelion": {
+  "co": {
+   "Claude Opus 5.5": "a64863ebad391d8425546d952e92e91f5fc75513"
+  },
+  "any": {
+   "Claude Opus 5.5": "a64863ebad391d8425546d952e92e91f5fc75513"
+  }
+ },
+ "SethGekco/CosmeticExt": {
+  "co": {
+   "Claude Opus 5.5": "362abebe052310d35c420ba8f852fd0dd29f6ccc"
+  },
+  "any": {
+   "Claude Opus 5.5": "362abebe052310d35c420ba8f852fd0dd29f6ccc"
+  }
+ },
+ "realRoc/dfy-pet-game": {
+  "co": {
+   "Claude Opus 5.5": "1f3e1be1172d9c0b9823705ba339e242d88e9af1"
+  },
+  "any": {
+   "Claude Opus 5.5": "1f3e1be1172d9c0b9823705ba339e242d88e9af1"
+  }
+ },
+ "NeekBot5000/factory": {
+  "co": {
+   "Claude Opus 5.5": "00dbcea6862cafacad1365f309ab83c89305bf47"
+  },
+  "any": {
+   "Claude Opus 5.5": "00dbcea6862cafacad1365f309ab83c89305bf47"
+  }
+ },
+ "MetherMan/pegin": {
+  "co": {},
+  "any": {}
+ },
+ "staphit/Nodevas": {
+  "co": {},
+  "any": {}
+ },
+ "Doridian/WidgetWorkshop": {
+  "co": {
+   "Claude Opus 5.5": "9197142dbbc8b2ce8d7ffe010ac66930225e8055"
+  },
+  "any": {
+   "Claude Opus 5.5": "9197142dbbc8b2ce8d7ffe010ac66930225e8055"
+  }
+ },
+ "ProjectDEV-git/Axon-OS": {
+  "co": {},
+  "any": {}
+ },
+ "Marraneitor/tacan": {
+  "co": {
+   "Claude Opus 5.5": "2422b7643e3f73ea970e4710ca6b6ac9ec22ab53"
+  },
+  "any": {
+   "Claude Opus 5.5": "2422b7643e3f73ea970e4710ca6b6ac9ec22ab53"
+  }
+ },
+ "WaltBox/sales-assist": {
+  "co": {},
+  "any": {}
+ },
+ "efoltyn/gta6": {
+  "co": {},
+  "any": {}
+ },
+ "ary1l/goomswap": {
+  "co": {},
+  "any": {}
+ },
+ "BJA-LTD/bja-ltd.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "im-tyler/skate2-rust-port": {
+  "co": {},
+  "any": {}
+ },
+ "marcoriesco/riescade.com.br": {
+  "co": {},
+  "any": {}
+ },
+ "circus574-cpu/pixel-playground-launch": {
+  "co": {},
+  "any": {}
+ },
+ "MikasaAl4naya/SkyCoop-TLD255": {
+  "co": {
+   "Claude Opus 5.5": "abb22ce05e099479b03b70e8b5f70f646cbbb5b9"
+  },
+  "any": {
+   "Claude Opus 5.5": "abb22ce05e099479b03b70e8b5f70f646cbbb5b9"
+  }
+ },
+ "milnet01/DOOM_Ants": {
+  "co": {},
+  "any": {}
+ },
+ "Gammja17/chiikawa-match": {
+  "co": {},
+  "any": {}
+ },
+ "SaadSatter/princeofpersia_reconstruction": {
+  "co": {
+   "Claude Opus 5.5": "8295fc075e073d7023b47b401ab6b9e1ccf12bb1"
+  },
+  "any": {
+   "Claude Opus 5.5": "8295fc075e073d7023b47b401ab6b9e1ccf12bb1"
+  }
+ },
+ "roboy2911/cat-cafe": {
+  "co": {
+   "Claude Opus 5.5": "78f44a92f403f581f686fd471116ed4e653da72b"
+  },
+  "any": {
+   "Claude Opus 5.5": "78f44a92f403f581f686fd471116ed4e653da72b"
+  }
+ },
+ "aassdxd2466/-": {
+  "co": {
+   "Claude Opus 5.5": "7cfb22fe2334a1b66709a0bda82277b66563b867"
+  },
+  "any": {
+   "Claude Opus 5.5": "7cfb22fe2334a1b66709a0bda82277b66563b867"
+  }
+ },
+ "markgiroux3141/Ocarina-of-time-rust-clone": {
+  "co": {},
+  "any": {}
+ },
+ "JustinasLa/ascii-realm": {
+  "co": {},
+  "any": {}
+ },
+ "konkukedge/main-page": {
+  "co": {},
+  "any": {}
+ },
+ "Kevin-hDev/Mods-Borderlands-4": {
+  "co": {},
+  "any": {}
+ },
+ "s3lfish/3D-Sonic-3D-Blast-3D": {
+  "co": {
+   "Claude Opus 5.5": "937938a7545d55b6b030b991b7ae32c5889504b6"
+  },
+  "any": {
+   "Claude Opus 5.5": "937938a7545d55b6b030b991b7ae32c5889504b6"
+  }
+ },
+ "FoyonaCZY/ETSADS": {
+  "co": {},
+  "any": {}
+ },
+ "faideleon/Portfolio": {
+  "co": {},
+  "any": {}
+ },
+ "q4z1/RetroDeck": {
+  "co": {
+   "Claude Opus 5.5": "79d5f49241fcf3c762e39faad04c2031bb3f5458"
+  },
+  "any": {
+   "Claude Opus 5.5": "79d5f49241fcf3c762e39faad04c2031bb3f5458"
+  }
+ },
+ "nerfmez/Demo---mmorpg": {
+  "co": {},
+  "any": {}
+ },
+ "bobthefrickingbuilder/webassets": {
+  "co": {
+   "Claude Opus 5.5": "109f8d9df8f456429092678bc493550ff14f5089"
+  },
+  "any": {
+   "Claude Opus 5.5": "109f8d9df8f456429092678bc493550ff14f5089"
+  }
+ },
+ "tpetru/rpg1": {
+  "co": {},
+  "any": {}
+ },
+ "danila6231/vienna-run": {
+  "co": {},
+  "any": {}
+ },
+ "AceDZN/frost-and-flame": {
+  "co": {
+   "Claude Opus 5.5": "a1442477019e134679126827339c86d0498839a1"
+  },
+  "any": {
+   "Claude Opus 5.5": "a1442477019e134679126827339c86d0498839a1"
+  }
+ },
+ "Zwaliebaba/Outpost.Commander": {
+  "co": {},
+  "any": {}
+ },
+ "Nox-QIE/nox-contracts": {
+  "co": {
+   "Claude Opus 5.5": "f43f87fba0cb05df855acf6bb135697254d8b001"
+  },
+  "any": {
+   "Claude Opus 5.5": "f43f87fba0cb05df855acf6bb135697254d8b001"
+  }
+ },
+ "maosensen/zzzUI": {
+  "co": {
+   "Claude Opus 5.5": "5e9d41385cb2955cb04369cadfb042f8cdee9253"
+  },
+  "any": {
+   "Claude Opus 5.5": "5e9d41385cb2955cb04369cadfb042f8cdee9253"
+  }
+ },
+ "CowboyBingus/BingusDevelopmentHarness": {
+  "co": {},
+  "any": {}
+ },
+ "tawan475/teyvat.me-tracker": {
+  "co": {},
+  "any": {}
+ },
+ "pilou33620/web_conquete": {
+  "co": {},
+  "any": {}
+ },
+ "Flightly33/ebike-life": {
+  "co": {},
+  "any": {}
+ },
+ "lopezjon45-web/xbrt": {
+  "co": {
+   "Claude Opus 5.5": "4c1be8faf1334c57c32cd68662b058c85d72401f"
+  },
+  "any": {
+   "Claude Opus 5.5": "4c1be8faf1334c57c32cd68662b058c85d72401f"
+  }
+ },
+ "hisako-arato/Oyashiki": {
+  "co": {},
+  "any": {}
+ },
+ "angus-murray/quixxscore": {
+  "co": {
+   "Claude Opus 5.5": "926527be06ee08fded99f061d9f86c377ad3c1a0"
+  },
+  "any": {
+   "Claude Opus 5.5": "926527be06ee08fded99f061d9f86c377ad3c1a0"
+  }
+ },
+ "cmw831-stack/new_game_code": {
+  "co": {
+   "Claude Opus 5.5": "2a192cce50fcf51b70284d0be2a5deb241fb13e4"
+  },
+  "any": {
+   "Claude Opus 5.5": "2a192cce50fcf51b70284d0be2a5deb241fb13e4"
+  }
+ },
+ "sussyswimmer/lang-digital-experience": {
+  "co": {},
+  "any": {}
+ },
+ "ekcuttingchaidesign/Hitman-Cricket": {
+  "co": {},
+  "any": {}
+ },
+ "kingimann/OkaySpaceGameEngine": {
+  "co": {},
+  "any": {}
+ },
+ "maulanaikya99/game-windows-mac": {
+  "co": {
+   "Claude Opus 5.5": "018ba61f8699cc8070c21f2c9956c20768253ace"
+  },
+  "any": {
+   "Claude Opus 5.5": "018ba61f8699cc8070c21f2c9956c20768253ace"
+  }
+ },
+ "christiangilkey/tamkeen": {
+  "co": {},
+  "any": {}
+ },
+ "woochoi/my-car-game": {
+  "co": {
+   "Claude Opus 5.5": "ca2ddcee8a72c41c24e176106a39bdef7136f25a"
+  },
+  "any": {
+   "Claude Opus 5.5": "ca2ddcee8a72c41c24e176106a39bdef7136f25a"
+  }
+ },
+ "victorymankang-dot/aifell-work": {
+  "co": {
+   "Claude Opus 5.5": "4be1dbfd45956c3c18639c66e6431390ba338fea"
+  },
+  "any": {
+   "Claude Opus 5.5": "4be1dbfd45956c3c18639c66e6431390ba338fea"
+  }
+ },
+ "dle-wrk/deep-bloom": {
+  "co": {
+   "Claude Opus 5.5": "7afe92d4fbc0a7e20889803f506d2681e79d98ee"
+  },
+  "any": {
+   "Claude Opus 5.5": "7afe92d4fbc0a7e20889803f506d2681e79d98ee"
+  }
+ },
+ "Shime-68kk/LPN": {
+  "co": {},
+  "any": {}
+ },
+ "crystalmoon74/MyGame": {
+  "co": {
+   "Claude Opus 5.5": "74ff0f0ab627586da198413bbd5c58e8abc8bcd5"
+  },
+  "any": {
+   "Claude Opus 5.5": "74ff0f0ab627586da198413bbd5c58e8abc8bcd5"
+  }
+ },
+ "guom0625-dotcom/gom-tamagotchi": {
+  "co": {},
+  "any": {}
+ },
+ "Edgemodders/REDnode": {
+  "co": {},
+  "any": {}
+ },
+ "r0pi0x/Chimera": {
+  "co": {},
+  "any": {}
+ },
+ "trivituso81/adventures-of-tom": {
+  "co": {
+   "Claude Sonnet 5.5": "dbf2b3c5a9ae142d0b2e4fea9d4b961bff80376d",
+   "Claude Opus 5.5": "188c828b6e5d7ad54c3ad6810a7fe8f763058f14"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "dbf2b3c5a9ae142d0b2e4fea9d4b961bff80376d",
+   "Claude Opus 5.5": "188c828b6e5d7ad54c3ad6810a7fe8f763058f14"
+  }
+ },
+ "BenjaminMWZ/Ben-s-NBA-Fantasy-League-2027": {
+  "co": {
+   "Claude Opus 5.5": "f7fe02678dbbafc80bbc4b5a743c641bc4d0d3f0"
+  },
+  "any": {
+   "Claude Opus 5.5": "f7fe02678dbbafc80bbc4b5a743c641bc4d0d3f0"
+  }
+ },
+ "Davycmg/HTML": {
+  "co": {},
+  "any": {}
+ },
+ "IgneelHD/Video-Game-Ringtone": {
+  "co": {
+   "Claude Opus 5.5": "c7863ea837a53581e354866d6b018571ba5be0b8"
+  },
+  "any": {
+   "Claude Opus 5.5": "c7863ea837a53581e354866d6b018571ba5be0b8"
+  }
+ },
+ "kdt26aie40002-ops/my-game": {
+  "co": {
+   "Claude Opus 5.5": "ccea6a0a7424b3ff9bab59c8952dc0d717ad244b"
+  },
+  "any": {
+   "Claude Opus 5.5": "ccea6a0a7424b3ff9bab59c8952dc0d717ad244b"
+  }
+ },
+ "basco-git/aiffel-work": {
+  "co": {
+   "Claude Opus 5.5": "8eaedda7ebacdf7e83f023ec97ca32c795ceee9f"
+  },
+  "any": {
+   "Claude Opus 5.5": "8eaedda7ebacdf7e83f023ec97ca32c795ceee9f"
+  }
+ },
+ "Sumandebnath943/pixelville-next-dimension": {
+  "co": {},
+  "any": {}
+ },
+ "xktkf147/my-car-game": {
+  "co": {
+   "Claude Opus 5.5": "b276002ff457eed55cdcb787b89a7a08b97d1bed"
+  },
+  "any": {
+   "Claude Opus 5.5": "b276002ff457eed55cdcb787b89a7a08b97d1bed"
+  }
+ },
+ "hannibal8856/hannibal8856.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "Badeifer/badeifer.github.io": {
+  "co": {
+   "Claude Opus 5.5": "78a951fea90cc47844408b41759d327fb32f0dc1"
+  },
+  "any": {
+   "Claude Opus 5.5": "78a951fea90cc47844408b41759d327fb32f0dc1"
+  }
+ },
+ "jedmgoddard/Mr-Goddard-math": {
+  "co": {},
+  "any": {}
+ },
+ "IgorAugustoHH/The-Order-1886-PC-Port": {
+  "co": {},
+  "any": {}
+ },
+ "romarmaniago/GD_Cage": {
+  "co": {},
+  "any": {}
+ },
+ "Linutesto/wasteland-reborn-installer": {
+  "co": {
+   "Claude Opus 5.5": "2e1c140708d9cdfd29d3b45bdcbb310e57b56c37"
+  },
+  "any": {
+   "Claude Opus 5.5": "2e1c140708d9cdfd29d3b45bdcbb310e57b56c37"
+  }
+ },
+ "baysireekahnokrath/oct.26": {
+  "co": {},
+  "any": {}
+ },
+ "Grrreymane/IdleMaster": {
+  "co": {},
+  "any": {}
+ },
+ "IgorKarpivsski/MillionereApp": {
+  "co": {},
+  "any": {}
+ },
+ "Imshad18/liftoff.py": {
+  "co": {
+   "Claude Opus 5.5": "23f9447bdf53a6a8ea0a581e6ed8067b498d52ce"
+  },
+  "any": {
+   "Claude Opus 5.5": "23f9447bdf53a6a8ea0a581e6ed8067b498d52ce"
+  }
+ },
+ "johnevansau320/ETS2GPS": {
+  "co": {},
+  "any": {}
+ },
+ "MarcoServetto/FearlessTour": {
+  "co": {},
+  "any": {}
+ },
+ "Henil-08/portfolio-website": {
+  "co": {},
+  "any": {}
+ },
+ "Tomosnuclearbombos/nuclear-option-viewer": {
+  "co": {},
+  "any": {}
+ },
+ "guom0625-dotcom/gom-homework": {
+  "co": {},
+  "any": {}
+ },
+ "project509/cleanstrike": {
+  "co": {
+   "Claude Opus 5.5": "4224d970ce6d9887739c4687d95688353fb8fdbf"
+  },
+  "any": {
+   "Claude Opus 5.5": "4224d970ce6d9887739c4687d95688353fb8fdbf"
+  }
+ },
+ "johnevansau320/ETS2GPS-Win": {
+  "co": {},
+  "any": {}
+ },
+ "phoneyjung/Leah-game": {
+  "co": {},
+  "any": {}
+ },
+ "EyaLinus/rise-of-eu": {
+  "co": {
+   "Claude Opus 5.5": "19cf3ba6c84cad8258fdf1bc0a4dc5612f025a40"
+  },
+  "any": {
+   "Claude Opus 5.5": "19cf3ba6c84cad8258fdf1bc0a4dc5612f025a40"
+  }
+ },
+ "LaithAlneemy44/windows_app_blocker": {
+  "co": {
+   "Claude Opus 5.5": "6a8883b55515cb49dcfc54e29016d49899e4cf2b"
+  },
+  "any": {
+   "Claude Opus 5.5": "6a8883b55515cb49dcfc54e29016d49899e4cf2b"
+  }
+ },
+ "CleanExpo/fortune-phoenix-demo": {
+  "co": {
+   "Claude Opus 5.5": "86b8c623bc1ff94fcd659f972fc5b807698e0431"
+  },
+  "any": {
+   "Claude Opus 5.5": "86b8c623bc1ff94fcd659f972fc5b807698e0431"
+  }
+ },
+ "cloudmail91-dev/czn-patch-indonesia": {
+  "co": {
+   "Claude Opus 5.5": "1af1229d48883e14ea45818f7a2209e2039dab34"
+  },
+  "any": {
+   "Claude Opus 5.5": "1af1229d48883e14ea45818f7a2209e2039dab34"
+  }
+ },
+ "Neil-Lunavat/shootandscoot": {
+  "co": {
+   "Claude Opus 5.5": "645f638aae8659ac4fdfdf291c6fed2be328035f"
+  },
+  "any": {
+   "Claude Opus 5.5": "645f638aae8659ac4fdfdf291c6fed2be328035f"
+  }
+ },
+ "manishehehe/streamlit.app": {
+  "co": {
+   "Claude Opus 5.5": "85f30e76ee48346dc78f48604ff793243f8d1cc5"
+  },
+  "any": {
+   "Claude Opus 5.5": "85f30e76ee48346dc78f48604ff793243f8d1cc5"
+  }
+ },
+ "Noisemaker111/modding-accelerator": {
+  "co": {},
+  "any": {}
+ },
+ "StephenBoileau/stephenboileau.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "austinh-conner2012/overclass-desktop": {
+  "co": {
+   "Claude Opus 5.5": "d51c5241892d8c479758c048c15ad2f9989e3057"
+  },
+  "any": {
+   "Claude Opus 5.5": "d51c5241892d8c479758c048c15ad2f9989e3057"
+  }
+ },
+ "Alomare/DataToolGUI": {
+  "co": {},
+  "any": {}
+ },
+ "test888th-cpu/webgame": {
+  "co": {},
+  "any": {}
+ },
+ "mindattic/Unity.Ricochet": {
+  "co": {},
+  "any": {}
+ },
+ "mollymillions2035/cmo-setup": {
+  "co": {
+   "Claude Opus 5.5": "e76010a340031061a2c758b09f9baf74efb10032"
+  },
+  "any": {
+   "Claude Opus 5.5": "e76010a340031061a2c758b09f9baf74efb10032"
+  }
+ },
+ "kintali-Ritesh-raj/Game": {
+  "co": {},
+  "any": {}
+ },
+ "vitalyiegorov/suuudokuuu": {
+  "co": {},
+  "any": {}
+ },
+ "letheli710/Apex-MovementAnalysis": {
+  "co": {},
+  "any": {}
+ },
+ "astrotuvi/astronoomia-mangud": {
+  "co": {},
+  "any": {}
+ },
+ "EnjoiHunt/Donkey-Kong-Country-Kong-Swap": {
+  "co": {
+   "Claude Opus 5.5": "978cfcf8095f2ce64840b64a22104bef5fe41203"
+  },
+  "any": {
+   "Claude Opus 5.5": "978cfcf8095f2ce64840b64a22104bef5fe41203"
+  }
+ },
+ "jysvai/Monologue-Gaze": {
+  "co": {},
+  "any": {}
+ },
+ "darkbearlab/mech_wing_project": {
+  "co": {
+   "Claude Opus 5.5": "58cfff45b76d99fb2bb183a8663b753a2da0406c"
+  },
+  "any": {
+   "Claude Opus 5.5": "58cfff45b76d99fb2bb183a8663b753a2da0406c"
+  }
+ },
+ "SnowberriFox/Saphire": {
+  "co": {},
+  "any": {}
+ },
+ "dj-oyu/cardputer-adv-pocketjs": {
+  "co": {},
+  "any": {}
+ },
+ "shota0617/ricepia-judge": {
+  "co": {},
+  "any": {}
+ },
+ "rjeskuri/Harness": {
+  "co": {},
+  "any": {}
+ },
+ "joshuakernich/igb": {
+  "co": {},
+  "any": {}
+ },
+ "twjackysu/JackyGame": {
+  "co": {},
+  "any": {}
+ },
+ "dieterichlawson/mtg-imsaho": {
+  "co": {},
+  "any": {}
+ },
+ "yaanscoat/fnf-webport": {
+  "co": {
+   "Claude Opus 5.5": "5779d802a8e4342cbcae0b7c38a1dbab20bd95da"
+  },
+  "any": {
+   "Claude Opus 5.5": "5779d802a8e4342cbcae0b7c38a1dbab20bd95da"
+  }
+ },
+ "hrozno2/SoulForge": {
+  "co": {},
+  "any": {}
+ },
+ "tonesjones/bball-league-assistant": {
+  "co": {},
+  "any": {}
+ },
+ "pure91/pure91.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "keaton4422/anthrodeck": {
+  "co": {},
+  "any": {}
+ },
+ "tvuollo/torstaiRoster": {
+  "co": {},
+  "any": {}
+ },
+ "elegra1965-source/nms-galactic-map": {
+  "co": {},
+  "any": {}
+ },
+ "dirkkok101/project.corsair": {
+  "co": {},
+  "any": {}
+ },
+ "BoldBlot/backgammon-plyground": {
+  "co": {
+   "Claude Opus 5.5": "f9a4f89c3d72e3dd32876b6643fb2cb17af342fa"
+  },
+  "any": {
+   "Claude Opus 5.5": "f9a4f89c3d72e3dd32876b6643fb2cb17af342fa"
+  }
+ },
+ "N-dori/the-amazing-hunt": {
+  "co": {},
+  "any": {}
+ },
+ "myong558/project-joypack": {
+  "co": {},
+  "any": {}
+ },
+ "MrRich-AI/LESSONS": {
+  "co": {},
+  "any": {}
+ },
+ "hapham96/Memorize": {
+  "co": {},
+  "any": {}
+ },
+ "carsonmastex/keychron-dash-online": {
+  "co": {},
+  "any": {}
+ },
+ "AAKASH-TCS/aakash-tcs.github.io": {
+  "co": {
+   "Claude Opus 5.5": "932741db5593d1302d15768d26f0ef2ca1be2635"
+  },
+  "any": {
+   "Claude Opus 5.5": "932741db5593d1302d15768d26f0ef2ca1be2635"
+  }
+ },
+ "dyzz/srw64-recomp": {
+  "co": {},
+  "any": {}
+ },
+ "bjor2/steampunk-miner": {
+  "co": {},
+  "any": {}
+ },
+ "BurnierCaliper/Backfire": {
+  "co": {},
+  "any": {}
+ },
+ "0916habutaro/kokosimnew": {
+  "co": {},
+  "any": {}
+ },
+ "rajichalla11/wednesday-hof": {
+  "co": {},
+  "any": {}
+ },
+ "hquysss/SciPal": {
+  "co": {},
+  "any": {}
+ },
+ "VitoKOK-lab/gemstudio": {
+  "co": {
+   "Claude Opus 5.5": "c70bcdd265d3123169045f4b0ae7191e799704a7"
+  },
+  "any": {
+   "Claude Opus 5.5": "c70bcdd265d3123169045f4b0ae7191e799704a7"
+  }
+ },
+ "matalon888/game-library": {
+  "co": {},
+  "any": {}
+ },
+ "eflare17/Smashed-tv": {
+  "co": {},
+  "any": {}
+ },
+ "eduhmc/personal-website": {
+  "co": {
+   "Claude Opus 5.5": "f65873a0aab44c33175e5b63fabe7b6aa2be0677"
+  },
+  "any": {
+   "Claude Opus 5.5": "f65873a0aab44c33175e5b63fabe7b6aa2be0677"
+  }
+ },
+ "Lakoj-001/betting-research-assistant": {
+  "co": {},
+  "any": {}
+ },
+ "deadlock-api/deadlock-api": {
+  "co": {},
+  "any": {}
+ },
+ "Edgemodders/EDGEchat": {
+  "co": {},
+  "any": {}
+ },
+ "HolyJoey/Lghub": {
+  "co": {},
+  "any": {}
+ },
+ "lorenchea/name-that-candy": {
+  "co": {
+   "Claude Opus 5.5": "a67107cd022eb44c51d678b66f557f41325758a6"
+  },
+  "any": {
+   "Claude Opus 5.5": "a67107cd022eb44c51d678b66f557f41325758a6"
+  }
+ },
+ "GBM-Gulai/satzschmiede": {
+  "co": {
+   "Claude Opus 5.5": "d7df5a5f09860c8ddae1f9d8b06a8791e92fd330"
+  },
+  "any": {
+   "Claude Opus 5.5": "d7df5a5f09860c8ddae1f9d8b06a8791e92fd330"
+  }
+ },
+ "JayadevHaddadi/BGA-Games": {
+  "co": {},
+  "any": {}
+ },
+ "TamanegiNinja25/JJK-Mobile-Game": {
+  "co": {
+   "Claude Opus 5.5": "5af0767311fb586879a5267dfb1ffae9b1dcc8e8"
+  },
+  "any": {
+   "Claude Opus 5.5": "5af0767311fb586879a5267dfb1ffae9b1dcc8e8"
+  }
+ },
+ "cn-eveer/shadow-qi": {
+  "co": {
+   "Claude Opus 5.5": "eaf8bddf015772b30cf58f4d84cf8c3e3fd050ac"
+  },
+  "any": {
+   "Claude Opus 5.5": "eaf8bddf015772b30cf58f4d84cf8c3e3fd050ac"
+  }
+ },
+ "BenjaminKiass/GunBeep": {
+  "co": {},
+  "any": {}
+ },
+ "mikdamq/Jordanian-cards": {
+  "co": {},
+  "any": {}
+ },
+ "oskarissimus/korczak-xyz": {
+  "co": {},
+  "any": {}
+ },
+ "duplighost/qualiacology": {
+  "co": {},
+  "any": {}
+ },
+ "landsat77/heart-of-darkness-gnw": {
+  "co": {
+   "Claude Opus 5.5": "419782090e538621fe023d1eb466d4ad5589b33c"
+  },
+  "any": {
+   "Claude Opus 5.5": "419782090e538621fe023d1eb466d4ad5589b33c"
+  }
+ },
+ "studyfranco/games-docker": {
+  "co": {},
+  "any": {}
+ },
+ "shineyrbl-byte/moss-and-moon": {
+  "co": {},
+  "any": {}
+ },
+ "datazuul/amade-templar-game": {
+  "co": {
+   "Claude Opus 5.5": "b71e18bb3b6fe626729885a16d7c7d6b365d8136"
+  },
+  "any": {
+   "Claude Opus 5.5": "b71e18bb3b6fe626729885a16d7c7d6b365d8136"
+  }
+ },
+ "mAgNiFiCeNtTaCo/Shipping": {
+  "co": {},
+  "any": {}
+ },
+ "goju2k/g-game-farm": {
+  "co": {},
+  "any": {}
+ },
+ "kblauer/poke-tcg": {
+  "co": {},
+  "any": {}
+ },
+ "Rotmill/Dino-Crisis-Modern-Edition": {
+  "co": {},
+  "any": {}
+ },
+ "sebastianmbowles-collab/Games": {
+  "co": {},
+  "any": {}
+ },
+ "mang-ui/fof": {
+  "co": {
+   "Claude Opus 5.5": "e334eb21d5652c575f2ffbda90165e158e889af5"
+  },
+  "any": {
+   "Claude Opus 5.5": "e334eb21d5652c575f2ffbda90165e158e889af5"
+  }
+ },
+ "phy0x1a79ed/agentic-workspace": {
+  "co": {},
+  "any": {}
+ },
+ "AstroMC98/Portfolio": {
+  "co": {},
+  "any": {}
+ },
+ "sonsegajp/Kirby-Air-Ride-Recompiled": {
+  "co": {
+   "Claude Opus 5.5": "c499ee98224753565412bc7bbda530d0078b1bb2"
+  },
+  "any": {
+   "Claude Opus 5.5": "c499ee98224753565412bc7bbda530d0078b1bb2"
+  }
+ },
+ "D4vRAM369/ProfesorIA": {
+  "co": {
+   "Claude Opus 5.5": "c32533a2394ea0f63d909ef7ee6fe0f50bd427c3"
+  },
+  "any": {
+   "Claude Opus 5.5": "c32533a2394ea0f63d909ef7ee6fe0f50bd427c3"
+  }
+ },
+ "Eng77-gif/nro_dev_al": {
+  "co": {
+   "Claude Opus 5.5": "26569b36d4a12a71b75c29cba457aa6f9a4546fb"
+  },
+  "any": {
+   "Claude Opus 5.5": "26569b36d4a12a71b75c29cba457aa6f9a4546fb"
+  }
+ },
+ "SIDGEY/site-astro-nova": {
+  "co": {},
+  "any": {}
+ },
+ "SpasticDovah/Look-Outside-LevelSync-Mod": {
+  "co": {
+   "Claude Opus 5.5": "cad1e7f39065a540f2d9f3b180a817d2bcec9236"
+  },
+  "any": {
+   "Claude Opus 5.5": "cad1e7f39065a540f2d9f3b180a817d2bcec9236"
+  }
+ },
+ "felixamay/clipper": {
+  "co": {},
+  "any": {}
+ },
+ "mbuckley616/The-Old-Gates": {
+  "co": {},
+  "any": {}
+ },
+ "blahdot3h/tartarus-simulator": {
+  "co": {},
+  "any": {}
+ },
+ "lizhenong-ai/Price-Recon": {
+  "co": {},
+  "any": {}
+ },
+ "openscol/trilce": {
+  "co": {},
+  "any": {}
+ },
+ "MrRobot373/GMS-AI": {
+  "co": {},
+  "any": {}
+ },
+ "tuanAnh12423/Game-2D-English-": {
+  "co": {
+   "Claude Opus 5.5": "2b8d1992264fa0a999e6ddfe32831e7a5572cdf8"
+  },
+  "any": {
+   "Claude Opus 5.5": "2b8d1992264fa0a999e6ddfe32831e7a5572cdf8"
+  }
+ },
+ "Calebcffs/sortafun": {
+  "co": {},
+  "any": {}
+ },
+ "St0rmingBr4in/home-kube-flux-config": {
+  "co": {},
+  "any": {}
+ },
+ "titaniummachine1/titanium-ataxx": {
+  "co": {},
+  "any": {}
+ },
+ "matt82198/keyrun": {
+  "co": {},
+  "any": {}
+ },
+ "AmrSaad14/ahwa-games": {
+  "co": {},
+  "any": {}
+ },
+ "harshul27/faultlines": {
+  "co": {
+   "Claude Opus 5.5": "4b26ce984aa1a90da70897f0b65b701fc70043a7"
+  },
+  "any": {
+   "Claude Opus 5.5": "4b26ce984aa1a90da70897f0b65b701fc70043a7"
+  }
+ },
+ "jjjjmd13-cmyk/fuzzy-octo-goggles": {
+  "co": {
+   "Claude Opus 5.5": "78b66aa099bd6619bba423d0dc1042250c01ce66"
+  },
+  "any": {
+   "Claude Opus 5.5": "78b66aa099bd6619bba423d0dc1042250c01ce66"
+  }
+ },
+ "dhruvinci/uru-mon": {
+  "co": {},
+  "any": {}
+ },
+ "KahootGenius/XiaoLianBot": {
+  "co": {
+   "Claude Opus 5.5": "59c3210e3881fc2ce9476d5eaf9b2b3dd44d07b0"
+  },
+  "any": {
+   "Claude Opus 5.5": "59c3210e3881fc2ce9476d5eaf9b2b3dd44d07b0"
+  }
+ },
+ "hamedAbdollahzade/vending-machine-game": {
+  "co": {},
+  "any": {}
+ },
+ "morerokk/MHGURecomp": {
+  "co": {},
+  "any": {}
+ },
+ "caotic123/PyMagic": {
+  "co": {
+   "Claude Opus 5.5": "cb7e48a586ebc5b42f1ced5db81230b188fd2a97"
+  },
+  "any": {
+   "Claude Opus 5.5": "cb7e48a586ebc5b42f1ced5db81230b188fd2a97"
+  }
+ },
+ "SebastianOrtizA/MoneyRecord": {
+  "co": {},
+  "any": {}
+ },
+ "SteveRodrigue/MCD": {
+  "co": {},
+  "any": {}
+ },
+ "zees-games/game-playground": {
+  "co": {},
+  "any": {}
+ },
+ "markbritton-hue/scoreboard": {
+  "co": {
+   "Claude Sonnet 5.5": "09957bd250ec48dfdf83bc5423ad5c749015ab9f"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "09957bd250ec48dfdf83bc5423ad5c749015ab9f"
+  }
+ },
+ "Kuchigasabishi/BlackholesGuns": {
+  "co": {},
+  "any": {}
+ },
+ "snickbar/MeasuringGame": {
+  "co": {},
+  "any": {}
+ },
+ "modcommunity/dot-game": {
+  "co": {},
+  "any": {}
+ },
+ "ThatOneGoodDeveloper/Bedrock-games": {
+  "co": {
+   "Claude Sonnet 5.5": "d7071d2870d60f3def76f93b1bd93835504291b2"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "d7071d2870d60f3def76f93b1bd93835504291b2"
+  }
+ },
+ "forfexes/btts-bot_ki": {
+  "co": {},
+  "any": {}
+ },
+ "Deepspace000/Below-the-Abbey": {
+  "co": {},
+  "any": {}
+ },
+ "sardonix-s1/xamidovvv_1": {
+  "co": {},
+  "any": {}
+ },
+ "skadnrwhd-web/-wobble-tower": {
+  "co": {
+   "Claude Sonnet 5.5": "0ae4c975293918790e0c94886ae1fa6ee438b5ba"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "0ae4c975293918790e0c94886ae1fa6ee438b5ba"
+  }
+ },
+ "aishbhardwaj88/village-game-web": {
+  "co": {},
+  "any": {}
+ },
+ "tpkhoon/touchline": {
+  "co": {},
+  "any": {}
+ },
+ "thinhvophu/affiliate-store": {
+  "co": {},
+  "any": {}
+ },
+ "runvnc/tablefolk": {
+  "co": {},
+  "any": {}
+ },
+ "arceas71/arceas71": {
+  "co": {},
+  "any": {}
+ },
+ "Yuri054/Foreign-Skies": {
+  "co": {},
+  "any": {}
+ },
+ "CryptoBumsBSC/rift-warden": {
+  "co": {},
+  "any": {}
+ },
+ "Kim-Jiny/Minigame": {
+  "co": {},
+  "any": {}
+ },
+ "chiggiechonga/nhl-v5": {
+  "co": {
+   "Claude Sonnet 5.5": "291f1a5fb00083e0ba727f6ce077bae4e5955250",
+   "Claude Opus 5.5": "7a4a3a091456d9fb9873c791ed68fcf43901b289"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "291f1a5fb00083e0ba727f6ce077bae4e5955250",
+   "Claude Opus 5.5": "7a4a3a091456d9fb9873c791ed68fcf43901b289"
+  }
+ },
+ "jaykilleen/ez-az": {
+  "co": {},
+  "any": {}
+ },
+ "robbyho-aoe2/civ-lookup": {
+  "co": {},
+  "any": {}
+ },
+ "jaking-studios/shiftscape": {
+  "co": {
+   "Claude Fable 5.1": "50c5804d140e3bb8d575e2733546edded3e8df10",
+   "Claude Sonnet 5.5": "271a9bbf596af2fa68435417d7b5f68c1128b1b0"
+  },
+  "any": {
+   "Claude Fable 5.1": "50c5804d140e3bb8d575e2733546edded3e8df10",
+   "Claude Sonnet 5.5": "271a9bbf596af2fa68435417d7b5f68c1128b1b0"
+  }
+ },
+ "ChomoLungma8848/dotfiles": {
+  "co": {},
+  "any": {}
+ },
+ "WilliamJohnDavisIII/drop-pod": {
+  "co": {},
+  "any": {}
+ },
+ "IanFan21/ianfan-store": {
+  "co": {
+   "Claude Sonnet 5.5": "256f35913a5ce727a961f1e1bc4ee90b3aae0c17"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "256f35913a5ce727a961f1e1bc4ee90b3aae0c17"
+  }
+ },
+ "mcgillpreston-glitch/Towers": {
+  "co": {},
+  "any": {}
+ },
+ "Chrisocal21/supplyline": {
+  "co": {},
+  "any": {}
+ },
+ "ChristianHReed/Wildgames": {
+  "co": {},
+  "any": {}
+ },
+ "sshrader/the-trenches": {
+  "co": {},
+  "any": {}
+ },
+ "ifeoluwa-t/ifeoluwaport": {
+  "co": {},
+  "any": {}
+ },
+ "ZCGrimshaw/harvestwork": {
+  "co": {},
+  "any": {}
+ },
+ "sweater9/Go-vibe-studios": {
+  "co": {
+   "Claude Sonnet 5.5": "b89ed52021684c6ed49fe6ddb896d0d9e5b2bd64"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "b89ed52021684c6ed49fe6ddb896d0d9e5b2bd64"
+  }
+ },
+ "Attacked-Kraken/18-Games-Casino": {
+  "co": {},
+  "any": {}
+ },
+ "ccall1212/mansion-mystery": {
+  "co": {
+   "Claude Sonnet 5.5": "099c6af5b1bd798cd35faaba69ace55250ef0b9e"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "099c6af5b1bd798cd35faaba69ace55250ef0b9e"
+  }
+ },
+ "NullStatBonus/wow-dontdothat": {
+  "co": {
+   "Claude Sonnet 5.5": "01e650d67b19b92070c8045d9d5afcf60dd6ce29"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "01e650d67b19b92070c8045d9d5afcf60dd6ce29"
+  }
+ },
+ "LeanderQ/quirinalstudios.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "modcommunity/dot-map": {
+  "co": {},
+  "any": {}
+ },
+ "RoxorLoops1337/Games": {
+  "co": {},
+  "any": {}
+ },
+ "lmaynor/mlb-betting": {
+  "co": {},
+  "any": {}
+ },
+ "robbiestells/blunder-lab": {
+  "co": {
+   "Claude Sonnet 5.5": "f5a00970bfd3dc6233fbc3e7245bb856500dcef5"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "f5a00970bfd3dc6233fbc3e7245bb856500dcef5"
+  }
+ },
+ "HeavyLvy/slab": {
+  "co": {
+   "Claude Sonnet 5.5": "c1f04ab68897e06135a02e493d3748e3684a0def"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "c1f04ab68897e06135a02e493d3748e3684a0def"
+  }
+ },
+ "Islandyout/engine": {
+  "co": {},
+  "any": {}
+ },
+ "dsjamus-creator/liann-hub": {
+  "co": {},
+  "any": {}
+ },
+ "radaelilucca/mc-fly-by-instruments": {
+  "co": {},
+  "any": {}
+ },
+ "mholzi/beatify": {
+  "co": {},
+  "any": {}
+ },
+ "Nvda06042005/DATN-2026": {
+  "co": {},
+  "any": {}
+ },
+ "thriftshoppin/lipscan": {
+  "co": {
+   "Claude Opus 5.5": "39d07c305f283feb523f378629b5fc674881df12",
+   "Claude Sonnet 5.5": "9e6e4d9bdaead8e477b5405ce8ca855ec738a96b"
+  },
+  "any": {
+   "Claude Opus 5.5": "39d07c305f283feb523f378629b5fc674881df12",
+   "Claude Sonnet 5.5": "9e6e4d9bdaead8e477b5405ce8ca855ec738a96b"
+  }
+ },
+ "jnish23/nba-model-hybrid": {
+  "co": {},
+  "any": {}
+ },
+ "marcusgen1/volam-idle-multi-manager": {
+  "co": {},
+  "any": {}
+ },
+ "thejackbar/BetterStats": {
+  "co": {},
+  "any": {}
+ },
+ "0x4D44/mdhavers": {
+  "co": {},
+  "any": {}
+ },
+ "AlexPerez7/alttp-recomp": {
+  "co": {
+   "Claude Sonnet 5.5": "655441ced6e12373ec90c358272b03cf0dee6987"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "655441ced6e12373ec90c358272b03cf0dee6987"
+  }
+ },
+ "Nasha77/career-plaza": {
+  "co": {},
+  "any": {}
+ },
+ "dseelinger/d47": {
+  "co": {},
+  "any": {}
+ },
+ "jesusregalado079-lang/codequest": {
+  "co": {},
+  "any": {}
+ },
+ "AndrewLampert/hc09-career-editor": {
+  "co": {},
+  "any": {}
+ },
+ "atomeam/void-loop": {
+  "co": {},
+  "any": {}
+ },
+ "cl-r-yamaguchi/nandemo-shogi": {
+  "co": {},
+  "any": {}
+ },
+ "wangchiapin/Cuidado-con-el-rayo": {
+  "co": {
+   "Claude Sonnet 5.5": "77f6476e711ccb1b619c84fd958462e86153c259"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "77f6476e711ccb1b619c84fd958462e86153c259"
+  }
+ },
+ "zainjavedev/StatsPad": {
+  "co": {},
+  "any": {}
+ },
+ "TikiDan1961/fevida-quest": {
+  "co": {},
+  "any": {}
+ },
+ "zodiakgh/sentinel-website": {
+  "co": {},
+  "any": {}
+ },
+ "anhpvu/anh-sanctuary": {
+  "co": {},
+  "any": {}
+ },
+ "wangchiapin/taiwan-life": {
+  "co": {},
+  "any": {}
+ },
+ "CPisGod/ttt": {
+  "co": {},
+  "any": {}
+ },
+ "ge0ffr3y/gridiron-dynasty": {
+  "co": {},
+  "any": {}
+ },
+ "ExploreTheFloor/MnMCompanion": {
+  "co": {
+   "Claude Sonnet 5.5": "6c82d4b4e9b23f449f0dadc95e9388891a2657ed"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "6c82d4b4e9b23f449f0dadc95e9388891a2657ed"
+  }
+ },
+ "kevbot918/LavishLeaf": {
+  "co": {},
+  "any": {}
+ },
+ "normanjsdavis/normanjtheagent": {
+  "co": {},
+  "any": {}
+ },
+ "Kay-eYe-MHIA/AutoRegisterMPIS": {
+  "co": {},
+  "any": {}
+ },
+ "WSS5480/CALCUTTA": {
+  "co": {},
+  "any": {}
+ },
+ "Haddley/haddley.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "danjaekim/overforged": {
+  "co": {},
+  "any": {}
+ },
+ "peishan/tribute-game": {
+  "co": {},
+  "any": {}
+ },
+ "xShawnRCL/game-night": {
+  "co": {},
+  "any": {}
+ },
+ "flavio-code-535345/discord-warframe-companion-bot": {
+  "co": {
+   "Claude Opus 5.5": "e7118d76c78dbebf778fc5c2d9a80a75cf57959c",
+   "Claude Sonnet 5.5": "a78ed5d14f87890517aaaea32a053f8624704a92"
+  },
+  "any": {
+   "Claude Opus 5.5": "e7118d76c78dbebf778fc5c2d9a80a75cf57959c",
+   "Claude Sonnet 5.5": "a78ed5d14f87890517aaaea32a053f8624704a92"
+  }
+ },
+ "jamar16/neko-circuit": {
+  "co": {},
+  "any": {}
+ },
+ "stupid-picasso/scout-dashboard": {
+  "co": {},
+  "any": {}
+ },
+ "darkpyxlz/SAO": {
+  "co": {
+   "Claude Sonnet 5.5": "ed281f9f8ccb8330481b8ddd8c0bb34b60d55ed6"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "ed281f9f8ccb8330481b8ddd8c0bb34b60d55ed6"
+  }
+ },
+ "lahoanglong/tubutree-mini-app": {
+  "co": {},
+  "any": {}
+ },
+ "ZukanoLab/ZukanoLab.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "mjgreenjr/playcall-gui": {
+  "co": {},
+  "any": {}
+ },
+ "Joxejaime/Projects-2026": {
+  "co": {},
+  "any": {}
+ },
+ "xdukunx/alphanotch": {
+  "co": {},
+  "any": {}
+ },
+ "georgetechie/techfiniti-charades": {
+  "co": {},
+  "any": {}
+ },
+ "yashpatolia/portfolio": {
+  "co": {},
+  "any": {}
+ },
+ "markwayne24/game-corner": {
+  "co": {},
+  "any": {}
+ },
+ "cloud-itonami/gameka": {
+  "co": {},
+  "any": {}
+ },
+ "dannykosasih/deka-office": {
+  "co": {},
+  "any": {}
+ },
+ "DomLynch/ARMAGEDOM": {
+  "co": {},
+  "any": {}
+ },
+ "rydevops/ffvis-": {
+  "co": {
+   "Claude Opus 5.5": "21f1e5452a99c41a054ecdbabf75c8056d73dc0f",
+   "Claude Sonnet 5.5": "8ae7788911ef7ee0bc37d024ec44e52e130867d2"
+  },
+  "any": {
+   "Claude Opus 5.5": "21f1e5452a99c41a054ecdbabf75c8056d73dc0f",
+   "Claude Sonnet 5.5": "8ae7788911ef7ee0bc37d024ec44e52e130867d2"
+  }
+ },
+ "tbpz/life_strategies": {
+  "co": {},
+  "any": {}
+ },
+ "Pranav-Sri-Vasthav-Tenali-Gnana/webfolio": {
+  "co": {},
+  "any": {}
+ },
+ "Lotusmonogatari/CoP-Deckbuilder": {
+  "co": {},
+  "any": {}
+ },
+ "devinklong/two_words": {
+  "co": {},
+  "any": {}
+ },
+ "jrincayc/farmgame": {
+  "co": {},
+  "any": {}
+ },
+ "wvcsr/gipa-workshop-2026": {
+  "co": {
+   "Claude Sonnet 5.5": "9ad0fc494741f67c338af9c81e51dac76c75b6b5"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "9ad0fc494741f67c338af9c81e51dac76c75b6b5"
+  }
+ },
+ "OmsiModsBR/depot": {
+  "co": {},
+  "any": {}
+ },
+ "shroomsword/doe": {
+  "co": {},
+  "any": {}
+ },
+ "HarveyC/Quarantine": {
+  "co": {},
+  "any": {}
+ },
+ "dchadd427/ants-cross-platform": {
+  "co": {},
+  "any": {}
+ },
+ "gabebartolo-spec/Kaiju-Incremental": {
+  "co": {},
+  "any": {}
+ },
+ "CharlesJGantt/bench-tech": {
+  "co": {},
+  "any": {}
+ },
+ "hyeonjukim100-sketch/monday": {
+  "co": {
+   "Claude Sonnet 5.5": "472c4bfe344c8dad743a73ff591c89ca3da8b76b"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "472c4bfe344c8dad743a73ff591c89ca3da8b76b"
+  }
+ },
+ "tomyka/sportbet_new": {
+  "co": {},
+  "any": {}
+ },
+ "Daafmans/ChillVibes": {
+  "co": {},
+  "any": {}
+ },
+ "hyeonjihun7-boop/monday": {
+  "co": {
+   "Claude Sonnet 5.5": "8d49433f137d134723f7bf63fae477383d53d75f"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "8d49433f137d134723f7bf63fae477383d53d75f"
+  }
+ },
+ "hccho-lalalalalalalal/my-car-game": {
+  "co": {
+   "Claude Sonnet 5.5": "ffb2fe5c0de2751a84d187866c8b0c80beba7ce1"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "ffb2fe5c0de2751a84d187866c8b0c80beba7ce1"
+  }
+ },
+ "ankurdes/moems_2026": {
+  "co": {},
+  "any": {}
+ },
+ "bpupadhyaya/bpupadhyaya.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "KarthikSP1911/Synapse": {
+  "co": {},
+  "any": {}
+ },
+ "bpupadhyaya/world-heritage-games-site": {
+  "co": {},
+  "any": {}
+ },
+ "bryanwai1/bingo-v2": {
+  "co": {},
+  "any": {}
+ },
+ "PYangChen/mongo_intro": {
+  "co": {
+   "Claude Sonnet 5.5": "abba05df6104cd5e8569e2fe4221e57ef420cf4f"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "abba05df6104cd5e8569e2fe4221e57ef420cf4f"
+  }
+ },
+ "ali1032006-prog/Trivia-game": {
+  "co": {
+   "Claude Sonnet 5.5": "fef553fc09f481e3078e63b456810487f4f2610c"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "fef553fc09f481e3078e63b456810487f4f2610c"
+  }
+ },
+ "oluobamzy/immigrant_ninjas": {
+  "co": {
+   "Claude Sonnet 5.5": "d6d91b650df81884270de8acdb12380573775178"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "d6d91b650df81884270de8acdb12380573775178"
+  }
+ },
+ "ldg224/vLeague": {
+  "co": {},
+  "any": {}
+ },
+ "Sarathbb/evoluation-areana": {
+  "co": {
+   "Claude Sonnet 5.5": "23c232aaab6b19827c3f00a2b3f90888096c0096"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "23c232aaab6b19827c3f00a2b3f90888096c0096"
+  }
+ },
+ "Koboye/Infinity": {
+  "co": {},
+  "any": {}
+ },
+ "halo07-pixel/dungeon-raider-godot": {
+  "co": {},
+  "any": {}
+ },
+ "syedsajjadalipersonal-star/Purrfect_Home": {
+  "co": {},
+  "any": {}
+ },
+ "Gemstone-Labs/tesoro": {
+  "co": {},
+  "any": {}
+ },
+ "epicecho992-ctrl/ravunix-game": {
+  "co": {
+   "Claude Sonnet 5.5": "24d68dff30bc36c6e6a218f92bc08f4dd1fa5b5d"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "24d68dff30bc36c6e6a218f92bc08f4dd1fa5b5d"
+  }
+ },
+ "Heiphaistos/PureRGB": {
+  "co": {},
+  "any": {}
+ },
+ "jinsw53/kingofleague": {
+  "co": {},
+  "any": {}
+ },
+ "WinningCloud/PaisaCrash": {
+  "co": {
+   "Claude Sonnet 5.5": "804ccbc1192fad91f255069d3ce67f747fc4773c"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "804ccbc1192fad91f255069d3ce67f747fc4773c"
+  }
+ },
+ "KDR9MGR/sabalive": {
+  "co": {},
+  "any": {}
+ },
+ "NarekMalkhasyann/Monopoly": {
+  "co": {},
+  "any": {}
+ },
+ "johncoelho/naval-battle": {
+  "co": {},
+  "any": {}
+ },
+ "turner11/gush-ball": {
+  "co": {},
+  "any": {}
+ },
+ "bingcheng45/memory-chess": {
+  "co": {},
+  "any": {}
+ },
+ "NebulaGamer123/nebulator": {
+  "co": {},
+  "any": {}
+ },
+ "jaiscully1-blip/whisk": {
+  "co": {},
+  "any": {}
+ },
+ "selfer08/life-game": {
+  "co": {
+   "Claude Sonnet 5.5": "31e827f58b9916702e0dec010bdbfb9cb292ac5a"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "31e827f58b9916702e0dec010bdbfb9cb292ac5a"
+  }
+ },
+ "PriyanshuAGOG/DIY": {
+  "co": {},
+  "any": {}
+ },
+ "vikarag/chess-engine": {
+  "co": {
+   "Claude Sonnet 5.5": "4a184aef1a4bfef9af80734990d82344c94eb937"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "4a184aef1a4bfef9af80734990d82344c94eb937"
+  }
+ },
+ "Sourceless/panic_and_improvise": {
+  "co": {},
+  "any": {}
+ },
+ "jkempy2009-lang/skigameclaude": {
+  "co": {
+   "Claude Sonnet 5.5": "2d02abb381ac60120a313f1bae471c1e522cf495"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "2d02abb381ac60120a313f1bae471c1e522cf495"
+  }
+ },
+ "chonnateemoklung-alt/piean-anomaly": {
+  "co": {
+   "Claude Sonnet 5.5": "199df870d891346b460898392349cdb53a670ea1"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "199df870d891346b460898392349cdb53a670ea1"
+  }
+ },
+ "IamMorgan/mods-farever": {
+  "co": {},
+  "any": {}
+ },
+ "PDkou/MySaveCode": {
+  "co": {},
+  "any": {}
+ },
+ "jameelaAW/screentime-control": {
+  "co": {},
+  "any": {}
+ },
+ "trentnbauer/QueueUp": {
+  "co": {},
+  "any": {}
+ },
+ "Jacob-Lucado/SteamValueChecker": {
+  "co": {
+   "Claude Sonnet 5.5": "13a8273b53b24bb6783d3b17e6149edc7bde5b06"
+  },
+  "any": {
+   "Claude Sonnet 5.5": "13a8273b53b24bb6783d3b17e6149edc7bde5b06"
+  }
+ },
+ "bpupadhyaya/games-site": {
+  "co": {},
+  "any": {}
+ },
+ "ESHAYAT102/horizon-voice-chat": {
+  "co": {
+   "GPT-6.1 Sol": "9e8f2705f8143b552d99c7e7707c295315bdfed5"
+  },
+  "any": {
+   "GPT-6.1 Sol": "9e8f2705f8143b552d99c7e7707c295315bdfed5"
+  }
+ },
+ "jjongjjongs/Mini-Emulator": {
+  "co": {},
+  "any": {}
+ },
+ "franklee0414/verse8-explore-sketch": {
+  "co": {},
+  "any": {}
+ },
+ "coachbenedwards/eastwood-fwp": {
+  "co": {},
+  "any": {}
+ },
+ "markwharton/moonbase": {
+  "co": {},
+  "any": {}
+ },
+ "AlexPerrin/osrs-plugins-reverse": {
+  "co": {},
+  "any": {}
+ },
+ "yourlocalunemployed/yourlocalunemployed.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "MicroNut99/MegaEverDrivePro_16MB_RAM": {
+  "co": {
+   "Claude Fable 5.1": "a05116724fbd8635fee6a0c3a893fafbbcf98ce7"
+  },
+  "any": {
+   "Claude Fable 5.1": "a05116724fbd8635fee6a0c3a893fafbbcf98ce7"
+  }
+ },
+ "cabi24/SFRush2049-decomp": {
+  "co": {},
+  "any": {}
+ },
+ "Diavel78/kahla-house": {
+  "co": {},
+  "any": {}
+ },
+ "torgan59/game-companion-app": {
+  "co": {},
+  "any": {}
+ },
+ "petmav/KSP-UE5": {
+  "co": {},
+  "any": {}
+ },
+ "Proximo0/Voxelspace": {
+  "co": {
+   "Claude Fable 5.1": "9df9ce4f7f7b474ad565facf563121e0028c5502"
+  },
+  "any": {
+   "Claude Fable 5.1": "9df9ce4f7f7b474ad565facf563121e0028c5502"
+  }
+ },
+ "quinprobably-netizen/A-Rusty-Regime": {
+  "co": {},
+  "any": {}
+ },
+ "MicroNut99/OpenLaraCD32X-REV_EDCD": {
+  "co": {
+   "Claude Fable 5.1": "cc2f065a136f364163d8a519a923deb24947cc60"
+  },
+  "any": {
+   "Claude Fable 5.1": "cc2f065a136f364163d8a519a923deb24947cc60"
+  }
+ },
+ "kohamanagement/chao-fa": {
+  "co": {
+   "Claude Fable 5.1": "90c35ae4808b45e8f17baef493b2926a5cf9ef1a"
+  },
+  "any": {
+   "Claude Fable 5.1": "90c35ae4808b45e8f17baef493b2926a5cf9ef1a"
+  }
+ },
+ "lepeski/crystal": {
+  "co": {},
+  "any": {}
+ },
+ "pradeepu191/wargame": {
+  "co": {},
+  "any": {}
+ },
+ "dnehring/MEVR": {
+  "co": {},
+  "any": {}
+ },
+ "mariuz/firebird-quake2": {
+  "co": {},
+  "any": {}
+ },
+ "rit3sh-x/farmland-vlm": {
+  "co": {},
+  "any": {}
+ },
+ "Betsy215/Sept": {
+  "co": {},
+  "any": {}
+ },
+ "05solar/-2D-Lab-Polluted": {
+  "co": {},
+  "any": {}
+ },
+ "stefsanty/soccer-play-builder": {
+  "co": {},
+  "any": {}
+ },
+ "MarionWhite/quest-forge": {
+  "co": {},
+  "any": {}
+ },
+ "ghanemja/ghanemja.github.io": {
+  "co": {},
+  "any": {}
+ },
+ "aabzac/summer-challenge-2026-back-track-king": {
+  "co": {},
+  "any": {}
+ },
+ "Jbuck1016/gameday": {
+  "co": {},
+  "any": {}
+ },
+ "lzcm729/game-toolkit": {
+  "co": {},
+  "any": {}
+ },
+ "bpangman/kalshi-command-center": {
+  "co": {},
+  "any": {}
+ },
+ "HexOffender/wcmods-examples": {
+  "co": {
+   "Claude Opus 5.5": "eb59f5856e3e49c06c63d02dca2245c9c1ee9eca",
+   "Claude Fable 5.1": "78046905a2e448bb39c74b7a678950eacb51e330"
+  },
+  "any": {
+   "Claude Opus 5.5": "eb59f5856e3e49c06c63d02dca2245c9c1ee9eca",
+   "Claude Fable 5.1": "78046905a2e448bb39c74b7a678950eacb51e330"
+  }
+ },
+ "wreford/sprout": {
+  "co": {},
+  "any": {}
+ },
+ "alexcphillips/mobile-extraction-shooter": {
+  "co": {},
+  "any": {}
+ },
+ "ryan-kel/agy-advisor": {
+  "co": {},
+  "any": {}
+ },
+ "zenitlab/video-as-code": {
+  "co": {},
+  "any": {}
+ },
+ "KostiKoNeuro/ai-horror-games": {
+  "co": {
+   "Claude Opus 5.5": "5cb5257b6c5805dd994db9d24f841c7c1b97b14c"
+  },
+  "any": {
+   "Claude Opus 5.5": "5cb5257b6c5805dd994db9d24f841c7c1b97b14c",
+   "Gemini 4 Argon": "5cb5257b6c5805dd994db9d24f841c7c1b97b14c"
+  }
+ },
+ "Zheny766/proof-of-done": {
+  "co": {
+   "Claude Opus 5.5": "fa5d7bca1b8c4206687e313a91848fc8cd6df2da"
+  },
+  "any": {
+   "Claude Opus 5.5": "fa5d7bca1b8c4206687e313a91848fc8cd6df2da"
+  }
+ },
+ "mikegestordetrafego-star/depth-1-https-github.com-yihui-dev-awesome-opus5-5-videos.git-cd-awesome-opus5-5-videos-ls-prompts": {
+  "co": {},
+  "any": {}
+ },
+ "rblez/opus-video-research": {
+  "co": {},
+  "any": {}
+ },
+ "achir1015/xiaoke-3d": {
+  "co": {
+   "Claude Opus 5.5": "94486f4d5a467fc25b0d523debe2500a52f5a06e"
+  },
+  "any": {
+   "Claude Opus 5.5": "94486f4d5a467fc25b0d523debe2500a52f5a06e"
+  }
+ },
+ "jerelvelarde/skywake": {
+  "co": {
+   "Claude Opus 5.5": "3f969edad17659b325e2c4883c15260d17add328"
+  },
+  "any": {
+   "Gemini 4 Argon": "3f969edad17659b325e2c4883c15260d17add328",
+   "Claude Opus 5.5": "3f969edad17659b325e2c4883c15260d17add328"
+  }
+ },
+ "TanmayKallakuri/gta-sf": {
+  "co": {
+   "Claude Opus 5.5": "d77c0f09255310748415c72aecfb4220fbda14ae"
+  },
+  "any": {
+   "Gemini 4 Argon": "d77c0f09255310748415c72aecfb4220fbda14ae",
+   "Claude Opus 5.5": "d77c0f09255310748415c72aecfb4220fbda14ae"
+  }
  }
 }

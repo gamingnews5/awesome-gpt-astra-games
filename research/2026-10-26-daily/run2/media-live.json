@@ -2047,5 +2047,520 @@
   "images": [],
   "live": [],
   "checked": []
+ },
+ "meuse24/DinoRun": {
+  "images": [],
+  "live": [
+   "https://meuse24.info/apps/dino/dino.html"
+  ],
+  "checked": [
+   "https://meuse24.info/apps/dino/dino.html"
+  ]
+ },
+ "TaiwoDevOps/afeehy-hour-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "axellofgren-boop/ring-of-fire": {
+  "images": [],
+  "live": [
+   "https://axellofgren-boop.github.io/ring-of-fire/"
+  ],
+  "checked": [
+   "https://axellofgren-boop.github.io/ring-of-fire/"
+  ]
+ },
+ "bapakKau00/little-medic": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Lenni707/minesweeper-clean": {
+  "images": [],
+  "live": [
+   "https://lenni707.github.io/minesweeper-clean/"
+  ],
+  "checked": [
+   "https://lenni707.github.io/minesweeper-clean/"
+  ]
+ },
+ "niteshsrivastava484/snakes-and-ladders": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "krishnavijaykumar/little-learner-trail": {
+  "images": [
+   "https://github.com/krishnavijaykumar/little-learner-trail/blob/main/docs/screens.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "creativeprints1403-sudo/Puzzlegame": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Reberholt/printshop-tycoon": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "anushka102030/saanp-seedhi": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "dmwhyatt/guess-the-flag": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "haile-teshome/benefit-borough": {
+  "images": [],
+  "live": [
+   "https://haile-teshome.github.io/benefit-borough/"
+  ],
+  "checked": [
+   "https://haile-teshome.github.io/benefit-borough/"
+  ]
+ },
+ "pf1991/smokestack": {
+  "images": [],
+  "live": [
+   "https://pf1991.github.io/smokestack/"
+  ],
+  "checked": [
+   "https://pf1991.github.io/smokestack/"
+  ]
+ },
+ "justinward108/paradise-lost": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "waoile45/wiener-snake": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "GrowingRui/SchwarzerPeter": {
+  "images": [
+   "https://github.com/GrowingRui/SchwarzerPeter/blob/main/docs/images/home.png",
+   "https://github.com/GrowingRui/SchwarzerPeter/blob/main/docs/images/alpine-deck.png"
+  ],
+  "live": [
+   "https://schwarzerpeter.vercel.app",
+   "https://schwarzerpeter.vercel.app/play"
+  ],
+  "checked": [
+   "https://schwarzerpeter.vercel.app",
+   "https://schwarzerpeter.vercel.app/play"
+  ]
+ },
+ "mattadamcohen/study-time": {
+  "images": [],
+  "live": [
+   "https://mattadamcohen.github.io/study-time/"
+  ],
+  "checked": [
+   "https://mattadamcohen.github.io/study-time/"
+  ]
+ },
+ "stephenclawdbot-png/ranch-game": {
+  "images": [],
+  "live": [
+   "https://ranch-game-nine.vercel.app",
+   "https://ranch-game-git-claude-thoroughbred-demo-meowdotfun.vercel.app"
+  ],
+  "checked": [
+   "https://ranch-game-nine.vercel.app",
+   "https://ranch-game-git-claude-thoroughbred-demo-meowdotfun.vercel.app"
+  ]
+ },
+ "KenDarcy01/Turncloak": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "jwc983/find-it": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "indieocean/alibi-web": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "timbortnik/lines": {
+  "images": [],
+  "live": [
+   "https://timbortnik.github.io/lines/"
+  ],
+  "checked": [
+   "https://timbortnik.github.io/lines/"
+  ]
+ },
+ "awjudd/theo-sports": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "nidheeshgtech/dna-builders-the-double-helix-challenge": {
+  "images": [],
+  "live": [
+   "https://dna-builders-the-double-helix-chall.vercel.app"
+  ],
+  "checked": [
+   "https://dna-builders-the-double-helix-chall.vercel.app"
+  ]
+ },
+ "naileahas/love-quest": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "clsclassic-droid/town-game": {
+  "images": [],
+  "live": [
+   "https://clsclassic-droid.github.io/town-game/"
+  ],
+  "checked": [
+   "https://clsclassic-droid.github.io/town-game/"
+  ]
+ },
+ "nghelak/Alphabet-pronunciation-Game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "sroblempolver/expandia-hq-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "nurkert/whowolf": {
+  "images": [
+   "https://github.com/nurkert/whowolf/blob/main/.github/assets/wordmark.png",
+   "https://github.com/nurkert/whowolf/blob/main/.github/assets/game-box.jpg",
+   "https://github.com/nurkert/whowolf/blob/main/.github/assets/cast.png",
+   "https://github.com/nurkert/whowolf/blob/main/.github/assets/wolf-trail.svg"
+  ],
+  "live": [
+   "https://whowolf.de"
+  ],
+  "checked": [
+   "https://whowolf.de"
+  ]
+ },
+ "aleszorc/heroi": {
+  "images": [
+   "https://github.com/aleszorc/heroi/blob/main/docs/screenshots/battle.png",
+   "https://github.com/aleszorc/heroi/blob/main/docs/screenshots/menu.png",
+   "https://github.com/aleszorc/heroi/blob/main/docs/screenshots/deployment.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "kosiew/wordwise": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "edvardseppala-tech/Daily-Baits": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "blackdolphin84/TapCircle-PUBLIC": {
+  "images": [],
+  "live": [
+   "https://blackdolphin84.github.io/TapCircle-PUBLIC/"
+  ],
+  "checked": [
+   "https://blackdolphin84.github.io/TapCircle-PUBLIC/"
+  ]
+ },
+ "vfhqi/mountain-run": {
+  "images": [],
+  "live": [
+   "https://vfhqi.github.io/mountain-run/"
+  ],
+  "checked": [
+   "https://vfhqi.github.io/mountain-run/"
+  ]
+ },
+ "marcussmeeth/Dragon-Books": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Sansui233/sir-noodle-snack-quest": {
+  "images": [
+   "https://github.com/Sansui233/sir-noodle-snack-quest/blob/main/docs/img/gallery.png",
+   "https://github.com/Sansui233/sir-noodle-snack-quest/blob/main/assets/chili.png",
+   "https://github.com/Sansui233/sir-noodle-snack-quest/blob/main/assets/ice.png",
+   "https://github.com/Sansui233/sir-noodle-snack-quest/blob/main/assets/mushroom.png",
+   "https://github.com/Sansui233/sir-noodle-snack-quest/blob/main/assets/star.png",
+   "https://github.com/Sansui233/sir-noodle-snack-quest/blob/main/assets/banana.png",
+   "https://github.com/Sansui233/sir-noodle-snack-quest/blob/main/assets/moon.png",
+   "https://github.com/Sansui233/sir-noodle-snack-quest/blob/main/assets/shield.png",
+   "https://github.com/Sansui233/sir-noodle-snack-quest/blob/main/assets/bomb.png",
+   "https://github.com/Sansui233/sir-noodle-snack-quest/blob/main/assets/dynamite.png"
+  ],
+  "live": [
+   "https://sansui233.github.io/static/sir-noodle/"
+  ],
+  "checked": [
+   "https://sansui233.github.io/static/sir-noodle/"
+  ]
+ },
+ "kirchik95/diablo-like-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "indieocean/halfsies": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Afrandsen87/Cybersleeve": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "mrhule/slime-mold": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Shumtugle/freedie": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "GuillaumeMunsch/minesweeper-2026": {
+  "images": [],
+  "live": [
+   "https://guillaumemunsch.github.io/minesweeper-2026/"
+  ],
+  "checked": [
+   "https://guillaumemunsch.github.io/minesweeper-2026/"
+  ]
+ },
+ "ashtarabboud/puzzle-lab": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "emre9690/kilter_board_game": {
+  "images": [
+   "https://github.com/emre9690/kilter_board_game/blob/main/docs/gap-drop.gif",
+   "https://github.com/emre9690/kilter_board_game/blob/main/docs/reach.gif"
+  ],
+  "live": [
+   "https://kiltergame.vercel.app"
+  ],
+  "checked": [
+   "https://kiltergame.vercel.app"
+  ]
+ },
+ "huyhoa308/gcs-drone-arena": {
+  "images": [
+   "https://github.com/huyhoa308/gcs-drone-arena/blob/main/assets/banner.svg"
+  ],
+  "live": [
+   "https://capsule-render.vercel.app/api?type=waving&color=0:3a3f8f,100:0b1026&height=100&section=footer"
+  ],
+  "checked": [
+   "https://huyhoa308.github.io/gcs-drone-arena/",
+   "https://capsule-render.vercel.app/api?type=waving&color=0:3a3f8f,100:0b1026&height=100&section=footer"
+  ]
+ },
+ "benjaminroy-ai/ab-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "bbonng/flaggame": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "joclegg/puzzles-android": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Chase-Allen-max/walkergame": {
+  "images": [],
+  "live": [
+   "https://chase-allen-max.github.io/walkergame/"
+  ],
+  "checked": [
+   "https://chase-allen-max.github.io/walkergame/"
+  ]
+ },
+ "HigorAnjos/violin-hero-one": {
+  "images": [],
+  "live": [
+   "https://violin-hero-one.vercel.app"
+  ],
+  "checked": [
+   "https://violin-hero-one.vercel.app"
+  ]
+ },
+ "jaineil32624/nova-vanguard": {
+  "images": [
+   "https://github.com/jaineil32624/nova-vanguard/blob/main/docs/media/banner.png",
+   "https://github.com/jaineil32624/nova-vanguard/blob/main/docs/media/sector1_training.png",
+   "https://github.com/jaineil32624/nova-vanguard/blob/main/docs/media/sector2_asteroids.png",
+   "https://github.com/jaineil32624/nova-vanguard/blob/main/docs/media/sector4_nebula.png",
+   "https://github.com/jaineil32624/nova-vanguard/blob/main/docs/media/sector6_dark_matter.png",
+   "https://github.com/jaineil32624/nova-vanguard/blob/main/docs/media/boss_final_war.png",
+   "https://github.com/jaineil32624/nova-vanguard/blob/main/docs/media/ships.png",
+   "https://github.com/jaineil32624/nova-vanguard/blob/main/docs/media/gameplay.gif"
+  ],
+  "live": [
+   "https://jaineil32624.github.io/nova-vanguard/",
+   "https://jaineil32624.github.io/nova-vanguard/play/"
+  ],
+  "checked": [
+   "https://jaineil32624.github.io/nova-vanguard/",
+   "https://jaineil32624.github.io/nova-vanguard/play/"
+  ]
+ },
+ "lukeshaw65-alt/night-ops-arena": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "TudorTodea/Capital-Duel": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "alexphilippon/cxgame": {
+  "images": [],
+  "live": [
+   "https://cxgame.vercel.app"
+  ],
+  "checked": [
+   "https://cxgame.vercel.app"
+  ]
+ },
+ "asubjecthumanity/krone": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "tjdoolittle/can-i-pet-that-dog": {
+  "images": [
+   "https://github.com/tjdoolittle/can-i-pet-that-dog/blob/main/screenshots/gameplay.png"
+  ],
+  "live": [
+   "https://tjdoolittle.github.io/can-i-pet-that-dog/"
+  ],
+  "checked": [
+   "https://tjdoolittle.github.io/can-i-pet-that-dog/"
+  ]
+ },
+ "jc7003/snack_game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Matusvec/MeNIN": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "gphill1396/headliners": {
+  "images": [],
+  "live": [
+   "https://gphill1396.github.io/headliners/"
+  ],
+  "checked": [
+   "https://gphill1396.github.io/headliners/"
+  ]
+ },
+ "venkateshjnv123/gurugramRacer": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://venkateshjnv123.github.io/gurugramRacer/"
+  ]
+ },
+ "Lalitbhardwaj2002/read-the-room": {
+  "images": [],
+  "live": [
+   "https://lalitbhardwaj2002.github.io/read-the-room/"
+  ],
+  "checked": [
+   "https://lalitbhardwaj2002.github.io/read-the-room/"
+  ]
+ },
+ "almoussaabdullah/Fitna": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "damienlethiec/takeoff-middle-power": {
+  "images": [
+   "https://github.com/damienlethiec/takeoff-middle-power/blob/main/docs/screenshots/05-main-running.png",
+   "https://github.com/damienlethiec/takeoff-middle-power/blob/main/docs/screenshots/09-decision-preview.png",
+   "https://github.com/damienlethiec/takeoff-middle-power/blob/main/docs/screenshots/12-event.png",
+   "https://github.com/damienlethiec/takeoff-middle-power/blob/main/docs/screenshots/20-choose-result.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "onecast/onecast.github.io": {
+  "images": [],
+  "live": [
+   "https://onecast.github.io/"
+  ],
+  "checked": [
+   "https://onecast.github.io/"
+  ]
+ },
+ "NanFeiDeXuMu/AIGameProject": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Jotharsh/Hushwords": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "GregoryZeif/bailout": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "gnutgnut/NGC-1980": {
+  "images": [
+   "https://github.com/gnutgnut/NGC-1980/blob/main/docs/screenshot.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "Ranger-Jones/kniffel": {
+  "images": [],
+  "live": [
+   "https://kniffel-sigma.vercel.app"
+  ],
+  "checked": [
+   "https://kniffel-sigma.vercel.app"
+  ]
+ },
+ "cchesk/claudedraw": {
+  "images": [],
+  "live": [],
+  "checked": []
  }
 }

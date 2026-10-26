@@ -10080,6 +10080,186 @@
       "reason": "Use this frame for the game-level score. Farmer character select over a farm HUD; charming pixel-cartoon style.",
       "reviewed_on": "2026-10-26",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/meuse24/DinoRun",
+      "url": "https://github.com/meuse24/DinoRun/blob/master/assets/images/dino.png",
+      "game": "Dino Run",
+      "score_10": 4.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Dino-Pause banner with cartoon dinosaur and play button; simple promo.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/krishnavijaykumar/little-learner-trail",
+      "url": "https://github.com/krishnavijaykumar/little-learner-trail/blob/main/docs/screens.png",
+      "game": "Little Learner Trail",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pastel phonics and number exercise cards for kids; clear and friendly.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/haile-teshome/benefit-borough",
+      "url": "https://github.com/haile-teshome/benefit-borough/blob/main/docs/media/og.jpg",
+      "game": "Benefit Borough",
+      "score_10": 6.4,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Pixel town square with Benefit Borough sign and buttons; charming detailed art.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/GrowingRui/SchwarzerPeter",
+      "url": "https://github.com/GrowingRui/SchwarzerPeter/blob/main/docs/images/alpine-deck.png",
+      "game": "Schwarzerpeter",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Grid of illustrated animal cards on dark felt; coherent card art.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/stephenclawdbot-png/ranch-game",
+      "url": "https://github.com/stephenclawdbot-png/ranch-game/blob/main/docs/brand-v2/before-after-390.png",
+      "game": "Thoroughbred: racing stable game",
+      "score_10": 4.8,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark green stable management dashboards; dense UI panels.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nurkert/whowolf",
+      "url": "https://github.com/nurkert/whowolf/blob/main/.github/assets/game-box.jpg",
+      "game": "Whowolf",
+      "score_10": 5.8,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Illustrated Whowolf landing with wolf and cards; polished cartoon art.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/aleszorc/heroi",
+      "url": "https://github.com/aleszorc/heroi/blob/main/docs/screenshots/battle.png",
+      "game": "Heroi (ГЕРОЇ)",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric war-zone farmstead with unit HUD; detailed tactics view.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Sansui233/sir-noodle-snack-quest",
+      "url": "https://github.com/Sansui233/sir-noodle-snack-quest/blob/main/docs/img/gallery.png",
+      "game": "Sir Noodle's Snack Quest",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Three pastel snake boards with game-over card; cute and clean.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kirchik95/diablo-like-game",
+      "url": "https://github.com/kirchik95/diablo-like-game/blob/main/assets/concepts/systems-01/mobile/frames/screen-01-844x390-combat%402x.png",
+      "game": "Ночной ритуал",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel ARPG camp at night with campfire and mobile HUD; rich detail.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/indieocean/halfsies",
+      "url": "https://github.com/indieocean/halfsies/blob/main/store-assets/public/screenshots/android/phone/en/02.png",
+      "game": "Halfsies: Daily Cut Puzzle",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Halved snack result with percentages on green grid; simple.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Shumtugle/freedie",
+      "url": "https://github.com/Shumtugle/freedie/blob/main/docs/freedie.webp",
+      "game": "Freedie",
+      "score_10": 5.4,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Voxel giant in a maid outfit render; quirky character asset.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/emre9690/kilter_board_game",
+      "url": "https://github.com/emre9690/kilter_board_game/blob/main/docs/gap-drop.gif",
+      "game": "Kilter Games",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Climbing wall photo with LED countdown UI; real-world setup, plain UI.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jaineil32624/nova-vanguard",
+      "url": "https://github.com/jaineil32624/nova-vanguard/blob/main/docs/media/sector1_training.png",
+      "game": "Nova Vanguard",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Space shooter wave with combo HUD and Training Galaxy banner; vivid and readable.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/tjdoolittle/can-i-pet-that-dog",
+      "url": "https://github.com/tjdoolittle/can-i-pet-that-dog/blob/main/screenshots/gameplay.png",
+      "game": "Can I Pet That Dog?",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Cartoon animals at a fence under a sunny sky; bright, simple and clear.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Matusvec/MeNIN",
+      "url": "https://github.com/Matusvec/MeNIN/blob/main/docs/figma/hall-arrow-promax.png",
+      "game": "MeNIN",
+      "score_10": 4.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pale phone screen with a hold-to-nock prompt; minimal.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/damienlethiec/takeoff-middle-power",
+      "url": "https://github.com/damienlethiec/takeoff-middle-power/blob/main/docs/screenshots/05-main-running.png",
+      "game": "Takeoff: Middle Power",
+      "score_10": 5.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark world map with AI-governance event panels; dense strategy UI.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/onecast/onecast.github.io",
+      "url": "https://github.com/onecast/onecast.github.io/blob/main/img/map-1024.png",
+      "game": "One Cast",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel world map with ocean and fishing spots; clean and broad.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gnutgnut/NGC-1980",
+      "url": "https://github.com/gnutgnut/NGC-1980/blob/main/docs/screenshot.png",
+      "game": "NGC-1980",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Low-poly 3D coast with ship and red enemy machines plus HUD; busy but readable.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
