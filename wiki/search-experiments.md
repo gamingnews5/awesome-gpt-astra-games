@@ -2310,3 +2310,17 @@ Rate this path **8/10** for yield and **7.5/10** for evidence. The trailer prefi
 ### Next experiment
 
 Keep a daily run under 50 minutes by committing after every batch and capping manual review at about 800 trailer candidates per run, carrying the rest to the next run's saved pool. Revisit the 655 weak-signal repositories with a tree-based game detector.
+
+## Daily pass 2026-10-26 (afternoon run)
+
+Clear the morning's 1,358-repository `pending-candidates.txt` first, then search for new repositories. Use REST through `gh-read.sh` because it can't make GraphQL calls. Run 22 commit searches for repositories committed 2026-10-26 01:00–07:00 UTC, split into half-hour windows for Opus 5.5 because each window hits the 300-result cap. Also run 10 repository-creation searches (`run2/commit-query-log.json`, `run2/repo-query-log.json`). Most Opus windows returned 290–463 hits and capped at 300. Sonnet 5.5 returned 444 hits across three windows, Fable 264, GPT-6.1 Sol 68, GPT-6 Astra 7 and Gemini 4 Argon 1. Creation-date repository searches returned only 19 hits in total, so commit search is still the main source.
+
+Inspect all 1,348 reachable pending repositories and 1,291 fresh-pool repositories. Auto-reject repositories created before 2026-10-24T01:00Z (918), weak game signal (511), no tracked-model trailer in the last 100 commits (53) and unreachable repositories (10, carried forward in `pending-candidates.txt`). Review the rest by hand in nine batches (a01–a04, b01–b03, f01–f02), using the same rules as before. This run added 540 records: Opus 5.5 456, Sonnet 5.5 102, Fable 5.1 34 and GPT-6.1 Sol 1 (a record can have more than one model). It also rated 121 repositories' screenshots by viewing contact sheets.
+
+### Critique
+
+Rate this path **8/10** for yield and **7.5/10** for evidence. The backlog-first approach worked, and each batch was committed and pushed. Two problems came up. First, `gh-read.sh` truncates large bodies when stdout is piped, because `process.exit` runs before the pipe drains. Write to a temp file instead. Second, two background jobs both wrote `trees.json` at the same time. Accepted-repository trees now go to `trees-acc.json`. Composio returned 175 per-account 429s, each retried on the next account, and 9 calls fell back to `searchdot1` when listing accounts was rate-limited. No account was skipped.
+
+### Next experiment
+
+Fix the pipe truncation in `gh-read.sh` itself. Then try a tree-based game detector on the 511 weak-signal rejects.
