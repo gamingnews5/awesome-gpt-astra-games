@@ -9830,6 +9830,156 @@
       "reason": "Use this frame for the game-level score. Low-poly field with a ranger character, enemies and pH HUD; colorful action scene.",
       "reviewed_on": "2026-10-26",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ghanemja/borrowed_eyes",
+      "url": "https://github.com/ghanemja/borrowed_eyes/blob/main/docs/gameplay.jpg",
+      "game": "Borrowed Eyes",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D sunflower valley path with animal-vision toolbar; bright and readable.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/sakiila/moego-pet-match",
+      "url": "https://github.com/sakiila/moego-pet-match/blob/main/acceptance/stage1/05-combo-preview.jpg",
+      "game": "MoeGo 毛孩子全明星创意方案",
+      "score_10": 4.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Phone pet-match tile grid with timer; cute but small and busy.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/chaumurky-dev/ww2-game",
+      "url": "https://github.com/chaumurky-dev/ww2-game/blob/main/docs/screenshots/sandbox-ussr-5-battle.png",
+      "game": "Wartide",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. WWII strategy world map with country control and order panels; dense but readable.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/bltaylorjr/fantastical-logic-grid",
+      "url": "https://github.com/bltaylorjr/fantastical-logic-grid/blob/main/media/promo/the-fantastical-logic-grid-promo-16x9-thumbnail.png",
+      "game": "The Fantastical Logic Grid: browser and desktop app",
+      "score_10": 4.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Logic Grid promo banner with logo and URL; clean marketing art.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/zachruss1987-apple/space-oregon-trail",
+      "url": "https://github.com/zachruss1987-apple/space-oregon-trail/blob/main/tests/e2e/__screenshots__/win32/visual.spec.ts/Arrival.png",
+      "game": "The Proxima Trail",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Green terminal trail screen with crew portraits and planet art; retro and clear.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/dharviksoni/echofall",
+      "url": "https://github.com/dharviksoni/echofall/blob/main/docs/move.png",
+      "game": "Echofall",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Phone chess board with cracking ice squares; clean and readable.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Ipodjockey/pong",
+      "url": "https://github.com/Ipodjockey/pong/blob/main/title_screen.png",
+      "game": "Wong (Godot 4.3)",
+      "score_10": 4.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Black Pong menu with four options; plain but clear.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/WirunSit/vitaria",
+      "url": "https://github.com/WirunSit/vitaria/blob/main/Assets/_Project/Art/UI/Mockups/UIM_CharacterScreen.png",
+      "game": "VITARIA: ตำนานธาตุแห่งชีวิต",
+      "score_10": 6.2,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Anime character screen with ornate gear and element panels; polished gacha-style UI.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/dreamdreams77/Chaod",
+      "url": "https://github.com/dreamdreams77/Chaod/blob/main/docs/screenshots/hub.png",
+      "game": "CHAOS.exe: The 90s Gaming Multiverse",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon pixel Lobby of Lost Saves with portals and HUD; vivid retro style.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/LuisCa32/minesweeper-something-moves",
+      "url": "https://github.com/LuisCa32/minesweeper-something-moves/blob/main/preview.png",
+      "game": "Minesweeper: Something Moves",
+      "score_10": 5.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Halloween minesweeper title with numbered board and mine monster; crisp pixel style.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/thdtr/vixe",
+      "url": "https://github.com/thdtr/vixe/blob/main/docs/trailer.gif",
+      "game": "VIXE",
+      "score_10": 4.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. ASCII platformer with @ hero over a hash floor; deliberately minimal.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/teja-bot5/blacktail-alley-run",
+      "url": "https://github.com/teja-bot5/blacktail-alley-run/blob/main/docs/art-reference.png",
+      "game": "BLACKTAIL",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Hand-painted rooftop alley with black cat runner and touch controls; polished.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/aftl0904-coder/Game-Salmon-Bear-",
+      "url": "https://github.com/aftl0904-coder/Game-Salmon-Bear-/blob/main/art-src/story/c6-screen.png",
+      "game": "鮭鮭熊",
+      "score_10": 5.2,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Dark desk scene with glowing monitor; moody intro art.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/techgymjp/corner-kick",
+      "url": "https://github.com/techgymjp/corner-kick/blob/claude/cool-archimedes-ckvrl0/docs/store/en-1-title.png",
+      "game": "コーナーキック (Corner Kick)",
+      "score_10": 5.4,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Corner Kick title over a stadium with play buttons; bright and clear.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/darkluobo/hearthmoor",
+      "url": "https://github.com/darkluobo/hearthmoor/blob/master/docs/screenshots/a1-01-fight-with-sound-1280x720.png",
+      "game": "Hearthmoor",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric grassy river map with stone plaza and MMO HUD; tidy 2.5D look.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
