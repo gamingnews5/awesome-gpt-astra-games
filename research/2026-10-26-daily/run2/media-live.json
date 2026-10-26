@@ -525,5 +525,600 @@
   "checked": [
    "https://kitsunecat.github.io/daily-mini-games/"
   ]
+ },
+ "Y2JCPA/JacobBros": {
+  "images": [],
+  "live": [
+   "https://y2jcpa.github.io/JacobBros/",
+   "https://y2jcpa.github.io/JacobBros/badge.js"
+  ],
+  "checked": [
+   "https://y2jcpa.github.io/JacobBros/",
+   "https://y2jcpa.github.io/JacobBros/badge.js"
+  ]
+ },
+ "Y2JCPA/Dreidel": {
+  "images": [],
+  "live": [
+   "https://y2jcpa.github.io/Dreidel/"
+  ],
+  "checked": [
+   "https://y2jcpa.github.io/Dreidel/"
+  ]
+ },
+ "tarpat/hacktx-2026": {
+  "images": [],
+  "live": [
+   "https://v-ktor.itch.io/spell-animations",
+   "https://tornadogames.itch.io/magic-sparksattacks-for-the-devs"
+  ],
+  "checked": [
+   "https://v-ktor.itch.io/spell-animations",
+   "https://tornadogames.itch.io/magic-sparksattacks-for-the-devs"
+  ]
+ },
+ "milodinasour/galaxy-defender": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "AlanLiang28/HackTX26": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "LucBo-coder/lucbo111": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "yubrajbhandari923/DuQuantum": {
+  "images": [
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_0a_photon_number.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_0a_wigner.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_0b_photon_number.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_0c_photon_number.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_0c_wigner.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_1_photon_number.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_1_truncation.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_1_wigner.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_1_vs_memory_only.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_2_convergence.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_2_nb_sweep.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_2_na_sweep.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_3a_cat_quantities.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_3a_purity_transient.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_3a_parity_fit.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_3a_wigner.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_3a_fringes.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_3b_wrong_well.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_3b_re_a.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_3b_p_neg.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task1_3b_wigner.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_1_re_a.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_1_local_rate.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_1_truncation.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_1_gamma_x.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_1_local_exponent.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_2_parity.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_2_gamma.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_3_b_trace.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_3_b_plane.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_3_linearity.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_3_truncation.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_4_gamma_eps.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_4_contrast.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_4_fom.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_4_alpha.png",
+   "https://github.com/yubrajbhandari923/DuQuantum/blob/master/plots/task2_4_shaping.png"
+  ],
+  "live": [
+   "https://du-quantum.vercel.app",
+   "https://du-quantum.vercel.app/",
+   "https://yubrajbhandari923.github.io/DuQuantum/"
+  ],
+  "checked": [
+   "https://du-quantum.vercel.app",
+   "https://du-quantum.vercel.app/",
+   "https://yubrajbhandari923.github.io/DuQuantum/"
+  ]
+ },
+ "georrrgess-jpg/Baseball-Draw": {
+  "images": [
+   "https://github.com/georrrgess-jpg/Baseball-Draw/blob/claude/upbeat-darwin-91hf7b/docs/screenshots/battle.jpg",
+   "https://github.com/georrrgess-jpg/Baseball-Draw/blob/claude/upbeat-darwin-91hf7b/docs/screenshots/main_menu.jpg",
+   "https://github.com/georrrgess-jpg/Baseball-Draw/blob/claude/upbeat-darwin-91hf7b/docs/screenshots/boss.jpg",
+   "https://github.com/georrrgess-jpg/Baseball-Draw/blob/claude/upbeat-darwin-91hf7b/docs/screenshots/packs_reveal.jpg",
+   "https://github.com/georrrgess-jpg/Baseball-Draw/blob/claude/upbeat-darwin-91hf7b/docs/screenshots/vfx_grand_slam_barrage.jpg",
+   "https://github.com/georrrgess-jpg/Baseball-Draw/blob/claude/upbeat-darwin-91hf7b/docs/screenshots/deck_builder.jpg",
+   "https://github.com/georrrgess-jpg/Baseball-Draw/blob/claude/upbeat-darwin-91hf7b/docs/screenshots/tutorial.jpg"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "ChunkyCatLLC/chunkycatfarms-play": {
+  "images": [],
+  "live": [
+   "https://chunkycatllc.github.io/chunkycatfarms-play/"
+  ],
+  "checked": [
+   "https://chunkycatllc.github.io/chunkycatfarms-play/",
+   "https://theitalianguy41.github.io/chunkycatfarms-play/"
+  ]
+ },
+ "aakashvishcoder/betonthehorns": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "miroslavkrupa/pm-brawler": {
+  "images": [],
+  "live": [
+   "https://miroslavkrupa.github.io/pm-brawler/"
+  ],
+  "checked": [
+   "https://miroslavkrupa.github.io/pm-brawler/"
+  ]
+ },
+ "jnyinglis/foundation-series": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "KurtLehnardt/prompt-piggy": {
+  "images": [],
+  "live": [
+   "https://prompt-piggy.vercel.app"
+  ],
+  "checked": [
+   "https://prompt-piggy.vercel.app"
+  ]
+ },
+ "NotStud/PsuHackathon": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "baldking1629/coffee_empire": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "b14ck5tar/H4CKBOMB": {
+  "images": [],
+  "live": [
+   "https://groupproject-game.vercel.app/tv",
+   "https://groupproject-game.vercel.app/play",
+   "https://groupproject-game.vercel.app/tv?judge=1"
+  ],
+  "checked": [
+   "https://groupproject-game.vercel.app/tv",
+   "https://groupproject-game.vercel.app/play",
+   "https://groupproject-game.vercel.app/tv?judge=1"
+  ]
+ },
+ "onEjlwoKXCO0/vacation-wars-4": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Dylan78Lange/santas-surprise": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "mylesbrandon/shoreline": {
+  "images": [],
+  "live": [
+   "https://stormline-kohl.vercel.app",
+   "https://shoreline-game.vercel.app"
+  ],
+  "checked": [
+   "https://stormline-kohl.vercel.app",
+   "https://shoreline-game.vercel.app"
+  ]
+ },
+ "gfhdhytghd/Gitzilla": {
+  "images": [
+   "https://github.com/gfhdhytghd/Gitzilla/blob/main/brand/gitzilla-lockup.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "ShibaInKyoto/AIvsAI-Game-Comp-2": {
+  "images": [
+   "https://github.com/ShibaInKyoto/AIvsAI-Game-Comp-2/blob/claude/vibrant-ride-4ga7i4/docs/screenshots/sonar.jpg",
+   "https://github.com/ShibaInKyoto/AIvsAI-Game-Comp-2/blob/claude/vibrant-ride-4ga7i4/docs/screenshots/shelf.jpg",
+   "https://github.com/ShibaInKyoto/AIvsAI-Game-Comp-2/blob/claude/vibrant-ride-4ga7i4/docs/screenshots/reef.jpg",
+   "https://github.com/ShibaInKyoto/AIvsAI-Game-Comp-2/blob/claude/vibrant-ride-4ga7i4/docs/screenshots/vents.jpg",
+   "https://github.com/ShibaInKyoto/AIvsAI-Game-Comp-2/blob/claude/vibrant-ride-4ga7i4/docs/screenshots/choir.jpg",
+   "https://github.com/ShibaInKyoto/AIvsAI-Game-Comp-2/blob/claude/vibrant-ride-4ga7i4/docs/screenshots/stop.jpg",
+   "https://github.com/ShibaInKyoto/AIvsAI-Game-Comp-2/blob/claude/vibrant-ride-4ga7i4/docs/screenshots/hangar.jpg"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "BoardAtHome/phoenicians": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "QemmHD/perfect-season": {
+  "images": [],
+  "live": [
+   "https://qemmhd.github.io/perfect-season/"
+  ],
+  "checked": [
+   "https://qemmhd.github.io/perfect-season/"
+  ]
+ },
+ "ERIKXVI/aivsai": {
+  "images": [
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/surface.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/rubedo.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/boss.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/vault.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/sanctum.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/map.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/grimoire.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/sandbox.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/inventory.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/omen.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/chronicle.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/guardian.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/deathscreen.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/breach.jpg",
+   "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/ordeals.jpg"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "Vedant0667/hacktx26": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "abinavrameshs/chrome-dinosaur-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "InnocentChikukwa-sketch/zimgames": {
+  "images": [],
+  "live": [
+   "https://zimgames.onrender.com/"
+  ],
+  "checked": [
+   "https://zimgames.onrender.com/"
+  ]
+ },
+ "itsTylerIRL/network-clicker": {
+  "images": [
+   "https://github.com/itsTylerIRL/network-clicker/blob/main/assets/preview.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "Gboneck/come-by": {
+  "images": [],
+  "live": [
+   "https://gboneck.github.io/come-by/"
+  ],
+  "checked": [
+   "https://gboneck.github.io/come-by/"
+  ]
+ },
+ "thamuzlegend10-star/Economy-": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "robotman4/turbo-tumble-racers": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Sanunaishunter/DowntownSpecial": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Ser2104/tilt-sketch": {
+  "images": [],
+  "live": [
+   "https://ser2104.github.io/tilt-sketch/"
+  ],
+  "checked": [
+   "https://ser2104.github.io/tilt-sketch/"
+  ]
+ },
+ "avishparekh06/magic-monopoly": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "BorisThoris/ringer3d": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "deadgander/SixtySix": {
+  "images": [],
+  "live": [
+   "https://deadgander.github.io/SixtySix/"
+  ],
+  "checked": [
+   "https://deadgander.github.io/SixtySix/"
+  ]
+ },
+ "facaelectrica/battleship-duel-play": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "anannerup/kortspil": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "charleskowou1/squad-draft": {
+  "images": [],
+  "live": [
+   "https://charleskowou1.github.io/squad-draft/"
+  ],
+  "checked": [
+   "https://charleskowou1.github.io/squad-draft/"
+  ]
+ },
+ "Harshagarwal06/hackpsu": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "amsultan2010/f1-but-its-minecraft": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "heidenreich/mini-golf-2": {
+  "images": [],
+  "live": [
+   "https://heidenreich.github.io/mini-golf-2/"
+  ],
+  "checked": [
+   "https://heidenreich.github.io/mini-golf-2/"
+  ]
+ },
+ "ThomasVanRiel/solitaire": {
+  "images": [
+   "https://github.com/ThomasVanRiel/solitaire/blob/main/docs/screenshots/klondike.png",
+   "https://github.com/ThomasVanRiel/solitaire/blob/main/docs/screenshots/spider.png",
+   "https://github.com/ThomasVanRiel/solitaire/blob/main/docs/screenshots/scorpion.png",
+   "https://github.com/ThomasVanRiel/solitaire/blob/main/docs/screenshots/win.png",
+   "https://github.com/ThomasVanRiel/solitaire/blob/main/docs/screenshots/new-game-dark.png",
+   "https://github.com/ThomasVanRiel/solitaire/blob/main/docs/screenshots/share.png",
+   "https://github.com/ThomasVanRiel/solitaire/blob/main/docs/screenshots/landscape.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "AdvayMandalia422/closr": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "josephsammorris-dotcom/hotel-game": {
+  "images": [],
+  "live": [
+   "https://hotel-game.josephsammorris.workers.dev",
+   "https://hotel-game.josephsammorris.workers.dev/?tv"
+  ],
+  "checked": [
+   "https://hotel-game.josephsammorris.workers.dev",
+   "https://hotel-game.josephsammorris.workers.dev/?tv"
+  ]
+ },
+ "sudeeps1/roborumble": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Leefless/drums-of-war-warbands": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "kili-skiff/survivor-rpg": {
+  "images": [],
+  "live": [
+   "https://kili-skiff.github.io/survivor-rpg/",
+   "https://cuddlyclover.itch.io/fantasy-hex-tiles"
+  ],
+  "checked": [
+   "https://kili-skiff.github.io/survivor-rpg/",
+   "https://cuddlyclover.itch.io/fantasy-hex-tiles"
+  ]
+ },
+ "Mitovoid-AI/HordeHighway": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://hordehighway-docs.vercel.app"
+  ]
+ },
+ "Kharlemagne/ZomBeat": {
+  "images": [
+   "https://github.com/Kharlemagne/ZomBeat/blob/main/assets/title.png",
+   "https://github.com/Kharlemagne/ZomBeat/blob/main/assets/gameplay.png"
+  ],
+  "live": [
+   "https://kharlemagne.github.io/ZomBeat/"
+  ],
+  "checked": [
+   "https://kharlemagne.github.io/ZomBeat/"
+  ]
+ },
+ "cosmin-l/IsometricGame": {
+  "images": [
+   "https://github.com/cosmin-l/IsometricGame/blob/main/docs/screenshots/menu.png",
+   "https://github.com/cosmin-l/IsometricGame/blob/main/docs/screenshots/town.png",
+   "https://github.com/cosmin-l/IsometricGame/blob/main/docs/screenshots/dungeon.png",
+   "https://github.com/cosmin-l/IsometricGame/blob/main/docs/screenshots/nova.png",
+   "https://github.com/cosmin-l/IsometricGame/blob/main/docs/screenshots/shop.png",
+   "https://github.com/cosmin-l/IsometricGame/blob/main/docs/screenshots/inventory.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "Anras573/ogame-like-pve": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Holajack/og-party-pack": {
+  "images": [],
+  "live": [
+   "https://og-party-pack.onrender.com",
+   "https://og-party-pack.onrender.com/host"
+  ],
+  "checked": [
+   "https://og-party-pack.onrender.com",
+   "https://og-party-pack.onrender.com/host"
+  ]
+ },
+ "buffalonan/german-learning": {
+  "images": [],
+  "live": [
+   "https://buffalonan.github.io/german-learning/"
+  ],
+  "checked": [
+   "https://buffalonan.github.io/german-learning/"
+  ]
+ },
+ "amingclawdev/agent-drift-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "joeljosephb2008-cell/ghost-hire": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "joeljosephb2008-cell/the-missing-clue": {
+  "images": [],
+  "live": [
+   "https://joeljosephb2008-cell.github.io/the-missing-clue/"
+  ],
+  "checked": [
+   "https://joeljosephb2008-cell.github.io/the-missing-clue/"
+  ]
+ },
+ "akelius-Mm/Edison-Format": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "code21acoma/marble-madness": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "edocsprojects/paper.irl": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "bpmcginley/cabin-night": {
+  "images": [],
+  "live": [
+   "https://bpmcginley.github.io/cabin-night/"
+  ],
+  "checked": [
+   "https://bpmcginley.github.io",
+   "https://bpmcginley.github.io/cabin-night/"
+  ]
+ },
+ "underscoreloG/wreckline": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Gromhogg/hexbreach": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "GamesbyVidal/freefall": {
+  "images": [],
+  "live": [
+   "https://gamesbyvidal.github.io/freefall/",
+   "https://gamesbyvidal.github.io/freefall/lifetime/"
+  ],
+  "checked": [
+   "https://gamesbyvidal.github.io/freefall/",
+   "https://gamesbyvidal.github.io/freefall/lifetime/"
+  ]
+ },
+ "ccdmdevelopment-bit/Shake-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "szarroug3/cluedle": {
+  "images": [],
+  "live": [
+   "https://szarroug3.github.io/cluedle/"
+  ],
+  "checked": [
+   "https://szarroug3.github.io/cluedle/"
+  ]
+ },
+ "csusmcaliman/holdingposition": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "qkempe/CalHacks13.0-Proj": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "AceDZN/clean-flow": {
+  "images": [
+   "https://github.com/AceDZN/clean-flow/blob/main/docs/captures/v2/actual-02-flowing.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "AceDZN/short-circuit": {
+  "images": [
+   "https://github.com/AceDZN/short-circuit/blob/main/docs/captures/actual-01-first-30s.png",
+   "https://github.com/AceDZN/short-circuit/blob/main/docs/captures/actual-02b-panel-closeup.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "AceDZN/ph-rangers": {
+  "images": [
+   "https://github.com/AceDZN/ph-rangers/blob/main/docs/captures/02-core-spray.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "m-a-fr/dancing-every-night": {
+  "images": [],
+  "live": [
+   "https://dancing-every-night.pages.dev",
+   "https://dancing-every-night.pages.dev/songs/",
+   "https://dancing-every-night.pages.dev/editor/",
+   "https://dancing-every-night.pages.dev/guide.html"
+  ],
+  "checked": [
+   "https://dancing-every-night.pages.dev",
+   "https://dancing-every-night.pages.dev/songs/",
+   "https://dancing-every-night.pages.dev/editor/",
+   "https://dancing-every-night.pages.dev/guide.html"
+  ]
  }
 }

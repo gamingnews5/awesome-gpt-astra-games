@@ -9650,6 +9650,186 @@
       "reason": "Use this frame for the game-level score. Dark top-down survivor arena with enemy blobs and projectiles; readable but plain.",
       "reviewed_on": "2026-10-26",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Y2JCPA/JacobBros",
+      "url": "https://github.com/Y2JCPA/JacobBros/blob/main/assets/shots/ad-dlo-yada.jpg",
+      "game": "Jacob Bros",
+      "score_10": 4.8,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Purple title card with gold Enter the Palace button; tidy but a menu.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Y2JCPA/Dreidel",
+      "url": "https://github.com/Y2JCPA/Dreidel/blob/claude/dreidel-game-design-e6have/img/skins/blue.jpg",
+      "game": "Mack-a-bee Dreidel",
+      "score_10": 4.8,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Shaded 3D dreidel render on green; clean but a single object.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AlanLiang28/HackTX26",
+      "url": "https://github.com/AlanLiang28/HackTX26/blob/main/public/images/fantasy-world.webp",
+      "game": "fairytails",
+      "score_10": 5.8,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Painted fairy-tale valley with castle; polished background art.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/georrrgess-jpg/Baseball-Draw",
+      "url": "https://github.com/georrrgess-jpg/Baseball-Draw/blob/claude/upbeat-darwin-91hf7b/docs/screenshots/battle.jpg",
+      "game": "BASEBALL DRAW",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D baseball diamond in a packed stadium with card hand and HUD; detailed and readable.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/b14ck5tar/H4CKBOMB",
+      "url": "https://github.com/b14ck5tar/H4CKBOMB/blob/main/devpost-media/art-audit/after/idea-slam_1366x768.jpg",
+      "game": "Group Project",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon round screen with idea cards over a graffiti backdrop; vivid party-game UI.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gfhdhytghd/Gitzilla",
+      "url": "https://github.com/gfhdhytghd/Gitzilla/blob/main/brand/gitzilla-lockup.png",
+      "game": "GITZILLA",
+      "score_10": 4.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Pixel Gitzilla logo banner; simple title art only.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ERIKXVI/aivsai",
+      "url": "https://github.com/ERIKXVI/aivsai/blob/claude/magical-pasteur-i2eqgq/docs/media/rubedo.jpg",
+      "game": "PRIMA MATERIA",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Glowing lava flow through a pixel-sand cave; striking simulated matter.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/itsTylerIRL/network-clicker",
+      "url": "https://github.com/itsTylerIRL/network-clicker/blob/main/assets/preview.png",
+      "game": "the network is growing",
+      "score_10": 5.4,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Idle clicker title card with chibi character portraits; charming but a title.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ThomasVanRiel/solitaire",
+      "url": "https://github.com/ThomasVanRiel/solitaire/blob/main/docs/screenshots/klondike.png",
+      "game": "Solitaire",
+      "score_10": 4.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Classic solitaire tableau on green felt, phone layout; clean but plain.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/sudeeps1/roborumble",
+      "url": "https://github.com/sudeeps1/roborumble/blob/main/docs/kimodo-spells/keyframes.png",
+      "game": "Infinite Fighter",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Grid of robot duel frames with bright spell effects; flashy but cluttered.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Leefless/drums-of-war-warbands",
+      "url": "https://github.com/Leefless/drums-of-war-warbands/blob/main/public/art/units/calBruteDemon.png",
+      "game": "Drums of War: Warbands",
+      "score_10": 5.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Painted fiery demon warlord illustration; dramatic art, not gameplay.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Mitovoid-AI/HordeHighway",
+      "url": "https://github.com/Mitovoid-AI/HordeHighway/blob/main/docs/img/boss.jpg",
+      "game": "Horde Highway",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Lane runner with zombie horde and squad count on a phone screen; readable mobile look.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Kharlemagne/ZomBeat",
+      "url": "https://github.com/Kharlemagne/ZomBeat/blob/main/assets/title.png",
+      "game": "ZomBeat",
+      "score_10": 5.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Pixel ZomBeat title with skull mascot and start button; cute retro menu.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/cosmin-l/IsometricGame",
+      "url": "https://github.com/cosmin-l/IsometricGame/blob/main/docs/screenshots/town.png",
+      "game": "Depths of Tristfall",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric Diablo-style village with orb HUD; coherent retro ARPG look.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/GamesbyVidal/freefall",
+      "url": "https://github.com/GamesbyVidal/freefall/blob/main/preview.png",
+      "game": "Freefall",
+      "score_10": 5.2,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Freefall title card with ledges and a falling blob; clean flat design.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AceDZN/clean-flow",
+      "url": "https://github.com/AceDZN/clean-flow/blob/main/docs/captures/v2/actual-02-flowing.png",
+      "game": "Clean Flow",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Low-poly desert island level with pipes and hint bubbles; bright, readable puzzle scene.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AceDZN/short-circuit",
+      "url": "https://github.com/AceDZN/short-circuit/blob/main/docs/captures/actual-02b-panel-closeup.png",
+      "game": "Short Circuit",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Glowing circuit puzzle panel with wire lights; clear science-game UI.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AceDZN/ph-rangers",
+      "url": "https://github.com/AceDZN/ph-rangers/blob/main/docs/captures/02-core-spray.png",
+      "game": "pH Rangers",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Low-poly field with a ranger character, enemies and pH HUD; colorful action scene.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

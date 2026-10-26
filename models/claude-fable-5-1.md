@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **295 curated game units** from **227 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **298 curated game units** from **230 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -37,11 +37,11 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 ## Game library
 
 - 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **75 game units**
-- 💥 [Action and Shooters](#action-and-shooters) — **56 game units**
+- 💥 [Action and Shooters](#action-and-shooters) — **57 game units**
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **8 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **11 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **39 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **93 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **95 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **8 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **5 game units**
 
@@ -113,6 +113,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Warlock**](../games/warlock/readme.md) — ⭐ **8.3/10** · Claude Opus 5.5, Claude Sonnet 5.5, Claude Fable 5.1 · Rust, Browser · [✓ direct model evidence](https://github.com/jannef/warlock/commit/de5ef62cf83ad65cfb31142989fa69bc06b085b0) · [files](https://github.com/jannef/warlock/blob/main/THIRD_PARTY_LICENSES.html) · [play](https://jannef.github.io/warlock/) · 📸 **4.0/10** · [screenshot](https://github.com/jannef/warlock/blob/main/docs/screenshots/m3-light-hall.png)
 - [**Extract from Zombieville (formerly Conga of the Dead / Office Outbreak)**](../games/extract-from-zombieville-formerly-conga-of-the-dead-office-outbreak/readme.md) — ⭐ **8.2/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Three.js, Browser · [✓ direct model evidence](https://github.com/Devon-cadaver/office-outbreak/commit/5e2cdc86f48c0e62b25f287356261ccc73a817a5) · [files](https://github.com/Devon-cadaver/office-outbreak/blob/main/release/KAIJU-ROSTER.html) · [play](https://devon-cadaver.github.io/office-outbreak/)
 - [**Onslaught**](../games/onslaught/readme.md) — ⭐ **8.2/10** · Claude Fable 5.1 · Three.js, WebGL2, GLSL, JavaScript, Web Audio, +1 more · [≈ creator-reported model evidence](https://github.com/alesha-pro/bench-portal#readme) · [files](https://github.com/alesha-pro/bench-portal/tree/main/games/onslaught-fable-5.1) · [play](https://alesha-pro.github.io/bench-portal/games/onslaught-fable-5.1/) · [prompt](../games/onslaught/readme.md#reverse-engineered-prompt)
+- [**battleship-duel-play**](../games/battleship-duel-play/readme.md) — ⭐ **8.1/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/facaelectrica/battleship-duel-play/commit/1889d3e71b5298e1806ebb00bc82e2b0f5e3679c) · [files](https://github.com/facaelectrica/battleship-duel-play/blob/main/index.html)
 - [**CUSTOMS — Escape Raid**](../games/customs-escape-raid/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · HTML, JavaScript, Canvas 2D · [✓ direct model evidence](https://github.com/INONONO66/tarkov-customs) · [play](https://inonono66.github.io/tarkov-customs/) · 📸 **6.2/10** · [screenshot](https://github.com/INONONO66/tarkov-customs/blob/main/shots/raid.png) · +1 more screenshots in data
 - [**Nightfall**](../games/nightfall/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Three.js, JavaScript, WebGL · [✓ direct model evidence](https://github.com/AlfredBrowser/Nightfall-Call-of-Duty-Remake-Fable-5.1)
 - [**Pinehollow Funland**](../games/pinehollow-funland/readme.md) — ⭐ **8.0/10** · Claude Fable 5.1 · Three.js, JavaScript, WebGL, Howler · [✓ direct model evidence](https://github.com/AlfredBrowser/Pinehollow-Funland-Five-Nights-at-Freddys-Remake-Fable-5.1)
@@ -261,8 +262,10 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**Oops, All Cuccos**](../games/oops-all-cuccos/readme.md) — ⭐ **7.6/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Phaser, Browser · [✓ direct model evidence](https://github.com/cadr/oops-all-cuccos/commit/d30b5cbce1616c8fab2258341bb28ead7721ddd1) · [files](https://github.com/cadr/oops-all-cuccos/blob/main/src/levels/L12/scene.ts) · [play](https://tonejs.github.io/)
 - [**Pac Ben**](../games/pac-ben/readme.md) — ⭐ **7.6/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, React, Browser · [✓ direct model evidence](https://github.com/chris8christie-boop/pac-ben/commit/19cce3feb129de7db0ca556c9de36c1504499b7b) · [files](https://github.com/chris8christie-boop/pac-ben/blob/main/lib/game.ts) · [play](https://chris8christie-boop.github.io/pac-ben/)
 - [**DEV QUEST**](../games/dev-quest/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · Phaser, JavaScript, Canvas 2D · [≈ creator-reported model evidence](https://github.com/agutierrezclab/dev-quest) · [play](https://dev-quest-nu.vercel.app/) · 📸 **6.4/10** · [screenshot](https://github.com/agutierrezclab/dev-quest/blob/HEAD/docs/screens/wave4_deploy.png)
+- [**Foundation**](../games/foundation/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/jnyinglis/foundation-series/commit/95349c584292c981745392d981a46bd1dae54c7b) · [files](https://github.com/jnyinglis/foundation-series/blob/main/public/storyboard.html)
 - [**Ink Rogue**](../games/ink-rogue/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · Canvas 2D, HTML, JavaScript · [≈ creator-reported model evidence](https://github.com/evan-thedev/ink-rogue) · [play](https://evan-thedev.github.io/ink-rogue/)
 - [**Macaw Sky · Tel Aviv (תוכי בשמי תל אביב)**](../games/macaw-sky-tel-aviv/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/nirnatan/macaw-sky-tel-aviv/commit/b0183b87086c43d0ab0364696af5bb90d57f393e) · [files](https://github.com/nirnatan/macaw-sky-tel-aviv/blob/main/src/game/landmarks/ambient.ts)
+- [**Magic Mirror Monopoly**](../games/magic-mirror-monopoly/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Sonnet 5.5, Claude Fable 5.1 · Python, Browser · [✓ direct model evidence](https://github.com/avishparekh06/magic-monopoly/commit/7c4b8ea0e449073328a4cc5bb482a63564864c05) · [files](https://github.com/avishparekh06/magic-monopoly/blob/main/arduino/server.py)
 - [**Mine Clone**](../games/mine-clone/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Fable 5.1 · Rust · [✓ direct model evidence](https://github.com/Githyot/mine-clone/commit/82db5ea09a2c155a4fc77c87c451795116c922f3) · [files](https://github.com/Githyot/mine-clone/blob/main/crates/game/src/main.rs) · 📸 **6.2/10** · [screenshot](https://github.com/Githyot/mine-clone/blob/main/docs/screenshots/demo.png)
 - [**Night Duel Baseball**](../games/night-duel-baseball/readme.md) — ⭐ **7.5/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/dioaroinc/nightduelbaseball/commit/01a4719414fba22da798b346b111a04fb5317076) · [files](https://github.com/dioaroinc/nightduelbaseball/blob/main/baseball/index.html)
 - [**Pung**](../games/pung/readme.md) — ⭐ **7.5/10** · Claude Fable 5.1 · TypeScript, Browser · [✓ direct model evidence](https://github.com/francisphan/pung/commit/f397d58c22921aa8deed210cd11475af2e13bb70) · [files](https://github.com/francisphan/pung/blob/main/src/engine/game.ts) · [play](https://francisphan.github.io/pung/)

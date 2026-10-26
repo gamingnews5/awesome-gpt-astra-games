@@ -55,7 +55,7 @@ def note_of(r,m):
   if t and not t.endswith(('.','!','?','…')): t+='.'
   return t or 'Game source inspected in the repository.'
 def tech_of(r,m,t):
-  rd=(m['readme']+' '+(m['desc'] or '')).lower(); tree=' '.join(m['tree']).lower(); files=' '.join(f for f,_ in t['top']).lower()
+  rd=(m['readme']+' '+(m['desc'] or '')).lower(); tree=' '.join(m.get('tree') or t.get('root') or []).lower(); files=' '.join(f for f,_ in t['top']).lower()
   T=[]
   if 'project.godot' in tree or '.gd' in files: T+=['Godot','GDScript']
   elif 'projectsettings/' in tree or 'assets/' in tree and 'unity' in rd: T+=['Unity','C#']
