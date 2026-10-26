@@ -9980,6 +9980,106 @@
       "reason": "Use this frame for the game-level score. Isometric grassy river map with stone plaza and MMO HUD; tidy 2.5D look.",
       "reviewed_on": "2026-10-26",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Tanmay182003/campus-crusher",
+      "url": "https://github.com/Tanmay182003/campus-crusher/blob/main/shots/adams-state-u.webp",
+      "game": "Campus Crusher",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D campus with stadium track and buildings to smash; readable low-poly scene.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ramcc007/racing-app",
+      "url": "https://github.com/ramcc007/racing-app/blob/main/ci-screens/ipad-pro-13_home.jpg",
+      "game": "Echo Lap",
+      "score_10": 4.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark iPhone garage and track menu; tidy but small UI.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/EvgeniBondarev/norma-survival",
+      "url": "https://github.com/EvgeniBondarev/norma-survival/blob/main/itch-release/upload/shot_barracks.jpg",
+      "game": "Norma Survival",
+      "score_10": 5.8,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Grim painted soldiers by a stove; atmospheric concept art, not gameplay.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/lovemachine893/science-utopia-game",
+      "url": "https://github.com/lovemachine893/science-utopia-game/blob/main/screenshots/02-personas.png",
+      "game": "Science Utopia",
+      "score_10": 3.8,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Plain white text list screen; mostly text.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ThanhBC1234/echo-maze",
+      "url": "https://github.com/ThanhBC1234/echo-maze/blob/main/docs/screenshots/memorize.png",
+      "game": "Echo Maze",
+      "score_10": 5.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark maze grid with colored memory dots and control panel; clear but utilitarian.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/antonzipperle/EchoRunner",
+      "url": "https://github.com/antonzipperle/EchoRunner/blob/main/docs/covers/cover-landscape-1920x1080.png",
+      "game": "ECHO RUNNER",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Echo Runner arena with glowing trails, target and title; striking neon minimalism.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/IanHovander/RoboRally",
+      "url": "https://github.com/IanHovander/RoboRally/blob/main/looks/one/games/robo-rally/img/bot-0.webp",
+      "game": "Robo Rally",
+      "score_10": 5.0,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Clean 3D render of a toy tank robot; single asset.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Darkness9543/BoardGame-Project",
+      "url": "https://github.com/Darkness9543/BoardGame-Project/blob/main/docs/analysis/research-art/fog-styles-euclid-cut.png",
+      "game": "Coin Duel (working title)",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Three octagonal hex-board variants with coin armies; readable but small.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/murshidihashim/Fruit-Market",
+      "url": "https://github.com/murshidihashim/Fruit-Market/blob/main/store/screenshots/1-home.png",
+      "game": "Fruit Market",
+      "score_10": 5.0,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Fruit Market phone menu with striped awning and buttons; cheerful but a menu.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/selevia-mod/harvestville-sunny-acres",
+      "url": "https://github.com/selevia-mod/harvestville-sunny-acres/blob/main/shot.png",
+      "game": "Sunny Acres",
+      "score_10": 5.4,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Farmer character select over a farm HUD; charming pixel-cartoon style.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
