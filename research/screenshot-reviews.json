@@ -10400,6 +10400,56 @@
       "reason": "Use this frame for the game-level score. Stylized 3D castle town with warrior and fire; high-quality lighting.",
       "reviewed_on": "2026-10-26",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jmzidek9/GTA-taxi-game",
+      "url": "https://github.com/jmzidek9/GTA-taxi-game/blob/main/media/screenshot-night.png",
+      "game": "Crosstown",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Night 3D city street driving a taxi with minimap and speedometer HUD; polished.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/theguysaccount/pitch-judge-investor-game",
+      "url": "https://github.com/theguysaccount/pitch-judge-investor-game/blob/main/docs/screens/about-desktop.png",
+      "game": "Would You Fund It? (repo: pitch-judge-investor-game)",
+      "score_10": 4.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark text-heavy rules page; no visual gameplay.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/etwilliams/candy-wall",
+      "url": "https://github.com/etwilliams/candy-wall/blob/main/docs/gameplay.png",
+      "game": "Candy Wall",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Breakout wall of colourful candy bricks with score; bright and clear.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/GaaamJ/StackClimb",
+      "url": "https://github.com/GaaamJ/StackClimb/blob/main/docs/images/09-climbed-height.png",
+      "game": "StackClimb",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Low-poly coloured block stack with height counter; simple prototype.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Yassinelaadraoui/charbaman",
+      "url": "https://github.com/Yassinelaadraoui/charbaman/blob/main/store/screenshots/android-phone/2-casablanca.png",
+      "game": "Charbaman",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Moroccan street runner with minaret and HUD; colourful 3D runner.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

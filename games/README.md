@@ -2,12 +2,12 @@
 
 Open the per-game notes. Use the source links to inspect model evidence, gameplay code, and screenshot assets.
 
-- **Counted game units:** 3901
-- **Named game notes:** 3865
+- **Counted game units:** 3926
+- **Named game notes:** 3890
 - **Aggregate notes:** 1 (some repositories document several units without separate names)
-- **Rows with screenshot sources:** 700
-- **Placeholder thumbnails:** 3165
-- **Notes written in this run:** 82
+- **Rows with screenshot sources:** 705
+- **Placeholder thumbnails:** 3185
+- **Notes written in this run:** 25
 
 ## Today
 
@@ -67,6 +67,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 
 - [¡Que viene mamá!](./que-viene-mama/readme.md) — 7.6/10
 - [《熄燈號之後》AFTER TAPS](./after-taps/readme.md) — 7.6/10
+- [0.001% Drop Chance](./0-001-drop-chance/readme.md) — 8.1/10
 - [04:00 — THE FORGOTTEN (ตีสี่...คนที่ถูกลืม)](./04-00-the-forgotten/readme.md) — 7.3/10
 - [1-Bit Cricket (Android)](./1-bit-cricket-android/readme.md) — 6.9/10
 - [120 Dispatch Desk](./120-dispatch-desk/readme.md) — 8.8/10
@@ -383,6 +384,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Big Pig](./big-pig/readme.md) — 9.6/10
 - [Bikini Atoll](./bikini-atoll/readme.md) — 7.3/10
 - [Bilang Ride](./bilang-ride/readme.md) — 6.8/10
+- [Billionaire Life](./billionaire-life/readme.md) — 7.6/10
 - [Billionaire Twilight](./billionaire-twilight/readme.md) — 7.5/10
 - [Billy Budget's Cage Arcade](./billy-budget-s-cage-arcade/readme.md) — 7.0/10
 - [bin/sh Invaders](./bin-sh-invaders/readme.md) — 7.0/10
@@ -510,6 +512,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Brownie Baker](./brownie-baker/readme.md) — 7.2/10
 - [Browser Chess](./browser-chess/readme.md) — 8.1/10
 - [Browser MMORPG](./browser-mmorpg/readme.md) — 8.9/10
+- [Bruno's Elephant Safari](./bruno-s-elephant-safari/readme.md) — 7.4/10
 - [Bubble Lagoon](./bubble-lagoon/readme.md) — 7.0/10
 - [Bubble Pop](./bubble-pop/readme.md) — 9.5/10
 - [Bubble Wrap Simulator](./bubble-wrap-simulator/readme.md) — 7.5/10
@@ -559,6 +562,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Campus Crusher](./campus-crusher/readme.md) — 7.8/10
 - [Cân Bằng Đá (Stone Balance)](./can-bang-a-stone-balance/readme.md) — 7.3/10
 - [Can I Pet That Dog?](./can-i-pet-that-dog/readme.md) — 7.3/10
+- [Candy Wall](./candy-wall/readme.md) — 7.1/10
 - [CANNONBALL](./cannonball/readme.md) — 7.4/10
 - [Canyon Run](./canyon-run/readme.md) — 7.1/10
 - [CapchAI](./capchai/readme.md) — 6.5/10
@@ -636,6 +640,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [CHAOS.exe: The 90s Gaming Multiverse](./chaos-exe-the-90s-gaming-multiverse/readme.md) — 7.7/10
 - [Chapter & Verse](./chapter-verse/readme.md) — 7.8/10
 - [Charades](./charades/readme.md) — 7.1/10
+- [Charbaman](./charbaman/readme.md) — 8.1/10
 - [Charmed Hold'em](./charmed-hold-em/readme.md) — 7.3/10
 - [Chase Game](./chase-game/readme.md) — 9.0/10
 - [Checkers](./checkers/readme.md) — 9.0/10
@@ -780,6 +785,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Contrail.io](./contrail-io/readme.md) — 7.4/10
 - [Contro](./contro/readme.md) — 7.4/10
 - [Controller Game Hub](./controller-game-hub/readme.md) — 7.2/10
+- [Conwaysgameoflaifu](./conwaysgameoflaifu/readme.md) — 6.8/10
 - [Cookie Quiz Show](./cookie-quiz-show/readme.md) — 7.1/10
 - [cool tower defense game.exe](./cool-tower-defense-game-exe/readme.md) — 7.4/10
 - [Coordinator Challenge](./coordinator-challenge/readme.md) — 7.4/10
@@ -815,6 +821,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Croissant Quest](./croissant-quest/readme.md) — 7.3/10
 - [Crosshatch](./crosshatch/readme.md) — 8.2/10
 - [Crossroads Inn](./crossroads-inn/readme.md) — 7.5/10
+- [Crosstown](./crosstown/readme.md) — 7.6/10
 - [Crosswinds](./crosswinds/readme.md) — 8.0/10
 - [Crossy Farm](./crossy-farm/readme.md) — 7.8/10
 - [Crowd Runner (no scam)](./crowd-runner-no-scam/readme.md) — 6.9/10
@@ -1204,6 +1211,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Fishery](./fishery/readme.md) — 7.6/10
 - [Fishing Frenzy 2](./fishing-frenzy-2/readme.md) — 8.1/10
 - [Fishslop](./fishslop/readme.md) — 9.1/10
+- [Fishterious Happenings](./fishterious-happenings/readme.md) — 6.9/10
 - [Fizz Lab](./fizz-lab/readme.md) — 7.7/10
 - [Flag Catch](./flag-catch/readme.md) — 7.6/10
 - [Flag Fight](./flag-fight/readme.md) — 7.1/10
@@ -1464,6 +1472,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [GridWatch: Signal Breach](./gridwatch-signal-breach/readme.md) — 9.1/10
 - [Grimoire](./grimoire/readme.md) — 7.3/10
 - [Grimoire Script · Lumenhold Academy](./grimoire-script-lumenhold-academy/readme.md) — 7.9/10
+- [GrimWorld](./grimworld/readme.md) — 6.7/10
 - [Groot Theft Bakkie](./groot-theft-bakkie/readme.md) — 7.0/10
 - [Group Project](./group-project/readme.md) — 8.0/10
 - [Group Survival Game](./group-survival-game/readme.md) — 7.0/10
@@ -1618,10 +1627,12 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Hotel 209](./hotel-209/readme.md) — 7.1/10
 - [Hover Tank Arena](./hover-tank-arena/readme.md) — 7.6/10
 - [Hoverboard Hero](./hoverboard-hero/readme.md) — 7.3/10
+- [HOW Much!?](./how-much/readme.md) — 7.2/10
 - [HR Arcade](./hr-arcade/readme.md) — 7.1/10
 - [Huckepack-Seil (climbing-animals)](./huckepack-seil-climbing-animals/readme.md) — 7.0/10
 - [Hungry Moors](./hungry-moors/readme.md) — 7.5/10
 - [Hungry Orca](./hungry-orca/readme.md) — 7.2/10
+- [Hunter's Canteen](./hunter-s-canteen/readme.md) — 7.2/10
 - [HUSH](./hush/readme.md) — 7.7/10
 - [Hushwords](./hushwords/readme.md) — 7.0/10
 - [Hustle City](./hustle-city/readme.md) — 7.8/10
@@ -1682,6 +1693,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Invariant Frog](./invariant-frog/readme.md) — 7.4/10
 - [Invasie-inator](./invasie-inator/readme.md) — 7.3/10
 - [IoT Playground](./iot-playground/readme.md) — 7.7/10
+- [Ipad Mama](./ipad-mama/readme.md) — 7.0/10
 - [Iridium Reach](./iridium-reach/readme.md) — 7.0/10
 - [Irish Poker](./irish-poker/readme.md) — 7.1/10
 - [Iron & Society](./iron-society/readme.md) — 7.3/10
@@ -1816,6 +1828,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [LAN Poker](./lan-poker/readme.md) — 7.0/10
 - [Lancer TTRPG](./lancer-ttrpg/readme.md) — 7.9/10
 - [Lander](./lander/readme.md) — 7.3/10
+- [Landfall](./landfall/readme.md) — 6.9/10
 - [Landlord: London 2026](./landlord-london-2026/readme.md) — 7.5/10
 - [Lane Runner](./lane-runner/readme.md) — 6.9/10
 - [Lantern](./lantern/readme.md) — 7.1/10
@@ -1867,6 +1880,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Let me cook!](./let-me-cook/readme.md) — 7.3/10
 - [Lethal Company: Opus Edition](./lethal-company-opus-edition/readme.md) — 8.0/10
 - [Letter Bay (מפרץ האותיות)](./letter-bay/readme.md) — 8.3/10
+- [Letter Rush](./letter-rush/readme.md) — 6.8/10
 - [Leuchtturmwaerter](./leuchtturmwaerter/readme.md) — 7.7/10
 - [LGDuel](./lgduel/readme.md) — 7.6/10
 - [Lieutenant Fizz for DOS](./lieutenant-fizz-for-dos/readme.md) — 7.8/10
@@ -2183,6 +2197,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Neon Survivor](./neon-survivor/readme.md) — 7.0/10
 - [Neon Vortex](./neon-vortex/readme.md) — 7.5/10
 - [NEON WARDEN](./neon-warden/readme.md) — 9.0/10
+- [Neon Warlords](./neon-warlords/readme.md) — 7.5/10
 - [NeoN+1](./neon-1/readme.md) — 7.9/10
 - [NeonBeat](./neonbeat/readme.md) — 7.0/10
 - [Nerd of Duty](./nerd-of-duty/readme.md) — 7.5/10
@@ -2396,6 +2411,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Pelican Bike](./pelican-bike/readme.md) — 8.9/10
 - [Pelican Bike](./pelican-bike-xiiyioozzz-opus55-3d-games/readme.md) — 8.5/10
 - [Pen Fight: Bench Edition (কলম যুদ্ধ)](./pen-fight-bench-edition/readme.md) — 7.2/10
+- [Pen Flick](./pen-flick/readme.md) — 7.0/10
 - [Penalty Shootout](./penalty-shootout/readme.md) — 7.3/10
 - [Pengloo Party](./pengloo-party/readme.md) — 7.9/10
 - [Pengu Ice](./pengu-ice/readme.md) — 7.6/10
@@ -2475,6 +2491,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Plants vs. Zombies (fan remake)](./plants-vs-zombies-fan-remake/readme.md) — 7.8/10
 - [Plants vs. Zombies Clone](./plants-vs-zombies-clone/readme.md) — 8.1/10
 - [Platform Fighter](./platform-fighter/readme.md) — 9.4/10
+- [Platform Zero](./platform-zero/readme.md) — 7.3/10
 - [PlatyJam](./platyjam/readme.md) — 7.7/10
 - [Play Corner](./play-corner/readme.md) — 7.0/10
 - [Play More Learn More](./play-more-learn-more/readme.md) — 8.3/10
@@ -2824,6 +2841,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [SBUHackF26](./sbuhackf26/readme.md) — 7.4/10
 - [Scabbage](./scabbage/readme.md) — 7.7/10
 - [SCAMBOY Arcade](./scamboy-arcade/readme.md) — 7.8/10
+- [Scamper](./scamper/readme.md) — 7.5/10
 - [School Games](./school-games/readme.md) — 7.5/10
 - [School.exe: DOS-style text adventures](./school-exe-dos-style-text-adventures/readme.md) — 6.5/10
 - [Schulte Grid](./schulte-grid/readme.md) — 6.9/10
@@ -3082,6 +3100,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Stack Builder](./stack-builder/readme.md) — 9.3/10
 - [Stack to Orbit](./stack-to-orbit/readme.md) — 7.4/10
 - [Stack!](./stack/readme.md) — 8.2/10
+- [StackClimb](./stackclimb/readme.md) — 7.1/10
 - [Stacktics](./stacktics/readme.md) — 7.3/10
 - [Stalactix](./stalactix/readme.md) — 8.2/10
 - [Star Catch](./star-catch/readme.md) — 9.5/10
@@ -3165,6 +3184,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Sudoku](./sudoku-vi-o-al-ai-claude-playground/readme.md) — 7.9/10
 - [Sudoku Vibes](./sudoku-vibes/readme.md) — 7.0/10
 - [Sudokuverkstan](./sudokuverkstan/readme.md) — 7.2/10
+- [Sun Devil Sip-Off](./sun-devil-sip-off/readme.md) — 7.0/10
 - [SUNBREAK — Downhill Club](./sunbreak-downhill-club/readme.md) — 9.5/10
 - [Sunny Acres](./sunny-acres/readme.md) — 7.6/10
 - [Sunset Flap](./sunset-flap/readme.md) — 7.5/10
@@ -3227,6 +3247,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Tariel Caulsleigh](./tariel-caulsleigh/readme.md) — 8.2/10
 - [Tarkamarena](./tarkamarena/readme.md) — 7.6/10
 - [Tater's Flight Sim](./tater-s-flight-sim/readme.md) — 9.2/10
+- [Taterpeeler](./taterpeeler/readme.md) — 7.9/10
 - [Tea Rush — Kitchen Core](./tea-rush-kitchen-core/readme.md) — 7.0/10
 - [TEACUP](./teacup/readme.md) — 9.2/10
 - [Team Quiz Battle](./team-quiz-battle/readme.md) — 6.9/10
@@ -3424,6 +3445,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Tongue](./tongue/readme.md) — 8.0/10
 - [Toot River](./toot-river/readme.md) — 7.5/10
 - [Tooting Tub](./tooting-tub/readme.md) — 7.0/10
+- [TOP BUNK](./top-bunk/readme.md) — 7.1/10
 - [Top Down Racer](./top-down-racer/readme.md) — 7.0/10
 - [Top of the World](./top-of-the-world/readme.md) — 7.1/10
 - [Topo Heli](./topo-heli/readme.md) — 7.4/10
@@ -3704,6 +3726,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [Worm World](./worm-world/readme.md) — 7.6/10
 - [Wormhole](./wormhole/readme.md) — 8.5/10
 - [Wouf Kart](./wouf-kart/readme.md) — 8.9/10
+- [Would You Fund It? (repo: pitch-judge-investor-game)](./would-you-fund-it-repo-pitch-judge-investor-game/readme.md) — 7.1/10
 - [Wreckline](./wreckline/readme.md) — 7.5/10
 - [Wreckyard](./wreckyard/readme.md) — 8.7/10
 - [WriftHeart](./wriftheart/readme.md) — 9.1/10
@@ -3732,6 +3755,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [YvyGrounds 🌱🐔🎮](./yvygrounds/readme.md) — 7.3/10
 - [Zaban](./zaban/readme.md) — 7.6/10
 - [ZAKOV](./zakov/readme.md) — 7.3/10
+- [Zarch in Chrome](./zarch-in-chrome/readme.md) — 7.5/10
 - [Zebonky Photo Safari - tech demo (play build)](./zebonky-photo-safari-tech-demo-play-build/readme.md) — 7.6/10
 - [Zeldo - Episode I: The Sunken Sanctum](./zeldo-episode-i-the-sunken-sanctum/readme.md) — 8.3/10
 - [Zen-Play](./zen-play/readme.md) — 7.3/10
@@ -3840,6 +3864,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - [트레일 오브 더 비숍 (Trail of the Bishop)](./trail-of-the-bishop/readme.md) — 7.1/10
 - [포근 농장 (Cozy Farm)](./cozy-farm/readme.md) — 6.9/10
 - [행성 지키기 (Planet Saving Game)](./planet-saving-game/readme.md) — 7.3/10
+- [화학 섬 이야기](./game-bldoijoa01-lab-chem-island/readme.md) — 7.0/10
 - [황동의 생애](./game-dniwndk-gamecode/readme.md) — 8.0/10
 - [おしりまでがイモムシです（仮）](./game-555734-slither/readme.md) — 7.0/10
 - [コーナーキック (Corner Kick)](./corner-kick/readme.md) — 7.4/10

@@ -4,9 +4,9 @@
 
 <a href="https://games.omgithub.com/"><img src="../assets/awesome-ai-games.svg" alt="Awesome AI Games: a curated field guide to AI-made games" width="100%" /></a>
 
-### 3464 curated game units. 3157 qualifying source repositories.
+### 3484 curated game units. 3177 qualifying source repositories.
 
-[![Games](https://img.shields.io/badge/GAMES-3464-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-3157-2563eb?style=for-the-badge&logo=github&logoColor=white)](../games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-720-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
+[![Games](https://img.shields.io/badge/GAMES-3484-7c3aed?style=for-the-badge&logo=itchdotio&logoColor=white)](#browse-by-model) [![Source repositories](https://img.shields.io/badge/SOURCE%20REPOSITORIES-3177-2563eb?style=for-the-badge&logo=github&logoColor=white)](../games.json) [![WebGL family](https://img.shields.io/badge/WEBGL%20FAMILY-723-111827?style=for-the-badge&logo=threedotjs&logoColor=white)](#collection-at-a-glance)
 
 [![Stars](https://img.shields.io/github/stars/gamingnews5/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/gamingnews5/awesome-opus-5.5-games/stargazers) [![Forks](https://img.shields.io/github/forks/gamingnews5/awesome-opus-5.5-games?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/gamingnews5/awesome-opus-5.5-games/forks)
 
@@ -82,8 +82,8 @@ Select a model to browse its ranked games and screenshots. Count each multi-mode
 
 | Model | Game units | Source repositories |
 | --- | ---: | ---: |
-| [Claude Opus 5.5](../models/claude-opus-5-5.md) | **2273** | 2240 |
-| [Claude Sonnet 5.5](../models/claude-sonnet-5-5.md) | **516** | 490 |
+| [Claude Opus 5.5](../models/claude-opus-5-5.md) | **2290** | 2257 |
+| [Claude Sonnet 5.5](../models/claude-sonnet-5-5.md) | **520** | 494 |
 | [Claude Fable 5.1](../models/claude-fable-5-1.md) | **320** | 252 |
 | [Claude Fable 5](../models/claude-fable-5.md) | **205** | 97 |
 | [Claude Opus 5](../models/claude-opus-5.md) | **126** | 111 |
@@ -126,6 +126,26 @@ Filter repository creation to **2026-10-25–2026-10-26** in **Asia/Ho_Chi_Minh 
 
 | Repository | Game units | Model | Created (UTC) |
 | --- | ---: | --- | --- |
+| [화학 섬 이야기](../games/game-bldoijoa01-lab-chem-island/readme.md) ([source](https://github.com/bldoijoa01-lab/chem-island)) | 1 | Claude Sonnet 5.5 | 2026-10-26 |
+| [Charbaman](../games/charbaman/readme.md) ([source](https://github.com/Yassinelaadraoui/charbaman)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [StackClimb](../games/stackclimb/readme.md) ([source](https://github.com/GaaamJ/StackClimb)) | 1 | Claude Opus 5.5, Claude Sonnet 5.5 | 2026-10-26 |
+| [Candy Wall](../games/candy-wall/readme.md) ([source](https://github.com/etwilliams/candy-wall)) | 1 | Claude Sonnet 5.5 | 2026-10-26 |
+| [Pen Flick](../games/pen-flick/readme.md) ([source](https://github.com/shahriarahi/pen-flick)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Sun Devil Sip-Off](../games/sun-devil-sip-off/readme.md) ([source](https://github.com/paulanthony-alt/beer)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Ipad Mama](../games/ipad-mama/readme.md) ([source](https://github.com/milodinasour/ipad-mama)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [Taterpeeler](../games/taterpeeler/readme.md) ([source](https://github.com/potatoguy79/taterpeeler)) | 1 | Claude Opus 5.5 | 2026-10-26 |
+| [TOP BUNK](../games/top-bunk/readme.md) ([source](https://github.com/cbgregg/top-bunk)) | 1 | Claude Sonnet 5.5 | 2026-10-25 |
+| [HOW Much!?](../games/how-much/readme.md) ([source](https://github.com/MattRahmeier/how-much)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Platform Zero](../games/platform-zero/readme.md) ([source](https://github.com/apratim3490/p-zero)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Scamper](../games/scamper/readme.md) ([source](https://github.com/Grosess/scamper)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Hunter's Canteen](../games/hunter-s-canteen/readme.md) ([source](https://github.com/vibecoding3/mh-restaurant)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Billionaire Life](../games/billionaire-life/readme.md) ([source](https://github.com/forrestgump2000/billionaire-life)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Neon Warlords](../games/neon-warlords/readme.md) ([source](https://github.com/ShaunBoughey/neonwarlords)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Would You Fund It? (repo: pitch-judge-investor-game)](../games/would-you-fund-it-repo-pitch-judge-investor-game/readme.md) ([source](https://github.com/theguysaccount/pitch-judge-investor-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [0.001% Drop Chance](../games/0-001-drop-chance/readme.md) ([source](https://github.com/gdjustin/drop-chance)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Bruno's Elephant Safari](../games/bruno-s-elephant-safari/readme.md) ([source](https://github.com/mariotristan/elephants)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Zarch in Chrome](../games/zarch-in-chrome/readme.md) ([source](https://github.com/brew-your-own/zarch-in-chrome)) | 1 | Claude Opus 5.5 | 2026-10-25 |
+| [Crosstown](../games/crosstown/readme.md) ([source](https://github.com/jmzidek9/GTA-taxi-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Irish Poker](../games/irish-poker/readme.md) ([source](https://github.com/Paramonos37/irish-poker)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Venkovní hra (outdoor game)](../games/venkovni-hra-outdoor-game/readme.md) ([source](https://github.com/jirik22/outdoor-game)) | 1 | Claude Opus 5.5 | 2026-10-25 |
 | [Prime Split](../games/prime-split/readme.md) ([source](https://github.com/smallnumbersstudio-art/prime-split)) | 1 | Claude Opus 5.5 | 2026-10-25 |
@@ -512,33 +532,33 @@ The dataset stores source-derived reconstruction prompts without presenting them
 
 | Signal | Result |
 | --- | ---: |
-| Counted game units | **3464** |
-| Qualifying source repositories | **3157** |
-| Dataset records, including related or excluded records | **3646** |
-| Low-quality game units moved to bad-games.md | **437** (437 repositories) |
+| Counted game units | **3484** |
+| Qualifying source repositories | **3177** |
+| Dataset records, including related or excluded records | **3671** |
+| Low-quality game units moved to bad-games.md | **442** (442 repositories) |
 | Other non-game records moved to other.md | **52** |
-| WebGL-family game units, across all categories | **720** |
-| Non-browser engine game units | **563** |
-| Game units with screenshot links | **665** |
+| WebGL-family game units, across all categories | **723** |
+| Non-browser engine game units | **565** |
+| Game units with screenshot links | **670** |
 | Game units with direct prompt links | **17** |
-| Game units with source-derived prompt fields | **3464** |
+| Game units with source-derived prompt fields | **3484** |
 | Game units with exact publication dates | **287** (152 repositories) |
-| Game units with repository creation dates | **3464** (3157 repositories) |
+| Game units with repository creation dates | **3484** (3177 repositories) |
 
 ## Verification snapshot
 
-The list contains **3464** game units from **3157** qualifying repositories. The dataset also retains **489** related or excluded records for audit history. Each row uses one of these model-evidence grades.
+The list contains **3484** game units from **3177** qualifying repositories. The dataset also retains **494** related or excluded records for audit history. Each row uses one of these model-evidence grades.
 
 | Grade | Meaning | Game units |
 | --- | --- | ---: |
-| ✓ Direct | A public primary source directly attributes the listed model. | **3121** |
+| ✓ Direct | A public primary source directly attributes the listed model. | **3141** |
 | ≈ Creator report | The creator attributes the listed model. | **293** |
 | △ Repository trail | A repository, directory, or topic trail supports the model claim. | **43** |
 | ? Inferred | The model attribution is inferred and should be independently checked. | **7** |
 
 ## More records
 
-- ⚠️ [Bad games](../bad-games.md) — **437** low-quality game units excluded from the curated library
+- ⚠️ [Bad games](../bad-games.md) — **442** low-quality game units excluded from the curated library
 - 📦 [Other](../other.md) — **52** related, derivative, forked, or non-game records
 
 ## How to use this guide

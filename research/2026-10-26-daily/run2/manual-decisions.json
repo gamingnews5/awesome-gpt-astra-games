@@ -3374,5 +3374,221 @@
  "cheviman/robotech-decomp": {
   "batch": "b02",
   "decision": "reject"
+ },
+ "keevvinc/ashen-crypt-game-client": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "jmzidek9/GTA-taxi-game": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "rnikoopour/conwaysgameoflaifu": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "dwang0816/chasing-grails": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "Olesch/tta-challenge-highscores": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "siniscy/wii-cod-trickshot-mods": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "CanuckAussieKev/thug2-content-pipeline": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "finalroundgame/finalroundgame.github.io": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "brew-your-own/zarch-in-chrome": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "theguysaccount/ai-board-game-maker": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "mariotristan/elephants": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "umutcansafak/fantasy_nba": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "gdjustin/drop-chance": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "theguysaccount/pitch-judge-investor-game": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "ShaunBoughey/neonwarlords": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "beebono/MIROKI": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "advadu/masks-and-crowns-guide": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "forrestgump2000/billionaire-life": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "djooryabi/jollyracer-site": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "swagathaur/KH2SeamlessCoop": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "vibecoding3/mh-restaurant": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "Grosess/scamper": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "apratim3490/p-zero": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "Itros97/GrimWorld": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "FullerK55/SurroundeadMP": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "MattRahmeier/how-much": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "cbgregg/top-bunk": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "bobokhon-ab/collusion-sprint-cheating-is-not-collusion": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "DiegoKrumdieck/placebo-collusion": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "ntabler/UMW-GBUS-562": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "Bigbloo/aviator-crash-simulator": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "sargeeva/SanctumHelper": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "cahoots-org/contex-games": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "lick-mee/mhgu-gathering-map": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "adam-gibson/letter-rush": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "Allebale/sms-first-person-mod": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "KairosProtocol/Fishterious-Happenings": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "fmcoskun/internet-explainer": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "ethanterrero/landfall": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "potatoguy79/taterpeeler": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "milodinasour/ipad-mama": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "paulanthony-alt/beer": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "techreign/rift-ledger": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "shahriarahi/pen-flick": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "Greatbritaind/bible-game": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "etwilliams/candy-wall": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "robinspollak/wizard-scoring-tracker": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "elihpolo/gbus562-coursework": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "GaaamJ/StackClimb": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "levoniust/vigil": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "Yassinelaadraoui/charbaman": {
+  "batch": "b03",
+  "decision": "accept"
+ },
+ "SlickAmogus/silenthill-online": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "ChronoStriker1/vndegen": {
+  "batch": "b03",
+  "decision": "reject"
+ },
+ "bldoijoa01-lab/chem-island": {
+  "batch": "b03",
+  "decision": "accept"
  }
 }

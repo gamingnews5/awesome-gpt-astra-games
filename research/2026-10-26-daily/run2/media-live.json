@@ -3195,5 +3195,194 @@
   "images": [],
   "live": [],
   "checked": []
+ },
+ "jmzidek9/GTA-taxi-game": {
+  "images": [
+   "https://github.com/jmzidek9/GTA-taxi-game/blob/main/media/screenshot-night.png",
+   "https://github.com/jmzidek9/GTA-taxi-game/blob/main/media/screenshot-rain.png"
+  ],
+  "live": [
+   "https://jmzidek9.github.io/GTA-taxi-game/"
+  ],
+  "checked": [
+   "https://jmzidek9.github.io/GTA-taxi-game/"
+  ]
+ },
+ "rnikoopour/conwaysgameoflaifu": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "brew-your-own/zarch-in-chrome": {
+  "images": [],
+  "live": [
+   "https://brew-your-own.github.io/zarch-in-chrome/"
+  ],
+  "checked": [
+   "https://brew-your-own.github.io/zarch-in-chrome/"
+  ]
+ },
+ "mariotristan/elephants": {
+  "images": [],
+  "live": [
+   "https://mariotristan.github.io/elephants/"
+  ],
+  "checked": [
+   "https://mariotristan.github.io/elephants/"
+  ]
+ },
+ "gdjustin/drop-chance": {
+  "images": [],
+  "live": [
+   "https://gdjustin.github.io/drop-chance/",
+   "https://pixel-boy.itch.io/ninja-adventure-asset-pack"
+  ],
+  "checked": [
+   "https://gdjustin.github.io/drop-chance/",
+   "https://pixel-boy.itch.io/ninja-adventure-asset-pack"
+  ]
+ },
+ "theguysaccount/pitch-judge-investor-game": {
+  "images": [],
+  "live": [
+   "https://theguysaccount.github.io/pitch-judge-investor-game/",
+   "https://theguysaccount.github.io/pitch-judge-investor-game/deck/"
+  ],
+  "checked": [
+   "https://theguysaccount.github.io/pitch-judge-investor-game/",
+   "https://theguysaccount.github.io/pitch-judge-investor-game/deck/"
+  ]
+ },
+ "ShaunBoughey/neonwarlords": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "forrestgump2000/billionaire-life": {
+  "images": [],
+  "live": [
+   "https://billionaire-life-opal.vercel.app"
+  ],
+  "checked": [
+   "https://billionaire-life-opal.vercel.app"
+  ]
+ },
+ "vibecoding3/mh-restaurant": {
+  "images": [],
+  "live": [
+   "https://vibecoding3.github.io/mh-restaurant/"
+  ],
+  "checked": [
+   "https://vibecoding3.github.io/mh-restaurant/"
+  ]
+ },
+ "Grosess/scamper": {
+  "images": [],
+  "live": [
+   "https://grosess.github.io/scamper/"
+  ],
+  "checked": [
+   "https://grosess.github.io/scamper/"
+  ]
+ },
+ "apratim3490/p-zero": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Itros97/GrimWorld": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://itros97.github.io/GrimWorld/"
+  ]
+ },
+ "MattRahmeier/how-much": {
+  "images": [],
+  "live": [
+   "https://mattrahmeier.github.io/how-much/"
+  ],
+  "checked": [
+   "https://mattrahmeier.github.io/how-much/"
+  ]
+ },
+ "cbgregg/top-bunk": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "adam-gibson/letter-rush": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "KairosProtocol/Fishterious-Happenings": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "ethanterrero/landfall": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "potatoguy79/taterpeeler": {
+  "images": [],
+  "live": [
+   "https://potatoguy79.github.io/taterpeeler/"
+  ],
+  "checked": [
+   "https://potatoguy79.github.io/taterpeeler/"
+  ]
+ },
+ "milodinasour/ipad-mama": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "paulanthony-alt/beer": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "shahriarahi/pen-flick": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "etwilliams/candy-wall": {
+  "images": [
+   "https://github.com/etwilliams/candy-wall/blob/main/docs/title.png",
+   "https://github.com/etwilliams/candy-wall/blob/main/docs/gameplay.png",
+   "https://github.com/etwilliams/candy-wall/blob/main/docs/level.png",
+   "https://github.com/etwilliams/candy-wall/blob/main/docs/powerups.png"
+  ],
+  "live": [
+   "https://etwilliams.github.io/candy-wall/"
+  ],
+  "checked": [
+   "https://etwilliams.github.io/candy-wall/"
+  ]
+ },
+ "GaaamJ/StackClimb": {
+  "images": [
+   "https://github.com/GaaamJ/StackClimb/blob/main/docs/images/09-climbed-height.png"
+  ],
+  "live": [
+   "https://gaaamj.github.io/StackClimb/"
+  ],
+  "checked": [
+   "https://gaaamj.github.io/StackClimb/"
+  ]
+ },
+ "Yassinelaadraoui/charbaman": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "bldoijoa01-lab/chem-island": {
+  "images": [],
+  "live": [],
+  "checked": []
  }
 }
