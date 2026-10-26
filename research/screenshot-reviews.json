@@ -9520,6 +9520,136 @@
       "reason": "Use this frame for the game-level score. Isometric green grid with stone blocks and a small character; clean prototype look.",
       "reviewed_on": "2026-10-26",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Murkcode/GluttonousSnake",
+      "url": "https://github.com/Murkcode/GluttonousSnake/blob/main/assets/mobile.png",
+      "game": "贪吃蛇 · Neon Snake",
+      "score_10": 4.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon snake grid with on-screen d-pad; tidy, minimal visuals.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Enteee/VibeWars",
+      "url": "https://github.com/Enteee/VibeWars/blob/main/docs/media/readme-arena.png",
+      "game": "VibeWars",
+      "score_10": 4.2,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark debug-style character builder panels; readable but mostly UI text.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/dashryerson-design/Ragdoll-American-Footbal",
+      "url": "https://github.com/dashryerson-design/Ragdoll-American-Footbal/blob/main/assets/match.jpg",
+      "game": "PHYSICS AMERICAN FOOTBALL",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Ragdoll player carrying the ball across a packed 3D stadium with HUD; readable action.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/backtochou-prog/wayfarer",
+      "url": "https://github.com/backtochou-prog/wayfarer/blob/main/docs/screenshots/neon-quarter.jpg",
+      "game": "WAYFARER",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon low-poly corridor runners in a grid of captures; bold color, coherent style.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/7hpgypydbd-sudo/gnome-life",
+      "url": "https://github.com/7hpgypydbd-sudo/gnome-life/blob/main/docs/art/backdrop.jpg",
+      "game": "Gnome Life",
+      "score_10": 5.0,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Painted misty forest background art; attractive asset, not gameplay.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nRn-World/DreamGarden",
+      "url": "https://github.com/nRn-World/DreamGarden/blob/main/store/screenshots/01-title.png",
+      "game": "Dream Garden",
+      "score_10": 5.4,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Phone title screen for Dream Garden with glowing flowers; soft cozy style but a menu.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/felixwahner/epic-blast",
+      "url": "https://github.com/felixwahner/epic-blast/blob/main/docs/screenshots/storm-citadel.webp",
+      "game": "EPIC BLAST",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Block puzzle board with neon city backdrop and combo score; polished and readable.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/emchwo/akin",
+      "url": "https://github.com/emchwo/akin/blob/main/report/img/01_start.png",
+      "game": "Akin",
+      "score_10": 3.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Plain beige form screen for the conversation game; minimal UI only.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jyyan/game-prime-trail",
+      "url": "https://github.com/jyyan/game-prime-trail/blob/main/docs/design/illustrations/hero.png",
+      "game": "Prime Trail",
+      "score_10": 5.0,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Cute dragon mascot illustration with number tiles; promo art, not gameplay.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hussainfaisalaljaser-lang/majlis-game",
+      "url": "https://github.com/hussainfaisalaljaser-lang/majlis-game/blob/main/docs/mockups/05-game-table.png",
+      "game": "مجلس الخونة",
+      "score_10": 4.4,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark mobile role and lobby screens in a grid; functional UI captures.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hermeslohin/mt-crankmore",
+      "url": "https://github.com/hermeslohin/mt-crankmore/blob/main/docs/delivery.png",
+      "game": "Mt. Crankmore",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric pixel town with a cyclist delivering pizza and trainer HUD; detailed and readable.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/richardjallinson/Lamp",
+      "url": "https://github.com/richardjallinson/Lamp/blob/main/app/www/img/adv/card-1.webp",
+      "game": "Lamp: Bible Word Puzzle",
+      "score_10": 4.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Ornate golden sunburst panel art; decorative asset, not gameplay.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/kitsunecat/daily-mini-games",
+      "url": "https://github.com/kitsunecat/daily-mini-games/blob/main/games/2026-10-24-lantern-night/screenshot.png",
+      "game": "Daily Mini Games",
+      "score_10": 5.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark top-down survivor arena with enemy blobs and projectiles; readable but plain.",
+      "reviewed_on": "2026-10-26",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
