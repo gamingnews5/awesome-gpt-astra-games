@@ -7,7 +7,7 @@ Open the per-game notes. Use the source links to inspect model evidence, gamepla
 - **Aggregate notes:** 1 (some repositories document several units without separate names)
 - **Rows with screenshot sources:** 733
 - **Placeholder thumbnails:** 3248
-- **Notes written in this run:** 42
+- **Notes written in this run:** 0
 
 ## Today
 
