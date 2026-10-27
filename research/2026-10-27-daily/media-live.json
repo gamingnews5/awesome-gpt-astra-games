@@ -2342,5 +2342,479 @@
    "https://barneyfin.github.io/twisted-retro-fit/",
    "https://YOUR-NAME.github.io/YOUR-REPO/"
   ]
+ },
+ "chuongvoxx-ops/Cocopets": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Mdeskn/midnight-crumbs": {
+  "images": [
+   "https://github.com/Mdeskn/midnight-crumbs/blob/main/screenshots/mouse.png",
+   "https://github.com/Mdeskn/midnight-crumbs/blob/main/screenshots/cat.png",
+   "https://github.com/Mdeskn/midnight-crumbs/blob/main/screenshots/house.png",
+   "https://github.com/Mdeskn/midnight-crumbs/blob/main/screenshots/round-end.png"
+  ],
+  "live": [
+   "https://mdeskn.github.io/midnight-crumbs/",
+   "https://mdeskn.github.io/boom-whiskers/"
+  ],
+  "checked": [
+   "https://mdeskn.github.io/midnight-crumbs/",
+   "https://mdeskn.github.io/boom-whiskers/"
+  ]
+ },
+ "deberhardt33/Ethan-s-Game": {
+  "images": [],
+  "live": [
+   "https://ethangame.vercel.app"
+  ],
+  "checked": [
+   "https://ethangame.vercel.app",
+   "https://deberhardt33.github.io/Ethan-s-Game/"
+  ]
+ },
+ "AnthonE/Fireplace": {
+  "images": [
+   "https://github.com/AnthonE/Fireplace/blob/main/docs/f1-fireplace.png",
+   "https://github.com/AnthonE/Fireplace/blob/main/docs/b1-bumper-256.png",
+   "https://github.com/AnthonE/Fireplace/blob/main/docs/p1-chute-128.png",
+   "https://github.com/AnthonE/Fireplace/blob/main/docs/a5-ctf.png",
+   "https://github.com/AnthonE/Fireplace/blob/main/docs/a3-box-canyon.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "chris-chamberlain/mine-cells": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "DempKing/Neighborhood_Heroes": {
+  "images": [],
+  "live": [
+   "https://dempking.github.io/Neighborhood_Heroes/"
+  ],
+  "checked": [
+   "https://dempking.github.io/Neighborhood_Heroes/"
+  ]
+ },
+ "wvmlqsxyz/Legend": {
+  "images": [],
+  "live": [
+   "https://wvmlqsxyz.github.io/Legend/"
+  ],
+  "checked": [
+   "https://wvmlqsxyz.github.io/Legend/"
+  ]
+ },
+ "DempKing/French_Fried": {
+  "images": [],
+  "live": [
+   "https://dempking.github.io/French_Fried/"
+  ],
+  "checked": [
+   "https://dempking.github.io/French_Fried/"
+  ]
+ },
+ "Vinzski/convince_me": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "DempKing/Purrrfect_Crime": {
+  "images": [],
+  "live": [
+   "https://dempking.github.io/Purrrfect_Crime/"
+  ],
+  "checked": [
+   "https://dempking.github.io/Purrrfect_Crime/"
+  ]
+ },
+ "capnseaaa/bigrobot": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "henderjj/track-barrel-vr": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "shaneweickum-lab/survival-rpg": {
+  "images": [],
+  "live": [
+   "https://survival-rpg-seven.vercel.app"
+  ],
+  "checked": [
+   "https://survival-rpg-seven.vercel.app"
+  ]
+ },
+ "CharlieKulak/opensnake": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "jadflat/CHarth": {
+  "images": [
+   "https://github.com/jadflat/CHarth/blob/main/docs/cart.png",
+   "https://github.com/jadflat/CHarth/blob/main/docs/gameplay.gif"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "RobertHajbok/escortia": {
+  "images": [
+   "https://github.com/RobertHajbok/escortia/blob/main/store/feature-graphic-1024x500.png",
+   "https://github.com/RobertHajbok/escortia/blob/main/store/screenshot-1-title.png",
+   "https://github.com/RobertHajbok/escortia/blob/main/store/screenshot-2-drive.png",
+   "https://github.com/RobertHajbok/escortia/blob/main/store/screenshot-3-combo.png",
+   "https://github.com/RobertHajbok/escortia/blob/main/store/screenshot-4-pickup.png",
+   "https://github.com/RobertHajbok/escortia/blob/main/store/screenshot-5-tunnels.png",
+   "https://github.com/RobertHajbok/escortia/blob/main/store/screenshot-6-harbour.png",
+   "https://github.com/RobertHajbok/escortia/blob/main/store/screenshot-7-garage.png",
+   "https://github.com/RobertHajbok/escortia/blob/main/store/screenshot-8-run-over.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "alokomkar/Blue": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Tejas-KCN/Poker-With-Poems": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "jkemusic/Threekingdoms": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Zeke91-ai/math-hero": {
+  "images": [
+   "https://github.com/Zeke91-ai/math-hero/blob/main/docs/mh2-cuplikan.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "jkempy2009-lang/claudeF1game": {
+  "images": [],
+  "live": [
+   "https://claudef1game.vercel.app"
+  ],
+  "checked": [
+   "https://claudef1game.vercel.app"
+  ]
+ },
+ "markusswedpal/los-burgers": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "hungryshmorez/Seven-days": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "samuelling/Chopper": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "nicolas-found42/rust-racer": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "songesx3-arch/Crown-arcade": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "achallakiran/shivanag": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "mantidman/2d_app01": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Taha-Bin-Talib/Getaway-Card-Game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "rauf-mushtaq/dogdash": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "AU-PSK/AU_RACE": {
+  "images": [],
+  "live": [
+   "https://au-psk.github.io/AU_RACE/"
+  ],
+  "checked": [
+   "https://au-psk.github.io/AU_RACE/"
+  ]
+ },
+ "EastwoodNo1/SuperSnake": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "mawhtoochun/big-two-card-night": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Nathleb/Goodlock-client": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "ntreadway/token-terror": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "GustavoMarques06/PokeIdle---Beyond-the-Journey": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "aniketsagar/gravity-flip": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "P-Patsis/FingerFight": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "michaellewellen/BuzzerGames": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "carterkeel/gate_rush": {
+  "images": [
+   "https://github.com/carterkeel/gate_rush/blob/main/assets/social-preview.png",
+   "https://github.com/carterkeel/gate_rush/blob/main/assets/screens/menu.jpg",
+   "https://github.com/carterkeel/gate_rush/blob/main/assets/screens/neo.jpg",
+   "https://github.com/carterkeel/gate_rush/blob/main/assets/screens/forest.jpg",
+   "https://github.com/carterkeel/gate_rush/blob/main/assets/screens/lava.jpg",
+   "https://github.com/carterkeel/gate_rush/blob/main/assets/screens/sky.jpg",
+   "https://github.com/carterkeel/gate_rush/blob/main/assets/screens/reef.jpg",
+   "https://github.com/carterkeel/gate_rush/blob/main/assets/screens/boss.jpg"
+  ],
+  "live": [
+   "https://carterkeel.github.io/gate_rush/"
+  ],
+  "checked": [
+   "https://carterkeel.github.io/gate_rush/"
+  ]
+ },
+ "phlawlessDevelopment/abstract-strategy-playground": {
+  "images": [],
+  "live": [
+   "https://phlawlessdevelopment.github.io/abstract-strategy-playground/"
+  ],
+  "checked": [
+   "https://phlawlessdevelopment.github.io/abstract-strategy-playground/",
+   "https://phlawlessdevelopment.github.io/abstract-strategy-playground/games/"
+  ]
+ },
+ "GenAK79/WordScramble": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "sakshammalge/MyScribbleClone": {
+  "images": [],
+  "live": [
+   "https://inkling-5wrz.onrender.com"
+  ],
+  "checked": [
+   "https://inkling-5wrz.onrender.com"
+  ]
+ },
+ "tonmoydeb404/tintin": {
+  "images": [],
+  "live": [
+   "https://pad-games.vercel.app"
+  ],
+  "checked": [
+   "https://pad-games.vercel.app"
+  ]
+ },
+ "danjaekim/overclocked": {
+  "images": [],
+  "live": [
+   "https://danjaekim.github.io/overclocked/"
+  ],
+  "checked": [
+   "https://danjaekim.github.io/overclocked/"
+  ]
+ },
+ "amossteven/FCCgames": {
+  "images": [],
+  "live": [
+   "https://amossteven.github.io/FCCgames/",
+   "https://amossteven.github.io/FCCgames/games/telly-trumps.html#eyJwIjpbIlN0ZXZlIi"
+  ],
+  "checked": [
+   "https://amossteven.github.io/FCCgames/",
+   "https://amossteven.github.io/FCCgames/games/telly-trumps.html#eyJwIjpbIlN0ZXZlIi"
+  ]
+ },
+ "rfengl/dwarfcraft": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "benjaminsirb/puzzles": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Smoketsu/RTSGame": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "MakeRocketGoNow/backseatbingo": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "AviCagan/LetThemCook": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Mootmonthly/The-Endless-Delve": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "roman-ship-it-all/logoped": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Furkiozknn/kervan": {
+  "images": [
+   "https://github.com/Furkiozknn/kervan/blob/main/docs/gameplay.gif",
+   "https://github.com/Furkiozknn/kervan/blob/main/docs/map.png",
+   "https://github.com/Furkiozknn/kervan/blob/main/docs/title.png",
+   "https://github.com/Furkiozknn/kervan/blob/main/docs/market.png",
+   "https://github.com/Furkiozknn/kervan/blob/main/docs/caravan.png",
+   "https://github.com/Furkiozknn/kervan/blob/main/docs/phone.png"
+  ],
+  "live": [
+   "https://furkiozknn.github.io/kervan/"
+  ],
+  "checked": [
+   "https://furkiozknn.github.io/kervan/"
+  ]
+ },
+ "Furkiozknn/karagoz": {
+  "images": [
+   "https://github.com/Furkiozknn/karagoz/blob/main/docs/gameplay.gif",
+   "https://github.com/Furkiozknn/karagoz/blob/main/docs/01-title.png",
+   "https://github.com/Furkiozknn/karagoz/blob/main/docs/02-backstage.png",
+   "https://github.com/Furkiozknn/karagoz/blob/main/docs/03-audience.png",
+   "https://github.com/Furkiozknn/karagoz/blob/main/docs/04-colour-lamps.png",
+   "https://github.com/Furkiozknn/karagoz/blob/main/docs/05-act-map.png",
+   "https://github.com/Furkiozknn/karagoz/blob/main/docs/06-phone.png"
+  ],
+  "live": [
+   "https://furkiozknn.github.io/karagoz/"
+  ],
+  "checked": [
+   "https://furkiozknn.github.io/karagoz/"
+  ]
+ },
+ "Furkiozknn/dolmus": {
+  "images": [
+   "https://github.com/Furkiozknn/dolmus/blob/main/docs/gameplay.gif",
+   "https://github.com/Furkiozknn/dolmus/blob/main/docs/01-title.png",
+   "https://github.com/Furkiozknn/dolmus/blob/main/docs/02-gameplay-day.png",
+   "https://github.com/Furkiozknn/dolmus/blob/main/docs/03-rain-van.png",
+   "https://github.com/Furkiozknn/dolmus/blob/main/docs/04-night.png",
+   "https://github.com/Furkiozknn/dolmus/blob/main/docs/05-phone-portrait.png",
+   "https://github.com/Furkiozknn/dolmus/blob/main/docs/06-shift-summary.png",
+   "https://github.com/Furkiozknn/dolmus/blob/main/docs/assets-after-close.png"
+  ],
+  "live": [
+   "https://furkiozknn.github.io/dolmus/"
+  ],
+  "checked": [
+   "https://furkiozknn.github.io/dolmus/"
+  ]
+ },
+ "Furkiozknn/simit-firini": {
+  "images": [
+   "https://github.com/Furkiozknn/simit-firini/blob/main/docs/gameplay.gif",
+   "https://github.com/Furkiozknn/simit-firini/blob/main/docs/gameplay.png"
+  ],
+  "live": [
+   "https://furkiozknn.github.io/simit-firini/"
+  ],
+  "checked": [
+   "https://furkiozknn.github.io/simit-firini/"
+  ]
+ },
+ "KostiKoNeuro/kimi-vs-astra": {
+  "images": [
+   "https://github.com/KostiKoNeuro/kimi-vs-astra/blob/main/media/kimi-browser-vs-blender.png"
+  ],
+  "live": [
+   "https://kostikoneuro.github.io/kimi-vs-astra/"
+  ],
+  "checked": [
+   "https://kostikoneuro.github.io/kimi-vs-astra/"
+  ]
+ },
+ "Furkiozknn/peri-golf": {
+  "images": [
+   "https://github.com/Furkiozknn/peri-golf/blob/main/docs/gameplay.gif",
+   "https://github.com/Furkiozknn/peri-golf/blob/main/docs/01-title.png",
+   "https://github.com/Furkiozknn/peri-golf/blob/main/docs/assets-after-hole2.png",
+   "https://github.com/Furkiozknn/peri-golf/blob/main/docs/assets-after-hole4-wheel.png",
+   "https://github.com/Furkiozknn/peri-golf/blob/main/docs/assets-after-hole8-donkey.png",
+   "https://github.com/Furkiozknn/peri-golf/blob/main/docs/assets-after-hole12-ridge.png",
+   "https://github.com/Furkiozknn/peri-golf/blob/main/docs/assets-after-phone.png"
+  ],
+  "live": [
+   "https://furkiozknn.github.io/peri-golf/"
+  ],
+  "checked": [
+   "https://furkiozknn.github.io/peri-golf/"
+  ]
+ },
+ "Furkiozknn/bogaz-vapuru": {
+  "images": [
+   "https://github.com/Furkiozknn/bogaz-vapuru/blob/main/docs/gameplay.gif",
+   "https://github.com/Furkiozknn/bogaz-vapuru/blob/main/docs/01-title.png",
+   "https://github.com/Furkiozknn/bogaz-vapuru/blob/main/docs/02-docking.png",
+   "https://github.com/Furkiozknn/bogaz-vapuru/blob/main/docs/03-dusk.png",
+   "https://github.com/Furkiozknn/bogaz-vapuru/blob/main/docs/04-night.png",
+   "https://github.com/Furkiozknn/bogaz-vapuru/blob/main/docs/05-storm.png",
+   "https://github.com/Furkiozknn/bogaz-vapuru/blob/main/docs/06-phone-portrait.png"
+  ],
+  "live": [
+   "https://furkiozknn.github.io/bogaz-vapuru/"
+  ],
+  "checked": [
+   "https://furkiozknn.github.io/bogaz-vapuru/"
+  ]
  }
 }

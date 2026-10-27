@@ -12,17 +12,22 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [1930s Racing Manager](games/1930s-racing-manager/readme.md) | [comeonfloyd/1930s-racing](https://github.com/comeonfloyd/1930s-racing) | 2026-10-26 08:07:54 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [2-D Tank Command](games/2-d-tank-command/readme.md) | [Chris-N2/2DTankFight](https://github.com/Chris-N2/2DTankFight) | 2026-10-26 14:13:38 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [AALIYAH: INTO THE TRENCHES](games/aaliyah-into-the-trenches/readme.md) | [TeevincsCrypt/nike](https://github.com/TeevincsCrypt/nike) | 2026-10-26 02:49:48 UTC | Claude Opus 5.5 | 7.1/10 |
+| 2026-10-27 | [Abstract Strategy Playground](games/abstract-strategy-playground/readme.md) | [phlawlessDevelopment/abstract-strategy-playground](https://github.com/phlawlessDevelopment/abstract-strategy-playground) | 2026-10-26 21:23:35 UTC | Claude Sonnet 5.5 | 7.5/10 |
 | 2026-10-27 | [Afterburner](games/afterburner/readme.md) | [wgw0/afterburner](https://github.com/wgw0/afterburner) | 2026-10-25 22:34:18 UTC | Claude Opus 5.5 | 7.8/10 |
 | 2026-10-27 | [AI Quest: AI From Zero](games/ai-quest-ai-from-zero/readme.md) | [Hauntedwolf2000/ai-quest](https://github.com/Hauntedwolf2000/ai-quest) | 2026-10-26 18:16:18 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [air-hockey](games/air-hockey/readme.md) | [korial29/air-hockey](https://github.com/korial29/air-hockey) | 2026-10-26 10:20:47 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Apex Circuit](games/apex-circuit/readme.md) | [sohamtiwari-prog/apex-circuit](https://github.com/sohamtiwari-prog/apex-circuit) | 2026-10-26 09:49:05 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-27 | [Apex Grand Prix](games/apex-grand-prix/readme.md) | [jkempy2009-lang/claudeF1game](https://github.com/jkempy2009-lang/claudeF1game) | 2026-10-26 09:55:42 UTC | Claude Sonnet 5.5 | 8.0/10 |
 | 2026-10-27 | [Arinjtë tanë · Kuiz](games/arinjte-tane-kuiz/readme.md) | [elivula/arinjte-kuiz](https://github.com/elivula/arinjte-kuiz) | 2026-10-26 20:19:11 UTC | Claude Opus 5.5 | 8.3/10 |
+| 2026-10-27 | [Ashland](games/ashland/readme.md) | [samuelling/Chopper](https://github.com/samuelling/Chopper) | 2026-10-26 01:45:32 UTC | Claude Sonnet 5.5 | 7.5/10 |
 | 2026-10-27 | [Asteroid Fleet](games/asteroid-fleet/readme.md) | [deadronos/asteroid-fleet](https://github.com/deadronos/asteroid-fleet) | 2026-10-25 20:55:12 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.7/10 |
 | 2026-10-27 | [Atelier Bestioles: le Rêve de Papeterre](games/atelier-bestioles-le-reve-de-papeterre/readme.md) | [MickaelVanhoutte/pokemol](https://github.com/MickaelVanhoutte/pokemol) | 2026-10-25 15:35:42 UTC | Claude Opus 5.5 | 7.9/10 |
 | 2026-10-27 | [Atlas Quest](games/atlas-quest/readme.md) | [joocha/GeorgaphicalGames](https://github.com/joocha/GeorgaphicalGames) | 2026-10-26 11:32:48 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Atom Trap](games/atom-trap/readme.md) | [Todilo/atom-trap](https://github.com/Todilo/atom-trap) | 2026-10-26 09:07:02 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-10-27 | [AU Race](games/au-race/readme.md) | [AU-PSK/AU_RACE](https://github.com/AU-PSK/AU_RACE) | 2026-10-26 13:46:01 UTC | Claude Sonnet 5.5 | 7.3/10 |
 | 2026-10-27 | [Aurovane](games/aurovane/readme.md) | [posvalukoleksandr34-svg/Casino](https://github.com/posvalukoleksandr34-svg/Casino) | 2026-10-26 10:25:25 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [Aussie Monopoly](games/aussie-monopoly/readme.md) | [TymonBitesTheDust/Aussie-Monopoly](https://github.com/TymonBitesTheDust/Aussie-Monopoly) | 2026-10-26 23:37:42 UTC | Claude Opus 5.5 | 7.1/10 |
+| 2026-10-27 | [Backseat Bingo](games/backseat-bingo/readme.md) | [MakeRocketGoNow/backseatbingo](https://github.com/MakeRocketGoNow/backseatbingo) | 2026-10-26 23:13:38 UTC | Claude Opus 5.5, Claude Fable 5.1 | 6.9/10 (excluded) |
 | 2026-10-27 | [Ball Picks Career Mode](games/ball-picks-career-mode/readme.md) | [JerseyTradr/Ball-Picks-](https://github.com/JerseyTradr/Ball-Picks-) | 2026-10-26 17:02:47 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Ballista Tanks](games/ballista-tanks/readme.md) | [afaucher/Ballista-Tanks](https://github.com/afaucher/Ballista-Tanks) | 2026-10-26 20:07:15 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Bandit Spin 64](games/bandit-spin-64/readme.md) | [KobotAI/bandicorp](https://github.com/KobotAI/bandicorp) | 2026-10-26 12:42:54 UTC | Claude Opus 5.5 | 7.3/10 |
@@ -30,14 +35,18 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [Bannerfall](games/bannerfall/readme.md) | [alakrim/NewGa](https://github.com/alakrim/NewGa) | 2026-10-26 19:28:50 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Barter Bloom](games/barter-bloom/readme.md) | [veiledtruth25/barter-bloom](https://github.com/veiledtruth25/barter-bloom) | 2026-10-26 15:35:53 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Battle Through the Heavens 2.5D](games/battle-through-the-heavens-2-5d/readme.md) | [deenodadon/BTTH2dG](https://github.com/deenodadon/BTTH2dG) | 2026-10-26 15:34:16 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-27 | [Beaker Buddies](games/beaker-buddies/readme.md) | [AviCagan/LetThemCook](https://github.com/AviCagan/LetThemCook) | 2026-10-26 18:25:19 UTC | Claude Fable 5.1 | 7.3/10 |
 | 2026-10-27 | [Beard Plucker](games/beard-plucker/readme.md) | [moritzherb/AppOne](https://github.com/moritzherb/AppOne) | 2026-10-26 19:58:06 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [bernhard.esperester.de](games/bernhard-esperester-de/readme.md) | [beesperester/bernhard.esperester.de](https://github.com/beesperester/bernhard.esperester.de) | 2026-10-26 09:35:06 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Between Us](games/between-us/readme.md) | [Pavan-PM-Portfolio/bobba_zone](https://github.com/Pavan-PM-Portfolio/bobba_zone) | 2026-10-26 17:53:37 UTC | Claude Opus 5.5 | 7.9/10 |
+| 2026-10-27 | [Bhabhi Thulla Online](games/bhabhi-thulla-online/readme.md) | [Taha-Bin-Talib/Getaway-Card-Game](https://github.com/Taha-Bin-Talib/Getaway-Card-Game) | 2026-10-26 16:56:43 UTC | Claude Sonnet 5.5 | 6.9/10 (excluded) |
+| 2026-10-27 | [Big Two](games/big-two/readme.md) | [mawhtoochun/big-two-card-night](https://github.com/mawhtoochun/big-two-card-night) | 2026-10-26 17:58:25 UTC | Claude Sonnet 5.5 | 7.1/10 |
 | 2026-10-27 | [Bilang: a math adventure for kids](games/bilang-a-math-adventure-for-kids/readme.md) | [tofilagman/bilang](https://github.com/tofilagman/bilang) | 2026-10-26 07:42:03 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Biqsha بقشة](games/biqsha/readme.md) | [ff6aimmm/biqsha](https://github.com/ff6aimmm/biqsha) | 2026-10-26 19:50:28 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [BlindRunway](games/blindrunway/readme.md) | [Tarunchintakunta/BlindRunway](https://github.com/Tarunchintakunta/BlindRunway) | 2026-10-26 12:30:27 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Blockskate](games/blockskate/readme.md) | [Bookersy/mashup-MC-skate](https://github.com/Bookersy/mashup-MC-skate) | 2026-10-26 14:24:39 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Bobby vs Bots](games/bobby-vs-bots/readme.md) | [Snurras/Bobbys-vs-bots](https://github.com/Snurras/Bobbys-vs-bots) | 2026-10-26 12:22:24 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-27 | [Boğaz Vapuru](games/bogaz-vapuru/readme.md) | [Furkiozknn/bogaz-vapuru](https://github.com/Furkiozknn/bogaz-vapuru) | 2026-10-27 00:34:57 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [Break my agent](games/break-my-agent/readme.md) | [porouscoin/break-my-agent](https://github.com/porouscoin/break-my-agent) | 2026-10-26 09:03:19 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [Brett & Blatt](games/brett-blatt/readme.md) | [ichthys2k/brett-und-blatt](https://github.com/ichthys2k/brett-und-blatt) | 2026-10-25 08:29:47 UTC | Claude Opus 5.5 | 7.7/10 |
 | 2026-10-27 | [Brickatro](games/brickatro/readme.md) | [drschizzo/brickatro](https://github.com/drschizzo/brickatro) | 2026-10-26 20:43:42 UTC | Claude Opus 5.5 | 7.7/10 |
@@ -45,31 +54,37 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [browser-game-1](games/browser-game-1/readme.md) | [riatan-code/browser-game-1](https://github.com/riatan-code/browser-game-1) | 2026-10-26 16:24:54 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Build the Most Secure System](games/build-the-most-secure-system/readme.md) | [NelliTarkkaKPMG/Security-Trade-off-Game](https://github.com/NelliTarkkaKPMG/Security-Trade-off-Game) | 2026-10-26 17:18:19 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Building Blocks](games/building-blocks/readme.md) | [nkthn/building-blocks](https://github.com/nkthn/building-blocks) | 2026-10-26 21:17:19 UTC | Claude Opus 5.5 | 7.0/10 |
+| 2026-10-27 | [BuzzerGames](games/buzzergames/readme.md) | [michaellewellen/BuzzerGames](https://github.com/michaellewellen/BuzzerGames) | 2026-10-26 16:35:33 UTC | Claude Sonnet 5.5 | 7.1/10 |
 | 2026-10-27 | [C — Hybrid Adventure](games/c-hybrid-adventure/readme.md) | [SurachatMa/crystal-golem](https://github.com/SurachatMa/crystal-golem) | 2026-10-26 15:19:53 UTC | Claude Opus 5.5 | 8.4/10 |
 | 2026-10-27 | [cafe-sim-game](games/cafe-sim-game/readme.md) | [KoraWolF/cafe-sim-game](https://github.com/KoraWolF/cafe-sim-game) | 2026-10-26 14:33:08 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Card Vault](games/card-vault/readme.md) | [hawnji/cardchamp](https://github.com/hawnji/cardchamp) | 2026-10-26 23:08:32 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Castle Wars](games/castle-wars/readme.md) | [darkstalkermap-prog/Experimental-Game](https://github.com/darkstalkermap-prog/Experimental-Game) | 2026-10-26 02:49:04 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Catch the Fly](games/catch-the-fly/readme.md) | [emirhanemre/catch-the-fly](https://github.com/emirhanemre/catch-the-fly) | 2026-10-26 22:13:36 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-10-27 | [CHarth](games/charth/readme.md) | [jadflat/CHarth](https://github.com/jadflat/CHarth) | 2026-10-26 10:41:36 UTC | Claude Sonnet 5.5 | 7.5/10 |
 | 2026-10-27 | [ChemQuest Upstate, Version 2](games/chemquest-upstate-version-2/readme.md) | [Kashee12345/chemquest-upstate-v2](https://github.com/Kashee12345/chemquest-upstate-v2) | 2026-10-26 07:53:25 UTC | Claude Opus 5.5 | 8.3/10 |
 | 2026-10-27 | [Chicago Streets](games/chicago-streets/readme.md) | [mattchante/chicago-streets](https://github.com/mattchante/chicago-streets) | 2026-10-26 06:12:34 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [CHix](games/chix/readme.md) | [jadflat/CHix](https://github.com/jadflat/CHix) | 2026-10-26 08:03:32 UTC | Claude Sonnet 5.5 | 7.5/10 |
 | 2026-10-27 | [Classroom Games](games/classroom-games/readme.md) | [encitysoftworks/classroom-games](https://github.com/encitysoftworks/classroom-games) | 2026-10-26 12:57:01 UTC | Claude Opus 5.5 | 8.0/10 |
 | 2026-10-27 | [Claude for Gamers](games/claude-for-gamers/readme.md) | [Kadi-Technology/claude-for-gamers-build-day](https://github.com/Kadi-Technology/claude-for-gamers-build-day) | 2026-10-26 22:51:02 UTC | Claude Opus 5.5 | 5.8/10 (excluded) |
 | 2026-10-27 | [Cocktail Shack](games/cocktail-shack/readme.md) | [josephsammorris-dotcom/cocktail-shack](https://github.com/josephsammorris-dotcom/cocktail-shack) | 2026-10-26 23:43:10 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-27 | [Cocopets](games/cocopets/readme.md) | [chuongvoxx-ops/Cocopets](https://github.com/chuongvoxx-ops/Cocopets) | 2026-10-27 00:02:19 UTC | Claude Opus 5.5 | 8.2/10 |
 | 2026-10-27 | [Colchis](games/colchis/readme.md) | [DavitChomakhidze/Colchis](https://github.com/DavitChomakhidze/Colchis) | 2026-10-26 12:06:08 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Cold Read](games/cold-read/readme.md) | [2Steazy/cold-read](https://github.com/2Steazy/cold-read) | 2026-10-26 21:21:49 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [Collide](games/collide/readme.md) | [mahfuzt786/collide-game](https://github.com/mahfuzt786/collide-game) | 2026-10-26 17:14:31 UTC | Claude Opus 5.5 | 6.7/10 (excluded) |
 | 2026-10-27 | [Color Rush](games/color-rush-salmanabdallah89-color-rush/readme.md) | [salmanabdallah89/Color-Rush](https://github.com/salmanabdallah89/Color-Rush) | 2026-10-26 08:38:36 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-10-27 | [Convince Me](games/convince-me/readme.md) | [Vinzski/convince_me](https://github.com/Vinzski/convince_me) | 2026-10-27 00:45:27 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [CoreInk Tamagotchi](games/coreink-tamagotchi/readme.md) | [cmaranes/coreink-tamagotchi](https://github.com/cmaranes/coreink-tamagotchi) | 2026-10-26 15:43:38 UTC | Claude Opus 5.5 | 7.1/10 |
 | 2026-10-27 | [Corporate Warfare](games/corporate-warfare/readme.md) | [lakesidegamedev/corporate-warfare](https://github.com/lakesidegamedev/corporate-warfare) | 2026-10-25 03:10:41 UTC | Claude Opus 5.5 | 7.8/10 |
 | 2026-10-27 | [Cosmic Hop](games/cosmic-hop/readme.md) | [Dylon99/cosmic-hop](https://github.com/Dylon99/cosmic-hop) | 2026-10-26 20:47:43 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Couch Colony](games/couch-colony/readme.md) | [phal-nx/couch-colony](https://github.com/phal-nx/couch-colony) | 2026-10-26 07:41:46 UTC | Claude Opus 5.5 | 7.9/10 |
 | 2026-10-27 | [Crab Dash](games/crab-dash/readme.md) | [georrrgess-jpg/Crab-Rush](https://github.com/georrrgess-jpg/Crab-Rush) | 2026-10-26 17:33:30 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Cross-City Transit](games/cross-city-transit/readme.md) | [Annabxclu/Cross-City-Transit](https://github.com/Annabxclu/Cross-City-Transit) | 2026-10-26 13:24:06 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-27 | [Crown Arcade Online](games/crown-arcade-online/readme.md) | [songesx3-arch/Crown-arcade](https://github.com/songesx3-arch/Crown-arcade) | 2026-10-26 20:38:45 UTC | Claude Sonnet 5.5 | 7.1/10 |
 | 2026-10-27 | [CyberSweeper](games/cybersweeper/readme.md) | [jwelch00/CyberSweeper](https://github.com/jwelch00/CyberSweeper) | 2026-10-26 15:32:58 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [D&D Item Search Pexeso](games/d-d-item-search-pexeso/readme.md) | [LordWizardy/DnD-Item-search-pexeso](https://github.com/LordWizardy/DnD-Item-search-pexeso) | 2026-10-26 15:29:55 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Dark Maze](games/dark-maze/readme.md) | [Teamonics/darkmaze](https://github.com/Teamonics/darkmaze) | 2026-10-26 22:23:30 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Deep Dive (jackmilner004-png)](games/deep-dive-jackmilner004-png/readme.md) | [jackmilner004-png/Deep-Dive](https://github.com/jackmilner004-png/Deep-Dive) | 2026-10-26 11:36:24 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-27 | [Deep Dive (mantidman)](games/deep-dive-mantidman/readme.md) | [mantidman/2d_app01](https://github.com/mantidman/2d_app01) | 2026-10-26 20:34:12 UTC | Claude Sonnet 5.5 | 6.7/10 (excluded) |
 | 2026-10-27 | [DEGEN LIFE](games/degen-life/readme.md) | [papunapapashvili03/normielife](https://github.com/papunapapashvili03/normielife) | 2026-10-26 17:30:02 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Der Große Jakob](games/der-gro-e-jakob/readme.md) | [Ranger-Jones/the-big-jacob](https://github.com/Ranger-Jones/the-big-jacob) | 2026-10-25 21:30:17 UTC | Claude Opus 5.5 | 7.8/10 |
 | 2026-10-27 | [Desert Spaceport](games/desert-spaceport/readme.md) | [wr-max52/dune-game](https://github.com/wr-max52/dune-game) | 2026-10-26 04:51:36 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.7/10 |
@@ -79,27 +94,36 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [Dhull Garden](games/dhull-garden/readme.md) | [JackVoltaire/Dhull-Garden](https://github.com/JackVoltaire/Dhull-Garden) | 2026-10-26 13:02:18 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Dig Up](games/dig-up/readme.md) | [woydarko/digup-hemi](https://github.com/woydarko/digup-hemi) | 2026-10-25 13:07:21 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Do Not Disturb](games/do-not-disturb/readme.md) | [SwartzCr/visualnovel](https://github.com/SwartzCr/visualnovel) | 2026-10-26 08:34:28 UTC | Claude Opus 5.5 | 7.3/10 |
+| 2026-10-27 | [Dog Dash](games/dog-dash/readme.md) | [rauf-mushtaq/dogdash](https://github.com/rauf-mushtaq/dogdash) | 2026-10-26 14:25:02 UTC | Claude Sonnet 5.5 | 7.8/10 |
+| 2026-10-27 | [Dolmuş](games/dolmus/readme.md) | [Furkiozknn/dolmus](https://github.com/Furkiozknn/dolmus) | 2026-10-26 14:53:22 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [DON'T LOOK BACK](games/don-t-look-back/readme.md) | [Ankit-Silwal/HorrorThing](https://github.com/Ankit-Silwal/HorrorThing) | 2026-10-26 22:19:17 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [Down the Rabbit Hole](games/down-the-rabbit-hole/readme.md) | [sharonlevy9/Down_The_Rabbit_Hole](https://github.com/sharonlevy9/Down_The_Rabbit_Hole) | 2026-10-26 19:45:12 UTC | Claude Opus 5.5 | 6.7/10 (excluded) |
 | 2026-10-27 | [Draft Duel](games/draft-duel/readme.md) | [khalid413/Draft](https://github.com/khalid413/Draft) | 2026-10-26 16:02:06 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Dunia Sai](games/dunia-sai/readme.md) | [bajukelabuhebhk/Dunia-Sai](https://github.com/bajukelabuhebhk/Dunia-Sai) | 2026-10-26 06:35:50 UTC | Claude Opus 5.5 | 8.6/10 |
 | 2026-10-27 | [Dust & Mandibles](games/dust-mandibles/readme.md) | [TheRNGenie/DustAndMandibles](https://github.com/TheRNGenie/DustAndMandibles) | 2026-10-25 21:41:11 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [Duty Shooter](games/duty-shooter/readme.md) | [aleixribera/duty-shooter](https://github.com/aleixribera/duty-shooter) | 2026-10-25 22:13:54 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-27 | [DwarfCraft (Godot 4.3+)](games/dwarfcraft-godot-4-3/readme.md) | [rfengl/dwarfcraft](https://github.com/rfengl/dwarfcraft) | 2026-10-26 03:00:08 UTC | Claude Opus 5.5, Claude Fable 5.1 | 7.3/10 |
 | 2026-10-27 | [Edictum](games/edictum/readme.md) | [simmeh024/edictumgame](https://github.com/simmeh024/edictumgame) | 2026-10-26 13:50:46 UTC | Claude Opus 5.5 | 8.3/10 |
 | 2026-10-27 | [Ember](games/ember/readme.md) | [ycgNem/ember](https://github.com/ycgNem/ember) | 2026-10-26 09:15:08 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Ember Drift](games/ember-drift/readme.md) | [1NullVoid1/ember-drift](https://github.com/1NullVoid1/ember-drift) | 2026-10-25 11:00:32 UTC | Claude Opus 5.5 | 7.7/10 |
 | 2026-10-27 | [Ember Vigil](games/ember-vigil/readme.md) | [tommykalmer/EmberVigil](https://github.com/tommykalmer/EmberVigil) | 2026-10-26 19:38:57 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Emberdeep on Mezo](games/emberdeep-on-mezo/readme.md) | [Lazaniaaa/emberdeep-mezo](https://github.com/Lazaniaaa/emberdeep-mezo) | 2026-10-26 12:31:54 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.6/10 |
 | 2026-10-27 | [Escape the 10X Planet!](games/escape-the-10x-planet/readme.md) | [ismailadel998-prog/10x-planet](https://github.com/ismailadel998-prog/10x-planet) | 2026-10-26 20:59:31 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-27 | [Escortia](games/escortia/readme.md) | [RobertHajbok/escortia](https://github.com/RobertHajbok/escortia) | 2026-10-26 09:45:49 UTC | Claude Sonnet 5.5 | 7.2/10 |
+| 2026-10-27 | [Ethan's Math Adventure](games/ethan-s-math-adventure/readme.md) | [deberhardt33/Ethan-s-Game](https://github.com/deberhardt33/Ethan-s-Game) | 2026-10-27 00:49:30 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [F1-Retro](games/f1-retro/readme.md) | [Mino-oss-byte/f1-retro](https://github.com/Mino-oss-byte/f1-retro) | 2026-10-26 01:54:32 UTC | Claude Opus 5.5 | 7.7/10 |
 | 2026-10-27 | [Família Kart](games/familia-kart/readme.md) | [guilherme-reis-ia/kart-mariana-henrique-elena](https://github.com/guilherme-reis-ia/kart-mariana-henrique-elena) | 2026-10-27 00:06:22 UTC | Claude Opus 5.5 | 7.3/10 |
+| 2026-10-27 | [FCC Games](games/fcc-games/readme.md) | [amossteven/FCCgames](https://github.com/amossteven/FCCgames) | 2026-10-25 17:40:38 UTC | Claude Fable 5.1 | 7.4/10 |
 | 2026-10-27 | [Feed the Fat-Tailed Gecko  (팻테일게코 벌레잡기)](games/feed-the-fat-tailed-gecko/readme.md) | [iamthomaslee/feed-fat-tailed-gecko](https://github.com/iamthomaslee/feed-fat-tailed-gecko) | 2026-10-26 20:26:12 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Feel It, Draw It](games/feel-it-draw-it/readme.md) | [mickeyordog/FamilyGame](https://github.com/mickeyordog/FamilyGame) | 2026-10-25 23:37:59 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Filmion](games/filmion/readme.md) | [Icnussa/Filmion](https://github.com/Icnussa/Filmion) | 2026-10-26 10:16:03 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
+| 2026-10-27 | [Finger Fight](games/finger-fight/readme.md) | [P-Patsis/FingerFight](https://github.com/P-Patsis/FingerFight) | 2026-10-26 17:50:27 UTC | Claude Sonnet 5.5 | 7.0/10 |
+| 2026-10-27 | [Fireplace](games/fireplace/readme.md) | [AnthonE/Fireplace](https://github.com/AnthonE/Fireplace) | 2026-10-25 19:13:40 UTC | Claude Opus 5.5 | 7.8/10 |
 | 2026-10-27 | [Flappy Ticket](games/flappy-ticket/readme.md) | [krishnendu-2003/Floppy-Bird](https://github.com/krishnendu-2003/Floppy-Bird) | 2026-10-26 13:55:16 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [FluxSpheres: Magnetic Physics Edition](games/fluxspheres-magnetic-physics-edition/readme.md) | [VBlackJack/flux-spheres](https://github.com/VBlackJack/flux-spheres) | 2026-10-26 08:13:29 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Fraction Quest](games/fraction-quest/readme.md) | [gitsgulabjamun/fraction-quest](https://github.com/gitsgulabjamun/fraction-quest) | 2026-10-25 14:56:24 UTC | Claude Opus 5.5 | 7.7/10 |
 | 2026-10-27 | [Frankendom](games/frankendom/readme.md) | [DomLynch/Frankendom-v3](https://github.com/DomLynch/Frankendom-v3) | 2026-10-26 08:43:45 UTC | Claude Opus 5.5, Claude Sonnet 5.5, Claude Fable 5.1 | 8.1/10 |
+| 2026-10-27 | [French Fried!](games/french-fried/readme.md) | [DempKing/French_Fried](https://github.com/DempKing/French_Fried) | 2026-10-25 19:10:01 UTC | Claude Opus 5.5 | 8.0/10 |
 | 2026-10-27 | [Friend Monopoly](games/friend-monopoly/readme.md) | [camdenshaw97-a11y/Friend-Monopoly](https://github.com/camdenshaw97-a11y/Friend-Monopoly) | 2026-10-25 13:52:51 UTC | Claude Opus 5.5, Claude Fable 5.1 | 7.3/10 |
 | 2026-10-27 | [Frostvale](games/frostvale/readme.md) | [LoungeLizrd/Frostvale](https://github.com/LoungeLizrd/Frostvale) | 2026-10-27 00:30:09 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Gaju's India Puzzle](games/gaju-s-india-puzzle/readme.md) | [hema-g01/GajusIndiaPuzzle](https://github.com/hema-g01/GajusIndiaPuzzle) | 2026-10-26 08:28:34 UTC | Claude Sonnet 5.5 | 7.6/10 |
@@ -109,12 +133,15 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [game-atelier](games/game-atelier/readme.md) | [polos0117/game-atelier](https://github.com/polos0117/game-atelier) | 2026-10-26 05:43:47 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [GameNest · Mini Games](games/gamenest-mini-games/readme.md) | [pnwadalkar/games](https://github.com/pnwadalkar/games) | 2026-10-26 08:14:59 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Garaad](games/garaad/readme.md) | [amousamf/garaad](https://github.com/amousamf/garaad) | 2026-10-25 10:50:07 UTC | Claude Opus 5.5 | 7.7/10 |
+| 2026-10-27 | [Gate Rush](games/gate-rush/readme.md) | [carterkeel/gate_rush](https://github.com/carterkeel/gate_rush) | 2026-10-25 04:24:47 UTC | Claude Sonnet 5.5 | 7.9/10 |
 | 2026-10-27 | [Gem Tycoon](games/gem-tycoon/readme.md) | [Klopapier1/Ecogame](https://github.com/Klopapier1/Ecogame) | 2026-10-26 20:42:30 UTC | Claude Opus 5.5 | 6.8/10 (excluded) |
 | 2026-10-27 | [Ghost Game](games/ghost-game/readme.md) | [alexmbrown/ghost-game](https://github.com/alexmbrown/ghost-game) | 2026-10-26 20:07:28 UTC | Claude Opus 5.5 | 7.8/10 |
 | 2026-10-27 | [Giáng Long Que Hiệp](games/giang-long-que-hiep/readme.md) | [TienDat2308/giang-long-que-hiep](https://github.com/TienDat2308/giang-long-que-hiep) | 2026-10-26 19:34:08 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Giáng Ma Sư: Hàng Ma Ký](games/giang-ma-su-hang-ma-ky/readme.md) | [shinningman94/giangmaluc](https://github.com/shinningman94/giangmaluc) | 2026-10-26 09:39:51 UTC | Claude Opus 5.5 | 7.8/10 |
 | 2026-10-27 | [Glimmerfall](games/glimmerfall/readme.md) | [ArtemChikolaev/Glimmerfall](https://github.com/ArtemChikolaev/Glimmerfall) | 2026-10-26 11:04:25 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-10-27 | [Goodlock app](games/goodlock-app/readme.md) | [Nathleb/Goodlock-client](https://github.com/Nathleb/Goodlock-client) | 2026-10-26 18:31:42 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Grand Theft Auckland](games/grand-theft-auckland/readme.md) | [jay-aye-see-kay/grand-theft-auckland](https://github.com/jay-aye-see-kay/grand-theft-auckland) | 2026-10-26 04:00:15 UTC | Claude Opus 5.5 | 7.3/10 |
+| 2026-10-27 | [gravity-flip](games/gravity-flip-aniketsagar-gravity-flip/readme.md) | [aniketsagar/gravity-flip](https://github.com/aniketsagar/gravity-flip) | 2026-10-26 16:36:50 UTC | Claude Sonnet 5.5 | 6.3/10 (excluded) |
 | 2026-10-27 | [GSB World](games/gsb-world/readme.md) | [jamescstapleton/gsbworld](https://github.com/jamescstapleton/gsbworld) | 2026-10-26 20:35:10 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Gully Foam War](games/gully-foam-war/readme.md) | [hepmatt/Gully-Foam-War](https://github.com/hepmatt/Gully-Foam-War) | 2026-10-26 19:43:56 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Hạm Đội Lục Giác](games/ham-oi-luc-giac/readme.md) | [quocdung2107/hex-fleet](https://github.com/quocdung2107/hex-fleet) | 2026-10-26 13:28:06 UTC | Claude Opus 5.5 | 7.9/10 |
@@ -129,6 +156,7 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [hush](games/hush-reidwcoleman-hush/readme.md) | [reidwcoleman/hush](https://github.com/reidwcoleman/hush) | 2026-10-26 22:14:31 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [İmposter Oyunu](games/imposter-oyunu/readme.md) | [abdullayevilkin/game_imposter](https://github.com/abdullayevilkin/game_imposter) | 2026-10-26 10:16:12 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [incarnationhero](games/incarnationhero/readme.md) | [dobrogo-andrian/incarnation_hero](https://github.com/dobrogo-andrian/incarnation_hero) | 2026-10-26 14:06:14 UTC | Claude Opus 5.5 | 7.3/10 |
+| 2026-10-27 | [Inkling](games/inkling/readme.md) | [sakshammalge/MyScribbleClone](https://github.com/sakshammalge/MyScribbleClone) | 2026-10-26 20:01:47 UTC | Claude Sonnet 5.5 | 7.5/10 |
 | 2026-10-27 | [Inkwell](games/inkwell/readme.md) | [oilytortoise/inkwell](https://github.com/oilytortoise/inkwell) | 2026-10-26 07:13:00 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [Iron Requiem](games/iron-requiem/readme.md) | [HxCSYxC/iron-requiem](https://github.com/HxCSYxC/iron-requiem) | 2026-10-26 13:50:54 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Iron Tide: Naval Command 1939–45](games/iron-tide-naval-command-1939-45/readme.md) | [jessehaemmerle/tac-game](https://github.com/jessehaemmerle/tac-game) | 2026-10-26 07:01:25 UTC | Claude Opus 5.5 | 8.1/10 |
@@ -139,9 +167,12 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [Jessy's Arcade (33rd birthday edition)](games/jessy-s-arcade-33rd-birthday-edition/readme.md) | [timmetje241/retro-arcade](https://github.com/timmetje241/retro-arcade) | 2026-10-26 19:19:30 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [K3 Games](games/k3-games/readme.md) | [Sounger/kids-games](https://github.com/Sounger/kids-games) | 2026-10-26 01:56:32 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [KABOOM](games/kaboom/readme.md) | [jjas00n/KABOOM](https://github.com/jjas00n/KABOOM) | 2026-10-26 05:32:32 UTC | Claude Opus 5.5 | 7.6/10 |
+| 2026-10-27 | [Karagöz](games/karagoz/readme.md) | [Furkiozknn/karagoz](https://github.com/Furkiozknn/karagoz) | 2026-10-27 00:35:19 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Kart Racer](games/kart-racer-vm-720-kart-racer/readme.md) | [vm-720/kart-racer](https://github.com/vm-720/kart-racer) | 2026-10-26 22:58:48 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-27 | [Kervan (Furkiozknn)](games/kervan-furkiozknn/readme.md) | [Furkiozknn/kervan](https://github.com/Furkiozknn/kervan) | 2026-10-26 14:53:08 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Keypracticer Game](games/keypracticer-game/readme.md) | [bulleric/keypracticer-game](https://github.com/bulleric/keypracticer-game) | 2026-10-26 11:27:40 UTC | Claude Opus 5.5 | 7.1/10 |
 | 2026-10-27 | [KeyQuest](games/keyquest/readme.md) | [Bolteus/keyquest](https://github.com/Bolteus/keyquest) | 2026-10-26 22:19:57 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-10-27 | [Kimi K3.1 Pro vs GPT-6 Astra](games/kimi-k3-1-pro-vs-gpt-6-astra/readme.md) | [KostiKoNeuro/kimi-vs-astra](https://github.com/KostiKoNeuro/kimi-vs-astra) | 2026-10-26 07:59:12 UTC | Claude Opus 5.5 | 8.0/10 |
 | 2026-10-27 | [Kingdom Rising](games/kingdom-rising/readme.md) | [vparzanese88-maker/Kingdom-Rising](https://github.com/vparzanese88-maker/Kingdom-Rising) | 2026-10-26 22:27:25 UTC | Claude Opus 5.5 | 7.7/10 |
 | 2026-10-27 | [Koprulu Survivors](games/koprulu-survivors/readme.md) | [okwan/sc2-survivor](https://github.com/okwan/sc2-survivor) | 2026-10-26 17:57:02 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Labyrinth of Roots](games/labyrinth-of-roots/readme.md) | [coderblack15/labyrinth-of-roots](https://github.com/coderblack15/labyrinth-of-roots) | 2026-10-25 04:36:24 UTC | Claude Opus 5.5 | 7.3/10 |
@@ -154,6 +185,7 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [LHC Mystery Night](games/lhc-mystery-night/readme.md) | [mhmdnab/lhc-mystery-night](https://github.com/mhmdnab/lhc-mystery-night) | 2026-10-26 10:31:23 UTC | Claude Opus 5.5 | 6.7/10 (excluded) |
 | 2026-10-27 | [Life as Duburi](games/life-as-duburi/readme.md) | [jarifalam13/Life_in_Lab](https://github.com/jarifalam13/Life_in_Lab) | 2026-10-26 17:51:36 UTC | Claude Opus 5.5 | 8.0/10 |
 | 2026-10-27 | [Lig 4 ao vivo](games/lig-4-ao-vivo/readme.md) | [lipefurlan/lige4](https://github.com/lipefurlan/lige4) | 2026-10-26 17:31:21 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-27 | [LO’s Burgers](games/lo-s-burgers/readme.md) | [markusswedpal/los-burgers](https://github.com/markusswedpal/los-burgers) | 2026-10-26 11:10:20 UTC | Claude Sonnet 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Lockout](games/lockout/readme.md) | [TysonWoerdehoff/lockout](https://github.com/TysonWoerdehoff/lockout) | 2026-10-26 02:34:26 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Lootdle](games/lootdle/readme.md) | [FrankSauve/lootdle](https://github.com/FrankSauve/lootdle) | 2026-10-26 22:27:12 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.3/10 |
 | 2026-10-27 | [LV: Engine Builder](games/lv-engine-builder/readme.md) | [oddjoey/LV-EngineBuilder](https://github.com/oddjoey/LV-EngineBuilder) | 2026-10-26 20:54:15 UTC | Claude Opus 5.5 | 7.4/10 |
@@ -167,13 +199,16 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [Marriage](games/marriage/readme.md) | [mkokes/marriage](https://github.com/mkokes/marriage) | 2026-10-26 15:14:16 UTC | Claude Opus 5.5 | 7.1/10 |
 | 2026-10-27 | [Math Crosswords](games/math-crosswords/readme.md) | [eredko1/MathPuzzle](https://github.com/eredko1/MathPuzzle) | 2026-10-26 14:00:57 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Mech Wars](games/mech-wars/readme.md) | [DianteClark/Mech-Wars](https://github.com/DianteClark/Mech-Wars) | 2026-10-26 14:56:08 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-10-27 | [Midnight Crumbs](games/midnight-crumbs/readme.md) | [Mdeskn/midnight-crumbs](https://github.com/Mdeskn/midnight-crumbs) | 2026-10-27 00:55:26 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Mimic](games/mimic/readme.md) | [merchantsteam29/mimic](https://github.com/merchantsteam29/mimic) | 2026-10-25 17:36:46 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [Mind Arena 3D](games/mind-arena-3d/readme.md) | [jbtdc24/Minds3d](https://github.com/jbtdc24/Minds3d) | 2026-10-26 10:56:15 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-27 | [Mine Cells](games/mine-cells/readme.md) | [chris-chamberlain/mine-cells](https://github.com/chris-chamberlain/mine-cells) | 2026-10-27 00:18:00 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Minesweeper (hitmaneac)](games/minesweeper-hitmaneac/readme.md) | [hitmaneac/minesweeper](https://github.com/hitmaneac/minesweeper) | 2026-10-26 12:41:17 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [Mirage](games/mirage/readme.md) | [nulljosh/mirage](https://github.com/nulljosh/mirage) | 2026-10-26 10:57:30 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Mochi's Nap Room](games/mochi-s-nap-room/readme.md) | [Antisophy/cat-game](https://github.com/Antisophy/cat-game) | 2026-10-26 21:04:26 UTC | Claude Opus 5.5 | 6.8/10 (excluded) |
 | 2026-10-27 | [Modulo Simulator](games/modulo-simulator/readme.md) | [leiffurthersocial-rgb/modulo-simulator](https://github.com/leiffurthersocial-rgb/modulo-simulator) | 2026-10-26 16:15:01 UTC | Claude Opus 5.5 | 7.9/10 |
 | 2026-10-27 | [Monopoly online](games/monopoly-online/readme.md) | [ekazakov/monopoly-online](https://github.com/ekazakov/monopoly-online) | 2026-10-26 11:39:02 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.5/10 |
+| 2026-10-27 | [Neighborhood Heroes (working title)](games/neighborhood-heroes-working-title/readme.md) | [DempKing/Neighborhood_Heroes](https://github.com/DempKing/Neighborhood_Heroes) | 2026-10-25 19:13:30 UTC | Claude Opus 5.5 | 8.0/10 |
 | 2026-10-27 | [Neon War](games/neon-war/readme.md) | [rNavarrete/neon-war](https://github.com/rNavarrete/neon-war) | 2026-10-26 00:59:17 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Neon-Flight](games/neon-flight/readme.md) | [gabriel-berzescu/Neon-Flight](https://github.com/gabriel-berzescu/Neon-Flight) | 2026-10-26 05:48:34 UTC | Claude Opus 5.5 | 7.7/10 |
 | 2026-10-27 | [nine](games/nine/readme.md) | [JTL928/nine-web](https://github.com/JTL928/nine-web) | 2026-10-26 05:25:53 UTC | Claude Opus 5.5 | 7.5/10 |
@@ -183,14 +218,18 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [not-kahoot](games/not-kahoot/readme.md) | [inbar-collab/not-kahoot](https://github.com/inbar-collab/not-kahoot) | 2026-10-26 20:01:49 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Nouvelle Rive](games/nouvelle-rive/readme.md) | [becorni-dev/inspirationGame](https://github.com/becorni-dev/inspirationGame) | 2026-10-26 09:02:49 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Off the Map](games/off-the-map/readme.md) | [KingstonAD/Off-the-map](https://github.com/KingstonAD/Off-the-map) | 2026-10-26 22:03:42 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-27 | [Opensnake](games/opensnake/readme.md) | [CharlieKulak/opensnake](https://github.com/CharlieKulak/opensnake) | 2026-10-25 20:04:58 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Operacija Dvina](games/operacija-dvina/readme.md) | [mariovilnius/operacija-dvina](https://github.com/mariovilnius/operacija-dvina) | 2026-10-26 16:28:38 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-27 | [Operation Blueprint: AI Edition](games/operation-blueprint-ai-edition/readme.md) | [alokomkar/Blue](https://github.com/alokomkar/Blue) | 2026-10-26 09:06:08 UTC | Claude Sonnet 5.5 | 7.9/10 |
 | 2026-10-27 | [Orbital Dock](games/orbital-dock/readme.md) | [manishtandurkar/orbital-dock](https://github.com/manishtandurkar/orbital-dock) | 2026-10-26 11:24:16 UTC | Claude Opus 5.5 | 8.1/10 |
 | 2026-10-27 | [OSRS Survivors](games/osrs-survivors/readme.md) | [Slymiw/osrs-survivors](https://github.com/Slymiw/osrs-survivors) | 2026-10-26 10:48:36 UTC | Claude Opus 5.5 | 8.6/10 |
+| 2026-10-27 | [Overclocked](games/overclocked/readme.md) | [danjaekim/overclocked](https://github.com/danjaekim/overclocked) | 2026-10-26 23:46:31 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.9/10 |
 | 2026-10-27 | [Overmaster](games/overmaster/readme.md) | [larente/overmaster](https://github.com/larente/overmaster) | 2026-10-26 16:04:36 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [OXen // 2099](games/oxen-2099/readme.md) | [AlStartlight/linden-engine-oxen-spaceship](https://github.com/AlStartlight/linden-engine-oxen-spaceship) | 2026-10-26 12:01:27 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Paws & Pastures](games/paws-pastures/readme.md) | [barnst1865/ThomasGame](https://github.com/barnst1865/ThomasGame) | 2026-10-26 20:24:33 UTC | Claude Opus 5.5 | 7.1/10 |
 | 2026-10-27 | [Penrosum](games/penrosum/readme.md) | [dblevins-3dgfx/penrosum](https://github.com/dblevins-3dgfx/penrosum) | 2026-10-25 14:30:58 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Pentakosmos](games/pentakosmos/readme.md) | [estatisticomoura/pentakosmos](https://github.com/estatisticomoura/pentakosmos) | 2026-10-26 16:42:10 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-27 | [Peri Golf](games/peri-golf/readme.md) | [Furkiozknn/peri-golf](https://github.com/Furkiozknn/peri-golf) | 2026-10-26 14:53:36 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Petal Jar](games/petal-jar/readme.md) | [asees543/petal-jar](https://github.com/asees543/petal-jar) | 2026-10-26 12:09:56 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Petalport](games/petalport/readme.md) | [katya-alferov/petal-port](https://github.com/katya-alferov/petal-port) | 2026-10-25 23:41:16 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.5/10 |
 | 2026-10-27 | [Petek Ustası](games/petek-ustas/readme.md) | [mehmetustattsc/puzzle-game](https://github.com/mehmetustattsc/puzzle-game) | 2026-10-26 09:23:01 UTC | Claude Opus 5.5 | 7.7/10 |
@@ -202,12 +241,15 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [PMC War Room: a game in progress](games/pmc-war-room-a-game-in-progress/readme.md) | [chadbercea/topo-map](https://github.com/chadbercea/topo-map) | 2026-10-25 01:45:23 UTC | Claude Opus 5.5 | 7.7/10 |
 | 2026-10-27 | [Poke Brawl](games/poke-brawl/readme.md) | [preston93lane/Poke-brawl-](https://github.com/preston93lane/Poke-brawl-) | 2026-10-26 07:16:43 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [PokéChill](games/pokechill/readme.md) | [BradSavary/pokechill](https://github.com/BradSavary/pokechill) | 2026-10-25 15:26:50 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-27 | [PokéIdle](games/pokeidle/readme.md) | [GustavoMarques06/PokeIdle---Beyond-the-Journey](https://github.com/GustavoMarques06/PokeIdle---Beyond-the-Journey) | 2026-10-26 18:46:00 UTC | Claude Sonnet 5.5 | 7.4/10 |
 | 2026-10-27 | [Pose Master](games/pose-master/readme.md) | [HKSINGHTHAKUR/Pose-Master](https://github.com/HKSINGHTHAKUR/Pose-Master) | 2026-10-25 18:57:04 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Potato Pirate](games/potato-pirate/readme.md) | [rohandang-alpha/potatopirate](https://github.com/rohandang-alpha/potatopirate) | 2026-10-26 16:15:19 UTC | Claude Opus 5.5 | 7.7/10 |
 | 2026-10-27 | [Potion Shop](games/potion-shop/readme.md) | [lonewolfproduction99-cpu/PotionShop](https://github.com/lonewolfproduction99-cpu/PotionShop) | 2026-10-25 04:53:07 UTC | Claude Opus 5.5 | 8.2/10 |
 | 2026-10-27 | [Powerslide](games/powerslide/readme.md) | [andymantell/powerslide](https://github.com/andymantell/powerslide) | 2026-10-26 19:03:10 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Project Valhalla](games/project-valhalla/readme.md) | [promilo101/project-valhalla](https://github.com/promilo101/project-valhalla) | 2026-10-26 20:56:20 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Puppet Fight CPC](games/puppet-fight-cpc/readme.md) | [vaspervnp/PuppetFightCPC](https://github.com/vaspervnp/PuppetFightCPC) | 2026-10-26 11:59:22 UTC | Claude Opus 5.5 | 7.7/10 |
+| 2026-10-27 | [Purrrfect Crime](games/purrrfect-crime/readme.md) | [DempKing/Purrrfect_Crime](https://github.com/DempKing/Purrrfect_Crime) | 2026-10-25 12:58:23 UTC | Claude Opus 5.5 | 7.1/10 |
+| 2026-10-27 | [Puzzles (benjaminsirb)](games/puzzles-benjaminsirb/readme.md) | [benjaminsirb/puzzles](https://github.com/benjaminsirb/puzzles) | 2026-10-26 17:26:32 UTC | Claude Fable 5.1 | 7.0/10 |
 | 2026-10-27 | [Puzzles (joclegg)](games/puzzles-joclegg/readme.md) | [joclegg/puzzles-web](https://github.com/joclegg/puzzles-web) | 2026-10-26 05:20:13 UTC | Claude Opus 5.5 | 7.7/10 |
 | 2026-10-27 | [Qingzhuo · Guandan](games/qingzhuo-guandan/readme.md) | [ConnorChenyh/guandan](https://github.com/ConnorChenyh/guandan) | 2026-10-26 09:06:25 UTC | Claude Opus 5.5 | 6.8/10 (excluded) |
 | 2026-10-27 | [R6S: TEMU](games/r6s-temu/readme.md) | [Toddoward/lowbudget-r6s](https://github.com/Toddoward/lowbudget-r6s) | 2026-10-26 02:54:50 UTC | Claude Opus 5.5 | 7.9/10 |
@@ -217,6 +259,7 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [Ratland Defense](games/ratland-defense/readme.md) | [MisterRat/Ratland-Defense](https://github.com/MisterRat/Ratland-Defense) | 2026-10-26 20:35:39 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Realms of Tyra](games/realms-of-tyra/readme.md) | [manueljcmatos/wasteland-rogue](https://github.com/manueljcmatos/wasteland-rogue) | 2026-10-25 18:29:13 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Reel Legends](games/reel-legends/readme.md) | [Pandot-Gamedev/reel-legends](https://github.com/Pandot-Gamedev/reel-legends) | 2026-10-26 14:56:05 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-27 | [Řekni to s Kiki („Say It with Kiki“)](games/rekni-to-s-kiki-say-it-with-kiki/readme.md) | [roman-ship-it-all/logoped](https://github.com/roman-ship-it-all/logoped) | 2026-10-26 14:58:44 UTC | Claude Fable 5.1 | 6.7/10 (excluded) |
 | 2026-10-27 | [Retro Games](games/retro-games/readme.md) | [barneyfin/twisted-retro-fit](https://github.com/barneyfin/twisted-retro-fit) | 2026-10-25 22:46:02 UTC | Claude Opus 5.5 | 8.6/10 |
 | 2026-10-27 | [Riftward](games/riftward/readme.md) | [Foxworks-Studios/riftward](https://github.com/Foxworks-Studios/riftward) | 2026-10-26 23:18:28 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Ring Rivals](games/ring-rivals/readme.md) | [Srivijayan/WWE](https://github.com/Srivijayan/WWE) | 2026-10-26 06:56:23 UTC | Claude Opus 5.5 | 7.0/10 |
@@ -226,17 +269,23 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [RoboCrabs Vibe Games](games/robocrabs-vibe-games/readme.md) | [LugorIV/RoboCrabs-Vibe-Games](https://github.com/LugorIV/RoboCrabs-Vibe-Games) | 2026-10-26 14:57:11 UTC | Claude Opus 5.5 | 8.0/10 |
 | 2026-10-27 | [Rooftop Roulette](games/rooftop-roulette/readme.md) | [lennify44/rooftop-roulette](https://github.com/lennify44/rooftop-roulette) | 2026-10-26 12:24:21 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Rouairwen](games/rouairwen/readme.md) | [Thyestee/Rouairwen](https://github.com/Thyestee/Rouairwen) | 2026-10-26 16:58:03 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-27 | [RTS](games/rts/readme.md) | [Smoketsu/RTSGame](https://github.com/Smoketsu/RTSGame) | 2026-10-26 20:12:43 UTC | Claude Fable 5.1 | 7.3/10 |
+| 2026-10-27 | [rust-racer](games/rust-racer/readme.md) | [nicolas-found42/rust-racer](https://github.com/nicolas-found42/rust-racer) | 2026-10-26 19:03:21 UTC | Claude Sonnet 5.5 | 7.3/10 |
 | 2026-10-27 | [Rustbound](games/rustbound/readme.md) | [nickypeakin/ejnickgameoftheyear](https://github.com/nickypeakin/ejnickgameoftheyear) | 2026-10-26 16:40:25 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Salvo Sums](games/salvo-sums/readme.md) | [Geodude117/BattleShips](https://github.com/Geodude117/BattleShips) | 2026-10-26 13:22:23 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [Samurai Ledger](games/samurai-ledger/readme.md) | [Zahra3789/ACCA-Study-Buddy](https://github.com/Zahra3789/ACCA-Study-Buddy) | 2026-10-25 21:43:16 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Say It! Words](games/say-it-words/readme.md) | [sammyshamailov/say-it](https://github.com/sammyshamailov/say-it) | 2026-10-26 19:42:48 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Scope Creep](games/scope-creep/readme.md) | [inetslop/scope-creep](https://github.com/inetslop/scope-creep) | 2026-10-26 13:52:35 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-27 | [Seri Math Hero](games/seri-math-hero/readme.md) | [Zeke91-ai/math-hero](https://github.com/Zeke91-ai/math-hero) | 2026-10-26 10:29:04 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 7.4/10 |
+| 2026-10-27 | [SEVEN DAYS](games/seven-days/readme.md) | [hungryshmorez/Seven-days](https://github.com/hungryshmorez/Seven-days) | 2026-10-25 16:06:39 UTC | Claude Sonnet 5.5 | 7.6/10 |
 | 2026-10-27 | [Shikaku (jbexten89)](games/shikaku-jbexten89/readme.md) | [jbexten89/Shikaku](https://github.com/jbexten89/Shikaku) | 2026-10-26 11:27:46 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [Ship Week](games/ship-week/readme.md) | [neothebyte/ship-week](https://github.com/neothebyte/ship-week) | 2026-10-26 18:48:31 UTC | Claude Opus 5.5 | 7.7/10 |
+| 2026-10-27 | [Shivanag](games/shivanag/readme.md) | [achallakiran/shivanag](https://github.com/achallakiran/shivanag) | 2026-10-25 13:04:28 UTC | Claude Sonnet 5.5 | 8.2/10 |
 | 2026-10-27 | [Shmeeks](games/shmeeks/readme.md) | [2Steazy/Shmeeks](https://github.com/2Steazy/Shmeeks) | 2026-10-26 14:49:47 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Shoot](games/shoot/readme.md) | [davejef/shooter](https://github.com/davejef/shooter) | 2026-10-26 21:07:19 UTC | Claude Opus 5.5 | 6.8/10 (excluded) |
 | 2026-10-27 | [Shoot Lines](games/shoot-lines/readme.md) | [matheuscrafiting-netizen/Shoot-lines](https://github.com/matheuscrafiting-netizen/Shoot-lines) | 2026-10-26 13:54:29 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Shout](games/shout/readme.md) | [jonahallibone/clue-ladder](https://github.com/jonahallibone/clue-ladder) | 2026-10-26 18:45:15 UTC | Claude Opus 5.5 | 7.5/10 |
+| 2026-10-27 | [Simit Fırını](games/simit-f-r-n/readme.md) | [Furkiozknn/simit-firini](https://github.com/Furkiozknn/simit-firini) | 2026-10-27 00:35:08 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [SINGULARIDADE](games/singularidade/readme.md) | [Le-Jr/singularidade](https://github.com/Le-Jr/singularidade) | 2026-10-26 15:32:38 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Skybreak](games/skybreak/readme.md) | [MikeSantonastaso/Skybreak](https://github.com/MikeSantonastaso/Skybreak) | 2026-10-26 20:48:08 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Skywave](games/skywave/readme.md) | [adammathes/skywave](https://github.com/adammathes/skywave) | 2026-10-25 22:46:37 UTC | Claude Opus 5.5, Claude Fable 5.1 | 7.9/10 |
@@ -255,6 +304,7 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [Sunset Courts](games/sunset-courts/readme.md) | [jasonmayg/sunset-courts](https://github.com/jasonmayg/sunset-courts) | 2026-10-26 19:40:24 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [Super Giorgi: Batumi](games/super-giorgi-batumi/readme.md) | [gogodzilla/super-giorgi](https://github.com/gogodzilla/super-giorgi) | 2026-10-26 19:10:50 UTC | Claude Opus 5.5 | 7.3/10 |
 | 2026-10-27 | [Superball 27](games/superball-27/readme.md) | [0rderless/superball27](https://github.com/0rderless/superball27) | 2026-10-26 12:37:40 UTC | Claude Opus 5.5 | 7.7/10 |
+| 2026-10-27 | [SuperSnake](games/supersnake/readme.md) | [EastwoodNo1/SuperSnake](https://github.com/EastwoodNo1/SuperSnake) | 2026-10-26 11:02:22 UTC | Claude Opus 5.5, Claude Sonnet 5.5 | 6.7/10 (excluded) |
 | 2026-10-27 | [SURVIVE THE NIGHT: THE SMILING STRANGER](games/survive-the-night-the-smiling-stranger/readme.md) | [luxeropDev/RobloxVerity](https://github.com/luxeropDev/RobloxVerity) | 2026-10-26 07:34:44 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Sus Shot](games/sus-shot/readme.md) | [WHovo2008/whovo](https://github.com/WHovo2008/whovo) | 2026-10-26 23:20:44 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [Sverigespelet](games/sverigespelet/readme.md) | [hamiltoon/sweden-county-quiz](https://github.com/hamiltoon/sweden-county-quiz) | 2026-10-25 11:35:03 UTC | Claude Opus 5.5, Claude Fable 5.1 | 7.9/10 |
@@ -262,7 +312,9 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [Taco Night](games/taco-night/readme.md) | [cvcool-eng/taco-night](https://github.com/cvcool-eng/taco-night) | 2026-10-26 21:17:52 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [Takeoff: Reign Version](games/takeoff-reign-version/readme.md) | [damienlethiec/takeoff-reign-version](https://github.com/damienlethiec/takeoff-reign-version) | 2026-10-25 22:40:42 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [TGIU 크레인 실습](games/tgiu/readme.md) | [anstjdwns2569-beep/Game](https://github.com/anstjdwns2569-beep/Game) | 2026-10-26 13:52:20 UTC | Claude Opus 5.5 | 7.1/10 |
+| 2026-10-27 | [The Big Giant Robot](games/the-big-giant-robot/readme.md) | [capnseaaa/bigrobot](https://github.com/capnseaaa/bigrobot) | 2026-10-26 11:28:57 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [The Blood of Emberhold](games/the-blood-of-emberhold/readme.md) | [yuvasaivarmaj/emberhold-game](https://github.com/yuvasaivarmaj/emberhold-game) | 2026-10-26 21:39:38 UTC | Claude Opus 5.5 | 7.6/10 |
+| 2026-10-27 | [The Endless Delve](games/the-endless-delve/readme.md) | [Mootmonthly/The-Endless-Delve](https://github.com/Mootmonthly/The-Endless-Delve) | 2026-10-26 05:29:34 UTC | Claude Fable 5.1 | 7.6/10 |
 | 2026-10-27 | [The Frenchfries Game](games/the-frenchfries-game/readme.md) | [t00bstAr/frenchfries](https://github.com/t00bstAr/frenchfries) | 2026-10-26 17:16:28 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [The Last Line](games/the-last-line/readme.md) | [zigagobec/the-last-line](https://github.com/zigagobec/the-last-line) | 2026-10-26 14:25:50 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [The Last Thaw](games/the-last-thaw/readme.md) | [vsaman1/the-last-thaw](https://github.com/vsaman1/the-last-thaw) | 2026-10-26 07:16:28 UTC | Claude Opus 5.5 | 8.1/10 |
@@ -270,11 +322,16 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [The Royal Game of Ur (Nintendo 3DS)](games/the-royal-game-of-ur-nintendo-3ds/readme.md) | [dragontpe/royal-game-of-ur-3ds](https://github.com/dragontpe/royal-game-of-ur-3ds) | 2026-10-26 14:08:51 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [The Sheep Are Angry!](games/the-sheep-are-angry/readme.md) | [neilcooper999-cloud/TheSheepAreAngry](https://github.com/neilcooper999-cloud/TheSheepAreAngry) | 2026-10-26 17:52:38 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [The Two Guards](games/the-two-guards/readme.md) | [sukarnsingh-amici/two-guards](https://github.com/sukarnsingh-amici/two-guards) | 2026-10-26 10:46:37 UTC | Claude Opus 5.5 | 7.3/10 |
+| 2026-10-27 | [The Unopened Letter](games/the-unopened-letter/readme.md) | [Tejas-KCN/Poker-With-Poems](https://github.com/Tejas-KCN/Poker-With-Poems) | 2026-10-26 12:57:15 UTC | Claude Sonnet 5.5 | 7.0/10 |
 | 2026-10-27 | [TheCoffeeSixSense](games/thecoffeesixsense/readme.md) | [phamdinhthanhcntt6/NewGame](https://github.com/phamdinhthanhcntt6/NewGame) | 2026-10-26 15:20:31 UTC | Claude Opus 5.5 | 7.3/10 |
+| 2026-10-27 | [Thornmere](games/thornmere/readme.md) | [shaneweickum-lab/survival-rpg](https://github.com/shaneweickum-lab/survival-rpg) | 2026-10-25 03:16:17 UTC | Claude Opus 5.5 | 7.6/10 |
+| 2026-10-27 | [TinTin](games/tintin/readme.md) | [tonmoydeb404/tintin](https://github.com/tonmoydeb404/tintin) | 2026-10-25 18:53:25 UTC | Claude Sonnet 5.5 | 7.9/10 |
 | 2026-10-27 | [Tiny Acres](games/tiny-acres/readme.md) | [Galileo88/FarmingHorror](https://github.com/Galileo88/FarmingHorror) | 2026-10-26 13:58:14 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [Token Rider](games/token-rider/readme.md) | [Tetriss22/token-rider](https://github.com/Tetriss22/token-rider) | 2026-10-26 18:10:50 UTC | Claude Opus 5.5 | 7.3/10 |
+| 2026-10-27 | [TOKEN TERROR](games/token-terror/readme.md) | [ntreadway/token-terror](https://github.com/ntreadway/token-terror) | 2026-10-26 17:37:57 UTC | Claude Sonnet 5.5 | 6.8/10 (excluded) |
 | 2026-10-27 | [Tokyo Circuit Racer](games/tokyo-circuit-racer/readme.md) | [Godo-Bear/car-game23](https://github.com/Godo-Bear/car-game23) | 2026-10-26 07:36:43 UTC | Claude Opus 5.5 | 7.4/10 |
 | 2026-10-27 | [Top-Down Arena](games/top-down-arena/readme.md) | [AleonSC/Top-down-arena](https://github.com/AleonSC/Top-down-arena) | 2026-10-26 17:53:57 UTC | Claude Opus 5.5 | 7.4/10 |
+| 2026-10-27 | [Track & Barrel VR](games/track-barrel-vr/readme.md) | [henderjj/track-barrel-vr](https://github.com/henderjj/track-barrel-vr) | 2026-10-25 23:01:52 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Trackle](games/trackle/readme.md) | [pranav-bolla/trackle](https://github.com/pranav-bolla/trackle) | 2026-10-26 16:19:34 UTC | Claude Opus 5.5 | 7.7/10 |
 | 2026-10-27 | [TRADECRAFT](games/tradecraft/readme.md) | [mramad3us/tradecraft](https://github.com/mramad3us/tradecraft) | 2026-10-25 19:58:32 UTC | Claude Opus 5.5 | 7.5/10 |
 | 2026-10-27 | [Traitor Topside](games/traitor-topside/readme.md) | [abdulrahmanalharbi777-beep/traitor-topside](https://github.com/abdulrahmanalharbi777-beep/traitor-topside) | 2026-10-26 19:56:23 UTC | Claude Opus 5.5 | 7.4/10 |
@@ -294,6 +351,7 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [Wild-spin](games/wild-spin/readme.md) | [rewildingtherapies/Wild-spin](https://github.com/rewildingtherapies/Wild-spin) | 2026-10-26 18:52:45 UTC | Claude Opus 5.5 | 6.8/10 (excluded) |
 | 2026-10-27 | [Wish You Were Here](games/wish-you-were-here/readme.md) | [khyatinagaria/wish-you-were-here](https://github.com/khyatinagaria/wish-you-were-here) | 2026-10-26 18:31:37 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [Word Rattle](games/word-rattle/readme.md) | [jackstoneley/word-rattle](https://github.com/jackstoneley/word-rattle) | 2026-10-26 23:14:37 UTC | Claude Opus 5.5 | 7.7/10 |
+| 2026-10-27 | [Word Scramble](games/word-scramble/readme.md) | [GenAK79/WordScramble](https://github.com/GenAK79/WordScramble) | 2026-10-26 21:04:44 UTC | Claude Sonnet 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [Word Zap](games/word-zap/readme.md) | [teddybearhero/Word-Zap](https://github.com/teddybearhero/Word-Zap) | 2026-10-26 15:12:57 UTC | Claude Opus 5.5 | 6.8/10 (excluded) |
 | 2026-10-27 | [World Cities](games/world-cities/readme.md) | [felipeharker/Dev_world_cities](https://github.com/felipeharker/Dev_world_cities) | 2026-10-26 19:07:59 UTC | Claude Opus 5.5 | 7.9/10 |
 | 2026-10-27 | [Wyatville RPG](games/wyatville-rpg/readme.md) | [nishanbaljian51/Wyatville-RPG](https://github.com/nishanbaljian51/Wyatville-RPG) | 2026-10-26 19:14:45 UTC | Claude Opus 5.5 | 6.7/10 (excluded) |
@@ -305,11 +363,13 @@ Compare when each source repository was created with when this collection first 
 | 2026-10-27 | [Игры для Telegram](games/telegram/readme.md) | [abaykopenov/tower-defense](https://github.com/abaykopenov/tower-defense) | 2026-10-26 20:19:25 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [أسماء على الدائري](games/game-jrotarek-asmaa-ring-road/readme.md) | [jrotarek/asmaa-ring-road](https://github.com/jrotarek/asmaa-ring-road) | 2026-10-26 09:55:27 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [ބަސް ހޯދާ](games/game-4hus4n-dhivehi-word-finder/readme.md) | [4hus4n/dhivehi-word-finder](https://github.com/4hus4n/dhivehi-word-finder) | 2026-10-26 10:43:46 UTC | Claude Opus 5.5 | 6.8/10 (excluded) |
+| 2026-10-27 | [가제) 텍스트 로그라이트 RPG](games/rpg-wvmlqsxyz-legend/readme.md) | [wvmlqsxyz/Legend](https://github.com/wvmlqsxyz/Legend) | 2026-10-26 03:43:31 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [미니 슈팅](games/game-junhyeong05-game/readme.md) | [junhyeong05/game](https://github.com/junhyeong05/game) | 2026-10-26 13:05:27 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [예수님 스탬프 투어](games/game-youngmi14-christ-game/readme.md) | [youngmi14/christ-game](https://github.com/youngmi14/christ-game) | 2026-10-26 13:44:29 UTC | Claude Opus 5.5 | 6.9/10 (excluded) |
 | 2026-10-27 | [폐병원 : 그녀](games/game-jkspawn-ghostgirlinhospital/readme.md) | [jkspawn/ghostgirlinhospital](https://github.com/jkspawn/ghostgirlinhospital) | 2026-10-26 07:14:30 UTC | Claude Opus 5.5 | 7.2/10 |
 | 2026-10-27 | [ピコーン・クエスト2](games/2/readme.md) | [u1908inter/pikon-quest2](https://github.com/u1908inter/pikon-quest2) | 2026-10-26 15:41:58 UTC | Claude Opus 5.5 | 8.6/10 |
 | 2026-10-27 | [わたあめメーカー](games/game-ksan260307-wataame/readme.md) | [Ksan260307/wataame](https://github.com/Ksan260307/wataame) | 2026-10-26 07:22:17 UTC | Claude Opus 5.5 | 7.2/10 |
+| 2026-10-27 | [三國殺重製版](games/game-jkemusic-threekingdoms/readme.md) | [jkemusic/Threekingdoms](https://github.com/jkemusic/Threekingdoms) | 2026-10-26 07:52:37 UTC | Claude Sonnet 5.5 | 7.6/10 |
 | 2026-10-27 | [坦克大战 · Tank Battle (PXT687)](games/tank-battle-pxt687/readme.md) | [PXT687/tank-battle](https://github.com/PXT687/tank-battle) | 2026-10-26 16:59:33 UTC | Claude Opus 5.5 | 7.0/10 |
 | 2026-10-27 | [李氏力場 · Mr. Li's Force Field](games/mr-li-s-force-field/readme.md) | [michaellee8/typhoon](https://github.com/michaellee8/typhoon) | 2026-10-26 14:54:27 UTC | Claude Opus 5.5 | 7.6/10 |
 | 2026-10-27 | [痛扁小老頭](games/game-a112070044-ton-ben-shou-lao-tall/readme.md) | [a112070044/ton-ben-shou-lao-tall](https://github.com/a112070044/ton-ben-shou-lao-tall) | 2026-10-26 11:15:59 UTC | Claude Opus 5.5 | 7.9/10 |

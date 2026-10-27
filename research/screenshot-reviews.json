@@ -11420,6 +11420,176 @@
       "reason": "Use this frame for the game-level score. Neon cyberpunk circuit board with character portrait and graphs; striking art direction.",
       "reviewed_on": "2026-10-27",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Mdeskn/midnight-crumbs",
+      "url": "https://github.com/Mdeskn/midnight-crumbs/blob/main/screenshots/mouse.png",
+      "game": "Midnight Crumbs",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Phone view of a dollhouse cross-section with role prompt; small and dark.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/AnthonE/Fireplace",
+      "url": "https://github.com/AnthonE/Fireplace/blob/main/docs/f1-fireplace.png",
+      "game": "Fireplace",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Cozy 3D living room with crackling fireplace and TV title; atmospheric.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/DempKing/French_Fried",
+      "url": "https://github.com/DempKing/French_Fried/blob/main/docs/screenshots/mob375x667.png",
+      "game": "French Fried!",
+      "score_10": 4.4,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Card-game UI with achievement popups on cream; cluttered.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jadflat/CHarth",
+      "url": "https://github.com/jadflat/CHarth/blob/main/docs/gameplay.gif",
+      "game": "CHarth",
+      "score_10": 4.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Green-on-black terminal title with pixel CHARTH logo.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/RobertHajbok/escortia",
+      "url": "https://github.com/RobertHajbok/escortia/blob/main/store/feature-graphic-1024x500.png",
+      "game": "Escortia",
+      "score_10": 5.8,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Neon ESCORTIA key art with phone gameplay inset; polished promo.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/alokomkar/Blue",
+      "url": "https://github.com/alokomkar/Blue/blob/main/docs/img/bunker-dark.jpg",
+      "game": "Operation Blueprint: AI Edition",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dim 3D corridor with glowing blueprint table and objective HUD; moody.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Zeke91-ai/math-hero",
+      "url": "https://github.com/Zeke91-ai/math-hero/blob/main/docs/mh2-cuplikan.png",
+      "game": "Seri Math Hero",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Collage of colourful kids math mini-game screens; cheerful but small.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/GustavoMarques06/PokeIdle---Beyond-the-Journey",
+      "url": "https://github.com/GustavoMarques06/PokeIdle---Beyond-the-Journey/blob/main/screenshots/01-intro.png",
+      "game": "PokéIdle",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel-art pokemon-style room with character and side list; charming.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/carterkeel/gate_rush",
+      "url": "https://github.com/carterkeel/gate_rush/blob/main/assets/social-preview.png",
+      "game": "Gate Rush",
+      "score_10": 3.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. App icon and logo text only.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/roman-ship-it-all/logoped",
+      "url": "https://github.com/roman-ship-it-all/logoped/blob/claude/bold-gates-jfzn1q/reference/previews/adult-selection.png",
+      "game": "Řekni to s Kiki („Say It with Kiki“)",
+      "score_10": 4.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Clean picture-word choice grid for kids; simple educational UI.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Furkiozknn/kervan",
+      "url": "https://github.com/Furkiozknn/kervan/blob/main/docs/gameplay.gif",
+      "game": "Kervan",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D low-poly trade map with cities and HUD; detailed strategy view.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Furkiozknn/karagoz",
+      "url": "https://github.com/Furkiozknn/karagoz/blob/main/docs/gameplay.gif",
+      "game": "Karagöz",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Shadow-theatre stage with puppets and lamp controls; distinctive concept.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Furkiozknn/dolmus",
+      "url": "https://github.com/Furkiozknn/dolmus/blob/main/docs/gameplay.gif",
+      "game": "Dolmuş",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Yellow minibus in a 3D city street with minimap and HUD; clear driving scene.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Furkiozknn/simit-firini",
+      "url": "https://github.com/Furkiozknn/simit-firini/blob/main/docs/gameplay.gif",
+      "game": "Simit Fırını",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric 3D old-town bakery street with workers and HUD; busy and colourful.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/KostiKoNeuro/kimi-vs-astra",
+      "url": "https://github.com/KostiKoNeuro/kimi-vs-astra/blob/main/media/kimi-browser-vs-blender.png",
+      "game": "Kimi K3.1 Pro vs GPT-6 Astra",
+      "score_10": 5.6,
+      "image_kind": "other",
+      "reason": "Use this frame for the game-level score. Side-by-side voxel night-city dioramas comparing two models; neon detail.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Furkiozknn/peri-golf",
+      "url": "https://github.com/Furkiozknn/peri-golf/blob/main/docs/gameplay.gif",
+      "game": "Peri Golf",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Sandy low-poly mini-golf hole; sparse and muted.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Furkiozknn/bogaz-vapuru",
+      "url": "https://github.com/Furkiozknn/bogaz-vapuru/blob/main/docs/gameplay.gif",
+      "game": "Boğaz Vapuru",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D ferry on Bosphorus water with docks and HUD; strong setting.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
