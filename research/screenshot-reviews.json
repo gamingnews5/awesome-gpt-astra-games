@@ -10730,6 +10730,236 @@
       "reason": "Use this frame for the game-level score. Colourful life board path with spinner and side panels; busy but clear.",
       "reviewed_on": "2026-10-26",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/vsaman1/the-last-thaw",
+      "url": "https://github.com/vsaman1/the-last-thaw/blob/main/docs/evidence/browser/2026-10-21_ch1_st_2_card.jpg",
+      "game": "The Last Thaw",
+      "score_10": 4.4,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Story-mode chapter text panel on a dark blue page; clean typography but no gameplay view.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/abhieq31/Deskmate",
+      "url": "https://github.com/abhieq31/Deskmate/blob/ccr-f5a82427-603t5q/docs/screenshot.png",
+      "game": "Deskmate",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Red-and-white chessboard with clocks; clear and readable but plain.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/vithushanms/HarvestChain",
+      "url": "https://github.com/vithushanms/HarvestChain/blob/main/docs/screenshots/farm.png",
+      "game": "HarvestChain",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel farm plot under a blue sky with a toolbar; tidy and charming but small.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/tofilagman/bilang",
+      "url": "https://github.com/tofilagman/bilang/blob/main/docs/screenshots/map.png",
+      "game": "Bilang: a math adventure for kids",
+      "score_10": 4.6,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Pastel kids math menu with level tiles; friendly UI, no play scene.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/bajukelabuhebhk/Dunia-Sai",
+      "url": "https://github.com/bajukelabuhebhk/Dunia-Sai/blob/main/img/boss-gerai.jpg",
+      "game": "Dunia Sai",
+      "score_10": 6.2,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Bright night-market illustrated title with menu buttons; colourful and lively.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/phal-nx/couch-colony",
+      "url": "https://github.com/phal-nx/couch-colony/blob/main/docs/images/tv-menu.jpg",
+      "game": "Couch Colony",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel bug colony overlay over a moonlit mountain scene with stat panel; atmospheric and detailed.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/dragontpe/royal-game-of-ur-3ds",
+      "url": "https://github.com/dragontpe/royal-game-of-ur-3ds/blob/master/docs/screenshots/keyart.jpg",
+      "game": "The Royal Game of Ur (Nintendo 3DS)",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Lamp-lit carved Royal Game of Ur board in rich 3D; warm, polished composition.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/1NullVoid1/ember-drift",
+      "url": "https://github.com/1NullVoid1/ember-drift/blob/main/screenshots/director.png",
+      "game": "Ember Drift",
+      "score_10": 5.2,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Planet map selection screen with orbs on dark backdrop; neat UI, no action.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nxtr1609/game-mecha",
+      "url": "https://github.com/nxtr1609/game-mecha/blob/main/docs/tran_dau.jpg",
+      "game": "Game Mecha",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Mecha flying over green terrain with targeting HUD and minimap; readable action.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/comeonfloyd/1930s-racing",
+      "url": "https://github.com/comeonfloyd/1930s-racing/blob/main/docs/screenshots/calendar.png",
+      "game": "1930s Racing Manager",
+      "score_10": 4.4,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dense racing-manager calendar table; readable but text-only UI.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ConnorChenyh/guandan",
+      "url": "https://github.com/ConnorChenyh/guandan/blob/main/docs/screenshots/mobile.jpg",
+      "game": "Qingzhuo · Guandan",
+      "score_10": 4.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Guandan card table on a phone-sized green layout; clear but sparse.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/BradSavary/pokechill",
+      "url": "https://github.com/BradSavary/pokechill/blob/main/docs/images/pokedex.png",
+      "game": "PokéChill",
+      "score_10": 5.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Pokedex-style creature panel with list; tidy but menu-heavy.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/joclegg/puzzles-web",
+      "url": "https://github.com/joclegg/puzzles-web/blob/main/src/views/FiveLettersGameView/__e2e__/__snapshots__/daily-guess-desktop-darwin.png",
+      "game": "Puzzles",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Wordle-style letter grid and keyboard on dark background; clean but minimal.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/SwartzCr/visualnovel",
+      "url": "https://github.com/SwartzCr/visualnovel/blob/main/game/images/bg/ballroom_ark.png",
+      "game": "Do Not Disturb",
+      "score_10": 5.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon disco club backdrop with a lit DON'T PANIC sign; moody visual-novel scene.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mramad3us/tradecraft",
+      "url": "https://github.com/mramad3us/tradecraft/blob/main/samples/000-toolchain/shots/close.jpg",
+      "game": "TRADECRAFT",
+      "score_10": 4.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Close-up 3D suited agent on a plain grey background; early prototype look.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/nulljosh/mirage",
+      "url": "https://github.com/nulljosh/mirage/blob/main/docs/shots/canyon.png",
+      "game": "Mirage",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel desert town with cactus and adobe houses; coherent warm palette.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/bhimio1/hero-of-arcadia",
+      "url": "https://github.com/bhimio1/hero-of-arcadia/blob/main/docs/screenshots/combat-preview.png",
+      "game": "Hero of Arcadia",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel tactics map with river and unit stat panels; clear retro strategy look.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/DomLynch/Frankendom-v3",
+      "url": "https://github.com/DomLynch/Frankendom-v3/blob/main/docs/clips/blend/blend-v1-cut-3.jpg",
+      "game": "Frankendom",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Phone-frame fighter sprite on a hazy grey background; sparse.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Godo-Bear/car-game23",
+      "url": "https://github.com/Godo-Bear/car-game23/blob/claude/upbeat-darwin-7hs593/public/previews/hakone-day.jpg",
+      "game": "Tokyo Circuit Racer",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D race start on a forest road with checkered gantry; decent scene.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/hamiltoon/sweden-county-quiz",
+      "url": "https://github.com/hamiltoon/sweden-county-quiz/blob/main/docs/screenshot.png",
+      "game": "Sverigespelet",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Sweden county map quiz with highlighted regions; clear educational UI.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/damienlethiec/takeoff-reign-version",
+      "url": "https://github.com/damienlethiec/takeoff-reign-version/blob/main/docs/screenshots/phone-03-card.png",
+      "game": "Takeoff: Reign Version",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Swipe-card character prompt on phone layout; readable but plain.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ChibisC/WIP",
+      "url": "https://github.com/ChibisC/WIP/blob/main/docs/multiplayer/teams-lobby-host.png",
+      "game": "Underground Dominion",
+      "score_10": 4.4,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark multiplayer lobby list with small map thumbnails; mostly UI.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mezeezain/desi-dash",
+      "url": "https://github.com/mezeezain/desi-dash/blob/main/docs/level-1-1.jpg",
+      "game": "Desi Dash",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel platformer level among Lahore-style buildings with HUD; bright and readable.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

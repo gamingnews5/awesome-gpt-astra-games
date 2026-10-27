@@ -12,13 +12,13 @@
 
 | Date | Ranked rows | Counted units | Report |
 | --- | ---: | ---: | --- |
-| 2026-10-20 | 0 | 0 | [Open report](daily/2026-10-20.md) |
 | 2026-10-21 | 0 | 0 | [Open report](daily/2026-10-21.md) |
 | 2026-10-22 | 0 | 0 | [Open report](daily/2026-10-22.md) |
 | 2026-10-23 | 0 | 0 | [Open report](daily/2026-10-23.md) |
 | 2026-10-24 | 0 | 0 | [Open report](daily/2026-10-24.md) |
 | 2026-10-25 | 0 | 0 | [Open report](daily/2026-10-25.md) |
 | 2026-10-26 | 0 | 0 | [Open report](daily/2026-10-26.md) |
+| 2026-10-27 | 0 | 0 | [Open report](daily/2026-10-27.md) |
 
 ## Date coverage
 
@@ -26,8 +26,8 @@
 | --- | ---: | ---: | --- |
 | Explicit publication date | 152 | 287 | `published_on` |
 | Publication or qualifying evidence date | 165 | 325 | `published_on`, `recent_game_evidence_on`, or `fresh_activity_date` |
-| Date unknown for ranking | 3096 | 3243 | Exclude from date rankings |
-| Repository creation metadata | 3261 | 3568 | Audit context only; not publication |
+| Date unknown for ranking | 3154 | 3301 | Exclude from date rankings |
+| Repository creation metadata | 3319 | 3626 | Audit context only; not publication |
 
 ## Date policy
 
@@ -39,4 +39,4 @@
 - Show unknown dates instead of guessing.
 - Regenerate all reports after changing `games.json`.
 
-As of: **2026-10-26**
+As of: **2026-10-27**
