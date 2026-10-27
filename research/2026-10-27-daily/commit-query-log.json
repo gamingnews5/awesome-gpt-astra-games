@@ -1,5 +1,17 @@
 [
  {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-26T07:30:00Z..2026-10-26T07:59:59Z",
+  "hits": 383,
+  "fetched": 300,
+  "capped": true
+ },
+ {
+  "query": "\"Opus 5.5\" game committer-date:2026-10-26T07:00:00Z..2026-10-26T07:29:59Z",
+  "hits": 385,
+  "fetched": 300,
+  "capped": true
+ },
+ {
   "query": "\"Opus 5.5\" game committer-date:2026-10-26T09:00:00Z..2026-10-26T09:29:59Z",
   "hits": 396,
   "fetched": 300,

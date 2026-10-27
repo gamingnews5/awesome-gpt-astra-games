@@ -2324,3 +2324,16 @@ Rate this path **8/10** for yield and **7.5/10** for evidence. The backlog-first
 ### Next experiment
 
 Fix the pipe truncation in `gh-read.sh` itself. Then try a tree-based game detector on the 511 weak-signal rejects.
+
+## Daily pass 2026-10-27
+
+Clear the 10 leftover pending candidates, then run 65 commit searches for 2026-10-26 07:00 UTC to 2026-10-27 01:00 UTC (half-hour windows for Opus 5.5, 2–6 hour windows for the other models) and 10 repository-creation phrase searches, all through `gh-read.sh`. Opus 5.5 matched about 16,800 commits, Sonnet 5.5 about 1,900, Fable about 1,400, GPT-6.1 Sol 82, GPT-6 Astra 3 and Gemini 4 Argon 2. 35 windows hit the 300-result cap. Inspect 5,065 repositories; auto-reject 3,725 created before 2026-10-25T01:00Z, 430 with weak game signal, 24 without a tracked-model trailer, and carry 12 unreachable ones in `pending-candidates.txt`. Review 886 by hand in six batches (r01–r06), each validated, regenerated, committed and pushed to all three remotes. This run added 366 records and rated 86 screenshots by viewing contact sheets.
+
+### Critique
+
+Rate this path **8/10** for yield and **8/10** for evidence. All six batches finished well inside the time limit. The first two Opus windows were missing from `commit-query-log.json` and were back-filled from `search.out`. `inspect.json` (20 MB) is kept out of commits.
+
+### Next experiment
+
+Use 15-minute Opus 5.5 windows so fewer windows cap at 300, and retry the 12 unreachable repositories.
+
