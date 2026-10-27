@@ -10960,6 +10960,146 @@
       "reason": "Use this frame for the game-level score. Pixel platformer level among Lahore-style buildings with HUD; bright and readable.",
       "reviewed_on": "2026-10-27",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/cmaranes/coreink-tamagotchi",
+      "url": "https://github.com/cmaranes/coreink-tamagotchi/blob/main/docs/screenshots/home.png",
+      "game": "CoreInk Tamagotchi",
+      "score_10": 5.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 1-bit e-ink pet with icons bar; charming monochrome look.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/mehmetustattsc/puzzle-game",
+      "url": "https://github.com/mehmetustattsc/puzzle-game/blob/main/marketing/gameplay.gif",
+      "game": "Petek Ustası",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Phone puzzle board with pixel mosaic and tile tray; colourful and tidy.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ghostinmachinefr/small-games",
+      "url": "https://github.com/ghostinmachinefr/small-games/blob/main/site/images/snake.png",
+      "game": "Small Games",
+      "score_10": 4.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Simple snake on dark grid with score; minimal.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jarifalam13/Life_in_Lab",
+      "url": "https://github.com/jarifalam13/Life_in_Lab/blob/main/screenshots/promo.jpg",
+      "game": "Life as Duburi",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D underwater pool with robotic AUV and title overlay; clean and atmospheric.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/shinningman94/giangmaluc",
+      "url": "https://github.com/shinningman94/giangmaluc/blob/main/android/app/src/main/assets/img/amida.png",
+      "game": "Giáng Ma Sư: Hàng Ma Ký",
+      "score_10": 3.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Sprite sheet strip of fantasy warriors; art assets, not a game screen.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jessehaemmerle/tac-game",
+      "url": "https://github.com/jessehaemmerle/tac-game/blob/main/docs/images/tactical_plot.jpg",
+      "game": "Iron Tide: Naval Command 1939–45",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Naval tactics map with radar and ship panels; dense, readable command UI.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Mhielikiks/leos-firewall",
+      "url": "https://github.com/Mhielikiks/leos-firewall/blob/main/docs/screenshots/solo.png",
+      "game": "Leo's Firewall",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel character on a red checkered floor with HUD; simple but clear.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Lazaniaaa/emberdeep-mezo",
+      "url": "https://github.com/Lazaniaaa/emberdeep-mezo/blob/main/docs/screenshots/mezo-descent.png",
+      "game": "Emberdeep on Mezo",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Teal dungeon grid with pixel fox and side panels; cohesive roguelike look.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ppn-systems/nosum",
+      "url": "https://github.com/ppn-systems/nosum/blob/master/docs/qa/art-upgrade-ingame-coop-exterior-1280x720.png",
+      "game": "Nosum",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down pixel village with houses, path and inventory bar; detailed and cohesive.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/vaspervnp/PuppetFightCPC",
+      "url": "https://github.com/vaspervnp/PuppetFightCPC/blob/main/docs/preview_versus.gif",
+      "game": "Puppet Fight CPC",
+      "score_10": 4.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Two pixel fighters on teal backdrop; flat and sparse.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/HxCSYxC/iron-requiem",
+      "url": "https://github.com/HxCSYxC/iron-requiem/blob/main/docs/screenshot-en.jpg",
+      "game": "Iron Requiem",
+      "score_10": 5.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Dark strategy map with node paths and roster tables; dense UI.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ArtemChikolaev/Glimmerfall",
+      "url": "https://github.com/ArtemChikolaev/Glimmerfall/blob/main/docs/spikes/img/g2-6-gray.png",
+      "game": "Glimmerfall",
+      "score_10": 4.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Debug-like particle splatter panels; hard to read.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Geodude117/BattleShips",
+      "url": "https://github.com/Geodude117/BattleShips/blob/main/docs/screenshots/ipad-13/1-battle.png",
+      "game": "Salvo Sums",
+      "score_10": 4.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Battleship grids on white page; basic but legible.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/onurkepenek/stm32f7disco_gamebox",
+      "url": "https://github.com/onurkepenek/stm32f7disco_gamebox/blob/main/docs/menu.png",
+      "game": "STM32F7 Discovery GAME BOX",
+      "score_10": 5.8,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Neon GAME BOX selection screen with colourful game tiles; bright and clear.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

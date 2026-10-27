@@ -1386,8 +1386,1358 @@
       "verified_on": "2026-10-27",
       "verification_status": "verified_source",
       "live_demo_url": "https://mezeezain.github.io/desi-dash/"
+    },
+    {
+      "name": "Nook",
+      "github_url": "https://github.com/keremozcan/nook",
+      "repository_id": 1432982367,
+      "repository_created_at": "2026-10-25T08:30:13Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/keremozcan/nook/commit/45095455c8ac8dc514a12a172863903664251d0f",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/keremozcan/nook/blob/main/index.html",
+        "https://github.com/keremozcan/nook/blob/main/ui/shell.js",
+        "https://github.com/keremozcan/nook/blob/main/engines/murdoku.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5",
+        "Claude Sonnet 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://keremozcan.github.io/nook/"
+    },
+    {
+      "name": "İmposter Oyunu",
+      "github_url": "https://github.com/abdullayevilkin/game_imposter",
+      "repository_id": 1434215829,
+      "repository_created_at": "2026-10-26T10:16:12Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/abdullayevilkin/game_imposter/commit/3e43c5e05c7386b6c45a3fddfb37ab45167b8fd6",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/abdullayevilkin/game_imposter/blob/main/index.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://abdullayevilkin.github.io/game_imposter/"
+    },
+    {
+      "name": "CoreInk Tamagotchi",
+      "github_url": "https://github.com/cmaranes/coreink-tamagotchi",
+      "repository_id": 1434589046,
+      "repository_created_at": "2026-10-26T15:43:38Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/cmaranes/coreink-tamagotchi/commit/12db76cfc9f3c4a7807c571052b95a6d6af885e0",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/cmaranes/coreink-tamagotchi/blob/main/src/ui/render.cpp",
+        "https://github.com/cmaranes/coreink-tamagotchi/blob/main/src/main.cpp",
+        "https://github.com/cmaranes/coreink-tamagotchi/blob/main/src/ui/sprites.h"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Petek Ustası",
+      "github_url": "https://github.com/mehmetustattsc/puzzle-game",
+      "repository_id": 1434159576,
+      "repository_created_at": "2026-10-26T09:23:01Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/mehmetustattsc/puzzle-game/commit/ed097fe70ee9db47e7f5dc034a8d498958055674",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/mehmetustattsc/puzzle-game/blob/main/index.html",
+        "https://github.com/mehmetustattsc/puzzle-game/blob/main/tools/emoji/build.py",
+        "https://github.com/mehmetustattsc/puzzle-game/blob/main/tools/emoji/quant.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://mehmetustattsc.github.io/puzzle-game/"
+    },
+    {
+      "name": "Filmion",
+      "github_url": "https://github.com/Icnussa/Filmion",
+      "repository_id": 1434215651,
+      "repository_created_at": "2026-10-26T10:16:03Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Icnussa/Filmion/commit/b6f5949670d20a62e70faf0b77f2bfdff7306889",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/Icnussa/Filmion/blob/main/index.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "أسماء على الدائري",
+      "github_url": "https://github.com/jrotarek/asmaa-ring-road",
+      "repository_id": 1434193827,
+      "repository_created_at": "2026-10-26T09:55:27Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/jrotarek/asmaa-ring-road/commit/931f7d3ebcc6efe847f4111ee90ffdd5e5b5a05a",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/jrotarek/asmaa-ring-road/blob/main/game.js",
+        "https://github.com/jrotarek/asmaa-ring-road/blob/main/index.html",
+        "https://github.com/jrotarek/asmaa-ring-road/blob/main/online/build.py"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Atelier Bestioles: le Rêve de Papeterre",
+      "github_url": "https://github.com/MickaelVanhoutte/pokemol",
+      "repository_id": 1433349453,
+      "repository_created_at": "2026-10-25T15:35:42Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/MickaelVanhoutte/pokemol/commit/7a45c10c4c45d6db6d14779d4508560aec1e0d57",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/MickaelVanhoutte/pokemol/blob/main/src/data/creatures.ts",
+        "https://github.com/MickaelVanhoutte/pokemol/blob/main/src/engine/pk/battle.ts",
+        "https://github.com/MickaelVanhoutte/pokemol/blob/main/src/overworld/controller.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://mickaelvanhoutte.github.io/pokemol/"
+    },
+    {
+      "name": "Slime Push",
+      "github_url": "https://github.com/shrieeiee/Slime-push",
+      "repository_id": 1434193157,
+      "repository_created_at": "2026-10-26T09:54:48Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/shrieeiee/Slime-push/commit/467edd41f6b5d38e83a6a1cb5a57bb8d27b9f6ee",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/shrieeiee/Slime-push/blob/main/third_party/dr_wav.h",
+        "https://github.com/shrieeiee/Slime-push/blob/main/third_party/stb_truetype.h",
+        "https://github.com/shrieeiee/Slime-push/blob/main/third_party/dr_mp3.h"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://not-jam.itch.io/not-jam-music-pack-2"
+    },
+    {
+      "name": "IT WANTS TO GET IN",
+      "github_url": "https://github.com/dandsjh-ux/itwantstogetin",
+      "repository_id": 1434130158,
+      "repository_created_at": "2026-10-26T08:54:56Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/dandsjh-ux/itwantstogetin/commit/a9f505d9955ba5f2ee2d9ea58e656e804c72d520",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/dandsjh-ux/itwantstogetin/blob/claude/elegant-bardeen-iljcwd/public/js/game3d.js",
+        "https://github.com/dandsjh-ux/itwantstogetin/blob/claude/elegant-bardeen-iljcwd/public/js/main.js",
+        "https://github.com/dandsjh-ux/itwantstogetin/blob/claude/elegant-bardeen-iljcwd/public/js/audio.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Small Games",
+      "github_url": "https://github.com/ghostinmachinefr/small-games",
+      "repository_id": 1433042972,
+      "repository_created_at": "2026-10-25T09:48:17Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/ghostinmachinefr/small-games/commit/7081f126c3579d98b0156299b195f943c496f54c",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/ghostinmachinefr/small-games/blob/main/site/games/flappy_bird/index.html",
+        "https://github.com/ghostinmachinefr/small-games/blob/main/site/games/snake/index.html",
+        "https://github.com/ghostinmachinefr/small-games/blob/main/snake/game.py"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://gandalfgames.netlify.app"
+    },
+    {
+      "name": "GameNest · Mini Games",
+      "github_url": "https://github.com/pnwadalkar/games",
+      "repository_id": 1434089813,
+      "repository_created_at": "2026-10-26T08:14:59Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/pnwadalkar/games/commit/c079149cae4556fa5385d1a481d8e46524c1c19a",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/pnwadalkar/games/blob/main/js/registry.js",
+        "https://github.com/pnwadalkar/games/blob/main/js/engine.js",
+        "https://github.com/pnwadalkar/games/blob/main/games/solitaire.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "bernhard.esperester.de",
+      "github_url": "https://github.com/beesperester/bernhard.esperester.de",
+      "repository_id": 1434172175,
+      "repository_created_at": "2026-10-26T09:35:06Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/beesperester/bernhard.esperester.de/commit/ecbe29c7d0d3a003e7fdf50f50901931668e2117",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/beesperester/bernhard.esperester.de/blob/main/src/game/Ambient.ts",
+        "https://github.com/beesperester/bernhard.esperester.de/blob/main/src/game/GardenScene.ts",
+        "https://github.com/beesperester/bernhard.esperester.de/blob/main/src/art/tiles.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Monopoly online",
+      "github_url": "https://github.com/ekazakov/monopoly-online",
+      "repository_id": 1434298520,
+      "repository_created_at": "2026-10-26T11:39:02Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/ekazakov/monopoly-online/commit/b1b7126042b18da2d5f3aac1ee5abc497c42f570",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/ekazakov/monopoly-online/blob/main/artifacts/design-system/project/support.js",
+        "https://github.com/ekazakov/monopoly-online/blob/main/artifacts/design-system/project/Dialogs.dc.html",
+        "https://github.com/ekazakov/monopoly-online/blob/main/artifacts/design-system/project/LobbyStates.dc.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5",
+        "Claude Sonnet 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Deep Dive (jackmilner004-png)",
+      "github_url": "https://github.com/jackmilner004-png/Deep-Dive",
+      "repository_id": 1434295818,
+      "repository_created_at": "2026-10-26T11:36:24Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/jackmilner004-png/Deep-Dive/commit/04cd65ff591f77d29cf79d5f7bc6717bdf6f66ec",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/jackmilner004-png/Deep-Dive/blob/main/prompts-extra.js",
+        "https://github.com/jackmilner004-png/Deep-Dive/blob/main/prompts-more.js",
+        "https://github.com/jackmilner004-png/Deep-Dive/blob/main/facts.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Life as Duburi",
+      "github_url": "https://github.com/jarifalam13/Life_in_Lab",
+      "repository_id": 1434738582,
+      "repository_created_at": "2026-10-26T17:51:36Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/jarifalam13/Life_in_Lab/commit/23a4ce4cf9df0be6ead972cd3bdcb2531e4d36a6",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/jarifalam13/Life_in_Lab/blob/main/docs/index.html",
+        "https://github.com/jarifalam13/Life_in_Lab/blob/main/src/render/scenery.js",
+        "https://github.com/jarifalam13/Life_in_Lab/blob/main/src/ui/audio.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://jarifalamclaude-max.github.io/Life_in_DUBURI/"
+    },
+    {
+      "name": "痛扁小老頭",
+      "github_url": "https://github.com/a112070044/ton-ben-shou-lao-tall",
+      "repository_id": 1434275897,
+      "repository_created_at": "2026-10-26T11:15:59Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/a112070044/ton-ben-shou-lao-tall/commit/1ccb097423cc7e07a5068d1d46bfcefbebfcef7a",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/a112070044/ton-ben-shou-lao-tall/blob/main/index.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://a112070044.github.io/ton-ben-shou-lao-tall/"
+    },
+    {
+      "name": "Keypracticer Game",
+      "github_url": "https://github.com/bulleric/keypracticer-game",
+      "repository_id": 1434287180,
+      "repository_created_at": "2026-10-26T11:27:40Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/bulleric/keypracticer-game/commit/f40936eab4923c94e580aa2214ba46a7c7c6a80d",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/bulleric/keypracticer-game/blob/main/src/practice/PracticeGame.tsx",
+        "https://github.com/bulleric/keypracticer-game/blob/main/src/practice/ReelView.tsx",
+        "https://github.com/bulleric/keypracticer-game/blob/main/src/practice/theory.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Duty Shooter",
+      "github_url": "https://github.com/aleixribera/duty-shooter",
+      "repository_id": 1433668629,
+      "repository_created_at": "2026-10-25T22:13:54Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/aleixribera/duty-shooter/commit/1ad2cef9d3ceb951b087a12a72241689760b4ed6",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/aleixribera/duty-shooter/blob/main/packages/fps-client/src/viewmodel/m4a1.ts",
+        "https://github.com/aleixribera/duty-shooter/blob/main/packages/fps-client/src/viewmodel/meshkit.ts",
+        "https://github.com/aleixribera/duty-shooter/blob/main/packages/fps-client/src/viewmodel/arms.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Maple's Clues",
+      "github_url": "https://github.com/BigYosko/maples-clues",
+      "repository_id": 1434315115,
+      "repository_created_at": "2026-10-26T11:54:50Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/BigYosko/maples-clues/commit/d7d0313a644983b38987d0b6e2540da44868edff",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/BigYosko/maples-clues/blob/main/public/app.js",
+        "https://github.com/BigYosko/maples-clues/blob/main/public/art.js",
+        "https://github.com/BigYosko/maples-clues/blob/main/public/arena.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Snack Match",
+      "github_url": "https://github.com/rmayerson07/snack-match",
+      "repository_id": 1434299866,
+      "repository_created_at": "2026-10-26T11:40:21Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/rmayerson07/snack-match/commit/3afdc64091b275d919ae634dd7abe0311c8c7870",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/rmayerson07/snack-match/blob/main/index.html",
+        "https://github.com/rmayerson07/snack-match/blob/main/sw.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Giáng Ma Sư: Hàng Ma Ký",
+      "github_url": "https://github.com/shinningman94/giangmaluc",
+      "repository_id": 1434177085,
+      "repository_created_at": "2026-10-26T09:39:51Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/shinningman94/giangmaluc/commit/13252ee676af0616268cb36b14fba7aad5e82090",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/shinningman94/giangmaluc/blob/main/android/app/src/main/assets/index.html",
+        "https://github.com/shinningman94/giangmaluc/blob/main/web/index.html",
+        "https://github.com/shinningman94/giangmaluc/blob/main/vua-phap-su.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Vortex Chess",
+      "github_url": "https://github.com/unse1234/vortex-chess",
+      "repository_id": 1434314219,
+      "repository_created_at": "2026-10-26T11:53:57Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/unse1234/vortex-chess/commit/dd075a174e5fb9f78ee248b8ec7a22d0da18c00d",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/unse1234/vortex-chess/blob/main/frontend/src/components/ui/icons.tsx",
+        "https://github.com/unse1234/vortex-chess/blob/main/backend/src/modules/games/services/game-commands.service.ts",
+        "https://github.com/unse1234/vortex-chess/blob/main/backend/src/modules/invitations/invitations.service.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5",
+        "Claude Sonnet 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://vortex-chess-phi.vercel.app"
+    },
+    {
+      "name": "Colchis",
+      "github_url": "https://github.com/DavitChomakhidze/Colchis",
+      "repository_id": 1434326949,
+      "repository_created_at": "2026-10-26T12:06:08Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/DavitChomakhidze/Colchis/commit/281aed97ee6587851b3fc5e2bc0e7710b2a4274f",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/DavitChomakhidze/Colchis/blob/main/designs/screens.html",
+        "https://github.com/DavitChomakhidze/Colchis/blob/main/public/phone.js",
+        "https://github.com/DavitChomakhidze/Colchis/blob/main/server/game.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Classroom Games",
+      "github_url": "https://github.com/encitysoftworks/classroom-games",
+      "repository_id": 1434383144,
+      "repository_created_at": "2026-10-26T12:57:01Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/encitysoftworks/classroom-games/commit/9fdb37c621e31a9390aa7555a757f4fecdea8b93",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/encitysoftworks/classroom-games/blob/main/word-island.html",
+        "https://github.com/encitysoftworks/classroom-games/blob/main/game-kit/starters/word-island.html",
+        "https://github.com/encitysoftworks/classroom-games/blob/main/maze.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://encitysoftworks.github.io/classroom-games/"
+    },
+    {
+      "name": "Superball 27",
+      "github_url": "https://github.com/0rderless/superball27",
+      "repository_id": 1434361013,
+      "repository_created_at": "2026-10-26T12:37:40Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/0rderless/superball27/commit/496d87382edde77d29df0a12019958d6a22ca8b3",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/0rderless/superball27/blob/main/js/match.js",
+        "https://github.com/0rderless/superball27/blob/main/lib/GLTFLoader.js",
+        "https://github.com/0rderless/superball27/blob/main/js/main.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://0rderless.github.io/superball27/"
+    },
+    {
+      "name": "Atlas Quest",
+      "github_url": "https://github.com/joocha/GeorgaphicalGames",
+      "repository_id": 1434292235,
+      "repository_created_at": "2026-10-26T11:32:48Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/joocha/GeorgaphicalGames/commit/dd74b3014e95f2808eea9af8403f40a514f8936d",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/joocha/GeorgaphicalGames/blob/main/web/index.html",
+        "https://github.com/joocha/GeorgaphicalGames/blob/main/index.html",
+        "https://github.com/joocha/GeorgaphicalGames/blob/main/tools/web-template.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Cross-City Transit",
+      "github_url": "https://github.com/Annabxclu/Cross-City-Transit",
+      "repository_id": 1434415535,
+      "repository_created_at": "2026-10-26T13:24:06Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Annabxclu/Cross-City-Transit/commit/e66ea4b1b352749366ba4b5c19564e9b34d7475f",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/Annabxclu/Cross-City-Transit/blob/main/game.js",
+        "https://github.com/Annabxclu/Cross-City-Transit/blob/main/data.js",
+        "https://github.com/Annabxclu/Cross-City-Transit/blob/main/index.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://annabxclu.github.io/Cross-City-Transit/"
+    },
+    {
+      "name": "BlindRunway",
+      "github_url": "https://github.com/Tarunchintakunta/BlindRunway",
+      "repository_id": 1434353228,
+      "repository_created_at": "2026-10-26T12:30:27Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Tarunchintakunta/BlindRunway/commit/32bc347041d96571fc0bd7dff3b029a002724b87",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/Tarunchintakunta/BlindRunway/blob/main/Assets/_Project/Scripts/UI/Screens.cs",
+        "https://github.com/Tarunchintakunta/BlindRunway/blob/main/Assets/_Project/Scripts/World/World.cs",
+        "https://github.com/Tarunchintakunta/BlindRunway/blob/main/Assets/_Project/Scripts/Net/Session.cs"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Wheel Loader",
+      "github_url": "https://github.com/lmis/Wheel-Loader",
+      "repository_id": 1434339073,
+      "repository_created_at": "2026-10-26T12:17:18Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/lmis/Wheel-Loader/commit/716cc74b09779ace323ce556026685aa04a13115",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/lmis/Wheel-Loader/blob/main/render.go",
+        "https://github.com/lmis/Wheel-Loader/blob/main/animals.go",
+        "https://github.com/lmis/Wheel-Loader/blob/main/g3d.go"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Orbital Dock",
+      "github_url": "https://github.com/manishtandurkar/orbital-dock",
+      "repository_id": 1434283886,
+      "repository_created_at": "2026-10-26T11:24:16Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/manishtandurkar/orbital-dock/commit/54bd8fb2e8b56abc59bc39079b539705144af153",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/manishtandurkar/orbital-dock/blob/main/third_party/miniaudio/miniaudio.h",
+        "https://github.com/manishtandurkar/orbital-dock/blob/main/third_party/glad/include/glad/glad.h",
+        "https://github.com/manishtandurkar/orbital-dock/blob/main/third_party/glad/src/glad.c"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "VOLT//SHIFT",
+      "github_url": "https://github.com/NeerajCodz/roadster-game",
+      "repository_id": 1433041509,
+      "repository_created_at": "2026-10-25T09:46:27Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/NeerajCodz/roadster-game/commit/e3952cceb235c3c02102727474690e61a328fe32",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/NeerajCodz/roadster-game/blob/main/src/main.ts",
+        "https://github.com/NeerajCodz/roadster-game/blob/main/src/game/renderer.ts",
+        "https://github.com/NeerajCodz/roadster-game/blob/main/src/game/simulation.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Dhull Garden",
+      "github_url": "https://github.com/JackVoltaire/Dhull-Garden",
+      "repository_id": 1434389239,
+      "repository_created_at": "2026-10-26T13:02:18Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/JackVoltaire/Dhull-Garden/commit/4e3ffddde968be1ebc0223f1dd068e1bc77c786a",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/JackVoltaire/Dhull-Garden/blob/main/systems/saves/saves.gd",
+        "https://github.com/JackVoltaire/Dhull-Garden/blob/main/scenes/player/player.gd",
+        "https://github.com/JackVoltaire/Dhull-Garden/blob/main/scenes/debug/debug_menu.gd"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "OXen // 2099",
+      "github_url": "https://github.com/AlStartlight/linden-engine-oxen-spaceship",
+      "repository_id": 1434322128,
+      "repository_created_at": "2026-10-26T12:01:27Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/AlStartlight/linden-engine-oxen-spaceship/commit/0e37c02511b1a105ab7f833e0a678ad873ddd6b4",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/AlStartlight/linden-engine-oxen-spaceship/blob/main/ui/hud.html",
+        "https://github.com/AlStartlight/linden-engine-oxen-spaceship/blob/main/scripts/NeonFX.ts",
+        "https://github.com/AlStartlight/linden-engine-oxen-spaceship/blob/main/scripts/GalaxySystem.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Bobby vs Bots",
+      "github_url": "https://github.com/Snurras/Bobbys-vs-bots",
+      "repository_id": 1434344517,
+      "repository_created_at": "2026-10-26T12:22:24Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Snurras/Bobbys-vs-bots/commit/20124047149fff394d928159c5237a327ce22961",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/Snurras/Bobbys-vs-bots/blob/main/index.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://snurras.github.io/Bobbys-vs-bots/"
+    },
+    {
+      "name": "Petal Jar",
+      "github_url": "https://github.com/asees543/petal-jar",
+      "repository_id": 1434331055,
+      "repository_created_at": "2026-10-26T12:09:56Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/asees543/petal-jar/commit/14e9ccbe275f4798d3d67415a04b5919e8c629b6",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/asees543/petal-jar/blob/main/index.html",
+        "https://github.com/asees543/petal-jar/blob/main/sw.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://asees543.github.io/petal-jar/"
+    },
+    {
+      "name": "Mind Arena 3D",
+      "github_url": "https://github.com/jbtdc24/Minds3d",
+      "repository_id": 1434256363,
+      "repository_created_at": "2026-10-26T10:56:15Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/jbtdc24/Minds3d/commit/32afffcfff36d3ab9eb99e1c48a174c9113e0c72",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/jbtdc24/Minds3d/blob/main/web/src/main.js",
+        "https://github.com/jbtdc24/Minds3d/blob/main/web/index.html",
+        "https://github.com/jbtdc24/Minds3d/blob/main/web/src/nft.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://minds3d.vercel.app"
+    },
+    {
+      "name": "Rooftop Roulette",
+      "github_url": "https://github.com/lennify44/rooftop-roulette",
+      "repository_id": 1434346697,
+      "repository_created_at": "2026-10-26T12:24:21Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/lennify44/rooftop-roulette/commit/bd3bb50aa43c77753f784afe20e37983a759e92b",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/lennify44/rooftop-roulette/blob/main/index.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://lennify44.github.io/rooftop-roulette/"
+    },
+    {
+      "name": "Iron Tide: Naval Command 1939–45",
+      "github_url": "https://github.com/jessehaemmerle/tac-game",
+      "repository_id": 1434019626,
+      "repository_created_at": "2026-10-26T07:01:25Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/jessehaemmerle/tac-game/commit/b815a065a199996d0415266779a131be8dea84cf",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/jessehaemmerle/tac-game/blob/main/external/imgui/imgui.cpp",
+        "https://github.com/jessehaemmerle/tac-game/blob/main/external/imgui/imgui_demo.cpp",
+        "https://github.com/jessehaemmerle/tac-game/blob/main/external/imgui/imgui_widgets.cpp"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Leo's Firewall",
+      "github_url": "https://github.com/Mhielikiks/leos-firewall",
+      "repository_id": 1434380078,
+      "repository_created_at": "2026-10-26T12:54:15Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Mhielikiks/leos-firewall/commit/0a8199923735deb984f1db73c4799122e9f21552",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/Mhielikiks/leos-firewall/blob/main/database/services.py",
+        "https://github.com/Mhielikiks/leos-firewall/blob/main/game/game_engine.py",
+        "https://github.com/Mhielikiks/leos-firewall/blob/main/ui/match_screen.py"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Emberdeep on Mezo",
+      "github_url": "https://github.com/Lazaniaaa/emberdeep-mezo",
+      "repository_id": 1434354741,
+      "repository_created_at": "2026-10-26T12:31:54Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Lazaniaaa/emberdeep-mezo/commit/64f1b2956c1c0eeb0978600b11b8364f6fbaf5fe",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/Lazaniaaa/emberdeep-mezo/blob/main/scripts/sprite-sheets.mjs",
+        "https://github.com/Lazaniaaa/emberdeep-mezo/blob/main/src/state/store.ts",
+        "https://github.com/Lazaniaaa/emberdeep-mezo/blob/main/src/render/camp-renderer.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5",
+        "Claude Sonnet 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Bandit Spin 64",
+      "github_url": "https://github.com/KobotAI/bandicorp",
+      "repository_id": 1434366874,
+      "repository_created_at": "2026-10-26T12:42:54Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/KobotAI/bandicorp/commit/0e9fb704e687adb3efb52d161c4669a2407eaadb",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/KobotAI/bandicorp/blob/main/index.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://kobotai.github.io/bandicorp/"
+    },
+    {
+      "name": "Maple Hollow",
+      "github_url": "https://github.com/collin12121212/2Dgame",
+      "repository_id": 1433939376,
+      "repository_created_at": "2026-10-26T05:23:36Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/collin12121212/2Dgame/commit/c96979892781d14053646a60e898c74968b089f0",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/collin12121212/2Dgame/blob/claude/amazing-clarke-a0poia/scripts/main.gd",
+        "https://github.com/collin12121212/2Dgame/blob/claude/amazing-clarke-a0poia/tools/gen_world.py",
+        "https://github.com/collin12121212/2Dgame/blob/claude/amazing-clarke-a0poia/scripts/ui/hud.gd"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Minesweeper (hitmaneac)",
+      "github_url": "https://github.com/hitmaneac/minesweeper",
+      "repository_id": 1434365081,
+      "repository_created_at": "2026-10-26T12:41:17Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/hitmaneac/minesweeper/commit/397a0fdbb77b03687687ab453fbeebff6c4a0d4f",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/hitmaneac/minesweeper/blob/main/Sources/MinesweeperCore/Sprites.swift",
+        "https://github.com/hitmaneac/minesweeper/blob/main/Sources/Minesweeper/GameView.swift",
+        "https://github.com/hitmaneac/minesweeper/blob/main/Sources/Minesweeper/AppDelegate.swift"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Garaad",
+      "github_url": "https://github.com/amousamf/garaad",
+      "repository_id": 1433092395,
+      "repository_created_at": "2026-10-25T10:50:07Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/amousamf/garaad/commit/b41b4b2ff066111bf7b95c99f20c15b4873e55f1",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/amousamf/garaad/blob/main/index.html",
+        "https://github.com/amousamf/garaad/blob/main/privacy.html",
+        "https://github.com/amousamf/garaad/blob/main/about.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://amousamf.github.io/Tiri/"
+    },
+    {
+      "name": "Nosum",
+      "github_url": "https://github.com/ppn-systems/nosum",
+      "repository_id": 1432788316,
+      "repository_created_at": "2026-10-25T03:14:11Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/ppn-systems/nosum/commit/091148c4e83146485c72e0492e1c40115deb81f9",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/ppn-systems/nosum/blob/master/server/Nosum.Infrastructure/Persistence/Migrations/20261025200256_CoopUpgrades.Designer.cs",
+        "https://github.com/ppn-systems/nosum/blob/master/server/Nosum.Infrastructure/Persistence/Migrations/NosumDbContextModelSnapshot.cs",
+        "https://github.com/ppn-systems/nosum/blob/master/server/Nosum.Infrastructure/Persistence/Migrations/20261025194252_QuestChainAndRequests.Designer.cs"
+      ],
+      "model_family": [
+        "Claude Opus 5.5",
+        "Claude Sonnet 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://farm.ppnsys.com"
+    },
+    {
+      "name": "The Last Line",
+      "github_url": "https://github.com/zigagobec/the-last-line",
+      "repository_id": 1434493510,
+      "repository_created_at": "2026-10-26T14:25:50Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/zigagobec/the-last-line/commit/4cba65dad251804275f3536542b78d10f148bec1",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/zigagobec/the-last-line/blob/main/src/render/renderer.ts",
+        "https://github.com/zigagobec/the-last-line/blob/main/src/app.ts",
+        "https://github.com/zigagobec/the-last-line/blob/main/src/ui/menu.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://zigagobec.github.io/the-last-line/"
+    },
+    {
+      "name": "Puppet Fight CPC",
+      "github_url": "https://github.com/vaspervnp/PuppetFightCPC",
+      "repository_id": 1434319935,
+      "repository_created_at": "2026-10-26T11:59:22Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/vaspervnp/PuppetFightCPC/commit/deb5df0e5af061ce00eba539d5463f235409c66f",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/vaspervnp/PuppetFightCPC/blob/main/data/sprites/putin.asm",
+        "https://github.com/vaspervnp/PuppetFightCPC/blob/main/data/sprites/trump.asm",
+        "https://github.com/vaspervnp/PuppetFightCPC/blob/main/src/gen/putin_bank0.asm"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "TGIU 크레인 실습",
+      "github_url": "https://github.com/anstjdwns2569-beep/Game",
+      "repository_id": 1434450883,
+      "repository_created_at": "2026-10-26T13:52:20Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/anstjdwns2569-beep/Game/commit/6f28d236587d9430905543aaf605589015bedcde",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/anstjdwns2569-beep/Game/blob/claude/lightweight-mobile-game-0q3fzx/index.html",
+        "https://github.com/anstjdwns2569-beep/Game/blob/claude/lightweight-mobile-game-0q3fzx/stack.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Iron Requiem",
+      "github_url": "https://github.com/HxCSYxC/iron-requiem",
+      "repository_id": 1434448972,
+      "repository_created_at": "2026-10-26T13:50:54Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/HxCSYxC/iron-requiem/commit/62cf5df5d1e799f96fe0372f1e1288a897c918ae",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/HxCSYxC/iron-requiem/blob/main/index.html",
+        "https://github.com/HxCSYxC/iron-requiem/blob/main/tools/make_hans.py"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://hxcsyxc.github.io/iron-requiem/"
+    },
+    {
+      "name": "예수님 스탬프 투어",
+      "github_url": "https://github.com/youngmi14/christ-game",
+      "repository_id": 1434440843,
+      "repository_created_at": "2026-10-26T13:44:29Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/youngmi14/christ-game/commit/69bff0efdeb58f8277c054ef1c2ff64ff9806f0e",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/youngmi14/christ-game/blob/master/games/stable/stable.js",
+        "https://github.com/youngmi14/christ-game/blob/master/games/star/star.js",
+        "https://github.com/youngmi14/christ-game/blob/master/games/net/net.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Glimmerfall",
+      "github_url": "https://github.com/ArtemChikolaev/Glimmerfall",
+      "repository_id": 1434264586,
+      "repository_created_at": "2026-10-26T11:04:25Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/ArtemChikolaev/Glimmerfall/commit/2241ea456f06ac9dfae3370669f402404096bf28",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/ArtemChikolaev/Glimmerfall/blob/main/tools/sprites/blender/models.py",
+        "https://github.com/ArtemChikolaev/Glimmerfall/blob/main/game/src/WorldView.cs",
+        "https://github.com/ArtemChikolaev/Glimmerfall/blob/main/game/src/Ui/Hud.cs"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "미니 슈팅",
+      "github_url": "https://github.com/junhyeong05/game",
+      "repository_id": 1434393000,
+      "repository_created_at": "2026-10-26T13:05:27Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/junhyeong05/game/commit/e9ba87313c0e87b2b084ff0ff9ac98c6674c9c78",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/junhyeong05/game/blob/main/game.js",
+        "https://github.com/junhyeong05/game/blob/main/index.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://junhyeong05.github.io/game/"
+    },
+    {
+      "name": "Hạm Đội Lục Giác",
+      "github_url": "https://github.com/quocdung2107/hex-fleet",
+      "repository_id": 1434420403,
+      "repository_created_at": "2026-10-26T13:28:06Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/quocdung2107/hex-fleet/commit/9c5eedd06c4b33f5ffa4de5b38430504afb72ca7",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/quocdung2107/hex-fleet/blob/main/src/web/main.ts",
+        "https://github.com/quocdung2107/hex-fleet/blob/main/src/web/template.html",
+        "https://github.com/quocdung2107/hex-fleet/blob/main/src/meta/game.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://quocdung2107.github.io/hex-fleet/"
+    },
+    {
+      "name": "Shoot Lines",
+      "github_url": "https://github.com/matheuscrafiting-netizen/Shoot-lines",
+      "repository_id": 1434453596,
+      "repository_created_at": "2026-10-26T13:54:29Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/matheuscrafiting-netizen/Shoot-lines/commit/4ebf67e0a4e493188b2a0306b09427e0bab642a0",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/matheuscrafiting-netizen/Shoot-lines/blob/claude/three-lane-character-game-dexwg8/game.js",
+        "https://github.com/matheuscrafiting-netizen/Shoot-lines/blob/claude/three-lane-character-game-dexwg8/index.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://matheuscrafiting-netizen.github.io/Shoot-lines/"
+    },
+    {
+      "name": "Corporate Warfare",
+      "github_url": "https://github.com/lakesidegamedev/corporate-warfare",
+      "repository_id": 1432786529,
+      "repository_created_at": "2026-10-25T03:10:41Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/lakesidegamedev/corporate-warfare/commit/9a78513da2a8e0a807734951c61d9fae7cf6e188",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/lakesidegamedev/corporate-warfare/blob/main/crates/cw-sim/src/commands.rs",
+        "https://github.com/lakesidegamedev/corporate-warfare/blob/main/crates/cw-ffi/src/lib.rs",
+        "https://github.com/lakesidegamedev/corporate-warfare/blob/main/crates/cw-sim/src/economy/markets.rs"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Flappy Ticket",
+      "github_url": "https://github.com/krishnendu-2003/Floppy-Bird",
+      "repository_id": 1434454494,
+      "repository_created_at": "2026-10-26T13:55:16Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/krishnendu-2003/Floppy-Bird/commit/f333a26a4e313fff5dd6f702aea57ddd51ff5767",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/krishnendu-2003/Floppy-Bird/blob/main/src/game.js",
+        "https://github.com/krishnendu-2003/Floppy-Bird/blob/main/index.html"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://floppy-bird.vercel.app"
+    },
+    {
+      "name": "Salvo Sums",
+      "github_url": "https://github.com/Geodude117/BattleShips",
+      "repository_id": 1434413391,
+      "repository_created_at": "2026-10-26T13:22:23Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Geodude117/BattleShips/commit/8a4e150d9e59bd1e9736a0f8da424699f2863c32",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/Geodude117/BattleShips/blob/main/BattleMaths/Game/GameViewModel.swift",
+        "https://github.com/Geodude117/BattleShips/blob/main/Packages/BattleEngine/Sources/BattleEngine/Questions/QuestionBank.swift",
+        "https://github.com/Geodude117/BattleShips/blob/main/BattleMaths/Views/GameView.swift"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Feel It, Draw It",
+      "github_url": "https://github.com/mickeyordog/FamilyGame",
+      "repository_id": 1433716071,
+      "repository_created_at": "2026-10-25T23:37:59Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/mickeyordog/FamilyGame/commit/f28ac43122931daa426af3f4d46ebde1fd74b88c",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/mickeyordog/FamilyGame/blob/main/js/host.js",
+        "https://github.com/mickeyordog/FamilyGame/blob/main/js/common.js",
+        "https://github.com/mickeyordog/FamilyGame/blob/main/js/party.js"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": "https://mickeyordog.github.io/FamilyGame/"
+    },
+    {
+      "name": "2-D Tank Command",
+      "github_url": "https://github.com/Chris-N2/2DTankFight",
+      "repository_id": 1434477397,
+      "repository_created_at": "2026-10-26T14:13:38Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/Chris-N2/2DTankFight/commit/696655728f27a216f6473682dd02a6cec5b70f92",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/Chris-N2/2DTankFight/blob/main/src/client/src/main.ts",
+        "https://github.com/Chris-N2/2DTankFight/blob/main/src/sim/src/ai/think.ts",
+        "https://github.com/Chris-N2/2DTankFight/blob/main/src/sim/src/world.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Aurovane",
+      "github_url": "https://github.com/posvalukoleksandr34-svg/Casino",
+      "repository_id": 1434225393,
+      "repository_created_at": "2026-10-26T10:25:25Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/posvalukoleksandr34-svg/Casino/commit/ae90a90e517fc6dcafa993a8f62df90b67917e88",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/posvalukoleksandr34-svg/Casino/blob/ccr-c301db4d-y6lhy2/src/server/games/round-service.ts",
+        "https://github.com/posvalukoleksandr34-svg/Casino/blob/ccr-c301db4d-y6lhy2/src/server/users/accounts.ts",
+        "https://github.com/posvalukoleksandr34-svg/Casino/blob/ccr-c301db4d-y6lhy2/src/server/admin/admin-service.ts"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "STM32F7 Discovery GAME BOX",
+      "github_url": "https://github.com/onurkepenek/stm32f7disco_gamebox",
+      "repository_id": 1434494771,
+      "repository_created_at": "2026-10-26T14:26:48Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/onurkepenek/stm32f7disco_gamebox/commit/5ab1a208d50a794c4a7b02ca1c91ff15aa5b7c58",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/onurkepenek/stm32f7disco_gamebox/blob/main/Drivers/CMSIS/Device/ST/STM32F7xx/Include/stm32f746xx.h",
+        "https://github.com/onurkepenek/stm32f7disco_gamebox/blob/main/Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_adc.h",
+        "https://github.com/onurkepenek/stm32f7disco_gamebox/blob/main/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim.c"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
+    },
+    {
+      "name": "Marriage",
+      "github_url": "https://github.com/mkokes/marriage",
+      "repository_id": 1434553713,
+      "repository_created_at": "2026-10-26T15:14:16Z",
+      "counted_game_units": 1,
+      "evidence_url": "https://github.com/mkokes/marriage/commit/00c8bfda4ad9d0c3f9394351febb7dedd4a0010f",
+      "publication_date_status": "repository_created_only",
+      "game_links": [
+        "https://github.com/mkokes/marriage/blob/main/apps/server/src/table.ts",
+        "https://github.com/mkokes/marriage/blob/main/packages/engine/src/game.ts",
+        "https://github.com/mkokes/marriage/blob/main/apps/web/src/Game.tsx"
+      ],
+      "model_family": [
+        "Claude Opus 5.5"
+      ],
+      "method_evidence": "confirmed",
+      "added_to_repo_on": "2026-10-27",
+      "verified_on": "2026-10-27",
+      "verification_status": "verified_source",
+      "live_demo_url": null
     }
   ],
-  "expected_repositories": 63,
-  "expected_game_units": 63
+  "expected_repositories": 125,
+  "expected_game_units": 125
 }
