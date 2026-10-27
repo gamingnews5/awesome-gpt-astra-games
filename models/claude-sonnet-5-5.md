@@ -1,6 +1,6 @@
 # Claude Sonnet 5.5 games
 
-Browse **540 curated game units** from **514 source repositories** attributed to Claude Sonnet 5.5. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **541 curated game units** from **515 source repositories** attributed to Claude Sonnet 5.5. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -22,7 +22,7 @@ Browse **540 curated game units** from **514 source repositories** attributed to
 ## Game library
 
 - 🎮 [Other Browser Games](#other-browser-games) — **19 game units**
-- 💥 [Action and Shooters](#action-and-shooters) — **70 game units**
+- 💥 [Action and Shooters](#action-and-shooters) — **71 game units**
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **27 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **22 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **64 game units**
@@ -105,6 +105,7 @@ Browse **540 curated game units** from **514 source repositories** attributed to
 - [**Arena Offline**](../games/arena-offline/readme.md) — ⭐ **7.3/10** · Claude Sonnet 5.5 · TypeScript, Browser, WebRTC · [≈ creator-reported model evidence](https://github.com/guibessa1109-sys/offline-games-with-AI) · [files](https://github.com/guibessa1109-sys/offline-games-with-AI/blob/main/dist/app.js) · [play](https://offline-games-with-ai.vercel.app)
 - [**Dice Arcade**](../games/dice-arcade/readme.md) — ⭐ **7.3/10** · Claude Sonnet 5.5 · JavaScript, Browser · [✓ direct model evidence](https://github.com/vipinmohan11/offline-games-bundle/commit/26377f8674fe35f4184430bef648f68818d1a5e7) · [files](https://github.com/vipinmohan11/offline-games-bundle/blob/main/index.html)
 - [**Kaboom Arena**](../games/kaboom-arena/readme.md) — ⭐ **7.3/10** · Claude Sonnet 5.5 · JavaScript, Ruby, Browser · [✓ direct model evidence](https://github.com/janroudaut/kaboom-arena/commit/df2e3dcd3435174ac86ac9ce674384c3fb00cf4b) · [files](https://github.com/janroudaut/kaboom-arena/blob/main/public/game/render3d.js) · [play](https://kaboom.philament.club) · 📸 **6.6/10** · [screenshot](https://github.com/janroudaut/kaboom-arena/blob/main/docs/screenshots/gameplay-3d.webp)
+- [**Lootdle**](../games/lootdle/readme.md) — ⭐ **7.3/10** · Claude Opus 5.5, Claude Sonnet 5.5 · TypeScript, PixiJS, Browser · [✓ direct model evidence](https://github.com/FrankSauve/lootdle/commit/48bb21b4521183e60580e3cd11928c7098bd7911) · [files](https://github.com/FrankSauve/lootdle/blob/main/src/render/renderer.ts)
 - [**QUIZ KNIGHTS**](../games/quiz-knights/readme.md) — ⭐ **7.3/10** · Claude Sonnet 5.5 · JavaScript, Svelte, Browser · [✓ direct model evidence](https://github.com/MiyazakiSora1234/quiz-knights/commit/fb9277fdaf80f3524cbe8926c38be8f80409d952) · [files](https://github.com/MiyazakiSora1234/quiz-knights/blob/main/app/src/lib/engine/battle.js) · 📸 **5.8/10** · [screenshot](https://github.com/MiyazakiSora1234/quiz-knights/blob/main/docs/screenshots/04-host-battle.jpg)
 - [**Side Hustle (formerly Duel Arena)**](../games/side-hustle-formerly-duel-arena/readme.md) — ⭐ **7.3/10** · Claude Sonnet 5.5 · JavaScript, Browser · [✓ direct model evidence](https://github.com/CorbinPlayz/Side-hustle/commit/97f6c77090007eb566963299aa9dc124b221f09e) · [files](https://github.com/CorbinPlayz/Side-hustle/blob/main/public/js/render.js)
 - [**Zomb Survive**](../games/zomb-survive/readme.md) — ⭐ **7.3/10** · Claude Sonnet 5.5 · JavaScript, Browser · [✓ direct model evidence](https://github.com/zrsavage/Zomb-survive/commit/a03339e4361deae7bdba294cc9a2f80cb12973d8) · [files](https://github.com/zrsavage/Zomb-survive/blob/claude/inspiring-knuth-o9r7rt/js/sim.js)

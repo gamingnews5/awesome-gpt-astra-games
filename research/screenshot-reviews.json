@@ -11100,6 +11100,116 @@
       "reason": "Use this frame for the game-level score. Neon GAME BOX selection screen with colourful game tiles; bright and clear.",
       "reviewed_on": "2026-10-27",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Le-Jr/singularidade",
+      "url": "https://github.com/Le-Jr/singularidade/blob/main/docs/img/beam.png",
+      "game": "SINGULARIDADE",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel bullet-hell field with glowing laser beam and HUD; dense, energetic.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/phamdinhthanhcntt6/NewGame",
+      "url": "https://github.com/phamdinhthanhcntt6/NewGame/blob/dev/docs/screenshots/m1-idle.png",
+      "game": "TheCoffeeSixSense",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Isometric placeholder blocks on a tiled board with debug text; early prototype.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gitsgulabjamun/fraction-quest",
+      "url": "https://github.com/gitsgulabjamun/fraction-quest/blob/main/docs/map.png",
+      "game": "Fraction Quest",
+      "score_10": 4.8,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Pastel fraction-lesson menu cards; clean educational UI.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/khalid413/Draft",
+      "url": "https://github.com/khalid413/Draft/blob/main/docs/screenshots/card-library.jpg",
+      "game": "Draft Duel",
+      "score_10": 4.0,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Dark card-builder form; plain app UI.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/larente/overmaster",
+      "url": "https://github.com/larente/overmaster/blob/main/art/objects/obj-tower-demon.webp",
+      "game": "Overmaster",
+      "score_10": 5.6,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Isometric pixel dark fortress with glowing rune door; striking but a single asset.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/estatisticomoura/pentakosmos",
+      "url": "https://github.com/estatisticomoura/pentakosmos/blob/main/docs/images/table.png",
+      "game": "Pentakosmos",
+      "score_10": 5.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Coloured element card grid with stats sidebar; dense and readable.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jwelch00/CyberSweeper",
+      "url": "https://github.com/jwelch00/CyberSweeper/blob/main/design/png/gameplay-critical.png",
+      "game": "CyberSweeper",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon cyberpunk minesweeper grid with score; distinct style.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/deenodadon/BTTH2dG",
+      "url": "https://github.com/deenodadon/BTTH2dG/blob/claude/festive-tesla-js0nez/docs/scene_xiaoclan.png",
+      "game": "Battle Through the Heavens 2.5D",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Two martial artists before a Chinese temple gate with health bars; clear fighting scene.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/woydarko/digup-hemi",
+      "url": "https://github.com/woydarko/digup-hemi/blob/main/docs/screenshots/gameplay.png",
+      "game": "Dig Up",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel cave platformer with coins, lava and enemy; readable and lively.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/HKSINGHTHAKUR/Pose-Master",
+      "url": "https://github.com/HKSINGHTHAKUR/Pose-Master/blob/main/src/main/resources/Background_Images/Background1.png",
+      "game": "Pose Master",
+      "score_10": 3.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Empty sky and stone-block backdrop; no characters or action visible.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/LoungeLizrd/Frostvale",
+      "url": "https://github.com/LoungeLizrd/Frostvale/blob/main/media/bakery.png",
+      "game": "Frostvale",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Cozy top-down pixel interior on phone with joystick; small but pleasant.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
