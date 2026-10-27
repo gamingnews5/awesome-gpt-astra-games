@@ -11210,6 +11210,146 @@
       "reason": "Use this frame for the game-level score. Cozy top-down pixel interior on phone with joystick; small but pleasant.",
       "reviewed_on": "2026-10-27",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/MisterRat/Ratland-Defense",
+      "url": "https://github.com/MisterRat/Ratland-Defense/blob/main/screenshots/gameplay.png",
+      "game": "Ratland Defense",
+      "score_10": 5.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down tower-defense path on grass with towers and dense side panels; clear but busy UI.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Toddoward/lowbudget-r6s",
+      "url": "https://github.com/Toddoward/lowbudget-r6s/blob/main/docs/screenshots/hero_day.jpg",
+      "game": "R6S: TEMU",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Low-poly 3D suburban houses in warm light; tactical-shooter level view.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/georrrgess-jpg/Crab-Rush",
+      "url": "https://github.com/georrrgess-jpg/Crab-Rush/blob/claude/great-cray-2m0jl9/docs/screenshots/m3-pier-desktop.png",
+      "game": "Crab Dash",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Bright 3D crab on a wooden pier over turquoise sea with lamps; colourful and polished.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/TheRNGenie/DustAndMandibles",
+      "url": "https://github.com/TheRNGenie/DustAndMandibles/blob/main/docs/screenshots/aim.png",
+      "game": "Dust & Mandibles",
+      "score_10": 6.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Desert first-person turret view with wave HUD and health bars.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/timmetje241/retro-arcade",
+      "url": "https://github.com/timmetje241/retro-arcade/blob/main/img/jessy-1.png",
+      "game": "Jessy's Arcade (33rd birthday edition)",
+      "score_10": 1.0,
+      "image_kind": "other",
+      "reason": "Use this frame for the game-level score. Circular portrait photo of a person, not game media.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/alexmbrown/ghost-game",
+      "url": "https://github.com/alexmbrown/ghost-game/blob/main/public/ui/crest_demons.webp",
+      "game": "Ghost Game",
+      "score_10": 3.2,
+      "image_kind": "other",
+      "reason": "Use this frame for the game-level score. Devil shield logo on magenta; icon only.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jasonmayg/sunset-courts",
+      "url": "https://github.com/jasonmayg/sunset-courts/blob/main/media/preview.gif",
+      "game": "Sunset Courts",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. 3D sunset basketball court among palm trees with players; warm and inviting.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/michaellee8/typhoon",
+      "url": "https://github.com/michaellee8/typhoon/blob/main/docs/gameplay.jpg",
+      "game": "李氏力場 · Mr. Li's Force Field",
+      "score_10": 4.4,
+      "image_kind": "interface",
+      "reason": "Use this frame for the game-level score. Typhoon tracking map with info panels; more dashboard than game scene.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/drschizzo/brickatro",
+      "url": "https://github.com/drschizzo/brickatro/blob/main/docs/screenshots/gameplay.jpg",
+      "game": "Brickatro",
+      "score_10": 6.2,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon brick-breaker field with ball trail and side upgrade panels.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/ff6aimmm/biqsha",
+      "url": "https://github.com/ff6aimmm/biqsha/blob/main/media/dig.jpg",
+      "game": "Biqsha بقشة",
+      "score_10": 4.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Parchment map with a tiny figure and HUD buttons; sparse.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/gogodzilla/super-giorgi",
+      "url": "https://github.com/gogodzilla/super-giorgi/blob/main/docs/street.png",
+      "game": "Super Giorgi: Batumi",
+      "score_10": 6.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Pixel city street with towers and HUD in Mario style; cheerful and detailed.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/thijssmudde/noordheim-oss",
+      "url": "https://github.com/thijssmudde/noordheim-oss/blob/main/art/concepts/noordheim-gameplay.png",
+      "game": "Noordheim",
+      "score_10": 7.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Detailed isometric Nordic village with timber halls and bridge; rich environment.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/khoutinho/hugjump",
+      "url": "https://github.com/khoutinho/hugjump/blob/main/app/images/Default.png",
+      "game": "Hugjump",
+      "score_10": 4.4,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Doodle-style jumping screen loading on graph paper; simple.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/adammathes/skywave",
+      "url": "https://github.com/adammathes/skywave/blob/claude/intelligent-hypatia-vnrj1a/tools/screenshot/golden/coast-night-golden.png",
+      "game": "Skywave",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Night neon street behind a retro car with minimap; moody driving shot.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
     }
   ]
 }

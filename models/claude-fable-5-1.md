@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **325 curated game units** from **257 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **326 curated game units** from **258 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -41,7 +41,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **8 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **13 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **40 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **112 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **113 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **8 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **5 game units**
 
@@ -255,6 +255,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**CHM 1025: Introduction to Chemistry**](../games/chm-1025-introduction-to-chemistry/readme.md) — ⭐ **7.9/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/NeoGio73/CHM1025/commit/1873181771d88f3065aa82328512c0f4b4b2cb08) · [files](https://github.com/NeoGio73/CHM1025/blob/main/lewis-manor/index.html) · [play](https://neogio73.github.io/CHM1025/smaller-than-small/)
 - [**Haunted Village**](../games/haunted-village/readme.md) — ⭐ **7.9/10** · Claude Opus 5.5, Claude Sonnet 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/mikecutillo/haunted-village/commit/110be771e31ae258eeaa0f62e6fc8993700bfaae) · [files](https://github.com/mikecutillo/haunted-village/blob/main/index.html) · 📸 **6.4/10** · [screenshot](https://github.com/mikecutillo/haunted-village/blob/main/img/mansion-hall.webp)
 - [**Market Maker**](../games/market-maker/readme.md) — ⭐ **7.9/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/Kris-SF/market-maker-game/commit/675e2bc93e4260ebaff30bdf09ff30673c8fd00a) · [files](https://github.com/Kris-SF/market-maker-game/blob/main/public/how-to-play.html) · [play](https://market-maker-game-one.vercel.app)
+- [**Skywave**](../games/skywave/readme.md) — ⭐ **7.9/10** · Claude Opus 5.5, Claude Fable 5.1 · Rust · [✓ direct model evidence](https://github.com/adammathes/skywave/commit/1c04284370247a378dc3225eb9b9806e7319ed23) · [files](https://github.com/adammathes/skywave/blob/claude/intelligent-hypatia-vnrj1a/crates/render/src/lib.rs) · 📸 **6.6/10** · [screenshot](https://github.com/adammathes/skywave/blob/claude/intelligent-hypatia-vnrj1a/tools/screenshot/golden/coast-night-golden.png)
 - [**tesla-games**](../games/tesla-games/readme.md) — ⭐ **7.9/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/700799/tesla-games/commit/028aff15e1ecb648d15717111be54bbb58bd7701) · [files](https://github.com/700799/tesla-games/blob/main/physics-park/index.html)
 - [**The Proxima Trail**](../games/the-proxima-trail/readme.md) — ⭐ **7.9/10** · Claude Opus 5.5, Claude Sonnet 5.5, Claude Fable 5.1 · TypeScript, Phaser, Browser · [✓ direct model evidence](https://github.com/zachruss1987-apple/space-oregon-trail/commit/6a57be8a0b4ce54072faabc733539432b61a1757) · [files](https://github.com/zachruss1987-apple/space-oregon-trail/blob/main/src/gfx/sprites/stations.ts) · [play](https://zachruss1987-apple.github.io/space-oregon-trail/) · 📸 **5.0/10** · [screenshot](https://github.com/zachruss1987-apple/space-oregon-trail/blob/main/tests/e2e/__screenshots__/win32/visual.spec.ts/Arrival.png)
 - [**The Whole You**](../games/the-whole-you/readme.md) — ⭐ **7.9/10** · Claude Opus 5.5, Claude Fable 5.1 · TypeScript, Three.js, Browser · [✓ direct model evidence](https://github.com/ZeroOrigine/zo-thewholeyou/commit/4e802f8ec090333153216d81c84aaf1db7340132) · [files](https://github.com/ZeroOrigine/zo-thewholeyou/blob/main/docs/index.html) · [play](https://thewholeyou.zeroorigine.com)

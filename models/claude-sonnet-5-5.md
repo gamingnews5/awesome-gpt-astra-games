@@ -1,6 +1,6 @@
 # Claude Sonnet 5.5 games
 
-Browse **541 curated game units** from **515 source repositories** attributed to Claude Sonnet 5.5. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **542 curated game units** from **516 source repositories** attributed to Claude Sonnet 5.5. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -26,7 +26,7 @@ Browse **541 curated game units** from **515 source repositories** attributed to
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **27 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **22 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **64 game units**
-- 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **65 game units**
+- 🛠️ [Non-Browser Engines](#nonbrowser-engines) — **66 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **11 game units**
 - 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **262 game units**
 
@@ -279,6 +279,7 @@ Browse **541 curated game units** from **515 source repositories** attributed to
 - [**The Forgotten Third**](../games/the-forgotten-third/readme.md) — ⭐ **7.8/10** · Claude Opus 5.5, Claude Sonnet 5.5 · Unreal Engine, C++ · [✓ direct model evidence](https://github.com/Creantics/UnrealGameWIP/commit/de6d80918df3a2d17af4fbf1e501dc19dd53c53c) · [files](https://github.com/Creantics/UnrealGameWIP/blob/main/tools/story_import/story_import.py)
 - [**Triqui**](../games/triqui/readme.md) — ⭐ **7.8/10** · Claude Sonnet 5.5 · Python, Pygame, Desktop game, pytest · [✓ direct model evidence](https://github.com/vescobars/tic-tac-toe/commit/e509d7765cb4cf0fc11d1824ac333e1802ebaa8b) · [files](https://github.com/vescobars/tic-tac-toe/blob/main/README.md)
 - [**Verto**](../games/verto/readme.md) — ⭐ **7.8/10** · Claude Opus 5.5, Claude Sonnet 5.5 · Unity, C# · [✓ direct model evidence](https://github.com/swear01/Verto/commit/1aeb93a83303b470333faab7adc839885430b222) · [files](https://github.com/swear01/Verto/blob/main/Assets/Phase/Runtime/PhaseEditor.cs) · [play](https://swear01.itch.io/phase)
+- [**Desert Spaceport**](../games/desert-spaceport/readme.md) — ⭐ **7.7/10** · Claude Opus 5.5, Claude Sonnet 5.5 · Godot, GDScript · [✓ direct model evidence](https://github.com/wr-max52/dune-game/commit/5ea4fff36c14545bfaeef7b33ddf8915388b0867) · [files](https://github.com/wr-max52/dune-game/blob/main/addons/gut/gut.gd)
 - [**Gudrais suns**](../games/gudrais-suns/readme.md) — ⭐ **7.7/10** · Claude Sonnet 5.5 · Unity, C# · [✓ direct model evidence](https://github.com/Liq0et-ev/2_d_sample_pet_game-2026-10-19_08-53-54/commit/d6b67f25eaf769afa58b31d6442fee2d6f4a7c88) · [files](https://github.com/Liq0et-ev/2_d_sample_pet_game-2026-10-19_08-53-54/blob/main/Assets/Samples/AI Assisted Creator/Prompts.cs)
 - [**LabyTerm**](../games/labyterm/readme.md) — ⭐ **7.7/10** · Claude Sonnet 5.5 · C++ · [✓ direct model evidence](https://github.com/SCharchian/LabyTerm/commit/5beb2eedfd82c028922d766db9d10503f722f994) · [files](https://github.com/SCharchian/LabyTerm/blob/main/third_party/stb/stb_image.h) · 📸 **5.4/10** · [screenshot](https://github.com/SCharchian/LabyTerm/blob/main/docs/images/desktop-robco.jpg)
 - [**Pulse**](../games/pulse/readme.md) — ⭐ **7.7/10** · Claude Sonnet 5.5 · C++ · [✓ direct model evidence](https://github.com/shwan-ps5/pulse/commit/948a7c09fa03259062cada9f0d0b6d7a7678fb5e) · [files](https://github.com/shwan-ps5/pulse/blob/main/render/fontatlas.h) · 📸 **7.0/10** · [screenshot](https://github.com/shwan-ps5/pulse/blob/main/docs/media/pulse-fractal-triangle.jpg)
