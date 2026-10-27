@@ -1935,5 +1935,412 @@
   "images": [],
   "live": [],
   "checked": []
+ },
+ "okwan/sc2-survivor": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "2Steazy/cold-read": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "emirhanemre/catch-the-fly": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "andymantell/powerslide": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Jazzman1976/galaxxis": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "tukehub/kacaku": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "deadronos/asteroid-fleet": {
+  "images": [],
+  "live": [
+   "https://deadronos.github.io/asteroid-fleet/"
+  ],
+  "checked": [
+   "https://deadronos.github.io/asteroid-fleet/"
+  ]
+ },
+ "y70647361-hub/StarResonance-Demo": {
+  "images": [
+   "https://github.com/y70647361-hub/StarResonance-Demo/blob/main/screenshots/menu.png",
+   "https://github.com/y70647361-hub/StarResonance-Demo/blob/main/screenshots/merchant-llm-chat.png",
+   "https://github.com/y70647361-hub/StarResonance-Demo/blob/main/screenshots/echo-llm-chat.png",
+   "https://github.com/y70647361-hub/StarResonance-Demo/blob/main/screenshots/tutorial.png",
+   "https://github.com/y70647361-hub/StarResonance-Demo/blob/main/screenshots/backpack.png",
+   "https://github.com/y70647361-hub/StarResonance-Demo/blob/main/screenshots/quests.png",
+   "https://github.com/y70647361-hub/StarResonance-Demo/blob/main/screenshots/shop.png",
+   "https://github.com/y70647361-hub/StarResonance-Demo/blob/main/screenshots/forest.png",
+   "https://github.com/y70647361-hub/StarResonance-Demo/blob/main/screenshots/shop-zh.png"
+  ],
+  "live": [
+   "https://y70647361-hub.github.io/StarResonance-Demo/"
+  ],
+  "checked": [
+   "https://y70647361-hub.github.io/StarResonance-Demo/"
+  ]
+ },
+ "jay-aye-see-kay/grand-theft-auckland": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Bolteus/keyquest": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "dblevins-3dgfx/penrosum": {
+  "images": [],
+  "live": [
+   "https://dblevins-3dgfx.github.io/penrosum/"
+  ],
+  "checked": [
+   "https://dblevins-3dgfx.github.io/penrosum/"
+  ]
+ },
+ "devowl-xyz/islnd": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://OWNER.github.io/REPO/"
+  ]
+ },
+ "adilisio/House-Edge": {
+  "images": [],
+  "live": [
+   "https://adilisio.github.io/House-Edge/"
+  ],
+  "checked": [
+   "https://adilisio.github.io/House-Edge/"
+  ]
+ },
+ "ajserensits/LeoAndHenry": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "nkthn/building-blocks": {
+  "images": [],
+  "live": [
+   "https://building-blocks-songs.web.app"
+  ],
+  "checked": [
+   "https://building-blocks-songs.web.app"
+  ]
+ },
+ "Antisophy/cat-game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "moritzherb/AppOne": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "cvcool-eng/taco-night": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Dylon99/cosmic-hop": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "WillySchu/game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "lonewolfproduction99-cpu/PotionShop": {
+  "images": [],
+  "live": [
+   "https://lonewolfproduction99-cpu.github.io/PotionShop/"
+  ],
+  "checked": [
+   "https://lonewolfproduction99-cpu.github.io/PotionShop/"
+  ]
+ },
+ "appiemaster/laddle": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "neamulbd95/thePunisherGame": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "vparzanese88-maker/Kingdom-Rising": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Ankit-Silwal/HorrorThing": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Mino-oss-byte/f1-retro": {
+  "images": [],
+  "live": [
+   "https://mino-oss-byte.github.io/f1-retro/"
+  ],
+  "checked": [
+   "https://mino-oss-byte.github.io/f1-retro/"
+  ]
+ },
+ "jonahallibone/clue-ladder": {
+  "images": [],
+  "live": [
+   "https://clue-ladder-nine.vercel.app"
+  ],
+  "checked": [
+   "https://clue-ladder-nine.vercel.app"
+  ]
+ },
+ "DanteArcese/legio": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Kadi-Technology/claude-for-gamers-build-day": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "auraloracultivation-dotcom/Pixel-2D-Tu-Tien": {
+  "images": [],
+  "live": [
+   "https://auraloracultivation-dotcom.github.io/Pixel-2D-Tu-Tien/"
+  ],
+  "checked": [
+   "https://auraloracultivation-dotcom.github.io/Pixel-2D-Tu-Tien/"
+  ]
+ },
+ "camdenshaw97-a11y/Friend-Monopoly": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Ranger-Jones/the-big-jacob": {
+  "images": [],
+  "live": [
+   "https://the-big-jacob.vercel.app"
+  ],
+  "checked": [
+   "https://the-big-jacob.vercel.app"
+  ]
+ },
+ "jackstoneley/word-rattle": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://jackstoneley.github.io/word-rattle/"
+  ]
+ },
+ "josephsammorris-dotcom/cocktail-shack": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "arthurslin/jelly-blocks": {
+  "images": [],
+  "live": [
+   "https://arthurslin.github.io/jelly-blocks/"
+  ],
+  "checked": [
+   "https://arthurslin.github.io/jelly-blocks/"
+  ]
+ },
+ "preston93lane/Poke-brawl-": {
+  "images": [],
+  "live": [
+   "https://preston93lane.github.io/Poke-brawl-/"
+  ],
+  "checked": [
+   "https://preston93lane.github.io/Poke-brawl-/"
+  ]
+ },
+ "Teamonics/darkmaze": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "00-MJ-Built-with-AI/summoner-hellbound": {
+  "images": [],
+  "live": [
+   "https://00-mj-built-with-ai.github.io/summoner-hellbound/tests/"
+  ],
+  "checked": [
+   "https://00-mj-built-with-ai.github.io/summoner-hellbound/tests/"
+  ]
+ },
+ "WHovo2008/whovo": {
+  "images": [
+   "https://github.com/WHovo2008/whovo/blob/main/cover.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "brandrisk4/helix-drop": {
+  "images": [],
+  "live": [
+   "https://brandrisk4.github.io/helix-drop/"
+  ],
+  "checked": [
+   "https://brandrisk4.github.io/helix-drop/"
+  ]
+ },
+ "Thyestee/Rouairwen": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "vm-720/kart-racer": {
+  "images": [],
+  "live": [
+   "https://vm-720.github.io/kart-racer/"
+  ],
+  "checked": [
+   "https://vm-720.github.io/kart-racer/"
+  ]
+ },
+ "alakrim/NewGa": {
+  "images": [
+   "https://github.com/alakrim/NewGa/blob/claude/2.5d-hero-tower-defense-odusfc/docs/screenshots/gameplay.png",
+   "https://github.com/alakrim/NewGa/blob/claude/2.5d-hero-tower-defense-odusfc/docs/screenshots/hero-select.png",
+   "https://github.com/alakrim/NewGa/blob/claude/2.5d-hero-tower-defense-odusfc/docs/screenshots/fortress.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "becorni-dev/inspirationGame": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "yuvasaivarmaj/emberhold-game": {
+  "images": [],
+  "live": [
+   "https://yuvasaivarmaj.github.io/emberhold-game/"
+  ],
+  "checked": [
+   "https://yuvasaivarmaj.github.io/emberhold-game/"
+  ]
+ },
+ "hawnji/cardchamp": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "TysonWoerdehoff/lockout": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "Oitow/pixis": {
+  "images": [
+   "https://github.com/Oitow/pixis/blob/ccr-a561733e-ydt86o/tests/visual/golden/gallery-1.png"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "jadflat/CHix": {
+  "images": [
+   "https://github.com/jadflat/CHix/blob/main/docs/cart.png",
+   "https://github.com/jadflat/CHix/blob/main/docs/gameplay.gif"
+  ],
+  "live": [],
+  "checked": []
+ },
+ "agever46/Mobile-Game": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "aisacredoctagon-creator/Zuma": {
+  "images": [],
+  "live": [
+   "https://aisacredoctagon-creator.github.io/Zuma/"
+  ],
+  "checked": [
+   "https://aisacredoctagon-creator.github.io/Zuma/"
+  ]
+ },
+ "hema-g01/GajusIndiaPuzzle": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "guilherme-reis-ia/kart-mariana-henrique-elena": {
+  "images": [],
+  "live": [
+   "https://guilherme-reis-ia.github.io/kart-mariana-henrique-elena/"
+  ],
+  "checked": [
+   "https://guilherme-reis-ia.github.io/kart-mariana-henrique-elena/"
+  ]
+ },
+ "dsnehadri/gsab-trivia": {
+  "images": [],
+  "live": [
+   "https://dsnehadri.github.io/gsab-trivia/"
+  ],
+  "checked": [
+   "https://dsnehadri.github.io/gsab-trivia/"
+  ]
+ },
+ "rNavarrete/neon-war": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "TymonBitesTheDust/Aussie-Monopoly": {
+  "images": [],
+  "live": [],
+  "checked": [
+   "https://tymonbitesthedust.github.io/aussie-monopoly/"
+  ]
+ },
+ "rgupta42-del/Sound-rocket": {
+  "images": [],
+  "live": [
+   "https://rgupta42-del.github.io/Sound-rocket/"
+  ],
+  "checked": [
+   "https://rgupta42-del.github.io/Sound-rocket/"
+  ]
+ },
+ "dennisklein/transport-survivors": {
+  "images": [],
+  "live": [],
+  "checked": []
+ },
+ "barneyfin/twisted-retro-fit": {
+  "images": [],
+  "live": [
+   "https://barneyfin.github.io/twisted-retro-fit/"
+  ],
+  "checked": [
+   "https://barneyfin.github.io/twisted-retro-fit/",
+   "https://YOUR-NAME.github.io/YOUR-REPO/"
+  ]
  }
 }

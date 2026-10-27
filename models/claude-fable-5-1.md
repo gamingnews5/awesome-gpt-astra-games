@@ -1,6 +1,6 @@
 # Claude Fable 5.1 games
 
-Browse **326 curated game units** from **258 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
+Browse **327 curated game units** from **259 source repositories** attributed to Claude Fable 5.1. Read each evidence grade before relying on the attribution. Include multi-model games here and on every other applicable model page.
 
 [Back to all models](../README.md#browse-by-model) · [Source data](../games.json)
 
@@ -41,7 +41,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - 🧊 [Three.js and WebGL](#threejs-and-webgl) — **8 game units**
 - 🏎️ [Racing and Vehicles](#racing-and-vehicles) — **13 game units**
 - 🧩 [Puzzle, Arcade, and Platformers](#puzzle-arcade-and-platformers) — **40 game units**
-- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **113 game units**
+- 🗺️ [Adventure, RPG, and Exploration](#adventure-rpg-and-exploration) — **114 game units**
 - 🎮 [Other Browser Games](#other-browser-games) — **8 game units**
 - ♟️ [Strategy, Simulation, and Sports](#strategy-simulation-and-sports) — **5 game units**
 
@@ -306,6 +306,7 @@ Inspect these manually rated screenshots. Treat the scores as visual impressions
 - [**綻放 BLOOM：產後 180 天**](../games/bloom-180/readme.md) — ⭐ **7.4/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/iampatella20016080-prog/bloom-game/commit/a0dbcdbaa4e0ed60ca8ed2d2e56b0f96cf648f80) · [files](https://github.com/iampatella20016080-prog/bloom-game/blob/main/game.js) · [play](https://bloom-game-eta.vercel.app)
 - [**Caughtgames**](../games/caughtgames/readme.md) — ⭐ **7.3/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/48dgpkws68-spec/caughtgames/commit/0b1b592c7229a0fdc49f58016d60aeb43728b60e) · [files](https://github.com/48dgpkws68-spec/caughtgames/blob/main/peek.html)
 - [**Don't Get Got — Holiday Edition**](../games/don-t-get-got-holiday-edition/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/nihakue/getgot/commit/c759a544e00a22d46c2707b366039488a3d0120b) · [files](https://github.com/nihakue/getgot/blob/main/app.js) · [play](https://nihakue.github.io/getgot/)
+- [**Friend Monopoly**](../games/friend-monopoly/readme.md) — ⭐ **7.3/10** · Claude Opus 5.5, Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/camdenshaw97-a11y/Friend-Monopoly/commit/b156abfb069c60af951d5d390bf464c7ac49f48d) · [files](https://github.com/camdenshaw97-a11y/Friend-Monopoly/blob/main/tv.html)
 - [**Ghost Buster GO**](../games/ghost-buster-go/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/shamoug/Gbuster/commit/5840e4186162317bb82487269ddf1900d4182e7b) · [files](https://github.com/shamoug/Gbuster/blob/main/play/index.html) · [play](https://shamoug.github.io/Gbuster/) · 📸 **5.8/10** · [screenshot](https://github.com/shamoug/Gbuster/blob/main/shots/ar-example-1-street-blast.png)
 - [**Lander**](../games/lander/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · JavaScript, Browser · [✓ direct model evidence](https://github.com/briandgoldberg/Lander/commit/98fa3bc6753f6167f6a60a162538ad9136612f3d) · [files](https://github.com/briandgoldberg/Lander/blob/main/index.html) · [play](https://lander-topaz.vercel.app)
 - [**NCAA Two-Minute Drill (ncaa2mindrill.com)**](../games/ncaa-two-minute-drill-ncaa2mindrill-com/readme.md) — ⭐ **7.3/10** · Claude Fable 5.1 · Python, Browser · [✓ direct model evidence](https://github.com/RickMcIntyre/ncaa2mindrill/commit/39d29b7e40de2d918acb3caef7f69bcb4f6eb18f) · [files](https://github.com/RickMcIntyre/ncaa2mindrill/blob/main/docs/app.js)

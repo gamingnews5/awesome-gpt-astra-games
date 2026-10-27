@@ -11350,6 +11350,76 @@
       "reason": "Use this frame for the game-level score. Night neon street behind a retro car with minimap; moody driving shot.",
       "reviewed_on": "2026-10-27",
       "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Jazzman1976/galaxxis",
+      "url": "https://github.com/Jazzman1976/galaxxis/blob/develop/docs/archive/dummy-prototype/assets/images/galaxies.jpg",
+      "game": "Galaxxis",
+      "score_10": 3.8,
+      "image_kind": "asset",
+      "reason": "Use this frame for the game-level score. Nebula space photo with no game elements visible.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/y70647361-hub/StarResonance-Demo",
+      "url": "https://github.com/y70647361-hub/StarResonance-Demo/blob/main/screenshots/menu.png",
+      "game": "StarResonance（星鸣律动）",
+      "score_10": 5.6,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Dreamy starfield title screen with glowing rings and New Game prompt.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/WHovo2008/whovo",
+      "url": "https://github.com/WHovo2008/whovo/blob/main/cover.png",
+      "game": "Sus Shot",
+      "score_10": 4.6,
+      "image_kind": "other",
+      "reason": "Use this frame for the game-level score. Marketing card for a party game with a phone mockup; not a raw game screen.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/alakrim/NewGa",
+      "url": "https://github.com/alakrim/NewGa/blob/claude/2.5d-hero-tower-defense-odusfc/docs/screenshots/gameplay.png",
+      "game": "Bannerfall",
+      "score_10": 6.6,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Top-down battle on a dirt path with trees, units and skill bar; lively.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/Oitow/pixis",
+      "url": "https://github.com/Oitow/pixis/blob/ccr-a561733e-ydt86o/tests/visual/golden/gallery-1.png",
+      "game": "Pixis",
+      "score_10": 5.0,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Colourful low-poly insect creatures on a grey test floor; neat models, no scene.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/jadflat/CHix",
+      "url": "https://github.com/jadflat/CHix/blob/main/docs/gameplay.gif",
+      "game": "CHix",
+      "score_10": 5.2,
+      "image_kind": "title_or_menu",
+      "reason": "Use this frame for the game-level score. Bold pixel CHIX territory arcade title with menu options.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
+    },
+    {
+      "repository_url": "https://github.com/rNavarrete/neon-war",
+      "url": "https://github.com/rNavarrete/neon-war/blob/main/docs/board-mockup.jpg",
+      "game": "Neon War",
+      "score_10": 6.8,
+      "image_kind": "gameplay",
+      "reason": "Use this frame for the game-level score. Neon cyberpunk circuit board with character portrait and graphs; striking art direction.",
+      "reviewed_on": "2026-10-27",
+      "rating_method": "manual_visual_review"
     }
   ]
 }
